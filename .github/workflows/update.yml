@@ -1,0 +1,48 @@
+name: Update Awesome Scoop README
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Run daily at midnight
+  workflow_dispatch: # Allow manual trigger
+  push:
+    branches:
+      - master
+    paths:
+      - 'maintenance/**'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          pip install -r maintenance/requirements.txt
+
+      - name: Cache crawler data
+        uses: actions/cache@v4
+        with:
+          path: |
+            maintenance/cache
+            maintenance/cache.pickle
+          key: ${{ runner.os }}-crawler-cache-${{ hashFiles('maintenance/github-crawler.py') }}
+          restore-keys: |
+            ${{ runner.os }}-crawler-cache-
+
+      - name: Run crawler
+        run: |
+          python maintenance/github-crawler.py
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Automated README update [ci skip]"
+          file_pattern: README.md
