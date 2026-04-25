@@ -1,8 +1,8 @@
 # henrygd/beszel-scoops
 
-**Repository:** [https://github.com/henrygd/beszel-scoops](https://github.com/henrygd/beszel-scoops)
-**Score:** 1.0
-**Auto-Update:** 0%
+* **Repository:** [https://github.com/henrygd/beszel-scoops](https://github.com/henrygd/beszel-scoops)
+* **Score:** 1.0
+* **Auto-Update:** 0%
 
 
 

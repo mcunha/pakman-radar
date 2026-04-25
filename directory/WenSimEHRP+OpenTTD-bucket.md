@@ -1,21 +1,21 @@
 # WenSimEHRP/OpenTTD-bucket
 
-**Repository:** [https://github.com/WenSimEHRP/OpenTTD-bucket](https://github.com/WenSimEHRP/OpenTTD-bucket)
-**Score:** 1.0
-**Auto-Update:** 75%
+* **Repository:** [https://github.com/WenSimEHRP/OpenTTD-bucket](https://github.com/WenSimEHRP/OpenTTD-bucket)
+* **Score:** 1.0
+* **Auto-Update:** 75%
 
 
 
 ## 📦 Recipes (12)
-* [gorender.json](https://github.com/WenSimEHRP/OpenTTD-bucket/blob/master/gorender.json)
-* [grf2html.json](https://github.com/WenSimEHRP/OpenTTD-bucket/blob/master/grf2html.json)
-* [grfcodec.json](https://github.com/WenSimEHRP/OpenTTD-bucket/blob/master/grfcodec.json)
-* [grfmaker.json](https://github.com/WenSimEHRP/OpenTTD-bucket/blob/master/grfmaker.json)
-* [linkgrf.json](https://github.com/WenSimEHRP/OpenTTD-bucket/blob/master/linkgrf.json)
-* [nml.json](https://github.com/WenSimEHRP/OpenTTD-bucket/blob/master/nml.json)
-* [openttd-cm.json](https://github.com/WenSimEHRP/OpenTTD-bucket/blob/master/openttd-cm.json)
-* [openttd-jgrpp.json](https://github.com/WenSimEHRP/OpenTTD-bucket/blob/master/openttd-jgrpp.json)
-* [openttd-nightly.json](https://github.com/WenSimEHRP/OpenTTD-bucket/blob/master/openttd-nightly.json)
-* [openttd.json](https://github.com/WenSimEHRP/OpenTTD-bucket/blob/master/openttd.json)
-* [spotvox.json](https://github.com/WenSimEHRP/OpenTTD-bucket/blob/master/spotvox.json)
-* [yagl.json](https://github.com/WenSimEHRP/OpenTTD-bucket/blob/master/yagl.json)
+* [grf2html.json](https://github.com/WenSimEHRP/OpenTTD-bucket/blob/master/bucket/grf2html.json)
+* [nml.json](https://github.com/WenSimEHRP/OpenTTD-bucket/blob/master/bucket/nml.json)
+* [openttd.json](https://github.com/WenSimEHRP/OpenTTD-bucket/blob/master/bucket/openttd.json)
+* [linkgrf.json](https://github.com/WenSimEHRP/OpenTTD-bucket/blob/master/bucket/linkgrf.json)
+* [yagl.json](https://github.com/WenSimEHRP/OpenTTD-bucket/blob/master/bucket/yagl.json)
+* [spotvox.json](https://github.com/WenSimEHRP/OpenTTD-bucket/blob/master/bucket/spotvox.json)
+* [openttd-jgrpp.json](https://github.com/WenSimEHRP/OpenTTD-bucket/blob/master/bucket/openttd-jgrpp.json)
+* [gorender.json](https://github.com/WenSimEHRP/OpenTTD-bucket/blob/master/bucket/gorender.json)
+* [grfmaker.json](https://github.com/WenSimEHRP/OpenTTD-bucket/blob/master/bucket/grfmaker.json)
+* [openttd-nightly.json](https://github.com/WenSimEHRP/OpenTTD-bucket/blob/master/bucket/openttd-nightly.json)
+* [grfcodec.json](https://github.com/WenSimEHRP/OpenTTD-bucket/blob/master/bucket/grfcodec.json)
+* [openttd-cm.json](https://github.com/WenSimEHRP/OpenTTD-bucket/blob/master/bucket/openttd-cm.json)

@@ -1,20 +1,20 @@
 # swxfe/miscbucket
 
-**Repository:** [https://github.com/swxfe/miscbucket](https://github.com/swxfe/miscbucket)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/swxfe/miscbucket](https://github.com/swxfe/miscbucket)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 
 ## 📦 Recipes (11)
-* [atk-hub.json](https://github.com/swxfe/miscbucket/blob/master/atk-hub.json)
-* [equilotlcli.json](https://github.com/swxfe/miscbucket/blob/master/equilotlcli.json)
-* [flclashx-pre.json](https://github.com/swxfe/miscbucket/blob/master/flclashx-pre.json)
-* [flclashx.json](https://github.com/swxfe/miscbucket/blob/master/flclashx.json)
-* [idevice-pair.json](https://github.com/swxfe/miscbucket/blob/master/idevice-pair.json)
-* [iloader.json](https://github.com/swxfe/miscbucket/blob/master/iloader.json)
-* [impactor.json](https://github.com/swxfe/miscbucket/blob/master/impactor.json)
-* [make-scoop-manifest.json](https://github.com/swxfe/miscbucket/blob/master/make-scoop-manifest.json)
-* [nugget.json](https://github.com/swxfe/miscbucket/blob/master/nugget.json)
-* [spotiflac.json](https://github.com/swxfe/miscbucket/blob/master/spotiflac.json)
-* [tg-ws-proxy.json](https://github.com/swxfe/miscbucket/blob/master/tg-ws-proxy.json)
+* [impactor.json](https://github.com/swxfe/miscbucket/blob/master/bucket/impactor.json)
+* [idevice-pair.json](https://github.com/swxfe/miscbucket/blob/master/bucket/idevice-pair.json)
+* [equilotlcli.json](https://github.com/swxfe/miscbucket/blob/master/bucket/equilotlcli.json)
+* [iloader.json](https://github.com/swxfe/miscbucket/blob/master/bucket/iloader.json)
+* [spotiflac.json](https://github.com/swxfe/miscbucket/blob/master/bucket/spotiflac.json)
+* [flclashx.json](https://github.com/swxfe/miscbucket/blob/master/bucket/flclashx.json)
+* [atk-hub.json](https://github.com/swxfe/miscbucket/blob/master/bucket/atk-hub.json)
+* [tg-ws-proxy.json](https://github.com/swxfe/miscbucket/blob/master/bucket/tg-ws-proxy.json)
+* [nugget.json](https://github.com/swxfe/miscbucket/blob/master/bucket/nugget.json)
+* [flclashx-pre.json](https://github.com/swxfe/miscbucket/blob/master/bucket/flclashx-pre.json)
+* [make-scoop-manifest.json](https://github.com/swxfe/miscbucket/blob/master/bucket/make-scoop-manifest.json)

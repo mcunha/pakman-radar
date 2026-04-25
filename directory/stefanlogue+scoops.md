@@ -1,8 +1,8 @@
 # stefanlogue/scoops
 
-**Repository:** [https://github.com/stefanlogue/scoops](https://github.com/stefanlogue/scoops)
-**Score:** 1.0
-**Auto-Update:** 0%
+* **Repository:** [https://github.com/stefanlogue/scoops](https://github.com/stefanlogue/scoops)
+* **Score:** 1.0
+* **Auto-Update:** 0%
 
 
 

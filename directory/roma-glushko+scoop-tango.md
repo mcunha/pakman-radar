@@ -1,8 +1,8 @@
 # roma-glushko/scoop-tango
 
-**Repository:** [https://github.com/roma-glushko/scoop-tango](https://github.com/roma-glushko/scoop-tango)
-**Score:** 1.0
-**Auto-Update:** 0%
+* **Repository:** [https://github.com/roma-glushko/scoop-tango](https://github.com/roma-glushko/scoop-tango)
+* **Score:** 1.0
+* **Auto-Update:** 0%
 
 
 

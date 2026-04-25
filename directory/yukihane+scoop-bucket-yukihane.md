@@ -1,8 +1,8 @@
 # yukihane/scoop-bucket-yukihane
 
-**Repository:** [https://github.com/yukihane/scoop-bucket-yukihane](https://github.com/yukihane/scoop-bucket-yukihane)
-**Score:** 1.0
-**Auto-Update:** 0%
+* **Repository:** [https://github.com/yukihane/scoop-bucket-yukihane](https://github.com/yukihane/scoop-bucket-yukihane)
+* **Score:** 1.0
+* **Auto-Update:** 0%
 
 
 

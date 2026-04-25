@@ -1,8 +1,8 @@
 # auth0/scoop-auth0-cli
 
-**Repository:** [https://github.com/auth0/scoop-auth0-cli](https://github.com/auth0/scoop-auth0-cli)
-**Score:** 1.0
-**Auto-Update:** 0%
+* **Repository:** [https://github.com/auth0/scoop-auth0-cli](https://github.com/auth0/scoop-auth0-cli)
+* **Score:** 1.0
+* **Auto-Update:** 0%
 
 
 

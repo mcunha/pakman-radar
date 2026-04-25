@@ -1,14 +1,14 @@
 # syrinka/scoop
 
-**Repository:** [https://github.com/syrinka/scoop](https://github.com/syrinka/scoop)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/syrinka/scoop](https://github.com/syrinka/scoop)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 
 ## 📦 Recipes (5)
-* [cygwin-alter.json](https://github.com/syrinka/scoop/blob/master/cygwin-alter.json)
-* [minify.json](https://github.com/syrinka/scoop/blob/master/minify.json)
-* [opal.json](https://github.com/syrinka/scoop/blob/master/opal.json)
-* [rimsort.json](https://github.com/syrinka/scoop/blob/master/rimsort.json)
-* [spot.json](https://github.com/syrinka/scoop/blob/master/spot.json)
+* [minify.json](https://github.com/syrinka/scoop/blob/master/bucket/minify.json)
+* [rimsort.json](https://github.com/syrinka/scoop/blob/master/bucket/rimsort.json)
+* [cygwin-alter.json](https://github.com/syrinka/scoop/blob/master/bucket/cygwin-alter.json)
+* [opal.json](https://github.com/syrinka/scoop/blob/master/bucket/opal.json)
+* [spot.json](https://github.com/syrinka/scoop/blob/master/bucket/spot.json)

@@ -1,8 +1,8 @@
 # tetradice/scoop-iyokan-jp
 
-**Repository:** [https://github.com/tetradice/scoop-iyokan-jp](https://github.com/tetradice/scoop-iyokan-jp)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/tetradice/scoop-iyokan-jp](https://github.com/tetradice/scoop-iyokan-jp)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 
