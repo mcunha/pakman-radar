@@ -4,7 +4,7 @@ from maintenance.cache import load_cache, save_cache, upgrade_cache_entry
 def test_load_cache_oserror(mocker):
     mocker.patch("builtins.open", side_effect=OSError("Permission denied"))
     cache = load_cache("/tmp")
-    assert cache == {"CACHE_VERSION": 2}
+    assert cache == {"CACHE_VERSION": 3}
 
 
 def test_save_cache_oserror(mocker):

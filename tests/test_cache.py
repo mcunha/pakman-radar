@@ -6,7 +6,7 @@ from maintenance.cache import load_cache, save_cache, upgrade_cache_entry
 def test_load_cache_empty(tmp_path):
     """Test loading cache when file does not exist."""
     cache = load_cache(str(tmp_path))
-    assert cache == {"CACHE_VERSION": 2}
+    assert cache == {"CACHE_VERSION": 3}
 
 
 def test_save_and_load_cache(tmp_path):
@@ -17,7 +17,7 @@ def test_save_and_load_cache(tmp_path):
     assert os.path.exists(os.path.join(str(tmp_path), "cache.pickle"))
 
     loaded_cache = load_cache(str(tmp_path))
-    expected_data = {"repo1": {"name": "test"}, "CACHE_VERSION": 2}
+    expected_data = {"repo1": {"name": "test"}, "CACHE_VERSION": 3}
     assert loaded_cache == expected_data
 
 

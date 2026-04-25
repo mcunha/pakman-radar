@@ -13,12 +13,12 @@ def load_cache(dir_path):
     except (OSError, EOFError):
         pass
 
-    CURRENT_CACHE_VERSION = 2
+    CURRENT_CACHE_VERSION = 3
     cache_version = cache.get("CACHE_VERSION", 1)
 
     if cache_version < CURRENT_CACHE_VERSION:
         print(f"[*] Upgrading cache from v{cache_version} to v{CURRENT_CACHE_VERSION}...")
-        if cache_version == 1:
+        if cache_version < 3:
             # Upgrade v1 -> v2: Add bucket/ prefix to entries where applicable
             repo_keys = [k for k in cache.keys() if "+" in k]
             for k in repo_keys:
