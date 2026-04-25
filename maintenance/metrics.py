@@ -200,12 +200,12 @@ def calculate_metrics(cache):
     )[:10]
 
     # Calculate Ecosystem Health Metrics
-    total_unique_recipes = len(official_recipes)
     total_checkver_count = 0
     total_entries_count = 0
     stale_bucket_count = 0
     official_recipe_count = 0
     community_recipe_count = 0
+    community_unique_recipes = set()
 
     for repo in actual_repos:
         entries = repo.get("entries", [])
@@ -218,7 +218,7 @@ def calculate_metrics(cache):
                 official_recipe_count += 1
             else:
                 community_recipe_count += 1
-                total_unique_recipes += 1  # Rough estimate of net new unique apps
+                community_unique_recipes.add(e.lower())
 
         # Count stale buckets (no push in > 365 days)
         pushed_at_str = repo.get("pushed_at", "2000-01-01T00:00:00Z")
@@ -227,6 +227,8 @@ def calculate_metrics(cache):
         )
         if (datetime.now(timezone.utc) - pushed_at).days > 365:
             stale_bucket_count += 1
+
+    total_unique_recipes = len(official_recipes) + len(community_unique_recipes)
 
     ecosystem_metrics = {
         "total_unique_recipes": total_unique_recipes,
