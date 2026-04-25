@@ -1,0 +1,40 @@
+# littleli/scoop-garage
+
+**Repository:** [https://github.com/littleli/scoop-garage](https://github.com/littleli/scoop-garage)
+**Score:** 1.0
+**Auto-Update:** 77%
+
+
+
+## 📦 Recipes (31)
+* [oohg.json](https://github.com/littleli/scoop-garage/blob/master/oohg.json)
+* [passman.json](https://github.com/littleli/scoop-garage/blob/master/passman.json)
+* [pingus.json](https://github.com/littleli/scoop-garage/blob/master/pingus.json)
+* [frozen-bubble.json](https://github.com/littleli/scoop-garage/blob/master/frozen-bubble.json)
+* [openhv.json](https://github.com/littleli/scoop-garage/blob/master/openhv.json)
+* [openloco.json](https://github.com/littleli/scoop-garage/blob/master/openloco.json)
+* [devilutionx.json](https://github.com/littleli/scoop-garage/blob/master/devilutionx.json)
+* [enve.json](https://github.com/littleli/scoop-garage/blob/master/enve.json)
+* [opensupaplex.json](https://github.com/littleli/scoop-garage/blob/master/opensupaplex.json)
+* [emulationstation-legacy.json](https://github.com/littleli/scoop-garage/blob/master/emulationstation-legacy.json)
+* [dialog.json](https://github.com/littleli/scoop-garage/blob/master/dialog.json)
+* [pharo-launcher.json](https://github.com/littleli/scoop-garage/blob/master/pharo-launcher.json)
+* [bbin.json](https://github.com/littleli/scoop-garage/blob/master/bbin.json)
+* [valelang.json](https://github.com/littleli/scoop-garage/blob/master/valelang.json)
+* [letodb.json](https://github.com/littleli/scoop-garage/blob/master/letodb.json)
+* [couchdb.json](https://github.com/littleli/scoop-garage/blob/master/couchdb.json)
+* [naev.json](https://github.com/littleli/scoop-garage/blob/master/naev.json)
+* [attractmode.json](https://github.com/littleli/scoop-garage/blob/master/attractmode.json)
+* [medgui-reborn.json](https://github.com/littleli/scoop-garage/blob/master/medgui-reborn.json)
+* [retrofe.json](https://github.com/littleli/scoop-garage/blob/master/retrofe.json)
+* [gbstudio.json](https://github.com/littleli/scoop-garage/blob/master/gbstudio.json)
+* [phoenixemu.json](https://github.com/littleli/scoop-garage/blob/master/phoenixemu.json)
+* [augustus.json](https://github.com/littleli/scoop-garage/blob/master/augustus.json)
+* [quickplay.json](https://github.com/littleli/scoop-garage/blob/master/quickplay.json)
+* [java-loom.json](https://github.com/littleli/scoop-garage/blob/master/java-loom.json)
+* [eql-cli.json](https://github.com/littleli/scoop-garage/blob/master/eql-cli.json)
+* [say-hello.json](https://github.com/littleli/scoop-garage/blob/master/say-hello.json)
+* [duelyst.json](https://github.com/littleli/scoop-garage/blob/master/duelyst.json)
+* [nncp.json](https://github.com/littleli/scoop-garage/blob/master/nncp.json)
+* [http-server.json](https://github.com/littleli/scoop-garage/blob/master/http-server.json)
+* [berusky.json](https://github.com/littleli/scoop-garage/blob/master/berusky.json)

@@ -1,0 +1,41 @@
+# Darkatse/Scoop-Darkatse
+
+**Repository:** [https://github.com/Darkatse/Scoop-Darkatse](https://github.com/Darkatse/Scoop-Darkatse)
+**Score:** 1.0
+**Auto-Update:** 97%
+
+
+
+## 📦 Recipes (32)
+* [Brook.json](https://github.com/Darkatse/Scoop-Darkatse/blob/master/Brook.json)
+* [Movie_Data_Capture_GUI.json](https://github.com/Darkatse/Scoop-Darkatse/blob/master/Movie_Data_Capture_GUI.json)
+* [ZenTimings.json](https://github.com/Darkatse/Scoop-Darkatse/blob/master/ZenTimings.json)
+* [Genshin.Launcher.Plus.json](https://github.com/Darkatse/Scoop-Darkatse/blob/master/Genshin.Launcher.Plus.json)
+* [JHenTai.json](https://github.com/Darkatse/Scoop-Darkatse/blob/master/JHenTai.json)
+* [MaaX.json](https://github.com/Darkatse/Scoop-Darkatse/blob/master/MaaX.json)
+* [HeroicGamesLauncher.json](https://github.com/Darkatse/Scoop-Darkatse/blob/master/HeroicGamesLauncher.json)
+* [DLSS-Swapper.json](https://github.com/Darkatse/Scoop-Darkatse/blob/master/DLSS-Swapper.json)
+* [Watt-Toolkit.json](https://github.com/Darkatse/Scoop-Darkatse/blob/master/Watt-Toolkit.json)
+* [KeqingNiuza.json](https://github.com/Darkatse/Scoop-Darkatse/blob/master/KeqingNiuza.json)
+* [ChatBox.json](https://github.com/Darkatse/Scoop-Darkatse/blob/master/ChatBox.json)
+* [LinpackXtreme.json](https://github.com/Darkatse/Scoop-Darkatse/blob/master/LinpackXtreme.json)
+* [Netch.json](https://github.com/Darkatse/Scoop-Darkatse/blob/master/Netch.json)
+* [vesta.json](https://github.com/Darkatse/Scoop-Darkatse/blob/master/vesta.json)
+* [UsbEAm-Hosts-Editor.json](https://github.com/Darkatse/Scoop-Darkatse/blob/master/UsbEAm-Hosts-Editor.json)
+* [Hiddify.json](https://github.com/Darkatse/Scoop-Darkatse/blob/master/Hiddify.json)
+* [Poe.json](https://github.com/Darkatse/Scoop-Darkatse/blob/master/Poe.json)
+* [ShanaEncoderCN.json](https://github.com/Darkatse/Scoop-Darkatse/blob/master/ShanaEncoderCN.json)
+* [Snap.Genshin.json](https://github.com/Darkatse/Scoop-Darkatse/blob/master/Snap.Genshin.json)
+* [RevokeMsgPatcher.json](https://github.com/Darkatse/Scoop-Darkatse/blob/master/RevokeMsgPatcher.json)
+* [Movie_Data_Capture.json](https://github.com/Darkatse/Scoop-Darkatse/blob/master/Movie_Data_Capture.json)
+* [HammerPDF.json](https://github.com/Darkatse/Scoop-Darkatse/blob/master/HammerPDF.json)
+* [steamcommunity-302.json](https://github.com/Darkatse/Scoop-Darkatse/blob/master/steamcommunity-302.json)
+* [MicrobenchmarksGui.json](https://github.com/Darkatse/Scoop-Darkatse/blob/master/MicrobenchmarksGui.json)
+* [Cinebench2024.json](https://github.com/Darkatse/Scoop-Darkatse/blob/master/Cinebench2024.json)
+* [MaaAssistantArknights.json](https://github.com/Darkatse/Scoop-Darkatse/blob/master/MaaAssistantArknights.json)
+* [Brook-GUI.json](https://github.com/Darkatse/Scoop-Darkatse/blob/master/Brook-GUI.json)
+* [Clash-Verge.json](https://github.com/Darkatse/Scoop-Darkatse/blob/master/Clash-Verge.json)
+* [Charles.json](https://github.com/Darkatse/Scoop-Darkatse/blob/master/Charles.json)
+* [ZXPInstaller.json](https://github.com/Darkatse/Scoop-Darkatse/blob/master/ZXPInstaller.json)
+* [TestMem5.json](https://github.com/Darkatse/Scoop-Darkatse/blob/master/TestMem5.json)
+* [Genshin-Wish-Export.json](https://github.com/Darkatse/Scoop-Darkatse/blob/master/Genshin-Wish-Export.json)
