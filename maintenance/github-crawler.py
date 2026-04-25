@@ -74,7 +74,7 @@ print(i,' repos updated')
 #Sort Repos by github score
 repos = [repo for repo in cache.keys()]
 actual_repos = [ repo for repo in repos if (repo != 'last_run' and len(cache[repo]['entries']) > 0) ]
-sorted(actual_repos, key=lambda repo:cache[repo]['score'])
+actual_repos = sorted(actual_repos, key=lambda repo:cache[repo]['score'], reverse=True)
 print(str(len(actual_repos)) + 'valid repositories found.')
 
 #Update Readme file
