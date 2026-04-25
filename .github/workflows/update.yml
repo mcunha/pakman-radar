@@ -32,7 +32,7 @@ jobs:
           path: |
             maintenance/cache
             maintenance/cache.pickle
-          key: ${{ runner.os }}-crawler-cache-${{ hashFiles('maintenance/github_crawler.py') }}
+          key: ${{ runner.os }}-crawler-cache-${{ github.run_id }}
           restore-keys: |
             ${{ runner.os }}-crawler-cache-
 
