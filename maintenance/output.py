@@ -48,7 +48,10 @@ def generate_growth_charts(timeseries, out_dir):
             chart.add("Added (Net New)", added, color="#2ECC71")
             chart.add("Deleted", deleted, color="#E74C3C")
 
-            chart.render_to_file(os.path.join(out_dir, f"growth_{ecosystem}_{theme_name}.svg"))
+            svg_path = os.path.join(out_dir, f"growth_{ecosystem}_{theme_name}.svg")
+            chart.render_to_file(svg_path)
+            with open(svg_path, "a", encoding="utf-8") as f:
+                f.write("\n")
 
 
 def generate_readme(
