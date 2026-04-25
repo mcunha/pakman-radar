@@ -1,8 +1,8 @@
 # jonisb/Misc-scoops
 
-**Repository:** [https://github.com/jonisb/Misc-scoops](https://github.com/jonisb/Misc-scoops)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/jonisb/Misc-scoops](https://github.com/jonisb/Misc-scoops)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

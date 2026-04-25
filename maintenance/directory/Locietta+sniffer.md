@@ -1,8 +1,8 @@
 # Locietta/sniffer
 
-**Repository:** [https://github.com/Locietta/sniffer](https://github.com/Locietta/sniffer)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/Locietta/sniffer](https://github.com/Locietta/sniffer)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

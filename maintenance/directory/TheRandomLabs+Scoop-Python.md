@@ -1,8 +1,8 @@
 # TheRandomLabs/Scoop-Python
 
-**Repository:** [https://github.com/TheRandomLabs/Scoop-Python](https://github.com/TheRandomLabs/Scoop-Python)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/TheRandomLabs/Scoop-Python](https://github.com/TheRandomLabs/Scoop-Python)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

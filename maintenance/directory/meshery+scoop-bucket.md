@@ -1,8 +1,8 @@
 # meshery/scoop-bucket
 
-**Repository:** [https://github.com/meshery/scoop-bucket](https://github.com/meshery/scoop-bucket)
-**Score:** 1.0
-**Auto-Update:** 0%
+* **Repository:** [https://github.com/meshery/scoop-bucket](https://github.com/meshery/scoop-bucket)
+* **Score:** 1.0
+* **Auto-Update:** 0%
 
 
 

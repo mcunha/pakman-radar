@@ -1,8 +1,8 @@
 # raisercostin/raiser-scoop-bucket
 
-**Repository:** [https://github.com/raisercostin/raiser-scoop-bucket](https://github.com/raisercostin/raiser-scoop-bucket)
-**Score:** 1.0
-**Auto-Update:** 76%
+* **Repository:** [https://github.com/raisercostin/raiser-scoop-bucket](https://github.com/raisercostin/raiser-scoop-bucket)
+* **Score:** 1.0
+* **Auto-Update:** 76%
 
 
 

@@ -1,8 +1,8 @@
 # arch3rPro/PST-Bucket
 
-**Repository:** [https://github.com/arch3rPro/PST-Bucket](https://github.com/arch3rPro/PST-Bucket)
-**Score:** 1.0
-**Auto-Update:** 93%
+* **Repository:** [https://github.com/arch3rPro/PST-Bucket](https://github.com/arch3rPro/PST-Bucket)
+* **Score:** 1.0
+* **Auto-Update:** 93%
 
 
 

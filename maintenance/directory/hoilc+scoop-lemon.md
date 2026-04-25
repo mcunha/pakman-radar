@@ -1,8 +1,8 @@
 # hoilc/scoop-lemon
 
-**Repository:** [https://github.com/hoilc/scoop-lemon](https://github.com/hoilc/scoop-lemon)
-**Score:** 1.0
-**Auto-Update:** 95%
+* **Repository:** [https://github.com/hoilc/scoop-lemon](https://github.com/hoilc/scoop-lemon)
+* **Score:** 1.0
+* **Auto-Update:** 95%
 
 
 

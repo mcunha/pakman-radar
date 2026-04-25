@@ -1,8 +1,8 @@
 # GreatGodApollo/trough
 
-**Repository:** [https://github.com/GreatGodApollo/trough](https://github.com/GreatGodApollo/trough)
-**Score:** 1.0
-**Auto-Update:** 0%
+* **Repository:** [https://github.com/GreatGodApollo/trough](https://github.com/GreatGodApollo/trough)
+* **Score:** 1.0
+* **Auto-Update:** 0%
 
 
 

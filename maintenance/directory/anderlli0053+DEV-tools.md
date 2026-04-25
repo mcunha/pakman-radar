@@ -1,8 +1,8 @@
 # anderlli0053/DEV-tools
 
-**Repository:** [https://github.com/anderlli0053/DEV-tools](https://github.com/anderlli0053/DEV-tools)
-**Score:** 1.0
-**Auto-Update:** 83%
+* **Repository:** [https://github.com/anderlli0053/DEV-tools](https://github.com/anderlli0053/DEV-tools)
+* **Score:** 1.0
+* **Auto-Update:** 83%
 
 
 

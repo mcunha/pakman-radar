@@ -1,8 +1,8 @@
 # wzv5/ScoopBucket
 
-**Repository:** [https://github.com/wzv5/ScoopBucket](https://github.com/wzv5/ScoopBucket)
-**Score:** 1.0
-**Auto-Update:** 97%
+* **Repository:** [https://github.com/wzv5/ScoopBucket](https://github.com/wzv5/ScoopBucket)
+* **Score:** 1.0
+* **Auto-Update:** 97%
 
 
 

@@ -1,8 +1,8 @@
 # Small-Ku/turbo-bucket
 
-**Repository:** [https://github.com/Small-Ku/turbo-bucket](https://github.com/Small-Ku/turbo-bucket)
-**Score:** 1.0
-**Auto-Update:** 96%
+* **Repository:** [https://github.com/Small-Ku/turbo-bucket](https://github.com/Small-Ku/turbo-bucket)
+* **Score:** 1.0
+* **Auto-Update:** 96%
 
 
 

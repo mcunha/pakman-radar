@@ -1,8 +1,8 @@
 # rkbk60/scoop-for-jp
 
-**Repository:** [https://github.com/rkbk60/scoop-for-jp](https://github.com/rkbk60/scoop-for-jp)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/rkbk60/scoop-for-jp](https://github.com/rkbk60/scoop-for-jp)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

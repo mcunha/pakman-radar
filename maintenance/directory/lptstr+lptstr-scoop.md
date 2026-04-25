@@ -1,8 +1,8 @@
 # lptstr/lptstr-scoop
 
-**Repository:** [https://github.com/lptstr/lptstr-scoop](https://github.com/lptstr/lptstr-scoop)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/lptstr/lptstr-scoop](https://github.com/lptstr/lptstr-scoop)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

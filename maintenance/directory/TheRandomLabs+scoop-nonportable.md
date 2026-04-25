@@ -1,10 +1,10 @@
 # TheRandomLabs/scoop-nonportable
 
-**Repository:** [https://github.com/TheRandomLabs/scoop-nonportable](https://github.com/TheRandomLabs/scoop-nonportable)
-**Score:** 1.0
-**Auto-Update:** 86%
+* **Repository:** [https://github.com/TheRandomLabs/scoop-nonportable](https://github.com/TheRandomLabs/scoop-nonportable)
+* **Score:** 1.0
+* **Auto-Update:** 86%
 
-**Status:** ⭐ Known Shovel Bucket
+* **Status:** ⭐ Known Shovel Bucket
 
 ## 📦 Recipes (73)
 * [sql-server-management-studio-np.json](https://github.com/TheRandomLabs/scoop-nonportable/blob/master/sql-server-management-studio-np.json)

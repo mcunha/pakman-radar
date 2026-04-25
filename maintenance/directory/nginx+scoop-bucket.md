@@ -1,8 +1,8 @@
 # nginx/scoop-bucket
 
-**Repository:** [https://github.com/nginx/scoop-bucket](https://github.com/nginx/scoop-bucket)
-**Score:** 1.0
-**Auto-Update:** 0%
+* **Repository:** [https://github.com/nginx/scoop-bucket](https://github.com/nginx/scoop-bucket)
+* **Score:** 1.0
+* **Auto-Update:** 0%
 
 
 

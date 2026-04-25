@@ -1,8 +1,8 @@
 # TianXiaTech/scoop-txt
 
-**Repository:** [https://github.com/TianXiaTech/scoop-txt](https://github.com/TianXiaTech/scoop-txt)
-**Score:** 1.0
-**Auto-Update:** 90%
+* **Repository:** [https://github.com/TianXiaTech/scoop-txt](https://github.com/TianXiaTech/scoop-txt)
+* **Score:** 1.0
+* **Auto-Update:** 90%
 
 
 

@@ -1,8 +1,8 @@
 # goreleaser/scoop-bucket
 
-**Repository:** [https://github.com/goreleaser/scoop-bucket](https://github.com/goreleaser/scoop-bucket)
-**Score:** 1.0
-**Auto-Update:** 0%
+* **Repository:** [https://github.com/goreleaser/scoop-bucket](https://github.com/goreleaser/scoop-bucket)
+* **Score:** 1.0
+* **Auto-Update:** 0%
 
 
 

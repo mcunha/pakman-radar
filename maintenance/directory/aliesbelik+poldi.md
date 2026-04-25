@@ -1,8 +1,8 @@
 # aliesbelik/poldi
 
-**Repository:** [https://github.com/aliesbelik/poldi](https://github.com/aliesbelik/poldi)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/aliesbelik/poldi](https://github.com/aliesbelik/poldi)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

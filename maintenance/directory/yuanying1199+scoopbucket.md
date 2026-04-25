@@ -1,8 +1,8 @@
 # yuanying1199/scoopbucket
 
-**Repository:** [https://github.com/yuanying1199/scoopbucket](https://github.com/yuanying1199/scoopbucket)
-**Score:** 1.0
-**Auto-Update:** 86%
+* **Repository:** [https://github.com/yuanying1199/scoopbucket](https://github.com/yuanying1199/scoopbucket)
+* **Score:** 1.0
+* **Auto-Update:** 86%
 
 
 

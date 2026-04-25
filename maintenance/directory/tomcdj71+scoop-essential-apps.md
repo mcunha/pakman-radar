@@ -1,8 +1,8 @@
 # tomcdj71/scoop-essential-apps
 
-**Repository:** [https://github.com/tomcdj71/scoop-essential-apps](https://github.com/tomcdj71/scoop-essential-apps)
-**Score:** 1.0
-**Auto-Update:** 97%
+* **Repository:** [https://github.com/tomcdj71/scoop-essential-apps](https://github.com/tomcdj71/scoop-essential-apps)
+* **Score:** 1.0
+* **Auto-Update:** 97%
 
 
 

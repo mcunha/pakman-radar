@@ -1,10 +1,10 @@
 # ScoopInstaller/Java
 
-**Repository:** [https://github.com/ScoopInstaller/Java](https://github.com/ScoopInstaller/Java)
-**Score:** 1.0
-**Auto-Update:** 86%
-**Status:** 👑 Official Scoop Bucket
-**Status:** ⭐ Known Shovel Bucket
+* **Repository:** [https://github.com/ScoopInstaller/Java](https://github.com/ScoopInstaller/Java)
+* **Score:** 1.0
+* **Auto-Update:** 86%
+* **Status:** 👑 Official Scoop Bucket
+* **Status:** ⭐ Known Shovel Bucket
 
 ## 📦 Recipes (329)
 * [zulu12-jre.json](https://github.com/ScoopInstaller/Java/blob/master/zulu12-jre.json)

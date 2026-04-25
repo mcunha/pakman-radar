@@ -1,8 +1,8 @@
 # Scoopforge/Main-Plus
 
-**Repository:** [https://github.com/Scoopforge/Main-Plus](https://github.com/Scoopforge/Main-Plus)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/Scoopforge/Main-Plus](https://github.com/Scoopforge/Main-Plus)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

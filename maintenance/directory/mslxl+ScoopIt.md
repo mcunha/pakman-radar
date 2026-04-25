@@ -1,8 +1,8 @@
 # mslxl/ScoopIt
 
-**Repository:** [https://github.com/mslxl/ScoopIt](https://github.com/mslxl/ScoopIt)
-**Score:** 1.0
-**Auto-Update:** 92%
+* **Repository:** [https://github.com/mslxl/ScoopIt](https://github.com/mslxl/ScoopIt)
+* **Score:** 1.0
+* **Auto-Update:** 92%
 
 
 

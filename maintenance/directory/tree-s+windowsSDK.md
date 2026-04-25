@@ -1,8 +1,8 @@
 # tree-s/windowsSDK
 
-**Repository:** [https://github.com/tree-s/windowsSDK](https://github.com/tree-s/windowsSDK)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/tree-s/windowsSDK](https://github.com/tree-s/windowsSDK)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

@@ -1,8 +1,8 @@
 # krproject/qi-windows
 
-**Repository:** [https://github.com/krproject/qi-windows](https://github.com/krproject/qi-windows)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/krproject/qi-windows](https://github.com/krproject/qi-windows)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

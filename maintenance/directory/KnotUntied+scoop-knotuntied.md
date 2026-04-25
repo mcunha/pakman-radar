@@ -1,8 +1,8 @@
 # KnotUntied/scoop-knotuntied
 
-**Repository:** [https://github.com/KnotUntied/scoop-knotuntied](https://github.com/KnotUntied/scoop-knotuntied)
-**Score:** 1.0
-**Auto-Update:** 82%
+* **Repository:** [https://github.com/KnotUntied/scoop-knotuntied](https://github.com/KnotUntied/scoop-knotuntied)
+* **Score:** 1.0
+* **Auto-Update:** 82%
 
 
 

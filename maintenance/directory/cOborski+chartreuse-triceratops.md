@@ -1,8 +1,8 @@
 # cOborski/chartreuse-triceratops
 
-**Repository:** [https://github.com/cOborski/chartreuse-triceratops](https://github.com/cOborski/chartreuse-triceratops)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/cOborski/chartreuse-triceratops](https://github.com/cOborski/chartreuse-triceratops)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

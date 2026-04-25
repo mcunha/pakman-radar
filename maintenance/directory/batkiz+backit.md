@@ -1,8 +1,8 @@
 # batkiz/backit
 
-**Repository:** [https://github.com/batkiz/backit](https://github.com/batkiz/backit)
-**Score:** 1.0
-**Auto-Update:** 99%
+* **Repository:** [https://github.com/batkiz/backit](https://github.com/batkiz/backit)
+* **Score:** 1.0
+* **Auto-Update:** 99%
 
 
 

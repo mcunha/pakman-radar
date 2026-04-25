@@ -1,8 +1,8 @@
 # lkhrs/eve-tools
 
-**Repository:** [https://github.com/lkhrs/eve-tools](https://github.com/lkhrs/eve-tools)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/lkhrs/eve-tools](https://github.com/lkhrs/eve-tools)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

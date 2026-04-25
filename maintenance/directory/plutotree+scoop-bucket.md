@@ -1,8 +1,8 @@
 # plutotree/scoop-bucket
 
-**Repository:** [https://github.com/plutotree/scoop-bucket](https://github.com/plutotree/scoop-bucket)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/plutotree/scoop-bucket](https://github.com/plutotree/scoop-bucket)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

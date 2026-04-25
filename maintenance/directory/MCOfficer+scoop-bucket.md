@@ -1,8 +1,8 @@
 # MCOfficer/scoop-bucket
 
-**Repository:** [https://github.com/MCOfficer/scoop-bucket](https://github.com/MCOfficer/scoop-bucket)
-**Score:** 1.0
-**Auto-Update:** 98%
+* **Repository:** [https://github.com/MCOfficer/scoop-bucket](https://github.com/MCOfficer/scoop-bucket)
+* **Score:** 1.0
+* **Auto-Update:** 98%
 
 
 

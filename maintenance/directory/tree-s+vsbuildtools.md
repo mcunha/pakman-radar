@@ -1,8 +1,8 @@
 # tree-s/vsbuildtools
 
-**Repository:** [https://github.com/tree-s/vsbuildtools](https://github.com/tree-s/vsbuildtools)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/tree-s/vsbuildtools](https://github.com/tree-s/vsbuildtools)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

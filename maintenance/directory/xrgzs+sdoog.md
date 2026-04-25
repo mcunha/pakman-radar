@@ -1,8 +1,8 @@
 # xrgzs/sdoog
 
-**Repository:** [https://github.com/xrgzs/sdoog](https://github.com/xrgzs/sdoog)
-**Score:** 1.0
-**Auto-Update:** 93%
+* **Repository:** [https://github.com/xrgzs/sdoog](https://github.com/xrgzs/sdoog)
+* **Score:** 1.0
+* **Auto-Update:** 93%
 
 
 

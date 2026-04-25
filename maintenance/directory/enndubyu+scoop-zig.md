@@ -1,8 +1,8 @@
 # enndubyu/scoop-zig
 
-**Repository:** [https://github.com/enndubyu/scoop-zig](https://github.com/enndubyu/scoop-zig)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/enndubyu/scoop-zig](https://github.com/enndubyu/scoop-zig)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

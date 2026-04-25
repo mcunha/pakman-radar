@@ -1,8 +1,8 @@
 # jfut/scoop-jfut
 
-**Repository:** [https://github.com/jfut/scoop-jfut](https://github.com/jfut/scoop-jfut)
-**Score:** 1.0
-**Auto-Update:** 94%
+* **Repository:** [https://github.com/jfut/scoop-jfut](https://github.com/jfut/scoop-jfut)
+* **Score:** 1.0
+* **Auto-Update:** 94%
 
 
 

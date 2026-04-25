@@ -1,8 +1,8 @@
 # joaoricarte/jr-bucket
 
-**Repository:** [https://github.com/joaoricarte/jr-bucket](https://github.com/joaoricarte/jr-bucket)
-**Score:** 1.0
-**Auto-Update:** 95%
+* **Repository:** [https://github.com/joaoricarte/jr-bucket](https://github.com/joaoricarte/jr-bucket)
+* **Score:** 1.0
+* **Auto-Update:** 95%
 
 
 

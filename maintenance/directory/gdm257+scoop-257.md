@@ -1,8 +1,8 @@
 # gdm257/scoop-257
 
-**Repository:** [https://github.com/gdm257/scoop-257](https://github.com/gdm257/scoop-257)
-**Score:** 1.0
-**Auto-Update:** 90%
+* **Repository:** [https://github.com/gdm257/scoop-257](https://github.com/gdm257/scoop-257)
+* **Score:** 1.0
+* **Auto-Update:** 90%
 
 
 

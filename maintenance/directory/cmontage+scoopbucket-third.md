@@ -1,8 +1,8 @@
 # cmontage/scoopbucket-third
 
-**Repository:** [https://github.com/cmontage/scoopbucket-third](https://github.com/cmontage/scoopbucket-third)
-**Score:** 1.0
-**Auto-Update:** 87%
+* **Repository:** [https://github.com/cmontage/scoopbucket-third](https://github.com/cmontage/scoopbucket-third)
+* **Score:** 1.0
+* **Auto-Update:** 87%
 
 
 

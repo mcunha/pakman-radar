@@ -1,8 +1,8 @@
 # snyk/scoop-snyk
 
-**Repository:** [https://github.com/snyk/scoop-snyk](https://github.com/snyk/scoop-snyk)
-**Score:** 1.0
-**Auto-Update:** 0%
+* **Repository:** [https://github.com/snyk/scoop-snyk](https://github.com/snyk/scoop-snyk)
+* **Score:** 1.0
+* **Auto-Update:** 0%
 
 
 

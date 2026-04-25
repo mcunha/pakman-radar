@@ -1,8 +1,8 @@
 # amreus/bucket
 
-**Repository:** [https://github.com/amreus/bucket](https://github.com/amreus/bucket)
-**Score:** 1.0
-**Auto-Update:** 75%
+* **Repository:** [https://github.com/amreus/bucket](https://github.com/amreus/bucket)
+* **Score:** 1.0
+* **Auto-Update:** 75%
 
 
 

@@ -1,8 +1,8 @@
 # TheCjw/scoop-retools
 
-**Repository:** [https://github.com/TheCjw/scoop-retools](https://github.com/TheCjw/scoop-retools)
-**Score:** 1.0
-**Auto-Update:** 79%
+* **Repository:** [https://github.com/TheCjw/scoop-retools](https://github.com/TheCjw/scoop-retools)
+* **Score:** 1.0
+* **Auto-Update:** 79%
 
 
 

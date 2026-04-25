@@ -1,8 +1,8 @@
 # AkinoKaede/maple
 
-**Repository:** [https://github.com/AkinoKaede/maple](https://github.com/AkinoKaede/maple)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/AkinoKaede/maple](https://github.com/AkinoKaede/maple)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

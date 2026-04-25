@@ -1,8 +1,8 @@
 # younger-1/scoop-it
 
-**Repository:** [https://github.com/younger-1/scoop-it](https://github.com/younger-1/scoop-it)
-**Score:** 1.0
-**Auto-Update:** 92%
+* **Repository:** [https://github.com/younger-1/scoop-it](https://github.com/younger-1/scoop-it)
+* **Score:** 1.0
+* **Auto-Update:** 92%
 
 
 

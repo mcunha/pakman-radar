@@ -1,8 +1,8 @@
 # abgox/abgo_bucket
 
-**Repository:** [https://github.com/abgox/abgo_bucket](https://github.com/abgox/abgo_bucket)
-**Score:** 1.0
-**Auto-Update:** 99%
+* **Repository:** [https://github.com/abgox/abgo_bucket](https://github.com/abgox/abgo_bucket)
+* **Score:** 1.0
+* **Auto-Update:** 99%
 
 
 

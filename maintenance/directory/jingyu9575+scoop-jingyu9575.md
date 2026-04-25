@@ -1,8 +1,8 @@
 # jingyu9575/scoop-jingyu9575
 
-**Repository:** [https://github.com/jingyu9575/scoop-jingyu9575](https://github.com/jingyu9575/scoop-jingyu9575)
-**Score:** 1.0
-**Auto-Update:** 74%
+* **Repository:** [https://github.com/jingyu9575/scoop-jingyu9575](https://github.com/jingyu9575/scoop-jingyu9575)
+* **Score:** 1.0
+* **Auto-Update:** 74%
 
 
 

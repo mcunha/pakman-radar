@@ -1,8 +1,8 @@
 # rkolka/scoop-manifold
 
-**Repository:** [https://github.com/rkolka/scoop-manifold](https://github.com/rkolka/scoop-manifold)
-**Score:** 1.0
-**Auto-Update:** 56%
+* **Repository:** [https://github.com/rkolka/scoop-manifold](https://github.com/rkolka/scoop-manifold)
+* **Score:** 1.0
+* **Auto-Update:** 56%
 
 
 

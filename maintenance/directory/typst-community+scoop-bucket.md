@@ -1,8 +1,8 @@
 # typst-community/scoop-bucket
 
-**Repository:** [https://github.com/typst-community/scoop-bucket](https://github.com/typst-community/scoop-bucket)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/typst-community/scoop-bucket](https://github.com/typst-community/scoop-bucket)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

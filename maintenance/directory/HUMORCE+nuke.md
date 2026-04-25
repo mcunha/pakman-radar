@@ -1,8 +1,8 @@
 # HUMORCE/nuke
 
-**Repository:** [https://github.com/HUMORCE/nuke](https://github.com/HUMORCE/nuke)
-**Score:** 1.0
-**Auto-Update:** 79%
+* **Repository:** [https://github.com/HUMORCE/nuke](https://github.com/HUMORCE/nuke)
+* **Score:** 1.0
+* **Auto-Update:** 79%
 
 
 

@@ -1,8 +1,8 @@
 # Strappazzon/scoop
 
-**Repository:** [https://github.com/Strappazzon/scoop](https://github.com/Strappazzon/scoop)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/Strappazzon/scoop](https://github.com/Strappazzon/scoop)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

@@ -1,8 +1,8 @@
 # jazzwang/scoop-bucket
 
-**Repository:** [https://github.com/jazzwang/scoop-bucket](https://github.com/jazzwang/scoop-bucket)
-**Score:** 1.0
-**Auto-Update:** 0%
+* **Repository:** [https://github.com/jazzwang/scoop-bucket](https://github.com/jazzwang/scoop-bucket)
+* **Score:** 1.0
+* **Auto-Update:** 0%
 
 
 

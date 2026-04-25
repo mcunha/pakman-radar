@@ -1,8 +1,8 @@
 # Nriver/Scoop-Nriver
 
-**Repository:** [https://github.com/Nriver/Scoop-Nriver](https://github.com/Nriver/Scoop-Nriver)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/Nriver/Scoop-Nriver](https://github.com/Nriver/Scoop-Nriver)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

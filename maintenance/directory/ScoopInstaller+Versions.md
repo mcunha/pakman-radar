@@ -1,10 +1,10 @@
 # ScoopInstaller/Versions
 
-**Repository:** [https://github.com/ScoopInstaller/Versions](https://github.com/ScoopInstaller/Versions)
-**Score:** 1.0
-**Auto-Update:** 74%
-**Status:** 👑 Official Scoop Bucket
-**Status:** ⭐ Known Shovel Bucket
+* **Repository:** [https://github.com/ScoopInstaller/Versions](https://github.com/ScoopInstaller/Versions)
+* **Score:** 1.0
+* **Auto-Update:** 74%
+* **Status:** 👑 Official Scoop Bucket
+* **Status:** ⭐ Known Shovel Bucket
 
 ## 📦 Recipes (571)
 * [stunnel-beta.json](https://github.com/ScoopInstaller/Versions/blob/master/stunnel-beta.json)

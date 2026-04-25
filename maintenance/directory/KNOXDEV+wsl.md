@@ -1,8 +1,8 @@
 # KNOXDEV/wsl
 
-**Repository:** [https://github.com/KNOXDEV/wsl](https://github.com/KNOXDEV/wsl)
-**Score:** 1.0
-**Auto-Update:** 25%
+* **Repository:** [https://github.com/KNOXDEV/wsl](https://github.com/KNOXDEV/wsl)
+* **Score:** 1.0
+* **Auto-Update:** 25%
 
 
 

@@ -1,8 +1,8 @@
 # wanstarge/scoopx
 
-**Repository:** [https://github.com/wanstarge/scoopx](https://github.com/wanstarge/scoopx)
-**Score:** 1.0
-**Auto-Update:** 93%
+* **Repository:** [https://github.com/wanstarge/scoopx](https://github.com/wanstarge/scoopx)
+* **Score:** 1.0
+* **Auto-Update:** 93%
 
 
 

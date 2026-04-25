@@ -1,8 +1,8 @@
 # cderv/r-bucket
 
-**Repository:** [https://github.com/cderv/r-bucket](https://github.com/cderv/r-bucket)
-**Score:** 1.0
-**Auto-Update:** 94%
+* **Repository:** [https://github.com/cderv/r-bucket](https://github.com/cderv/r-bucket)
+* **Score:** 1.0
+* **Auto-Update:** 94%
 
 
 

@@ -1,8 +1,8 @@
 # Vodes/Bucket
 
-**Repository:** [https://github.com/Vodes/Bucket](https://github.com/Vodes/Bucket)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/Vodes/Bucket](https://github.com/Vodes/Bucket)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

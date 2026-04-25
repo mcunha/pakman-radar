@@ -1,8 +1,8 @@
 # Rinkerbel/scooped
 
-**Repository:** [https://github.com/Rinkerbel/scooped](https://github.com/Rinkerbel/scooped)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/Rinkerbel/scooped](https://github.com/Rinkerbel/scooped)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

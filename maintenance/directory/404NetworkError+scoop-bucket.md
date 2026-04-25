@@ -1,8 +1,8 @@
 # 404NetworkError/scoop-bucket
 
-**Repository:** [https://github.com/404NetworkError/scoop-bucket](https://github.com/404NetworkError/scoop-bucket)
-**Score:** 1.0
-**Auto-Update:** 96%
+* **Repository:** [https://github.com/404NetworkError/scoop-bucket](https://github.com/404NetworkError/scoop-bucket)
+* **Score:** 1.0
+* **Auto-Update:** 96%
 
 
 

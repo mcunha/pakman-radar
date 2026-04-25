@@ -1,8 +1,8 @@
 # FDUZS/spoon
 
-**Repository:** [https://github.com/FDUZS/spoon](https://github.com/FDUZS/spoon)
-**Score:** 1.0
-**Auto-Update:** 98%
+* **Repository:** [https://github.com/FDUZS/spoon](https://github.com/FDUZS/spoon)
+* **Score:** 1.0
+* **Auto-Update:** 98%
 
 
 

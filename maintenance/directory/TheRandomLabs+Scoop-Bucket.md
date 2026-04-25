@@ -1,8 +1,8 @@
 # TheRandomLabs/Scoop-Bucket
 
-**Repository:** [https://github.com/TheRandomLabs/Scoop-Bucket](https://github.com/TheRandomLabs/Scoop-Bucket)
-**Score:** 1.0
-**Auto-Update:** 85%
+* **Repository:** [https://github.com/TheRandomLabs/Scoop-Bucket](https://github.com/TheRandomLabs/Scoop-Bucket)
+* **Score:** 1.0
+* **Auto-Update:** 85%
 
 
 

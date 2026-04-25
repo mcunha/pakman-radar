@@ -1,8 +1,8 @@
 # issaclin32/scoop-bucket
 
-**Repository:** [https://github.com/issaclin32/scoop-bucket](https://github.com/issaclin32/scoop-bucket)
-**Score:** 1.0
-**Auto-Update:** 68%
+* **Repository:** [https://github.com/issaclin32/scoop-bucket](https://github.com/issaclin32/scoop-bucket)
+* **Score:** 1.0
+* **Auto-Update:** 68%
 
 
 

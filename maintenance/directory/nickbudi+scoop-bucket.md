@@ -1,8 +1,8 @@
 # nickbudi/scoop-bucket
 
-**Repository:** [https://github.com/nickbudi/scoop-bucket](https://github.com/nickbudi/scoop-bucket)
-**Score:** 1.0
-**Auto-Update:** 80%
+* **Repository:** [https://github.com/nickbudi/scoop-bucket](https://github.com/nickbudi/scoop-bucket)
+* **Score:** 1.0
+* **Auto-Update:** 80%
 
 
 

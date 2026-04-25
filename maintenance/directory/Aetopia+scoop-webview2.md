@@ -1,8 +1,8 @@
 # Aetopia/scoop-webview2
 
-**Repository:** [https://github.com/Aetopia/scoop-webview2](https://github.com/Aetopia/scoop-webview2)
-**Score:** 1.0
-**Auto-Update:** 0%
+* **Repository:** [https://github.com/Aetopia/scoop-webview2](https://github.com/Aetopia/scoop-webview2)
+* **Score:** 1.0
+* **Auto-Update:** 0%
 
 
 

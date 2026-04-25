@@ -1,8 +1,8 @@
 # niceEli/Pail
 
-**Repository:** [https://github.com/niceEli/Pail](https://github.com/niceEli/Pail)
-**Score:** 1.0
-**Auto-Update:** 93%
+* **Repository:** [https://github.com/niceEli/Pail](https://github.com/niceEli/Pail)
+* **Score:** 1.0
+* **Auto-Update:** 93%
 
 
 

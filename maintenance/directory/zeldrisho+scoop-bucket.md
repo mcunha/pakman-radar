@@ -1,8 +1,8 @@
 # zeldrisho/scoop-bucket
 
-**Repository:** [https://github.com/zeldrisho/scoop-bucket](https://github.com/zeldrisho/scoop-bucket)
-**Score:** 1.0
-**Auto-Update:** 97%
+* **Repository:** [https://github.com/zeldrisho/scoop-bucket](https://github.com/zeldrisho/scoop-bucket)
+* **Score:** 1.0
+* **Auto-Update:** 97%
 
 
 

@@ -1,8 +1,8 @@
 # Darkatse/Scoop-KanColle
 
-**Repository:** [https://github.com/Darkatse/Scoop-KanColle](https://github.com/Darkatse/Scoop-KanColle)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/Darkatse/Scoop-KanColle](https://github.com/Darkatse/Scoop-KanColle)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

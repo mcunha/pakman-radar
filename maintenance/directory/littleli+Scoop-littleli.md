@@ -1,8 +1,8 @@
 # littleli/Scoop-littleli
 
-**Repository:** [https://github.com/littleli/Scoop-littleli](https://github.com/littleli/Scoop-littleli)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/littleli/Scoop-littleli](https://github.com/littleli/Scoop-littleli)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

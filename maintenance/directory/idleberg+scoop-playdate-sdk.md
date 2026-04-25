@@ -1,8 +1,8 @@
 # idleberg/scoop-playdate-sdk
 
-**Repository:** [https://github.com/idleberg/scoop-playdate-sdk](https://github.com/idleberg/scoop-playdate-sdk)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/idleberg/scoop-playdate-sdk](https://github.com/idleberg/scoop-playdate-sdk)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

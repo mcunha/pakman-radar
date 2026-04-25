@@ -1,8 +1,8 @@
 # ba230t/scoop-bucket
 
-**Repository:** [https://github.com/ba230t/scoop-bucket](https://github.com/ba230t/scoop-bucket)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/ba230t/scoop-bucket](https://github.com/ba230t/scoop-bucket)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

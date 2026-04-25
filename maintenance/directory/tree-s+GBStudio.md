@@ -1,8 +1,8 @@
 # tree-s/GBStudio
 
-**Repository:** [https://github.com/tree-s/GBStudio](https://github.com/tree-s/GBStudio)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/tree-s/GBStudio](https://github.com/tree-s/GBStudio)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

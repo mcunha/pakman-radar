@@ -1,8 +1,8 @@
 # ViCrack/scoop-bucket
 
-**Repository:** [https://github.com/ViCrack/scoop-bucket](https://github.com/ViCrack/scoop-bucket)
-**Score:** 1.0
-**Auto-Update:** 99%
+* **Repository:** [https://github.com/ViCrack/scoop-bucket](https://github.com/ViCrack/scoop-bucket)
+* **Score:** 1.0
+* **Auto-Update:** 99%
 
 
 

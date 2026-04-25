@@ -1,8 +1,8 @@
 # TheRandomLabs/Scoop-Spotify
 
-**Repository:** [https://github.com/TheRandomLabs/Scoop-Spotify](https://github.com/TheRandomLabs/Scoop-Spotify)
-**Score:** 1.0
-**Auto-Update:** 90%
+* **Repository:** [https://github.com/TheRandomLabs/Scoop-Spotify](https://github.com/TheRandomLabs/Scoop-Spotify)
+* **Score:** 1.0
+* **Auto-Update:** 90%
 
 
 

@@ -1,8 +1,8 @@
 # LaelLuo/scoop
 
-**Repository:** [https://github.com/LaelLuo/scoop](https://github.com/LaelLuo/scoop)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/LaelLuo/scoop](https://github.com/LaelLuo/scoop)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

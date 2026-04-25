@@ -1,8 +1,8 @@
 # DoveBoy/Apps
 
-**Repository:** [https://github.com/DoveBoy/Apps](https://github.com/DoveBoy/Apps)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/DoveBoy/Apps](https://github.com/DoveBoy/Apps)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

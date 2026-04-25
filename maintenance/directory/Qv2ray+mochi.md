@@ -1,8 +1,8 @@
 # Qv2ray/mochi
 
-**Repository:** [https://github.com/Qv2ray/mochi](https://github.com/Qv2ray/mochi)
-**Score:** 1.0
-**Auto-Update:** 53%
+* **Repository:** [https://github.com/Qv2ray/mochi](https://github.com/Qv2ray/mochi)
+* **Score:** 1.0
+* **Auto-Update:** 53%
 
 
 

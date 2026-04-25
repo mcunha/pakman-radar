@@ -1,8 +1,8 @@
 # AntonOks/scoop-aoks
 
-**Repository:** [https://github.com/AntonOks/scoop-aoks](https://github.com/AntonOks/scoop-aoks)
-**Score:** 1.0
-**Auto-Update:** 99%
+* **Repository:** [https://github.com/AntonOks/scoop-aoks](https://github.com/AntonOks/scoop-aoks)
+* **Score:** 1.0
+* **Auto-Update:** 99%
 
 
 

@@ -1,8 +1,8 @@
 # mvrpl/windows-apps
 
-**Repository:** [https://github.com/mvrpl/windows-apps](https://github.com/mvrpl/windows-apps)
-**Score:** 1.0
-**Auto-Update:** 94%
+* **Repository:** [https://github.com/mvrpl/windows-apps](https://github.com/mvrpl/windows-apps)
+* **Score:** 1.0
+* **Auto-Update:** 94%
 
 
 

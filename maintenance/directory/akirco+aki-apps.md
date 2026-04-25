@@ -1,8 +1,8 @@
 # akirco/aki-apps
 
-**Repository:** [https://github.com/akirco/aki-apps](https://github.com/akirco/aki-apps)
-**Score:** 1.0
-**Auto-Update:** 86%
+* **Repository:** [https://github.com/akirco/aki-apps](https://github.com/akirco/aki-apps)
+* **Score:** 1.0
+* **Auto-Update:** 86%
 
 
 

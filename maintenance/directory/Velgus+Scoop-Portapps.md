@@ -1,8 +1,8 @@
 # Velgus/Scoop-Portapps
 
-**Repository:** [https://github.com/Velgus/Scoop-Portapps](https://github.com/Velgus/Scoop-Portapps)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/Velgus/Scoop-Portapps](https://github.com/Velgus/Scoop-Portapps)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

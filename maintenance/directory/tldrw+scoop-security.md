@@ -1,8 +1,8 @@
 # tldrw/scoop-security
 
-**Repository:** [https://github.com/tldrw/scoop-security](https://github.com/tldrw/scoop-security)
-**Score:** 1.0
-**Auto-Update:** 97%
+* **Repository:** [https://github.com/tldrw/scoop-security](https://github.com/tldrw/scoop-security)
+* **Score:** 1.0
+* **Auto-Update:** 97%
 
 
 

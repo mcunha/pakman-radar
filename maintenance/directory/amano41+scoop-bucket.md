@@ -1,8 +1,8 @@
 # amano41/scoop-bucket
 
-**Repository:** [https://github.com/amano41/scoop-bucket](https://github.com/amano41/scoop-bucket)
-**Score:** 1.0
-**Auto-Update:** 96%
+* **Repository:** [https://github.com/amano41/scoop-bucket](https://github.com/amano41/scoop-bucket)
+* **Score:** 1.0
+* **Auto-Update:** 96%
 
 
 

@@ -1,8 +1,8 @@
 # duzyn/scoop-cn
 
-**Repository:** [https://github.com/duzyn/scoop-cn](https://github.com/duzyn/scoop-cn)
-**Score:** 1.0
-**Auto-Update:** 85%
+* **Repository:** [https://github.com/duzyn/scoop-cn](https://github.com/duzyn/scoop-cn)
+* **Score:** 1.0
+* **Auto-Update:** 85%
 
 
 

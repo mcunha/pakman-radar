@@ -1,8 +1,8 @@
 # brian6932/dank-scoop
 
-**Repository:** [https://github.com/brian6932/dank-scoop](https://github.com/brian6932/dank-scoop)
-**Score:** 1.0
-**Auto-Update:** 97%
+* **Repository:** [https://github.com/brian6932/dank-scoop](https://github.com/brian6932/dank-scoop)
+* **Score:** 1.0
+* **Auto-Update:** 97%
 
 
 

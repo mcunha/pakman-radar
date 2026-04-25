@@ -1,8 +1,8 @@
 # lzwme/scoop-proxy-cn
 
-**Repository:** [https://github.com/lzwme/scoop-proxy-cn](https://github.com/lzwme/scoop-proxy-cn)
-**Score:** 1.0
-**Auto-Update:** 86%
+* **Repository:** [https://github.com/lzwme/scoop-proxy-cn](https://github.com/lzwme/scoop-proxy-cn)
+* **Score:** 1.0
+* **Auto-Update:** 86%
 
 
 

@@ -1,8 +1,8 @@
 # lumen-oss/rocks-scoop
 
-**Repository:** [https://github.com/lumen-oss/rocks-scoop](https://github.com/lumen-oss/rocks-scoop)
-**Score:** 1.0
-**Auto-Update:** 50%
+* **Repository:** [https://github.com/lumen-oss/rocks-scoop](https://github.com/lumen-oss/rocks-scoop)
+* **Score:** 1.0
+* **Auto-Update:** 50%
 
 
 

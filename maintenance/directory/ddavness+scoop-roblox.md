@@ -1,8 +1,8 @@
 # ddavness/scoop-roblox
 
-**Repository:** [https://github.com/ddavness/scoop-roblox](https://github.com/ddavness/scoop-roblox)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/ddavness/scoop-roblox](https://github.com/ddavness/scoop-roblox)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

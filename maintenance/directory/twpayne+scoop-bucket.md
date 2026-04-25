@@ -1,8 +1,8 @@
 # twpayne/scoop-bucket
 
-**Repository:** [https://github.com/twpayne/scoop-bucket](https://github.com/twpayne/scoop-bucket)
-**Score:** 1.0
-**Auto-Update:** 0%
+* **Repository:** [https://github.com/twpayne/scoop-bucket](https://github.com/twpayne/scoop-bucket)
+* **Score:** 1.0
+* **Auto-Update:** 0%
 
 
 

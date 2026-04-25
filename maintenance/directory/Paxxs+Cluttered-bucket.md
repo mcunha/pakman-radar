@@ -1,8 +1,8 @@
 # Paxxs/Cluttered-bucket
 
-**Repository:** [https://github.com/Paxxs/Cluttered-bucket](https://github.com/Paxxs/Cluttered-bucket)
-**Score:** 1.0
-**Auto-Update:** 91%
+* **Repository:** [https://github.com/Paxxs/Cluttered-bucket](https://github.com/Paxxs/Cluttered-bucket)
+* **Score:** 1.0
+* **Auto-Update:** 91%
 
 
 

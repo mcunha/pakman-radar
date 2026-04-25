@@ -1,8 +1,8 @@
 # davidxuang/scoop-type
 
-**Repository:** [https://github.com/davidxuang/scoop-type](https://github.com/davidxuang/scoop-type)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/davidxuang/scoop-type](https://github.com/davidxuang/scoop-type)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

@@ -1,8 +1,8 @@
 # AkariiinMKII/Scoop4kariiin
 
-**Repository:** [https://github.com/AkariiinMKII/Scoop4kariiin](https://github.com/AkariiinMKII/Scoop4kariiin)
-**Score:** 1.0
-**Auto-Update:** 73%
+* **Repository:** [https://github.com/AkariiinMKII/Scoop4kariiin](https://github.com/AkariiinMKII/Scoop4kariiin)
+* **Score:** 1.0
+* **Auto-Update:** 73%
 
 
 

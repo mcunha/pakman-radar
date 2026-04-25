@@ -1,8 +1,8 @@
 # cc713/ownscoop
 
-**Repository:** [https://github.com/cc713/ownscoop](https://github.com/cc713/ownscoop)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/cc713/ownscoop](https://github.com/cc713/ownscoop)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

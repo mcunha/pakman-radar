@@ -1,8 +1,8 @@
 # Darkatse/Scoop-Darkatse
 
-**Repository:** [https://github.com/Darkatse/Scoop-Darkatse](https://github.com/Darkatse/Scoop-Darkatse)
-**Score:** 1.0
-**Auto-Update:** 97%
+* **Repository:** [https://github.com/Darkatse/Scoop-Darkatse](https://github.com/Darkatse/Scoop-Darkatse)
+* **Score:** 1.0
+* **Auto-Update:** 97%
 
 
 

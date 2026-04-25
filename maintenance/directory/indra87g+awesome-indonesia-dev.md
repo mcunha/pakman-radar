@@ -1,8 +1,8 @@
 # indra87g/awesome-indonesia-dev
 
-**Repository:** [https://github.com/indra87g/awesome-indonesia-dev](https://github.com/indra87g/awesome-indonesia-dev)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/indra87g/awesome-indonesia-dev](https://github.com/indra87g/awesome-indonesia-dev)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

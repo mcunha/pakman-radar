@@ -1,8 +1,8 @@
 # jonz94/scoop-sarasa-nerd-fonts
 
-**Repository:** [https://github.com/jonz94/scoop-sarasa-nerd-fonts](https://github.com/jonz94/scoop-sarasa-nerd-fonts)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/jonz94/scoop-sarasa-nerd-fonts](https://github.com/jonz94/scoop-sarasa-nerd-fonts)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

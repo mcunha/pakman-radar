@@ -1,8 +1,8 @@
 # p8rdev/scoop-portableapps
 
-**Repository:** [https://github.com/p8rdev/scoop-portableapps](https://github.com/p8rdev/scoop-portableapps)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/p8rdev/scoop-portableapps](https://github.com/p8rdev/scoop-portableapps)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

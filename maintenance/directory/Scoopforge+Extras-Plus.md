@@ -1,8 +1,8 @@
 # Scoopforge/Extras-Plus
 
-**Repository:** [https://github.com/Scoopforge/Extras-Plus](https://github.com/Scoopforge/Extras-Plus)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/Scoopforge/Extras-Plus](https://github.com/Scoopforge/Extras-Plus)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

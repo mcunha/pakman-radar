@@ -1,8 +1,8 @@
 # beer-psi/scoop-bucket
 
-**Repository:** [https://github.com/beer-psi/scoop-bucket](https://github.com/beer-psi/scoop-bucket)
-**Score:** 1.0
-**Auto-Update:** 80%
+* **Repository:** [https://github.com/beer-psi/scoop-bucket](https://github.com/beer-psi/scoop-bucket)
+* **Score:** 1.0
+* **Auto-Update:** 80%
 
 
 

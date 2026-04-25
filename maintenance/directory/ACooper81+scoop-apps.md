@@ -1,8 +1,8 @@
 # ACooper81/scoop-apps
 
-**Repository:** [https://github.com/ACooper81/scoop-apps](https://github.com/ACooper81/scoop-apps)
-**Score:** 1.0
-**Auto-Update:** 94%
+* **Repository:** [https://github.com/ACooper81/scoop-apps](https://github.com/ACooper81/scoop-apps)
+* **Score:** 1.0
+* **Auto-Update:** 94%
 
 
 

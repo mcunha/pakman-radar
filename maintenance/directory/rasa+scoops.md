@@ -1,8 +1,8 @@
 # rasa/scoops
 
-**Repository:** [https://github.com/rasa/scoops](https://github.com/rasa/scoops)
-**Score:** 1.0
-**Auto-Update:** 71%
+* **Repository:** [https://github.com/rasa/scoops](https://github.com/rasa/scoops)
+* **Score:** 1.0
+* **Auto-Update:** 71%
 
 
 

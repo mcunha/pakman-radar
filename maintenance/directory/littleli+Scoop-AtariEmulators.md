@@ -1,8 +1,8 @@
 # littleli/Scoop-AtariEmulators
 
-**Repository:** [https://github.com/littleli/Scoop-AtariEmulators](https://github.com/littleli/Scoop-AtariEmulators)
-**Score:** 1.0
-**Auto-Update:** 95%
+* **Repository:** [https://github.com/littleli/Scoop-AtariEmulators](https://github.com/littleli/Scoop-AtariEmulators)
+* **Score:** 1.0
+* **Auto-Update:** 95%
 
 
 

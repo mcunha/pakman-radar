@@ -1,8 +1,8 @@
 # babo4d/scoop-xrtools
 
-**Repository:** [https://github.com/babo4d/scoop-xrtools](https://github.com/babo4d/scoop-xrtools)
-**Score:** 1.0
-**Auto-Update:** 95%
+* **Repository:** [https://github.com/babo4d/scoop-xrtools](https://github.com/babo4d/scoop-xrtools)
+* **Score:** 1.0
+* **Auto-Update:** 95%
 
 
 

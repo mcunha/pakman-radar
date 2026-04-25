@@ -1,8 +1,8 @@
 # LSchallot/JellyRoller
 
-**Repository:** [https://github.com/LSchallot/JellyRoller](https://github.com/LSchallot/JellyRoller)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/LSchallot/JellyRoller](https://github.com/LSchallot/JellyRoller)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

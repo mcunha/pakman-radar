@@ -1,8 +1,8 @@
 # noql-net/scoop
 
-**Repository:** [https://github.com/noql-net/scoop](https://github.com/noql-net/scoop)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/noql-net/scoop](https://github.com/noql-net/scoop)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

@@ -1,8 +1,8 @@
 # mogeko/scoop-sysinternals
 
-**Repository:** [https://github.com/mogeko/scoop-sysinternals](https://github.com/mogeko/scoop-sysinternals)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/mogeko/scoop-sysinternals](https://github.com/mogeko/scoop-sysinternals)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

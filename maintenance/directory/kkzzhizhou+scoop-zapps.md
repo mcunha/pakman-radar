@@ -1,8 +1,8 @@
 # kkzzhizhou/scoop-zapps
 
-**Repository:** [https://github.com/kkzzhizhou/scoop-zapps](https://github.com/kkzzhizhou/scoop-zapps)
-**Score:** 1.0
-**Auto-Update:** 94%
+* **Repository:** [https://github.com/kkzzhizhou/scoop-zapps](https://github.com/kkzzhizhou/scoop-zapps)
+* **Score:** 1.0
+* **Auto-Update:** 94%
 
 
 

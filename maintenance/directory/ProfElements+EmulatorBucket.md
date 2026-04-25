@@ -1,8 +1,8 @@
 # ProfElements/EmulatorBucket
 
-**Repository:** [https://github.com/ProfElements/EmulatorBucket](https://github.com/ProfElements/EmulatorBucket)
-**Score:** 1.0
-**Auto-Update:** 0%
+* **Repository:** [https://github.com/ProfElements/EmulatorBucket](https://github.com/ProfElements/EmulatorBucket)
+* **Score:** 1.0
+* **Auto-Update:** 0%
 
 
 

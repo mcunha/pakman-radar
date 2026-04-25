@@ -1,10 +1,10 @@
 # ScoopInstaller/Extras
 
-**Repository:** [https://github.com/ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
-**Score:** 1.0
-**Auto-Update:** 92%
-**Status:** 👑 Official Scoop Bucket
-**Status:** ⭐ Known Shovel Bucket
+* **Repository:** [https://github.com/ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
+* **Score:** 1.0
+* **Auto-Update:** 92%
+* **Status:** 👑 Official Scoop Bucket
+* **Status:** ⭐ Known Shovel Bucket
 
 ## 📦 Recipes (2300)
 * [imhex.json](https://github.com/ScoopInstaller/Extras/blob/master/imhex.json)

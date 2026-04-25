@@ -1,10 +1,10 @@
 # ScoopInstaller/Main
 
-**Repository:** [https://github.com/ScoopInstaller/Main](https://github.com/ScoopInstaller/Main)
-**Score:** 1.0
-**Auto-Update:** 94%
-**Status:** 👑 Official Scoop Bucket
-**Status:** ⭐ Known Shovel Bucket
+* **Repository:** [https://github.com/ScoopInstaller/Main](https://github.com/ScoopInstaller/Main)
+* **Score:** 1.0
+* **Auto-Update:** 94%
+* **Status:** 👑 Official Scoop Bucket
+* **Status:** ⭐ Known Shovel Bucket
 
 ## 📦 Recipes (1506)
 * [simple-http-server.json](https://github.com/ScoopInstaller/Main/blob/master/simple-http-server.json)

@@ -1,8 +1,8 @@
 # TonyZYT2000/scoop-Andromeda
 
-**Repository:** [https://github.com/TonyZYT2000/scoop-Andromeda](https://github.com/TonyZYT2000/scoop-Andromeda)
-**Score:** 1.0
-**Auto-Update:** 83%
+* **Repository:** [https://github.com/TonyZYT2000/scoop-Andromeda](https://github.com/TonyZYT2000/scoop-Andromeda)
+* **Score:** 1.0
+* **Auto-Update:** 83%
 
 
 

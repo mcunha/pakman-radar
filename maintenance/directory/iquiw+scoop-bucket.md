@@ -1,8 +1,8 @@
 # iquiw/scoop-bucket
 
-**Repository:** [https://github.com/iquiw/scoop-bucket](https://github.com/iquiw/scoop-bucket)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/iquiw/scoop-bucket](https://github.com/iquiw/scoop-bucket)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

@@ -1,8 +1,8 @@
 # tree-s/unity3d
 
-**Repository:** [https://github.com/tree-s/unity3d](https://github.com/tree-s/unity3d)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/tree-s/unity3d](https://github.com/tree-s/unity3d)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

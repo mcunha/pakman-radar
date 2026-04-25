@@ -1,8 +1,8 @@
 # kengwang/scoop-ctftools-bucket
 
-**Repository:** [https://github.com/kengwang/scoop-ctftools-bucket](https://github.com/kengwang/scoop-ctftools-bucket)
-**Score:** 1.0
-**Auto-Update:** 99%
+* **Repository:** [https://github.com/kengwang/scoop-ctftools-bucket](https://github.com/kengwang/scoop-ctftools-bucket)
+* **Score:** 1.0
+* **Auto-Update:** 99%
 
 
 

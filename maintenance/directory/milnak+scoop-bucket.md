@@ -1,8 +1,8 @@
 # milnak/scoop-bucket
 
-**Repository:** [https://github.com/milnak/scoop-bucket](https://github.com/milnak/scoop-bucket)
-**Score:** 1.0
-**Auto-Update:** 98%
+* **Repository:** [https://github.com/milnak/scoop-bucket](https://github.com/milnak/scoop-bucket)
+* **Score:** 1.0
+* **Auto-Update:** 98%
 
 
 

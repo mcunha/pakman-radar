@@ -1,8 +1,8 @@
 # 42wim/scoop-bucket
 
-**Repository:** [https://github.com/42wim/scoop-bucket](https://github.com/42wim/scoop-bucket)
-**Score:** 1.0
-**Auto-Update:** 85%
+* **Repository:** [https://github.com/42wim/scoop-bucket](https://github.com/42wim/scoop-bucket)
+* **Score:** 1.0
+* **Auto-Update:** 85%
 
 
 

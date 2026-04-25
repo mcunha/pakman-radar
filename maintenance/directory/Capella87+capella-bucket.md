@@ -1,8 +1,8 @@
 # Capella87/capella-bucket
 
-**Repository:** [https://github.com/Capella87/capella-bucket](https://github.com/Capella87/capella-bucket)
-**Score:** 1.0
-**Auto-Update:** 96%
+* **Repository:** [https://github.com/Capella87/capella-bucket](https://github.com/Capella87/capella-bucket)
+* **Score:** 1.0
+* **Auto-Update:** 96%
 
 
 

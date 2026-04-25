@@ -1,8 +1,8 @@
 # natecohen/scoop-av
 
-**Repository:** [https://github.com/natecohen/scoop-av](https://github.com/natecohen/scoop-av)
-**Score:** 1.0
-**Auto-Update:** 79%
+* **Repository:** [https://github.com/natecohen/scoop-av](https://github.com/natecohen/scoop-av)
+* **Score:** 1.0
+* **Auto-Update:** 79%
 
 
 

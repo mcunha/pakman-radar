@@ -1,8 +1,8 @@
 # chawyehsu/dorado
 
-**Repository:** [https://github.com/chawyehsu/dorado](https://github.com/chawyehsu/dorado)
-**Score:** 1.0
-**Auto-Update:** 94%
+* **Repository:** [https://github.com/chawyehsu/dorado](https://github.com/chawyehsu/dorado)
+* **Score:** 1.0
+* **Auto-Update:** 94%
 
 
 

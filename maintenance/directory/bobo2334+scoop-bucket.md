@@ -1,8 +1,8 @@
 # bobo2334/scoop-bucket
 
-**Repository:** [https://github.com/bobo2334/scoop-bucket](https://github.com/bobo2334/scoop-bucket)
-**Score:** 1.0
-**Auto-Update:** 95%
+* **Repository:** [https://github.com/bobo2334/scoop-bucket](https://github.com/bobo2334/scoop-bucket)
+* **Score:** 1.0
+* **Auto-Update:** 95%
 
 
 

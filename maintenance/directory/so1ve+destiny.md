@@ -1,8 +1,8 @@
 # so1ve/destiny
 
-**Repository:** [https://github.com/so1ve/destiny](https://github.com/so1ve/destiny)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/so1ve/destiny](https://github.com/so1ve/destiny)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

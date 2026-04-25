@@ -1,8 +1,8 @@
 # configcat/scoop-configcat
 
-**Repository:** [https://github.com/configcat/scoop-configcat](https://github.com/configcat/scoop-configcat)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/configcat/scoop-configcat](https://github.com/configcat/scoop-configcat)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

@@ -1,8 +1,8 @@
 # jbangdev/scoop-bucket
 
-**Repository:** [https://github.com/jbangdev/scoop-bucket](https://github.com/jbangdev/scoop-bucket)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/jbangdev/scoop-bucket](https://github.com/jbangdev/scoop-bucket)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

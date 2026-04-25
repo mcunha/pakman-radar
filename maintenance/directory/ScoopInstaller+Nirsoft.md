@@ -1,9 +1,9 @@
 # ScoopInstaller/Nirsoft
 
-**Repository:** [https://github.com/ScoopInstaller/Nirsoft](https://github.com/ScoopInstaller/Nirsoft)
-**Score:** 1.0
-**Auto-Update:** 100%
-**Status:** 👑 Official Scoop Bucket
+* **Repository:** [https://github.com/ScoopInstaller/Nirsoft](https://github.com/ScoopInstaller/Nirsoft)
+* **Score:** 1.0
+* **Auto-Update:** 100%
+* **Status:** 👑 Official Scoop Bucket
 
 
 ## 📦 Recipes (290)

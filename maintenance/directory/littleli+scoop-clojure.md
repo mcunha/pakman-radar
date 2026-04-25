@@ -1,8 +1,8 @@
 # littleli/scoop-clojure
 
-**Repository:** [https://github.com/littleli/scoop-clojure](https://github.com/littleli/scoop-clojure)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/littleli/scoop-clojure](https://github.com/littleli/scoop-clojure)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

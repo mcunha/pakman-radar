@@ -1,8 +1,8 @@
 # cesaryuan/scoop-cesar
 
-**Repository:** [https://github.com/cesaryuan/scoop-cesar](https://github.com/cesaryuan/scoop-cesar)
-**Score:** 1.0
-**Auto-Update:** 82%
+* **Repository:** [https://github.com/cesaryuan/scoop-cesar](https://github.com/cesaryuan/scoop-cesar)
+* **Score:** 1.0
+* **Auto-Update:** 82%
 
 
 

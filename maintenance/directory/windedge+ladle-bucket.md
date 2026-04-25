@@ -1,8 +1,8 @@
 # windedge/ladle-bucket
 
-**Repository:** [https://github.com/windedge/ladle-bucket](https://github.com/windedge/ladle-bucket)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/windedge/ladle-bucket](https://github.com/windedge/ladle-bucket)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

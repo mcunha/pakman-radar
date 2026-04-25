@@ -1,8 +1,8 @@
 # Snowflyt/snowforge
 
-**Repository:** [https://github.com/Snowflyt/snowforge](https://github.com/Snowflyt/snowforge)
-**Score:** 1.0
-**Auto-Update:** 93%
+* **Repository:** [https://github.com/Snowflyt/snowforge](https://github.com/Snowflyt/snowforge)
+* **Score:** 1.0
+* **Auto-Update:** 93%
 
 
 

@@ -1,8 +1,8 @@
 # qwerty12/scoop-alts
 
-**Repository:** [https://github.com/qwerty12/scoop-alts](https://github.com/qwerty12/scoop-alts)
-**Score:** 1.0
-**Auto-Update:** 78%
+* **Repository:** [https://github.com/qwerty12/scoop-alts](https://github.com/qwerty12/scoop-alts)
+* **Score:** 1.0
+* **Auto-Update:** 78%
 
 
 

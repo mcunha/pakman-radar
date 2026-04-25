@@ -1,8 +1,8 @@
 # jat001/scoop-ox
 
-**Repository:** [https://github.com/jat001/scoop-ox](https://github.com/jat001/scoop-ox)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/jat001/scoop-ox](https://github.com/jat001/scoop-ox)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

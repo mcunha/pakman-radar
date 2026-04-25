@@ -1,8 +1,8 @@
 # EFLKumo/jam
 
-**Repository:** [https://github.com/EFLKumo/jam](https://github.com/EFLKumo/jam)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/EFLKumo/jam](https://github.com/EFLKumo/jam)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

@@ -1,8 +1,8 @@
 # KnotUntied/scoop-fonts
 
-**Repository:** [https://github.com/KnotUntied/scoop-fonts](https://github.com/KnotUntied/scoop-fonts)
-**Score:** 1.0
-**Auto-Update:** 67%
+* **Repository:** [https://github.com/KnotUntied/scoop-fonts](https://github.com/KnotUntied/scoop-fonts)
+* **Score:** 1.0
+* **Auto-Update:** 67%
 
 
 

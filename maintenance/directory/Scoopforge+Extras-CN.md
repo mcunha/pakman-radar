@@ -1,8 +1,8 @@
 # Scoopforge/Extras-CN
 
-**Repository:** [https://github.com/Scoopforge/Extras-CN](https://github.com/Scoopforge/Extras-CN)
-**Score:** 1.0
-**Auto-Update:** 97%
+* **Repository:** [https://github.com/Scoopforge/Extras-CN](https://github.com/Scoopforge/Extras-CN)
+* **Score:** 1.0
+* **Auto-Update:** 97%
 
 
 

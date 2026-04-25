@@ -1,8 +1,8 @@
 # ChungZH/peach
 
-**Repository:** [https://github.com/ChungZH/peach](https://github.com/ChungZH/peach)
-**Score:** 1.0
-**Auto-Update:** 94%
+* **Repository:** [https://github.com/ChungZH/peach](https://github.com/ChungZH/peach)
+* **Score:** 1.0
+* **Auto-Update:** 94%
 
 
 

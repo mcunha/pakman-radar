@@ -1,8 +1,8 @@
 # DoveBoy/Scoop-Bucket
 
-**Repository:** [https://github.com/DoveBoy/Scoop-Bucket](https://github.com/DoveBoy/Scoop-Bucket)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/DoveBoy/Scoop-Bucket](https://github.com/DoveBoy/Scoop-Bucket)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

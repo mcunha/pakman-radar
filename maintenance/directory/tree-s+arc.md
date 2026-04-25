@@ -1,8 +1,8 @@
 # tree-s/arc
 
-**Repository:** [https://github.com/tree-s/arc](https://github.com/tree-s/arc)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/tree-s/arc](https://github.com/tree-s/arc)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

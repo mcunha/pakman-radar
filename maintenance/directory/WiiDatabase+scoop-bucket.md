@@ -1,8 +1,8 @@
 # WiiDatabase/scoop-bucket
 
-**Repository:** [https://github.com/WiiDatabase/scoop-bucket](https://github.com/WiiDatabase/scoop-bucket)
-**Score:** 1.0
-**Auto-Update:** 80%
+* **Repository:** [https://github.com/WiiDatabase/scoop-bucket](https://github.com/WiiDatabase/scoop-bucket)
+* **Score:** 1.0
+* **Auto-Update:** 80%
 
 
 

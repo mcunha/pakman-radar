@@ -1,8 +1,8 @@
 # filip2cz/scoop-retro
 
-**Repository:** [https://github.com/filip2cz/scoop-retro](https://github.com/filip2cz/scoop-retro)
-**Score:** 1.0
-**Auto-Update:** 2%
+* **Repository:** [https://github.com/filip2cz/scoop-retro](https://github.com/filip2cz/scoop-retro)
+* **Score:** 1.0
+* **Auto-Update:** 2%
 
 
 

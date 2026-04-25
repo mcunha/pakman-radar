@@ -1,8 +1,8 @@
 # borger/scoop-galaxy-integrations
 
-**Repository:** [https://github.com/borger/scoop-galaxy-integrations](https://github.com/borger/scoop-galaxy-integrations)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/borger/scoop-galaxy-integrations](https://github.com/borger/scoop-galaxy-integrations)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

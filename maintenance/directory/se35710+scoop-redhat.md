@@ -1,8 +1,8 @@
 # se35710/scoop-redhat
 
-**Repository:** [https://github.com/se35710/scoop-redhat](https://github.com/se35710/scoop-redhat)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/se35710/scoop-redhat](https://github.com/se35710/scoop-redhat)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

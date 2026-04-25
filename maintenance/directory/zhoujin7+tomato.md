@@ -1,8 +1,8 @@
 # zhoujin7/tomato
 
-**Repository:** [https://github.com/zhoujin7/tomato](https://github.com/zhoujin7/tomato)
-**Score:** 1.0
-**Auto-Update:** 85%
+* **Repository:** [https://github.com/zhoujin7/tomato](https://github.com/zhoujin7/tomato)
+* **Score:** 1.0
+* **Auto-Update:** 85%
 
 
 

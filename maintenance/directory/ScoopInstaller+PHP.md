@@ -1,10 +1,10 @@
 # ScoopInstaller/PHP
 
-**Repository:** [https://github.com/ScoopInstaller/PHP](https://github.com/ScoopInstaller/PHP)
-**Score:** 1.0
-**Auto-Update:** 4%
-**Status:** 👑 Official Scoop Bucket
-**Status:** ⭐ Known Shovel Bucket
+* **Repository:** [https://github.com/ScoopInstaller/PHP](https://github.com/ScoopInstaller/PHP)
+* **Score:** 1.0
+* **Auto-Update:** 4%
+* **Status:** 👑 Official Scoop Bucket
+* **Status:** ⭐ Known Shovel Bucket
 
 ## 📦 Recipes (391)
 * [php5.3.16.json](https://github.com/ScoopInstaller/PHP/blob/master/php5.3.16.json)

@@ -1,8 +1,8 @@
 # NSIS-Dev/scoop-nsis
 
-**Repository:** [https://github.com/NSIS-Dev/scoop-nsis](https://github.com/NSIS-Dev/scoop-nsis)
-**Score:** 1.0
-**Auto-Update:** 100%
+* **Repository:** [https://github.com/NSIS-Dev/scoop-nsis](https://github.com/NSIS-Dev/scoop-nsis)
+* **Score:** 1.0
+* **Auto-Update:** 100%
 
 
 

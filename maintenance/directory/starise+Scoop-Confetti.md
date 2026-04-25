@@ -1,8 +1,8 @@
 # starise/Scoop-Confetti
 
-**Repository:** [https://github.com/starise/Scoop-Confetti](https://github.com/starise/Scoop-Confetti)
-**Score:** 1.0
-**Auto-Update:** 96%
+* **Repository:** [https://github.com/starise/Scoop-Confetti](https://github.com/starise/Scoop-Confetti)
+* **Score:** 1.0
+* **Auto-Update:** 96%
 
 
 

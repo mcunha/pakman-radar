@@ -1,8 +1,8 @@
 # littleli/scoop-garage
 
-**Repository:** [https://github.com/littleli/scoop-garage](https://github.com/littleli/scoop-garage)
-**Score:** 1.0
-**Auto-Update:** 77%
+* **Repository:** [https://github.com/littleli/scoop-garage](https://github.com/littleli/scoop-garage)
+* **Score:** 1.0
+* **Auto-Update:** 77%
 
 
 
