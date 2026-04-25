@@ -110,7 +110,7 @@ def main():
     os.makedirs(os.path.join(dir_path, 'cache'), exist_ok=True)
 
     # Fetch repos
-    query = 'topic:scoop-bucket OR topic:shovel-bucket OR scoop bucket in:name,description OR shovel bucket in:name,description'
+    query = 'topic:scoop-bucket OR topic:shovel-bucket OR topic:scoop-apps OR scoop bucket in:name,description OR shovel bucket in:name,description OR scoop apps in:name,description'
     base_search_url = f'https://api.github.com/search/repositories?q={requests.utils.quote(query)}&per_page=100'
     
     repos_data = []
