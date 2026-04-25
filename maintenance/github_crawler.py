@@ -256,7 +256,7 @@ def main():
     is_ci = os.environ.get("GITHUB_ACTIONS") == "true"
 
     if is_ci or args.force:
-        out_dir = dir_path
+        out_dir = os.path.normpath(os.path.join(dir_path, ".."))
     else:
         out_dir = os.path.join(dir_path, "..", "localonly-output")
         os.makedirs(out_dir, exist_ok=True)
