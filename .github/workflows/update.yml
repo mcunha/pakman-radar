@@ -3,6 +3,7 @@ run-name: Update Scoop Radar README (${{ github.event_name }}) by @${{ github.ac
 
 env:
   ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
+  PYTHONUNBUFFERED: "1"
 
 on:
   schedule:
