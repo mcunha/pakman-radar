@@ -13,33 +13,46 @@ def load_cache(dir_path):
     except (OSError, EOFError):
         pass
 
-    CURRENT_CACHE_VERSION = 3
+    CURRENT_CACHE_VERSION = 4
     cache_version = cache.get("CACHE_VERSION", 1)
 
     if cache_version < CURRENT_CACHE_VERSION:
         print(f"[*] Upgrading cache from v{cache_version} to v{CURRENT_CACHE_VERSION}...")
-        if cache_version < 3:
-            # Upgrade v1 -> v2: Add bucket/ prefix to entries where applicable
-            repo_keys = [k for k in cache.keys() if "+" in k]
-            for k in repo_keys:
-                entry = cache[k]
-                repo_path = os.path.join(dir_path, "cache", k)
-                if "entries" in entry and os.path.isdir(repo_path):
-                    new_entries = []
-                    for d in [repo_path, os.path.join(repo_path, "bucket")]:
-                        if os.path.isdir(d):
-                            for f in os.listdir(d):
-                                if (
-                                    f.endswith(".json") or f.endswith(".yaml") or f.endswith(".yml")
-                                ) and os.path.isfile(os.path.join(d, f)):
-                                    # If the file was in the original entries list (ignoring path)
-                                    if any(f == e.split("/")[-1] for e in entry["entries"]):
-                                        rel_path = f"bucket/{f}" if d.endswith("bucket") else f
-                                        if rel_path not in new_entries:
-                                            new_entries.append(rel_path)
-                    entry["entries"] = new_entries
-
         cache["CACHE_VERSION"] = CURRENT_CACHE_VERSION
+
+    # Self-healing Integrity Check: Ensure bucket/ prefix exists where applicable
+    repo_keys = [k for k in cache.keys() if "+" in k]
+    repaired_count = 0
+    for k in repo_keys:
+        entry = cache[k]
+        repo_path = os.path.join(dir_path, "cache", k)
+        bucket_dir = os.path.join(repo_path, "bucket")
+        if "entries" in entry and os.path.isdir(bucket_dir):
+            needs_repair = False
+            for e in entry["entries"]:
+                if not e.startswith("bucket/"):
+                    # Check if it physically exists in the bucket folder
+                    if os.path.isfile(os.path.join(bucket_dir, e.split("/")[-1])):
+                        needs_repair = True
+                        break
+
+            if needs_repair:
+                new_entries = []
+                for d in [repo_path, bucket_dir]:
+                    if os.path.isdir(d):
+                        for f in os.listdir(d):
+                            if (
+                                f.endswith(".json") or f.endswith(".yaml") or f.endswith(".yml")
+                            ) and os.path.isfile(os.path.join(d, f)):
+                                if any(f == e.split("/")[-1] for e in entry["entries"]):
+                                    rel_path = f"bucket/{f}" if d.endswith("bucket") else f
+                                    if rel_path not in new_entries:
+                                        new_entries.append(rel_path)
+                entry["entries"] = new_entries
+                repaired_count += 1
+
+    if repaired_count > 0:
+        print(f"[*] Self-Healed {repaired_count} repositories missing 'bucket/' path prefixes.")
 
     return cache
 
