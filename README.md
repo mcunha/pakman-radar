@@ -11,7 +11,7 @@ This project was heavily inspired by the original `awesome-scoop` directories ma
 # 📊 Ecosystem Health
 * **Total Unique Recipes**: 54665
 * **Ecosystem Auto-Update Health**: 85.86%
-* **Ecosystem Reliability**: 88.9% (Sampled URL Health)
+* **Ecosystem Reliability**: 91.5% (Sampled URL Health)
 * **Official vs. Community**: 31131 Official / 49149 Community
 * **Bucket Ecosystem**: 52 Scoop / 2 Shovel
 * **Bucket Graveyard (Stale > 1 Year)**: 🪦 3
@@ -140,9 +140,9 @@ These buckets are fully compatible with Scoop (and Shovel). They contain standar
 
 * **[amorphobia/siku](directory/amorphobia+siku.md)** — 📦 100 Recipes | ⭐ Score: 1.0 | 🔄 Auto-Update: 95% 
 
-* **[Scoopforge/Extras-CN](directory/Scoopforge+Extras-CN.md)** — 📦 89 Recipes | ⭐ Score: 1.0 | 🔄 Auto-Update: 97% 
-
 * **[akirco/aki-apps](directory/akirco+aki-apps.md)** — 📦 302 Recipes | ⭐ Score: 1.0 | 🔄 Auto-Update: 86% 
+
+* **[Scoopforge/Extras-CN](directory/Scoopforge+Extras-CN.md)** — 📦 89 Recipes | ⭐ Score: 1.0 | 🔄 Auto-Update: 97% 
 
 * **[niheaven/scoop-sysinternals](directory/niheaven+scoop-sysinternals.md)** — 📦 75 Recipes | ⭐ Score: 1.0 | 🔄 Auto-Update: 100% ⭐ Known Scoop Bucket
 
@@ -180,15 +180,15 @@ These buckets are fully compatible with Scoop (and Shovel). They contain standar
 
 * **[ScoopInstaller/Nirsoft](directory/ScoopInstaller+Nirsoft.md)** — 📦 290 Recipes | ⭐ Score: 1.0 | 🔄 Auto-Update: 100% 👑 Official Scoop Bucket
 
+* **[ScoopInstaller/Nonportable](directory/ScoopInstaller+Nonportable.md)** — 📦 131 Recipes | ⭐ Score: 1.0 | 🔄 Auto-Update: 88% 👑 Official Scoop Bucket
+
 * **[TheCjw/scoop-retools](directory/TheCjw+scoop-retools.md)** — 📦 19 Recipes | ⭐ Score: 1.0 | 🔄 Auto-Update: 79% 
 
 * **[TheRandomLabs/scoop-nonportable](directory/TheRandomLabs+scoop-nonportable.md)** — 📦 73 Recipes | ⭐ Score: 1.0 | 🔄 Auto-Update: 86% ⭐ Known Shovel Bucket
 
-* **[ScoopInstaller/Nonportable](directory/ScoopInstaller+Nonportable.md)** — 📦 131 Recipes | ⭐ Score: 1.0 | 🔄 Auto-Update: 88% 👑 Official Scoop Bucket
+* **[tetradice/scoop-iyokan-jp](directory/tetradice+scoop-iyokan-jp.md)** — 📦 13 Recipes | ⭐ Score: 1.0 | 🔄 Auto-Update: 100% 
 
 * **[TheRandomLabs/Scoop-Spotify](directory/TheRandomLabs+Scoop-Spotify.md)** — 📦 10 Recipes | ⭐ Score: 1.0 | 🔄 Auto-Update: 90% 
-
-* **[tetradice/scoop-iyokan-jp](directory/tetradice+scoop-iyokan-jp.md)** — 📦 13 Recipes | ⭐ Score: 1.0 | 🔄 Auto-Update: 100% 
 
 * **[EFLKumo/jam](directory/EFLKumo+jam.md)** — 📦 10 Recipes | ⭐ Score: 1.0 | 🔄 Auto-Update: 100% 
 
@@ -334,9 +334,9 @@ A combined list of every bucket discovered in the ecosystem.
 
 * **[amorphobia/siku](directory/amorphobia+siku.md)** — 📦 100 Recipes | ⭐ Score: 1.0 | 🔄 Auto-Update: 95% 
 
-* **[Scoopforge/Extras-CN](directory/Scoopforge+Extras-CN.md)** — 📦 89 Recipes | ⭐ Score: 1.0 | 🔄 Auto-Update: 97% 
-
 * **[akirco/aki-apps](directory/akirco+aki-apps.md)** — 📦 302 Recipes | ⭐ Score: 1.0 | 🔄 Auto-Update: 86% 
+
+* **[Scoopforge/Extras-CN](directory/Scoopforge+Extras-CN.md)** — 📦 89 Recipes | ⭐ Score: 1.0 | 🔄 Auto-Update: 97% 
 
 * **[niheaven/scoop-sysinternals](directory/niheaven+scoop-sysinternals.md)** — 📦 75 Recipes | ⭐ Score: 1.0 | 🔄 Auto-Update: 100% ⭐ Known Scoop Bucket
 
@@ -378,15 +378,15 @@ A combined list of every bucket discovered in the ecosystem.
 
 * **[ScoopInstaller/Nirsoft](directory/ScoopInstaller+Nirsoft.md)** — 📦 290 Recipes | ⭐ Score: 1.0 | 🔄 Auto-Update: 100% 👑 Official Scoop Bucket
 
+* **[ScoopInstaller/Nonportable](directory/ScoopInstaller+Nonportable.md)** — 📦 131 Recipes | ⭐ Score: 1.0 | 🔄 Auto-Update: 88% 👑 Official Scoop Bucket
+
 * **[TheCjw/scoop-retools](directory/TheCjw+scoop-retools.md)** — 📦 19 Recipes | ⭐ Score: 1.0 | 🔄 Auto-Update: 79% 
 
 * **[TheRandomLabs/scoop-nonportable](directory/TheRandomLabs+scoop-nonportable.md)** — 📦 73 Recipes | ⭐ Score: 1.0 | 🔄 Auto-Update: 86% ⭐ Known Shovel Bucket
 
-* **[ScoopInstaller/Nonportable](directory/ScoopInstaller+Nonportable.md)** — 📦 131 Recipes | ⭐ Score: 1.0 | 🔄 Auto-Update: 88% 👑 Official Scoop Bucket
+* **[tetradice/scoop-iyokan-jp](directory/tetradice+scoop-iyokan-jp.md)** — 📦 13 Recipes | ⭐ Score: 1.0 | 🔄 Auto-Update: 100% 
 
 * **[TheRandomLabs/Scoop-Spotify](directory/TheRandomLabs+Scoop-Spotify.md)** — 📦 10 Recipes | ⭐ Score: 1.0 | 🔄 Auto-Update: 90% 
-
-* **[tetradice/scoop-iyokan-jp](directory/tetradice+scoop-iyokan-jp.md)** — 📦 13 Recipes | ⭐ Score: 1.0 | 🔄 Auto-Update: 100% 
 
 * **[EFLKumo/jam](directory/EFLKumo+jam.md)** — 📦 10 Recipes | ⭐ Score: 1.0 | 🔄 Auto-Update: 100% 
 
@@ -419,6 +419,6 @@ A combined list of every bucket discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 0
 * **Cache Size**: 💾 1.60 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 2.58s
-  * 📥 Update: 576.92s
-* **Cumulative Compute Time**: 9.7 minutes
+  * 🔍 Discovery: 2.57s
+  * 📥 Update: 513.12s
+* **Cumulative Compute Time**: 8.6 minutes
