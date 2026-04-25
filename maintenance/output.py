@@ -21,6 +21,16 @@ GitHubDarkStyle = Style(
 )
 
 
+def write_file_posix(file_path, content):
+    """Write content to a file, ensuring a POSIX-compliant trailing newline."""
+    if isinstance(content, bytes):
+        content = content.decode("utf-8")
+    if not content.endswith("\n"):
+        content += "\n"
+    with open(file_path, "w", encoding="utf-8") as f:
+        f.write(content)
+
+
 def generate_growth_charts(timeseries, out_dir):
     """Generate SVG charts visualizing ecosystem growth and churn."""
     for ecosystem in ["all", "scoop", "shovel"]:
