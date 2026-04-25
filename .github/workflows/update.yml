@@ -1,5 +1,8 @@
 name: Update Scoop Radar README
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 on:
   schedule:
     - cron: '0 * * * *' # Run hourly
