@@ -1,0 +1,42 @@
+# AkariiinMKII/Scoop4kariiin
+
+**Repository:** [https://github.com/AkariiinMKII/Scoop4kariiin](https://github.com/AkariiinMKII/Scoop4kariiin)
+**Score:** 1.0
+**Auto-Update:** 73%
+
+
+
+## 📦 Recipes (33)
+* [Scoop4kariiinUtils.json](https://github.com/AkariiinMKII/Scoop4kariiin/blob/main/Scoop4kariiinUtils.json)
+* [Windows-screenFetch.json](https://github.com/AkariiinMKII/Scoop4kariiin/blob/main/Windows-screenFetch.json)
+* [CrystalDiskInfo-Shizuku.json](https://github.com/AkariiinMKII/Scoop4kariiin/blob/main/CrystalDiskInfo-Shizuku.json)
+* [WhoAteMyRAM.json](https://github.com/AkariiinMKII/Scoop4kariiin/blob/main/WhoAteMyRAM.json)
+* [Snipaste2.json](https://github.com/AkariiinMKII/Scoop4kariiin/blob/main/Snipaste2.json)
+* [CrystalDiskMark-Shizuku.json](https://github.com/AkariiinMKII/Scoop4kariiin/blob/main/CrystalDiskMark-Shizuku.json)
+* [CrystalMark-Retro-Aoi.json](https://github.com/AkariiinMKII/Scoop4kariiin/blob/main/CrystalMark-Retro-Aoi.json)
+* [yuzu.json](https://github.com/AkariiinMKII/Scoop4kariiin/blob/main/yuzu.json)
+* [link-plus.json](https://github.com/AkariiinMKII/Scoop4kariiin/blob/main/link-plus.json)
+* [ClashforWindows.json](https://github.com/AkariiinMKII/Scoop4kariiin/blob/main/ClashforWindows.json)
+* [youtube-dl-gui.json](https://github.com/AkariiinMKII/Scoop4kariiin/blob/main/youtube-dl-gui.json)
+* [CrystalDiskMark-Aoi.json](https://github.com/AkariiinMKII/Scoop4kariiin/blob/main/CrystalDiskMark-Aoi.json)
+* [EmbyServer.json](https://github.com/AkariiinMKII/Scoop4kariiin/blob/main/EmbyServer.json)
+* [WinBox-v4.json](https://github.com/AkariiinMKII/Scoop4kariiin/blob/main/WinBox-v4.json)
+* [CrystalDiskInfo-Aoi.json](https://github.com/AkariiinMKII/Scoop4kariiin/blob/main/CrystalDiskInfo-Aoi.json)
+* [CrystalDiskInfo-KureiKei.json](https://github.com/AkariiinMKII/Scoop4kariiin/blob/main/CrystalDiskInfo-KureiKei.json)
+* [Notepads.json](https://github.com/AkariiinMKII/Scoop4kariiin/blob/main/Notepads.json)
+* [CleanMyWechat.json](https://github.com/AkariiinMKII/Scoop4kariiin/blob/main/CleanMyWechat.json)
+* [Cinebench-2026.json](https://github.com/AkariiinMKII/Scoop4kariiin/blob/main/Cinebench-2026.json)
+* [ryujinx.json](https://github.com/AkariiinMKII/Scoop4kariiin/blob/main/ryujinx.json)
+* [WarpTerminal.json](https://github.com/AkariiinMKII/Scoop4kariiin/blob/main/WarpTerminal.json)
+* [Cinebench-R20.json](https://github.com/AkariiinMKII/Scoop4kariiin/blob/main/Cinebench-R20.json)
+* [Cinebench-2024.json](https://github.com/AkariiinMKII/Scoop4kariiin/blob/main/Cinebench-2024.json)
+* [TencentQQNT.json](https://github.com/AkariiinMKII/Scoop4kariiin/blob/main/TencentQQNT.json)
+* [EmbyTheater.json](https://github.com/AkariiinMKII/Scoop4kariiin/blob/main/EmbyTheater.json)
+* [PixPin.json](https://github.com/AkariiinMKII/Scoop4kariiin/blob/main/PixPin.json)
+* [TwinkleTray.json](https://github.com/AkariiinMKII/Scoop4kariiin/blob/main/TwinkleTray.json)
+* [yuzu-pineapple.json](https://github.com/AkariiinMKII/Scoop4kariiin/blob/main/yuzu-pineapple.json)
+* [wolai.json](https://github.com/AkariiinMKII/Scoop4kariiin/blob/main/wolai.json)
+* [CrystalMark-Retro-Shizuku.json](https://github.com/AkariiinMKII/Scoop4kariiin/blob/main/CrystalMark-Retro-Shizuku.json)
+* [Cinebench-R23.json](https://github.com/AkariiinMKII/Scoop4kariiin/blob/main/Cinebench-R23.json)
+* [sleep-on-lan.json](https://github.com/AkariiinMKII/Scoop4kariiin/blob/main/sleep-on-lan.json)
+* [Cinebench-R15.json](https://github.com/AkariiinMKII/Scoop4kariiin/blob/main/Cinebench-R15.json)

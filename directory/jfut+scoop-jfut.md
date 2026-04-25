@@ -1,0 +1,42 @@
+# jfut/scoop-jfut
+
+**Repository:** [https://github.com/jfut/scoop-jfut](https://github.com/jfut/scoop-jfut)
+**Score:** 1.0
+**Auto-Update:** 94%
+
+
+
+## 📦 Recipes (33)
+* [autopsy-python-plugins.json](https://github.com/jfut/scoop-jfut/blob/master/autopsy-python-plugins.json)
+* [explzh.ja.json](https://github.com/jfut/scoop-jfut/blob/master/explzh.ja.json)
+* [becky.ja.json](https://github.com/jfut/scoop-jfut/blob/master/becky.ja.json)
+* [textpad.json](https://github.com/jfut/scoop-jfut/blob/master/textpad.json)
+* [cotton.json](https://github.com/jfut/scoop-jfut/blob/master/cotton.json)
+* [keepass-language-japanese.json](https://github.com/jfut/scoop-jfut/blob/master/keepass-language-japanese.json)
+* [thunderbird.ja.json](https://github.com/jfut/scoop-jfut/blob/master/thunderbird.ja.json)
+* [sizer.json](https://github.com/jfut/scoop-jfut/blob/master/sizer.json)
+* [shadowexplorer.json](https://github.com/jfut/scoop-jfut/blob/master/shadowexplorer.json)
+* [emeditor.json](https://github.com/jfut/scoop-jfut/blob/master/emeditor.json)
+* [brynhildr.json](https://github.com/jfut/scoop-jfut/blob/master/brynhildr.json)
+* [bunbackup.json](https://github.com/jfut/scoop-jfut/blob/master/bunbackup.json)
+* [cubepdf-utility.json](https://github.com/jfut/scoop-jfut/blob/master/cubepdf-utility.json)
+* [explzh.json](https://github.com/jfut/scoop-jfut/blob/master/explzh.json)
+* [becky.json](https://github.com/jfut/scoop-jfut/blob/master/becky.json)
+* [verethragna.json](https://github.com/jfut/scoop-jfut/blob/master/verethragna.json)
+* [putty-gdi-pfwd.json](https://github.com/jfut/scoop-jfut/blob/master/putty-gdi-pfwd.json)
+* [cassava.json](https://github.com/jfut/scoop-jfut/blob/master/cassava.json)
+* [ffftp.json](https://github.com/jfut/scoop-jfut/blob/master/ffftp.json)
+* [kokomite.json](https://github.com/jfut/scoop-jfut/blob/master/kokomite.json)
+* [clnch.json](https://github.com/jfut/scoop-jfut/blob/master/clnch.json)
+* [sudo.json](https://github.com/jfut/scoop-jfut/blob/master/sudo.json)
+* [autopsy.json](https://github.com/jfut/scoop-jfut/blob/master/autopsy.json)
+* [hootvoice.json](https://github.com/jfut/scoop-jfut/blob/master/hootvoice.json)
+* [lyricsmaster.json](https://github.com/jfut/scoop-jfut/blob/master/lyricsmaster.json)
+* [otbedit.json](https://github.com/jfut/scoop-jfut/blob/master/otbedit.json)
+* [cubepdf.json](https://github.com/jfut/scoop-jfut/blob/master/cubepdf.json)
+* [smplayer.json](https://github.com/jfut/scoop-jfut/blob/master/smplayer.json)
+* [tursi.json](https://github.com/jfut/scoop-jfut/blob/master/tursi.json)
+* [tigervnc-client.json](https://github.com/jfut/scoop-jfut/blob/master/tigervnc-client.json)
+* [putty-gdi.ja.json](https://github.com/jfut/scoop-jfut/blob/master/putty-gdi.ja.json)
+* [putty-gdi.json](https://github.com/jfut/scoop-jfut/blob/master/putty-gdi.json)
+* [fitwin.json](https://github.com/jfut/scoop-jfut/blob/master/fitwin.json)

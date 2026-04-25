@@ -1,0 +1,42 @@
+# natecohen/scoop-av
+
+**Repository:** [https://github.com/natecohen/scoop-av](https://github.com/natecohen/scoop-av)
+**Score:** 1.0
+**Auto-Update:** 79%
+
+
+
+## 📦 Recipes (33)
+* [dovi_tool.json](https://github.com/natecohen/scoop-av/blob/main/dovi_tool.json)
+* [fdkaac.json](https://github.com/natecohen/scoop-av/blob/main/fdkaac.json)
+* [flac-frontend.json](https://github.com/natecohen/scoop-av/blob/main/flac-frontend.json)
+* [nvencc.json](https://github.com/natecohen/scoop-av/blob/main/nvencc.json)
+* [subrip.json](https://github.com/natecohen/scoop-av/blob/main/subrip.json)
+* [eac3to-updated-libs.json](https://github.com/natecohen/scoop-av/blob/main/eac3to-updated-libs.json)
+* [dgmpgdec.json](https://github.com/natecohen/scoop-av/blob/main/dgmpgdec.json)
+* [sushinet.json](https://github.com/natecohen/scoop-av/blob/main/sushinet.json)
+* [ffmetrics.json](https://github.com/natecohen/scoop-av/blob/main/ffmetrics.json)
+* [hdr10plus_tool.json](https://github.com/natecohen/scoop-av/blob/main/hdr10plus_tool.json)
+* [virtualdub2.json](https://github.com/natecohen/scoop-av/blob/main/virtualdub2.json)
+* [dgdecnv.json](https://github.com/natecohen/scoop-av/blob/main/dgdecnv.json)
+* [avsmeter.json](https://github.com/natecohen/scoop-av/blob/main/avsmeter.json)
+* [tsmuxer.json](https://github.com/natecohen/scoop-av/blob/main/tsmuxer.json)
+* [rav1e-weekly.json](https://github.com/natecohen/scoop-av/blob/main/rav1e-weekly.json)
+* [pinga.json](https://github.com/natecohen/scoop-av/blob/main/pinga.json)
+* [av1an-nightly.json](https://github.com/natecohen/scoop-av/blob/main/av1an-nightly.json)
+* [pgcdemux.json](https://github.com/natecohen/scoop-av/blob/main/pgcdemux.json)
+* [avs2yuv.json](https://github.com/natecohen/scoop-av/blob/main/avs2yuv.json)
+* [av1an.json](https://github.com/natecohen/scoop-av/blob/main/av1an.json)
+* [dgdemux.json](https://github.com/natecohen/scoop-av/blob/main/dgdemux.json)
+* [hlg-tools.json](https://github.com/natecohen/scoop-av/blob/main/hlg-tools.json)
+* [avsinfotool.json](https://github.com/natecohen/scoop-av/blob/main/avsinfotool.json)
+* [pingo.json](https://github.com/natecohen/scoop-av/blob/main/pingo.json)
+* [avspmod.json](https://github.com/natecohen/scoop-av/blob/main/avspmod.json)
+* [delaycut.json](https://github.com/natecohen/scoop-av/blob/main/delaycut.json)
+* [mis2x264.json](https://github.com/natecohen/scoop-av/blob/main/mis2x264.json)
+* [spek-x.json](https://github.com/natecohen/scoop-av/blob/main/spek-x.json)
+* [chaptereditor.json](https://github.com/natecohen/scoop-av/blob/main/chaptereditor.json)
+* [ffbitrateviewer.json](https://github.com/natecohen/scoop-av/blob/main/ffbitrateviewer.json)
+* [rav1e.json](https://github.com/natecohen/scoop-av/blob/main/rav1e.json)
+* [mkbrr.json](https://github.com/natecohen/scoop-av/blob/main/mkbrr.json)
+* [aegisub.json](https://github.com/natecohen/scoop-av/blob/main/aegisub.json)

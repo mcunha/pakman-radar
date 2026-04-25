@@ -1,0 +1,42 @@
+# asimov-platform/scoop-bucket
+
+**Repository:** [https://github.com/asimov-platform/scoop-bucket](https://github.com/asimov-platform/scoop-bucket)
+**Score:** 1.0
+**Auto-Update:** 100%
+
+
+
+## 📦 Recipes (33)
+* [asimov-serpapi-module.json](https://github.com/asimov-platform/scoop-bucket/blob/master/asimov-serpapi-module.json)
+* [asimov-cli.json](https://github.com/asimov-platform/scoop-bucket/blob/master/asimov-cli.json)
+* [asimov-near-module.json](https://github.com/asimov-platform/scoop-bucket/blob/master/asimov-near-module.json)
+* [asimov-chromium-module.json](https://github.com/asimov-platform/scoop-bucket/blob/master/asimov-chromium-module.json)
+* [asimov-jq-module.json](https://github.com/asimov-platform/scoop-bucket/blob/master/asimov-jq-module.json)
+* [asimov-ethereum-module.json](https://github.com/asimov-platform/scoop-bucket/blob/master/asimov-ethereum-module.json)
+* [asimov-ollama-module.json](https://github.com/asimov-platform/scoop-bucket/blob/master/asimov-ollama-module.json)
+* [asimov-http-module.json](https://github.com/asimov-platform/scoop-bucket/blob/master/asimov-http-module.json)
+* [asimov-telegram-module.json](https://github.com/asimov-platform/scoop-bucket/blob/master/asimov-telegram-module.json)
+* [asimov-signal-module.json](https://github.com/asimov-platform/scoop-bucket/blob/master/asimov-signal-module.json)
+* [asimov-mbox-module.json](https://github.com/asimov-platform/scoop-bucket/blob/master/asimov-mbox-module.json)
+* [asimov-image-module.json](https://github.com/asimov-platform/scoop-bucket/blob/master/asimov-image-module.json)
+* [asimov-maildir-module.json](https://github.com/asimov-platform/scoop-bucket/blob/master/asimov-maildir-module.json)
+* [asimov-apify-module.json](https://github.com/asimov-platform/scoop-bucket/blob/master/asimov-apify-module.json)
+* [asimov-brightdata-module.json](https://github.com/asimov-platform/scoop-bucket/blob/master/asimov-brightdata-module.json)
+* [asimov-imap-module.json](https://github.com/asimov-platform/scoop-bucket/blob/master/asimov-imap-module.json)
+* [asimov-anthropic-module.json](https://github.com/asimov-platform/scoop-bucket/blob/master/asimov-anthropic-module.json)
+* [asimov-ftp-module.json](https://github.com/asimov-platform/scoop-bucket/blob/master/asimov-ftp-module.json)
+* [asimov-mlx-module.json](https://github.com/asimov-platform/scoop-bucket/blob/master/asimov-mlx-module.json)
+* [asimov-valkey-module.json](https://github.com/asimov-platform/scoop-bucket/blob/master/asimov-valkey-module.json)
+* [asimov-llamacpp-module.json](https://github.com/asimov-platform/scoop-bucket/blob/master/asimov-llamacpp-module.json)
+* [asimov-readwise-module.json](https://github.com/asimov-platform/scoop-bucket/blob/master/asimov-readwise-module.json)
+* [asimov-nearai-module.json](https://github.com/asimov-platform/scoop-bucket/blob/master/asimov-nearai-module.json)
+* [asimov-openai-module.json](https://github.com/asimov-platform/scoop-bucket/blob/master/asimov-openai-module.json)
+* [asimov-outlook-module.json](https://github.com/asimov-platform/scoop-bucket/blob/master/asimov-outlook-module.json)
+* [asimov-x-module.json](https://github.com/asimov-platform/scoop-bucket/blob/master/asimov-x-module.json)
+* [asimov-camera-module.json](https://github.com/asimov-platform/scoop-bucket/blob/master/asimov-camera-module.json)
+* [asimov-gemini-module.json](https://github.com/asimov-platform/scoop-bucket/blob/master/asimov-gemini-module.json)
+* [asimov-xai-module.json](https://github.com/asimov-platform/scoop-bucket/blob/master/asimov-xai-module.json)
+* [asimov-jinja-module.json](https://github.com/asimov-platform/scoop-bucket/blob/master/asimov-jinja-module.json)
+* [asimov-vcard-module.json](https://github.com/asimov-platform/scoop-bucket/blob/master/asimov-vcard-module.json)
+* [asimov-luma-module.json](https://github.com/asimov-platform/scoop-bucket/blob/master/asimov-luma-module.json)
+* [asimov-ipfs-module.json](https://github.com/asimov-platform/scoop-bucket/blob/master/asimov-ipfs-module.json)
