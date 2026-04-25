@@ -148,7 +148,8 @@ def main():
         )
 
         for entry in repo.get("entries", []):
-            item = f"{repo['full_name']}:{entry}".lower()
+            entry_name = entry.split("/")[-1]
+            item = f"{repo['full_name']}:{entry_name}".lower()
             current_recipes_set.add(item)
             if is_shovel:
                 current_shovel_recipes_set.add(item)

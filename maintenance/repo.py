@@ -179,7 +179,8 @@ def process_repo(repofoldername, cache_entry, dir_path):
                                     file_path, f, is_shovel_repo
                                 )
                                 if is_valid:
-                                    entries.append(f)
+                                    rel_path = f"bucket/{f}" if d.endswith("bucket") else f
+                                    entries.append(rel_path)
                                     if has_checkver:
                                         checkver_count += 1
             cache_entry["entries"] = entries
@@ -222,7 +223,8 @@ def process_repo(repofoldername, cache_entry, dir_path):
                                 file_path, f, is_shovel_repo
                             )
                             if is_valid:
-                                entries.append(f)
+                                rel_path = f"bucket/{f}" if d.endswith("bucket") else f
+                                entries.append(rel_path)
                                 if has_checkver:
                                     checkver_count += 1
             cache_entry["entries"] = entries

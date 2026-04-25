@@ -32,7 +32,7 @@ def test_process_repo_existing(mocker):
     name, updated_entry, updated = process_repo("user+repo", cache_entry, "/tmp")
     assert updated is True
     assert updated_entry["checkver_count"] == 0
-    assert "app2.json" in updated_entry["entries"]
+    assert "bucket/app2.json" in updated_entry["entries"]
 
 
 def test_discover_repositories(mocker):

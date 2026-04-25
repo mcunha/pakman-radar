@@ -121,7 +121,7 @@ def calculate_metrics(cache):
     # Calculate uniqueness metrics for hidden gems
     for repo in actual_repos:
         entries = repo.get("entries", [])
-        unique_count = sum(1 for e in entries if e.lower() not in official_recipes)
+        unique_count = sum(1 for e in entries if e.split("/")[-1].lower() not in official_recipes)
         repo["unique_count"] = unique_count
         repo["uniqueness_ratio"] = unique_count / len(entries) if entries else 0
 
@@ -214,11 +214,12 @@ def calculate_metrics(cache):
 
         # Calculate official vs community recipe counts
         for e in entries:
-            if e.lower() in official_recipes:
+            e_name = e.split("/")[-1].lower()
+            if e_name in official_recipes:
                 official_recipe_count += 1
             else:
                 community_recipe_count += 1
-                community_unique_recipes.add(e.lower())
+                community_unique_recipes.add(e_name)
 
         # Count stale buckets (no push in > 365 days)
         pushed_at_str = repo.get("pushed_at", "2000-01-01T00:00:00Z")

@@ -8,5 +8,5 @@
 
 ## 📦 Recipes ({{ repo.entries|length }})
 {% for entry in repo.entries -%}
-  * [{{ entry }}]({{ repo.html_url }}/blob/{{ repo.default_branch }}/{{ entry }})
+  * [{{ entry.split('/')[-1] }}]({{ repo.html_url }}/blob/{{ repo.default_branch }}/{{ entry }})
 {% endfor -%}
