@@ -124,6 +124,7 @@ def process_repo(repofoldername, cache_entry, dir_path):
         else:
             del cache_entry["ignored_until"]
     full_name = cache_entry["full_name"]
+    print(f"[*] Processing {full_name}...")
     git_clone_url = cache_entry["git_url"]
     default_branch = cache_entry["default_branch"]
     is_shovel_repo = "shovel-bucket" in cache_entry.get("topics", [])
