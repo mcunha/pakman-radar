@@ -20,6 +20,9 @@ def fetchjson(urlstr):
         return response.json()
     return {}
 
+def is_manifest(path):
+    return path.endswith('.json') or path.endswith('.yaml') or path.endswith('.yml')
+
 def process_repo(repo_data, last_run, dir_path, existing_cache_entry):
     name = repo_data['name']
     full_name = repo_data['full_name']
@@ -35,22 +38,24 @@ def process_repo(repo_data, last_run, dir_path, existing_cache_entry):
     updated = False
     
     if not existing_cache_entry:
-        if 'scoop-bucket' in repo_data.get('topics', []):
-            # First time probing: Use Trees API for repos with the official topic
-            tree_url = f"https://api.github.com/repos/{full_name}/git/trees/{default_branch}?recursive=1"
+        topics = repo_data.get('topics', [])
+        is_official = 'scoop-bucket' in topics or 'shovel-bucket' in topics or 'scoop-apps' in topics
+        
+        looks_like_bucket = is_official
+        
+        if not is_official:
+            # Quickly assess if it's a bucket without downloading everything
+            tree_url = f"https://api.github.com/repos/{full_name}/git/trees/{default_branch}"
             resp = requests.get(tree_url, headers=get_headers())
             if resp.status_code == 200:
                 tree_data = resp.json().get('tree', [])
                 for item in tree_data:
-                    path = item['path']
-                    if path.endswith('.json'):
-                        parts = path.split('/')
-                        if len(parts) == 1 or (len(parts) == 2 and parts[0] == 'bucket'):
-                            entries.append(os.path.basename(path)[:-5])
-            
-            return repofoldername, {'name': name, 'url': html_url, 'score': float(repo_score), 'entries': entries}, True
-        else:
-            # Fallback to cloning to save Trees API quota for potentially irrelevant repos
+                    if (item['path'] == 'bucket' and item['type'] == 'tree') or is_manifest(item['path']):
+                        looks_like_bucket = True
+                        break
+        
+        if looks_like_bucket:
+            # Once verified, use git clone to actually list and cache the repository files
             try:
                 Repo.clone_from(git_clone_url, repo_path, depth=1)
             except Exception:
@@ -61,10 +66,13 @@ def process_repo(repo_data, last_run, dir_path, existing_cache_entry):
                     if os.path.isdir(d):
                         for f in os.listdir(d):
                             file_path = os.path.join(d, f)
-                            if os.path.isfile(file_path) and file_path.endswith('.json'):
-                                entries.append(os.path.basename(f)[:-5])
+                            if os.path.isfile(file_path) and is_manifest(f):
+                                entries.append(os.path.splitext(f)[0])
                                 
             return repofoldername, {'name': name, 'url': html_url, 'score': float(repo_score), 'entries': entries}, True
+        else:
+            # Doesn't look like a bucket, skip
+            return repofoldername, {'name': name, 'url': html_url, 'score': float(repo_score), 'entries': []}, True
 
     else:
         # Existing repo
@@ -87,8 +95,8 @@ def process_repo(repo_data, last_run, dir_path, existing_cache_entry):
                     if os.path.isdir(d):
                         for f in os.listdir(d):
                             file_path = os.path.join(d, f)
-                            if os.path.isfile(file_path) and file_path.endswith('.json'):
-                                entries.append(os.path.basename(f)[:-5])
+                            if os.path.isfile(file_path) and is_manifest(f):
+                                entries.append(os.path.splitext(f)[0])
                 existing_cache_entry['entries'] = entries
             existing_cache_entry['score'] = float(repo_score)
             return repofoldername, existing_cache_entry, True
