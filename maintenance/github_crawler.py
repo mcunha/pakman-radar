@@ -163,6 +163,27 @@ def main():
         cache.get("previous_shovel_recipes_set", current_shovel_recipes_set)
     )
 
+    # Prevent ecosystem spikes from newly discovered, pre-existing buckets
+    previous_known_repos = set(
+        cache.get("previous_known_repos", [r["full_name"] for r in actual_repos])
+    )
+    current_known_repos = set(repo["full_name"] for repo in actual_repos)
+    newly_discovered_repos = current_known_repos - previous_known_repos
+    cache["previous_known_repos"] = list(current_known_repos)
+
+    for repo in actual_repos:
+        if repo["full_name"] in newly_discovered_repos:
+            is_shovel = "shovel-bucket" in repo.get("topics", []) or any(
+                e.endswith(".yaml") or e.endswith(".yml") for e in repo.get("entries", [])
+            )
+            for entry in repo.get("entries", []):
+                item = f"{repo['full_name']}:{entry}"
+                previous_recipes_set.add(item)
+                if is_shovel:
+                    previous_shovel_recipes_set.add(item)
+                else:
+                    previous_scoop_recipes_set.add(item)
+
     def calc_delta(curr, prev):
         added = len(curr - prev)
         deleted = len(prev - curr)
