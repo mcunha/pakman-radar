@@ -79,7 +79,42 @@ def upgrade_cache_entry(repofoldername, entry):
         entry['topics'] = []
     if 'last_checked' not in entry:
         entry['last_checked'] = '2000-01-01T00:00:00Z'
+    if 'pushed_at' not in entry:
+        entry['pushed_at'] = '2000-01-01T00:00:00Z'
+    if 'archived' not in entry:
+        entry['archived'] = False
+    if 'disabled' not in entry:
+        entry['disabled'] = False
     return entry
+
+def get_next_check_due(entry):
+    last_checked_str = entry.get('last_checked', '2000-01-01T00:00:00Z')
+    last_checked = datetime.strptime(last_checked_str, '%Y-%m-%dT%H:%M:%SZ')
+    
+    if last_checked_str == '2000-01-01T00:00:00Z':
+        return datetime(2000, 1, 1)
+
+    if 'ignored_until' in entry:
+        return datetime.strptime(entry['ignored_until'], '%Y-%m-%dT%H:%M:%SZ')
+
+    archived = entry.get('archived', False)
+    disabled = entry.get('disabled', False)
+    if archived or disabled:
+        interval = timedelta(days=30)
+    else:
+        pushed_at_str = entry.get('pushed_at', '2000-01-01T00:00:00Z')
+        if not pushed_at_str:
+            pushed_at_str = '2000-01-01T00:00:00Z'
+        pushed_at = datetime.strptime(pushed_at_str, '%Y-%m-%dT%H:%M:%SZ')
+        
+        time_since_push = datetime.now() - pushed_at
+        
+        # Check interval: time since last push / 10, min 6 hours, max 30 days
+        interval_seconds = time_since_push.total_seconds() / 10
+        interval_seconds = max(6 * 3600, min(30 * 24 * 3600, interval_seconds))
+        interval = timedelta(seconds=interval_seconds)
+
+    return last_checked + interval
 
 def process_repo(repofoldername, cache_entry, dir_path):
     global abort_flag
@@ -214,12 +249,18 @@ def main():
                         'default_branch': item.get('default_branch', 'master'),
                         'topics': item.get('topics', []),
                         'last_checked': '2000-01-01T00:00:00Z',
+                        'pushed_at': item.get('pushed_at', '2000-01-01T00:00:00Z'),
+                        'archived': item.get('archived', False),
+                        'disabled': item.get('disabled', False),
                         'entries': []
                     }
                 else:
                     # Refresh score and topics if it exists
                     cache[repofoldername]['score'] = float(item['score'])
                     cache[repofoldername]['topics'] = item.get('topics', [])
+                    cache[repofoldername]['pushed_at'] = item.get('pushed_at', '2000-01-01T00:00:00Z')
+                    cache[repofoldername]['archived'] = item.get('archived', False)
+                    cache[repofoldername]['disabled'] = item.get('disabled', False)
     except RateLimitExceededException:
         print("[!] Rate limit exceeded during repository search. Skipping search this run.")
         abort_flag = False # Reset abort flag so we can try processing cached ones
@@ -230,11 +271,14 @@ def main():
     for k in repo_keys:
         cache[k] = upgrade_cache_entry(k, cache[k])
         
-    # Sort repos by 'last_checked' ascending (oldest checked first)
-    repo_keys.sort(key=lambda k: cache[k]['last_checked'])
+    # Sort repos by 'next_check_due' ascending (most overdue first)
+    repo_keys.sort(key=lambda k: get_next_check_due(cache[k]))
     
-    repos_to_process = repo_keys[:MAX_REPOS_TO_PROCESS]
-    print(f"[*] Processing Phase: Updating {len(repos_to_process)} out of {len(repo_keys)} total known repositories...")
+    now = datetime.now()
+    due_repos = [k for k in repo_keys if get_next_check_due(cache[k]) <= now]
+    repos_to_process = due_repos[:MAX_REPOS_TO_PROCESS]
+    
+    print(f"[*] Processing Phase: Updating {len(repos_to_process)} out of {len(repo_keys)} total known repositories ({len(due_repos)} are currently due for a check)...")
     
     updated_count = 0
     with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
