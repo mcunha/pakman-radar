@@ -15,12 +15,12 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
         with:
           ref: ${{ github.head_ref }}
 
       - name: Install uv
-        uses: astral-sh/setup-uv@v5
+        uses: astral-sh/setup-uv@v6
 
       - name: Install dependencies
         run: uv sync --all-extras --dev
@@ -31,7 +31,7 @@ jobs:
           uv run ruff format .
 
       - name: Auto-commit formatting fixes
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v6
         with:
           commit_message: "style: auto-format code with Ruff"
           commit_user_name: "github-actions[bot]"

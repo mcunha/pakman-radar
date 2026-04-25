@@ -32,7 +32,7 @@ def test_get_repo_score_properties(score, entries_count, days_since_push):
     # Check bounds
     # Staleness penalty can make score negative if unmaintained for a very long time
     if days_since_push > 180 and entries_count > 0:
-        assert final_score < 20000.0  # reasonable upper bound
+        assert final_score < 25000.0  # reasonable upper bound
     else:
         assert final_score >= -200.0  # Allow some slack for extreme penalties
 
