@@ -1,0 +1,42 @@
+# ppyv/scoop-jp-fonts
+
+**Repository:** [https://github.com/ppyv/scoop-jp-fonts](https://github.com/ppyv/scoop-jp-fonts)
+**Score:** 1.0
+**Auto-Update:** 100%
+
+
+
+## 📦 Recipes (33)
+* [Bizin-Gothic-Discord.json](https://github.com/ppyv/scoop-jp-fonts/blob/master/Bizin-Gothic-Discord.json)
+* [Bizin-Gothic-NF.json](https://github.com/ppyv/scoop-jp-fonts/blob/master/Bizin-Gothic-NF.json)
+* [Bizin-Gothic.json](https://github.com/ppyv/scoop-jp-fonts/blob/master/Bizin-Gothic.json)
+* [BIZTER.json](https://github.com/ppyv/scoop-jp-fonts/blob/master/BIZTER.json)
+* [Explex-NF.json](https://github.com/ppyv/scoop-jp-fonts/blob/master/Explex-NF.json)
+* [Explex.json](https://github.com/ppyv/scoop-jp-fonts/blob/master/Explex.json)
+* [Firge-NF.json](https://github.com/ppyv/scoop-jp-fonts/blob/master/Firge-NF.json)
+* [Firge.json](https://github.com/ppyv/scoop-jp-fonts/blob/master/Firge.json)
+* [Guguru-Sans-Code.json](https://github.com/ppyv/scoop-jp-fonts/blob/master/Guguru-Sans-Code.json)
+* [HackGen-NF.json](https://github.com/ppyv/scoop-jp-fonts/blob/master/HackGen-NF.json)
+* [HackGen.json](https://github.com/ppyv/scoop-jp-fonts/blob/master/HackGen.json)
+* [Juisee-NF.json](https://github.com/ppyv/scoop-jp-fonts/blob/master/Juisee-NF.json)
+* [Juisee.json](https://github.com/ppyv/scoop-jp-fonts/blob/master/Juisee.json)
+* [LINE-Seed.json](https://github.com/ppyv/scoop-jp-fonts/blob/master/LINE-Seed.json)
+* [Moralerspace-HW-JPDOC.json](https://github.com/ppyv/scoop-jp-fonts/blob/master/Moralerspace-HW-JPDOC.json)
+* [Moralerspace-HW-NF.json](https://github.com/ppyv/scoop-jp-fonts/blob/master/Moralerspace-HW-NF.json)
+* [Moralerspace-HW.json](https://github.com/ppyv/scoop-jp-fonts/blob/master/Moralerspace-HW.json)
+* [Moralerspace-JPDOC.json](https://github.com/ppyv/scoop-jp-fonts/blob/master/Moralerspace-JPDOC.json)
+* [Moralerspace-NF.json](https://github.com/ppyv/scoop-jp-fonts/blob/master/Moralerspace-NF.json)
+* [Moralerspace.json](https://github.com/ppyv/scoop-jp-fonts/blob/master/Moralerspace.json)
+* [NOTONOTO-HS.json](https://github.com/ppyv/scoop-jp-fonts/blob/master/NOTONOTO-HS.json)
+* [NOTONOTO.json](https://github.com/ppyv/scoop-jp-fonts/blob/master/NOTONOTO.json)
+* [Pending-Mono-HW-JPDOC.json](https://github.com/ppyv/scoop-jp-fonts/blob/master/Pending-Mono-HW-JPDOC.json)
+* [Pending-Mono-HW-NF.json](https://github.com/ppyv/scoop-jp-fonts/blob/master/Pending-Mono-HW-NF.json)
+* [Pending-Mono-HW.json](https://github.com/ppyv/scoop-jp-fonts/blob/master/Pending-Mono-HW.json)
+* [Pending-Mono-JPDOC.json](https://github.com/ppyv/scoop-jp-fonts/blob/master/Pending-Mono-JPDOC.json)
+* [Pending-Mono-NF.json](https://github.com/ppyv/scoop-jp-fonts/blob/master/Pending-Mono-NF.json)
+* [Pending-Mono.json](https://github.com/ppyv/scoop-jp-fonts/blob/master/Pending-Mono.json)
+* [PlemolJP-HS.json](https://github.com/ppyv/scoop-jp-fonts/blob/master/PlemolJP-HS.json)
+* [PlemolJP-NF.json](https://github.com/ppyv/scoop-jp-fonts/blob/master/PlemolJP-NF.json)
+* [PlemolJP.json](https://github.com/ppyv/scoop-jp-fonts/blob/master/PlemolJP.json)
+* [UDEV-Gothic-NF.json](https://github.com/ppyv/scoop-jp-fonts/blob/master/UDEV-Gothic-NF.json)
+* [UDEV-Gothic.json](https://github.com/ppyv/scoop-jp-fonts/blob/master/UDEV-Gothic.json)

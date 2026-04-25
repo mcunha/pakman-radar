@@ -1,0 +1,42 @@
+# MagicalDrizzle/scoop-personal
+
+**Repository:** [https://github.com/MagicalDrizzle/scoop-personal](https://github.com/MagicalDrizzle/scoop-personal)
+**Score:** 1.0
+**Auto-Update:** 79%
+
+
+
+## 📦 Recipes (33)
+* [7-benchmark.json](https://github.com/MagicalDrizzle/scoop-personal/blob/master/7-benchmark.json)
+* [antidupl.net-portable.json](https://github.com/MagicalDrizzle/scoop-personal/blob/master/antidupl.net-portable.json)
+* [ascgen2.json](https://github.com/MagicalDrizzle/scoop-personal/blob/master/ascgen2.json)
+* [binocle.json](https://github.com/MagicalDrizzle/scoop-personal/blob/master/binocle.json)
+* [browserouter.json](https://github.com/MagicalDrizzle/scoop-personal/blob/master/browserouter.json)
+* [cotp.json](https://github.com/MagicalDrizzle/scoop-personal/blob/master/cotp.json)
+* [crystaldiskinfo-aoi.json](https://github.com/MagicalDrizzle/scoop-personal/blob/master/crystaldiskinfo-aoi.json)
+* [crystaldiskmark-aoi.json](https://github.com/MagicalDrizzle/scoop-personal/blob/master/crystaldiskmark-aoi.json)
+* [dependency-runner.json](https://github.com/MagicalDrizzle/scoop-personal/blob/master/dependency-runner.json)
+* [diskus.json](https://github.com/MagicalDrizzle/scoop-personal/blob/master/diskus.json)
+* [dontsleep.json](https://github.com/MagicalDrizzle/scoop-personal/blob/master/dontsleep.json)
+* [fancontrol-net48.json](https://github.com/MagicalDrizzle/scoop-personal/blob/master/fancontrol-net48.json)
+* [gimagereader.json](https://github.com/MagicalDrizzle/scoop-personal/blob/master/gimagereader.json)
+* [ldd-win.json](https://github.com/MagicalDrizzle/scoop-personal/blob/master/ldd-win.json)
+* [lolcrab.json](https://github.com/MagicalDrizzle/scoop-personal/blob/master/lolcrab.json)
+* [ltfviewer.json](https://github.com/MagicalDrizzle/scoop-personal/blob/master/ltfviewer.json)
+* [mpv-git-zh.json](https://github.com/MagicalDrizzle/scoop-personal/blob/master/mpv-git-zh.json)
+* [notepad4.json](https://github.com/MagicalDrizzle/scoop-personal/blob/master/notepad4.json)
+* [oggdec2.json](https://github.com/MagicalDrizzle/scoop-personal/blob/master/oggdec2.json)
+* [openttd-jgrpp.json](https://github.com/MagicalDrizzle/scoop-personal/blob/master/openttd-jgrpp.json)
+* [opus-tools-chocobo1.json](https://github.com/MagicalDrizzle/scoop-personal/blob/master/opus-tools-chocobo1.json)
+* [pdu.json](https://github.com/MagicalDrizzle/scoop-personal/blob/master/pdu.json)
+* [pixiv-viewer-electron.json](https://github.com/MagicalDrizzle/scoop-personal/blob/master/pixiv-viewer-electron.json)
+* [pixiv-viewer.json](https://github.com/MagicalDrizzle/scoop-personal/blob/master/pixiv-viewer.json)
+* [qbittorrent-lt20.json](https://github.com/MagicalDrizzle/scoop-personal/blob/master/qbittorrent-lt20.json)
+* [reversion.json](https://github.com/MagicalDrizzle/scoop-personal/blob/master/reversion.json)
+* [sizer3_archived.json](https://github.com/MagicalDrizzle/scoop-personal/blob/master/sizer3_archived.json)
+* [sizer4_archived.json](https://github.com/MagicalDrizzle/scoop-personal/blob/master/sizer4_archived.json)
+* [thtk-nightly.json](https://github.com/MagicalDrizzle/scoop-personal/blob/master/thtk-nightly.json)
+* [vorbis-tools-chocobo1.json](https://github.com/MagicalDrizzle/scoop-personal/blob/master/vorbis-tools-chocobo1.json)
+* [winsetview.json](https://github.com/MagicalDrizzle/scoop-personal/blob/master/winsetview.json)
+* [yt-dlg.json](https://github.com/MagicalDrizzle/scoop-personal/blob/master/yt-dlg.json)
+* [zadark.json](https://github.com/MagicalDrizzle/scoop-personal/blob/master/zadark.json)

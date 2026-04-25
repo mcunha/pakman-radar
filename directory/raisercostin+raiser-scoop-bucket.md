@@ -1,0 +1,43 @@
+# raisercostin/raiser-scoop-bucket
+
+**Repository:** [https://github.com/raisercostin/raiser-scoop-bucket](https://github.com/raisercostin/raiser-scoop-bucket)
+**Score:** 1.0
+**Auto-Update:** 76%
+
+
+
+## 📦 Recipes (34)
+* [aomei-partition-assistant-standard.json](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/aomei-partition-assistant-standard.json)
+* [arangodb-client.json](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/arangodb-client.json)
+* [arangodb.json](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/arangodb.json)
+* [chansort.json](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/chansort.json)
+* [cutepdf.json](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/cutepdf.json)
+* [dbeaver.json](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/dbeaver.json)
+* [docker-ee.json](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/docker-ee.json)
+* [freeplane.json](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/freeplane.json)
+* [immich-go.json](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/immich-go.json)
+* [jd-gui-duo.json](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/jd-gui-duo.json)
+* [klint.json](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/klint.json)
+* [kscript.json](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/kscript.json)
+* [ktlint.json](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/ktlint.json)
+* [latencymon.json](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/latencymon.json)
+* [openblas.json](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/openblas.json)
+* [picasa-starter.json](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/picasa-starter.json)
+* [picasa.json](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/picasa.json)
+* [pidgin-facebook.json](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/pidgin-facebook.json)
+* [pidgin-full.json](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/pidgin-full.json)
+* [pidgin-telegram.json](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/pidgin-telegram.json)
+* [pidgin.json](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/pidgin.json)
+* [raisercostin-utils.json](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/raisercostin-utils.json)
+* [riot.json](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/riot.json)
+* [rsync-msys2.json](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/rsync-msys2.json)
+* [rsync.json](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/rsync.json)
+* [s5cmd.json](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/s5cmd.json)
+* [structurizr-lite.json](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/structurizr-lite.json)
+* [swyh.json](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/swyh.json)
+* [temurin21-nightly-jdk.json](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/temurin21-nightly-jdk.json)
+* [temurin21-nightly-jre.json](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/temurin21-nightly-jre.json)
+* [toggl2.json](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/toggl2.json)
+* [tortoisegit.json](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/tortoisegit.json)
+* [wireguard.json](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/wireguard.json)
+* [yed.json](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/yed.json)

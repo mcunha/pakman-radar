@@ -68,6 +68,17 @@ def generate_readme(
         keep_trailing_newline=True,
     )
 
+    # Generate individual bucket markdown files
+    buckets_dir = os.path.join(dir_path, "..", "directory")
+    os.makedirs(buckets_dir, exist_ok=True)
+    bucket_template = TEMPLATE_ENVIRONMENT.get_template("BucketTemplate.tpl")
+
+    for repo in actual_repos:
+        safe_name = repo["full_name"].replace("/", "+") + ".md"
+        bucket_content = bucket_template.render({"repo": repo})
+        with open(os.path.join(buckets_dir, safe_name), "w", encoding="utf-8") as f:
+            f.write(bucket_content)
+
     context = {
         "all_repos": actual_repos,
         "scoop_repos": scoop_repos,
