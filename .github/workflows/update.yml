@@ -1,4 +1,5 @@
 name: Update Scoop Radar README
+run-name: Update Scoop Radar README (${{ github.event_name }}) by @${{ github.actor }}
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true

@@ -1,4 +1,5 @@
 name: Tests & Linting
+run-name: Tests & Linting by @${{ github.actor }}
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
