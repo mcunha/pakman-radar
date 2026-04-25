@@ -185,6 +185,10 @@ def calculate_metrics(cache):
             r["uniqueness_ratio"] >= 0.5
             and r["unique_count"] >= 5
             and (datetime.now(timezone.utc) - pushed_at).days <= 90
+            and not r.get("is_scoop_official")
+            and not r.get("is_scoop_known")
+            and not r.get("is_shovel_official")
+            and not r.get("is_shovel_known")
         ):
             hidden_gems.append(r)
 
