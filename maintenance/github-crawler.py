@@ -35,19 +35,36 @@ def process_repo(repo_data, last_run, dir_path, existing_cache_entry):
     updated = False
     
     if not existing_cache_entry:
-        # First time probing: Use Trees API
-        tree_url = f"https://api.github.com/repos/{full_name}/git/trees/{default_branch}?recursive=1"
-        resp = requests.get(tree_url, headers=get_headers())
-        if resp.status_code == 200:
-            tree_data = resp.json().get('tree', [])
-            for item in tree_data:
-                path = item['path']
-                if path.endswith('.json'):
-                    parts = path.split('/')
-                    if len(parts) == 1 or (len(parts) == 2 and parts[0] == 'bucket'):
-                        entries.append(os.path.basename(path)[:-5])
-        
-        return repofoldername, {'name': name, 'url': html_url, 'score': float(repo_score), 'entries': entries}, True
+        if 'scoop-bucket' in repo_data.get('topics', []):
+            # First time probing: Use Trees API for repos with the official topic
+            tree_url = f"https://api.github.com/repos/{full_name}/git/trees/{default_branch}?recursive=1"
+            resp = requests.get(tree_url, headers=get_headers())
+            if resp.status_code == 200:
+                tree_data = resp.json().get('tree', [])
+                for item in tree_data:
+                    path = item['path']
+                    if path.endswith('.json'):
+                        parts = path.split('/')
+                        if len(parts) == 1 or (len(parts) == 2 and parts[0] == 'bucket'):
+                            entries.append(os.path.basename(path)[:-5])
+            
+            return repofoldername, {'name': name, 'url': html_url, 'score': float(repo_score), 'entries': entries}, True
+        else:
+            # Fallback to cloning to save Trees API quota for potentially irrelevant repos
+            try:
+                Repo.clone_from(git_clone_url, repo_path, depth=1)
+            except Exception:
+                pass
+            
+            if os.path.isdir(repo_path):
+                for d in [repo_path, os.path.join(repo_path, 'bucket')]:
+                    if os.path.isdir(d):
+                        for f in os.listdir(d):
+                            file_path = os.path.join(d, f)
+                            if os.path.isfile(file_path) and file_path.endswith('.json'):
+                                entries.append(os.path.basename(f)[:-5])
+                                
+            return repofoldername, {'name': name, 'url': html_url, 'score': float(repo_score), 'entries': entries}, True
 
     else:
         # Existing repo
