@@ -148,7 +148,7 @@ def main():
         )
 
         for entry in repo.get("entries", []):
-            item = f"{repo['full_name']}:{entry}"
+            item = f"{repo['full_name']}:{entry}".lower()
             current_recipes_set.add(item)
             if is_shovel:
                 current_shovel_recipes_set.add(item)
@@ -177,7 +177,7 @@ def main():
                 e.endswith(".yaml") or e.endswith(".yml") for e in repo.get("entries", [])
             )
             for entry in repo.get("entries", []):
-                item = f"{repo['full_name']}:{entry}"
+                item = f"{repo['full_name']}:{entry}".lower()
                 previous_recipes_set.add(item)
                 if is_shovel:
                     previous_shovel_recipes_set.add(item)

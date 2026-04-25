@@ -46,7 +46,7 @@ def get_daily_snapshots(repo_path, full_name, is_shovel_bucket):
                         parts = f.split("/")
                         if len(parts) == 1 or (len(parts) == 2 and parts[0] == "bucket"):
                             recipe_name = parts[-1]
-                            item = f"{full_name}:{recipe_name}"
+                            item = f"{full_name}:{recipe_name}".lower()
 
                             is_shovel = (
                                 is_shovel_bucket or f.endswith(".yaml") or f.endswith(".yml")
