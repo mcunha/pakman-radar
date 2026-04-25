@@ -93,8 +93,22 @@ def main():
     os.makedirs(os.path.join(dir_path, 'cache'), exist_ok=True)
 
     # Fetch repos
-    search_url = 'https://api.github.com/search/repositories?q=scoop+buckets&per_page=100'
-    repos_data = fetchjson(search_url).get('items', [])
+    query = 'topic:scoop-bucket OR scoop bucket in:name,description'
+    base_search_url = f'https://api.github.com/search/repositories?q={requests.utils.quote(query)}&per_page=100'
+    
+    repos_data = []
+    page = 1
+    while True:
+        search_url = f"{base_search_url}&page={page}"
+        print(f"Fetching search page {page}...")
+        response_data = fetchjson(search_url)
+        items = response_data.get('items', [])
+        if not items:
+            break
+        repos_data.extend(items)
+        if len(items) < 100:
+            break # Reached the last page
+        page += 1
     
     updated_count = 0
     
