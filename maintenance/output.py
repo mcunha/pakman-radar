@@ -6,7 +6,19 @@ from datetime import datetime
 
 import pygal
 from jinja2 import Environment, FileSystemLoader
-from pygal.style import CleanStyle, DarkStyle
+from pygal.style import CleanStyle, Style
+
+GitHubDarkStyle = Style(
+    background="transparent",
+    plot_background="transparent",
+    foreground="#f0f6fc",
+    foreground_strong="#f0f6fc",
+    foreground_subtle="#9198a1",
+    opacity=".6",
+    opacity_hover=".9",
+    transition="400ms ease-in",
+    colors=("#58a6ff", "#3fb950", "#f85149", "#d29922", "#a371f7"),
+)
 
 
 def generate_growth_charts(timeseries, dir_path):
@@ -15,7 +27,7 @@ def generate_growth_charts(timeseries, dir_path):
         # We only want to show the last 30 data points so it doesn't get too squished
         display_series = timeseries[-30:] if len(timeseries) > 30 else timeseries
 
-        for theme_name, theme_style in [("light", CleanStyle), ("dark", DarkStyle)]:
+        for theme_name, theme_style in [("light", CleanStyle), ("dark", GitHubDarkStyle)]:
             chart = pygal.StackedBar(
                 style=theme_style,
                 legend_at_bottom=True,
