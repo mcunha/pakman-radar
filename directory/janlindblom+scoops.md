@@ -1,0 +1,42 @@
+# janlindblom/scoops
+
+**Repository:** [https://github.com/janlindblom/scoops](https://github.com/janlindblom/scoops)
+**Score:** 1.0
+**Auto-Update:** 58%
+
+
+
+## 📦 Recipes (33)
+* [amide.json](https://github.com/janlindblom/scoops/blob/main/amide.json)
+* [arnis.json](https://github.com/janlindblom/scoops/blob/main/arnis.json)
+* [autowikibrowser.json](https://github.com/janlindblom/scoops/blob/main/autowikibrowser.json)
+* [babelpad.json](https://github.com/janlindblom/scoops/blob/main/babelpad.json)
+* [bunny-sdk-cli.json](https://github.com/janlindblom/scoops/blob/main/bunny-sdk-cli.json)
+* [clang-format.json](https://github.com/janlindblom/scoops/blob/main/clang-format.json)
+* [ddgr.json](https://github.com/janlindblom/scoops/blob/main/ddgr.json)
+* [dune3d.json](https://github.com/janlindblom/scoops/blob/main/dune3d.json)
+* [dvdstyler.json](https://github.com/janlindblom/scoops/blob/main/dvdstyler.json)
+* [ffe.json](https://github.com/janlindblom/scoops/blob/main/ffe.json)
+* [fony.json](https://github.com/janlindblom/scoops/blob/main/fony.json)
+* [handle.json](https://github.com/janlindblom/scoops/blob/main/handle.json)
+* [hyperspace.json](https://github.com/janlindblom/scoops/blob/main/hyperspace.json)
+* [iaito.json](https://github.com/janlindblom/scoops/blob/main/iaito.json)
+* [iconview.json](https://github.com/janlindblom/scoops/blob/main/iconview.json)
+* [jack.json](https://github.com/janlindblom/scoops/blob/main/jack.json)
+* [jpegoptim.json](https://github.com/janlindblom/scoops/blob/main/jpegoptim.json)
+* [jugglinglab.json](https://github.com/janlindblom/scoops/blob/main/jugglinglab.json)
+* [juicy-gcode.json](https://github.com/janlindblom/scoops/blob/main/juicy-gcode.json)
+* [keeperfx.json](https://github.com/janlindblom/scoops/blob/main/keeperfx.json)
+* [layouteditor.json](https://github.com/janlindblom/scoops/blob/main/layouteditor.json)
+* [manuskript.json](https://github.com/janlindblom/scoops/blob/main/manuskript.json)
+* [netsurf.json](https://github.com/janlindblom/scoops/blob/main/netsurf.json)
+* [peg.json](https://github.com/janlindblom/scoops/blob/main/peg.json)
+* [platformio-core.json](https://github.com/janlindblom/scoops/blob/main/platformio-core.json)
+* [pstools.json](https://github.com/janlindblom/scoops/blob/main/pstools.json)
+* [qt.json](https://github.com/janlindblom/scoops/blob/main/qt.json)
+* [siteone-crawler.json](https://github.com/janlindblom/scoops/blob/main/siteone-crawler.json)
+* [subversion.json](https://github.com/janlindblom/scoops/blob/main/subversion.json)
+* [taplo.json](https://github.com/janlindblom/scoops/blob/main/taplo.json)
+* [uplink.json](https://github.com/janlindblom/scoops/blob/main/uplink.json)
+* [xmedcon.json](https://github.com/janlindblom/scoops/blob/main/xmedcon.json)
+* [zmk-studio.json](https://github.com/janlindblom/scoops/blob/main/zmk-studio.json)

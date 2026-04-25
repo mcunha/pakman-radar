@@ -1,0 +1,41 @@
+# nicerloop/scoop-nicerloop
+
+**Repository:** [https://github.com/nicerloop/scoop-nicerloop](https://github.com/nicerloop/scoop-nicerloop)
+**Score:** 1.0
+**Auto-Update:** 62%
+
+
+
+## 📦 Recipes (32)
+* [7zip-context.json](https://github.com/nicerloop/scoop-nicerloop/blob/master/7zip-context.json)
+* [accessibility-insights.json](https://github.com/nicerloop/scoop-nicerloop/blob/master/accessibility-insights.json)
+* [acloudguru-sandbox.json](https://github.com/nicerloop/scoop-nicerloop/blob/master/acloudguru-sandbox.json)
+* [arx.json](https://github.com/nicerloop/scoop-nicerloop/blob/master/arx.json)
+* [awscli-local.json](https://github.com/nicerloop/scoop-nicerloop/blob/master/awscli-local.json)
+* [dbptk.json](https://github.com/nicerloop/scoop-nicerloop/blob/master/dbptk.json)
+* [depot-tools.json](https://github.com/nicerloop/scoop-nicerloop/blob/master/depot-tools.json)
+* [doubletrouble.json](https://github.com/nicerloop/scoop-nicerloop/blob/master/doubletrouble.json)
+* [flaui-webdriver.json](https://github.com/nicerloop/scoop-nicerloop/blob/master/flaui-webdriver.json)
+* [flauinspect.json](https://github.com/nicerloop/scoop-nicerloop/blob/master/flauinspect.json)
+* [git-credential-keepassxc-minimal.json](https://github.com/nicerloop/scoop-nicerloop/blob/master/git-credential-keepassxc-minimal.json)
+* [git-grab.json](https://github.com/nicerloop/scoop-nicerloop/blob/master/git-grab.json)
+* [inframap.json](https://github.com/nicerloop/scoop-nicerloop/blob/master/inframap.json)
+* [ivanti-gsudo.json](https://github.com/nicerloop/scoop-nicerloop/blob/master/ivanti-gsudo.json)
+* [jailer.json](https://github.com/nicerloop/scoop-nicerloop/blob/master/jailer.json)
+* [locale-remulator.json](https://github.com/nicerloop/scoop-nicerloop/blob/master/locale-remulator.json)
+* [localtunnel.json](https://github.com/nicerloop/scoop-nicerloop/blob/master/localtunnel.json)
+* [pdf-strip-watermark.json](https://github.com/nicerloop/scoop-nicerloop/blob/master/pdf-strip-watermark.json)
+* [pwsh.json](https://github.com/nicerloop/scoop-nicerloop/blob/master/pwsh.json)
+* [rsvg-convert.json](https://github.com/nicerloop/scoop-nicerloop/blob/master/rsvg-convert.json)
+* [sourcegit.json](https://github.com/nicerloop/scoop-nicerloop/blob/master/sourcegit.json)
+* [sourcetree-cli.json](https://github.com/nicerloop/scoop-nicerloop/blob/master/sourcetree-cli.json)
+* [terracognita.json](https://github.com/nicerloop/scoop-nicerloop/blob/master/terracognita.json)
+* [terraform-local.json](https://github.com/nicerloop/scoop-nicerloop/blob/master/terraform-local.json)
+* [vsbuildtools2022.json](https://github.com/nicerloop/scoop-nicerloop/blob/master/vsbuildtools2022.json)
+* [vscode-context.json](https://github.com/nicerloop/scoop-nicerloop/blob/master/vscode-context.json)
+* [vsdevcmd.json](https://github.com/nicerloop/scoop-nicerloop/blob/master/vsdevcmd.json)
+* [windows-firewall.json](https://github.com/nicerloop/scoop-nicerloop/blob/master/windows-firewall.json)
+* [windows-terminal-context.json](https://github.com/nicerloop/scoop-nicerloop/blob/master/windows-terminal-context.json)
+* [winfoom.json](https://github.com/nicerloop/scoop-nicerloop/blob/master/winfoom.json)
+* [xdg-open.json](https://github.com/nicerloop/scoop-nicerloop/blob/master/xdg-open.json)
+* [ywinappdriver.json](https://github.com/nicerloop/scoop-nicerloop/blob/master/ywinappdriver.json)
