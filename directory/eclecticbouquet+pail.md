@@ -7,6 +7,6 @@
 
 
 ## 📦 Recipes (3)
-* [winutil.json](https://github.com/eclecticbouquet/pail/blob/master/bucket/winutil.json)
 * [modmii.json](https://github.com/eclecticbouquet/pail/blob/master/bucket/modmii.json)
 * [osc-dl.json](https://github.com/eclecticbouquet/pail/blob/master/bucket/osc-dl.json)
+* [winutil.json](https://github.com/eclecticbouquet/pail/blob/master/bucket/winutil.json)

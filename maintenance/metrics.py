@@ -114,7 +114,7 @@ def calculate_metrics(cache):
         repo_org = full_name_lower.split("/")[0] if "/" in full_name_lower else ""
         if repo_org in OFFICIAL_SCOOP_ORGS or repo_org in OFFICIAL_SHOVEL_ORGS:
             for e in repo.get("entries", []):
-                official_recipes.add(e.lower())
+                official_recipes.add(e.split("/")[-1].lower())
 
     actual_repos = [cache[repo] for repo in repo_keys if len(cache[repo].get("entries", [])) > 0]
 

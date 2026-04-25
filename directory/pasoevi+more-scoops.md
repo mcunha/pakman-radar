@@ -7,5 +7,5 @@
 
 
 ## 📦 Recipes (2)
-* [tggw.json](https://github.com/pasoevi/more-scoops/blob/master/tggw.json)
 * [sil.json](https://github.com/pasoevi/more-scoops/blob/master/sil.json)
+* [tggw.json](https://github.com/pasoevi/more-scoops/blob/master/tggw.json)

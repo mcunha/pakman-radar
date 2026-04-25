@@ -57,10 +57,10 @@ scoop install my-awesome-bucket/<app-name>
 ## 💎 Hidden Gems
 These buckets are actively maintained and feature a high percentage of **unique** applications not found in official repositories. Great for discovering niche tools!
 
-{% for repo in hidden_gems %}
-### [{{repo.full_name}}]({{repo.html_url}})
-*   **Unique Recipes:** {{repo.unique_count}} ({{ "%.1f"|format(repo.uniqueness_ratio * 100) }}% unique)
-*   **Total Recipes:** {{ repo.entries|length }}
+| Repository | Unique Recipes | Total Recipes | Score | Auto-Update |
+| :--- | :---: | :---: | :---: | :---: |
+{% for repo in hidden_gems -%}
+| **[{{repo.full_name}}](directory/{{repo.full_name|replace('/', '+')}}.md)** | 💎 {{repo.unique_count}} ({{ "%.1f"|format(repo.uniqueness_ratio * 100) }}%) | 📦 {{ repo.entries|length }} | ⭐ {{repo.score}} | 🔄 {{ "%.0f"|format((repo.checkver_count / repo.entries|length * 100) if repo.entries|length > 0 else 0) }}% |
 {% endfor %}
 {% endif %}
 

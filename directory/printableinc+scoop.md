@@ -7,7 +7,7 @@
 
 
 ## 📦 Recipes (4)
+* [dotnetcore-hostingbundle.json](https://github.com/printableinc/scoop/blob/master/bucket/dotnetcore-hostingbundle.json)
+* [dotnetfx-runtime.json](https://github.com/printableinc/scoop/blob/master/bucket/dotnetfx-runtime.json)
 * [dotnetfx.json](https://github.com/printableinc/scoop/blob/master/bucket/dotnetfx.json)
 * [elasticagent.json](https://github.com/printableinc/scoop/blob/master/bucket/elasticagent.json)
-* [dotnetfx-runtime.json](https://github.com/printableinc/scoop/blob/master/bucket/dotnetfx-runtime.json)
-* [dotnetcore-hostingbundle.json](https://github.com/printableinc/scoop/blob/master/bucket/dotnetcore-hostingbundle.json)

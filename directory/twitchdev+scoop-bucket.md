@@ -7,4 +7,4 @@
 
 
 ## 📦 Recipes (1)
-* [twitch-cli.json](https://github.com/twitchdev/scoop-bucket/blob/main/bucket/twitch-cli.json)
+* [twitch-cli.json](https://github.com/twitchdev/scoop-bucket/blob/main/twitch-cli.json)

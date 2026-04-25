@@ -7,9 +7,9 @@
 
 
 ## 📦 Recipes (6)
-* [gcc-trcrsired.json](https://github.com/SwingURM/scoop_bucket/blob/master/bucket/gcc-trcrsired.json)
-* [decompiler.json](https://github.com/SwingURM/scoop_bucket/blob/master/bucket/decompiler.json)
 * [clice.json](https://github.com/SwingURM/scoop_bucket/blob/master/bucket/clice.json)
-* [repkg.json](https://github.com/SwingURM/scoop_bucket/blob/master/bucket/repkg.json)
-* [msvc-sysroot-trcrsired.json](https://github.com/SwingURM/scoop_bucket/blob/master/bucket/msvc-sysroot-trcrsired.json)
+* [decompiler.json](https://github.com/SwingURM/scoop_bucket/blob/master/bucket/decompiler.json)
+* [gcc-trcrsired.json](https://github.com/SwingURM/scoop_bucket/blob/master/bucket/gcc-trcrsired.json)
 * [llvm-trcrsired.json](https://github.com/SwingURM/scoop_bucket/blob/master/bucket/llvm-trcrsired.json)
+* [msvc-sysroot-trcrsired.json](https://github.com/SwingURM/scoop_bucket/blob/master/bucket/msvc-sysroot-trcrsired.json)
+* [repkg.json](https://github.com/SwingURM/scoop_bucket/blob/master/bucket/repkg.json)

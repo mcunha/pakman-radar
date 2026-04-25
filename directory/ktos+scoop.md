@@ -7,5 +7,5 @@
 
 
 ## 📦 Recipes (2)
-* [winlibs-mingw.json](https://github.com/ktos/scoop/blob/master/bucket/winlibs-mingw.json)
 * [winlibs-mingw-llvm.json](https://github.com/ktos/scoop/blob/master/bucket/winlibs-mingw-llvm.json)
+* [winlibs-mingw.json](https://github.com/ktos/scoop/blob/master/bucket/winlibs-mingw.json)

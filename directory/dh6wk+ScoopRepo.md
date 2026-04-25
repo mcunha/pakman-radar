@@ -7,8 +7,8 @@
 
 
 ## 📦 Recipes (5)
+* [blackboard-sync.json](https://github.com/dh6wk/ScoopRepo/blob/master/bucket/blackboard-sync.json)
 * [keycombiner.json](https://github.com/dh6wk/ScoopRepo/blob/master/bucket/keycombiner.json)
 * [srss.json](https://github.com/dh6wk/ScoopRepo/blob/master/bucket/srss.json)
-* [blackboard-sync.json](https://github.com/dh6wk/ScoopRepo/blob/master/bucket/blackboard-sync.json)
 * [tabame.json](https://github.com/dh6wk/ScoopRepo/blob/master/bucket/tabame.json)
 * [talon.json](https://github.com/dh6wk/ScoopRepo/blob/master/bucket/talon.json)

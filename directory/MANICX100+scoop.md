@@ -7,9 +7,9 @@
 
 
 ## 📦 Recipes (6)
-* [uxplay.json](https://github.com/MANICX100/scoop/blob/main/uxplay.json)
+* [frawk.json](https://github.com/MANICX100/scoop/blob/main/frawk.json)
+* [pedeps.json](https://github.com/MANICX100/scoop/blob/main/pedeps.json)
 * [QRes.json](https://github.com/MANICX100/scoop/blob/main/QRes.json)
 * [sqlite-gui.json](https://github.com/MANICX100/scoop/blob/main/sqlite-gui.json)
 * [Uninstalr.json](https://github.com/MANICX100/scoop/blob/main/Uninstalr.json)
-* [pedeps.json](https://github.com/MANICX100/scoop/blob/main/pedeps.json)
-* [frawk.json](https://github.com/MANICX100/scoop/blob/main/frawk.json)
+* [uxplay.json](https://github.com/MANICX100/scoop/blob/main/uxplay.json)

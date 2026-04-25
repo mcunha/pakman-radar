@@ -7,5 +7,5 @@
 
 
 ## 📦 Recipes (2)
-* [spin.json](https://github.com/3liFi/bucket/blob/master/bucket/spin.json)
 * [hashcheck.json](https://github.com/3liFi/bucket/blob/master/bucket/hashcheck.json)
+* [spin.json](https://github.com/3liFi/bucket/blob/master/bucket/spin.json)

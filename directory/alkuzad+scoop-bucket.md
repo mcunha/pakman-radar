@@ -8,8 +8,8 @@
 
 ## 📦 Recipes (6)
 * [awless.json](https://github.com/alkuzad/scoop-bucket/blob/master/bucket/awless.json)
-* [ms-ripgrep.json](https://github.com/alkuzad/scoop-bucket/blob/master/bucket/ms-ripgrep.json)
-* [thunderbird-polish.json](https://github.com/alkuzad/scoop-bucket/blob/master/bucket/thunderbird-polish.json)
+* [container-diff.json](https://github.com/alkuzad/scoop-bucket/blob/master/bucket/container-diff.json)
 * [dig.json](https://github.com/alkuzad/scoop-bucket/blob/master/bucket/dig.json)
 * [jira-cli.json](https://github.com/alkuzad/scoop-bucket/blob/master/bucket/jira-cli.json)
-* [container-diff.json](https://github.com/alkuzad/scoop-bucket/blob/master/bucket/container-diff.json)
+* [ms-ripgrep.json](https://github.com/alkuzad/scoop-bucket/blob/master/bucket/ms-ripgrep.json)
+* [thunderbird-polish.json](https://github.com/alkuzad/scoop-bucket/blob/master/bucket/thunderbird-polish.json)

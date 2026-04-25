@@ -7,7 +7,7 @@
 
 
 ## 📦 Recipes (4)
-* [swd.json](https://github.com/Elypha/garden/blob/master/bucket/swd.json)
 * [aegisub-arch1t3cht.json](https://github.com/Elypha/garden/blob/master/bucket/aegisub-arch1t3cht.json)
-* [ncmdump.json](https://github.com/Elypha/garden/blob/master/bucket/ncmdump.json)
 * [goldendict-ng.json](https://github.com/Elypha/garden/blob/master/bucket/goldendict-ng.json)
+* [ncmdump.json](https://github.com/Elypha/garden/blob/master/bucket/ncmdump.json)
+* [swd.json](https://github.com/Elypha/garden/blob/master/bucket/swd.json)

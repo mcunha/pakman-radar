@@ -7,8 +7,8 @@
 
 
 ## 📦 Recipes (5)
-* [heroku-toolbelt.json](https://github.com/maman/scoop-bucket/blob/master/bucket/heroku-toolbelt.json)
-* [android-platform-tools.json](https://github.com/maman/scoop-bucket/blob/master/bucket/android-platform-tools.json)
-* [android-sdk.json](https://github.com/maman/scoop-bucket/blob/master/bucket/android-sdk.json)
-* [phantomjs19.json](https://github.com/maman/scoop-bucket/blob/master/bucket/phantomjs19.json)
-* [otto.json](https://github.com/maman/scoop-bucket/blob/master/bucket/otto.json)
+* [android-platform-tools.json](https://github.com/maman/scoop-bucket/blob/master/android-platform-tools.json)
+* [android-sdk.json](https://github.com/maman/scoop-bucket/blob/master/android-sdk.json)
+* [heroku-toolbelt.json](https://github.com/maman/scoop-bucket/blob/master/heroku-toolbelt.json)
+* [otto.json](https://github.com/maman/scoop-bucket/blob/master/otto.json)
+* [phantomjs19.json](https://github.com/maman/scoop-bucket/blob/master/phantomjs19.json)

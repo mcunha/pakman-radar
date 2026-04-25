@@ -7,4 +7,4 @@
 
 
 ## 📦 Recipes (1)
-* [tortoisegit.json](https://github.com/svkoh/scoop-bucket/blob/master/bucket/tortoisegit.json)
+* [tortoisegit.json](https://github.com/svkoh/scoop-bucket/blob/master/tortoisegit.json)

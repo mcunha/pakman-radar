@@ -7,5 +7,5 @@
 
 
 ## 📦 Recipes (2)
-* [mediocremapper.json](https://github.com/TheAsuro/scoop-stuff/blob/master/mediocremapper.json)
 * [beatsaber-modassistant.json](https://github.com/TheAsuro/scoop-stuff/blob/master/beatsaber-modassistant.json)
+* [mediocremapper.json](https://github.com/TheAsuro/scoop-stuff/blob/master/mediocremapper.json)

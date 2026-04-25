@@ -8,9 +8,9 @@
 
 ## 📦 Recipes (7)
 * [cemu-shortcut.json](https://github.com/comp500/scoop-comp500/blob/master/cemu-shortcut.json)
-* [powdertoy.json](https://github.com/comp500/scoop-comp500/blob/master/powdertoy.json)
-* [titledumper.json](https://github.com/comp500/scoop-comp500/blob/master/titledumper.json)
-* [syncplay.json](https://github.com/comp500/scoop-comp500/blob/master/syncplay.json)
 * [cemu.json](https://github.com/comp500/scoop-comp500/blob/master/cemu.json)
-* [famitracker.json](https://github.com/comp500/scoop-comp500/blob/master/famitracker.json)
 * [cemuhook.json](https://github.com/comp500/scoop-comp500/blob/master/cemuhook.json)
+* [famitracker.json](https://github.com/comp500/scoop-comp500/blob/master/famitracker.json)
+* [powdertoy.json](https://github.com/comp500/scoop-comp500/blob/master/powdertoy.json)
+* [syncplay.json](https://github.com/comp500/scoop-comp500/blob/master/syncplay.json)
+* [titledumper.json](https://github.com/comp500/scoop-comp500/blob/master/titledumper.json)
