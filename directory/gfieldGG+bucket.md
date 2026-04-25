@@ -1,0 +1,11 @@
+# gfieldGG/bucket
+
+**Repository:** [https://github.com/gfieldGG/bucket](https://github.com/gfieldGG/bucket)
+**Score:** 1.0
+**Auto-Update:** 0%
+
+
+
+## 📦 Recipes (2)
+* [opentabletdriver.json](https://github.com/gfieldGG/bucket/blob/master/opentabletdriver.json)
+* [runelite.json](https://github.com/gfieldGG/bucket/blob/master/runelite.json)

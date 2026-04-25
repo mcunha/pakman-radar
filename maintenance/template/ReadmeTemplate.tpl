@@ -78,27 +78,44 @@ These active buckets are rapidly climbing the ranks due to recent, high-quality 
 ## 🥄 Scoop Compatible Buckets
 These buckets are fully compatible with Scoop (and Shovel). They contain standard JSON manifests.
 
+<details>
+<summary><b>Click to expand {{ scoop_repos|length }} Scoop buckets</b></summary>
+
+| Repository | Recipes | Score | Auto-Update | Badges |
+| :--- | :---: | :---: | :---: | :--- |
 {% for repo in scoop_repos %}
-* **[{{repo.full_name}}](directory/{{repo.full_name|replace('/', '+')}}.md)** — 📦 {{ repo.entries|length }} Recipes | ⭐ Score: {{repo.score}} | 🔄 Auto-Update: {{ "%.0f"|format((repo.checkver_count / repo.entries|length * 100) if repo.entries|length > 0 else 0) }}%{% if repo.is_scoop_official %} 👑 Official Scoop Bucket{% elif repo.is_scoop_known %} ⭐ Known Scoop Bucket{% endif %}{% if repo.is_shovel_official %} 👑 Official Shovel Bucket{% elif repo.is_shovel_known %} ⭐ Known Shovel Bucket{% endif %}
+| **[{{repo.full_name}}](directory/{{repo.full_name|replace('/', '+')}}.md)** | 📦 {{ repo.entries|length }} | ⭐ {{repo.score}} | 🔄 {{ "%.0f"|format((repo.checkver_count / repo.entries|length * 100) if repo.entries|length > 0 else 0) }}% | {% if repo.is_scoop_official %}👑 Official Scoop{% elif repo.is_scoop_known %}⭐ Known Scoop{% endif %}{% if repo.is_shovel_official %}<br>👑 Official Shovel{% elif repo.is_shovel_known %}<br>⭐ Known Shovel{% endif %} |
 {% endfor %}
+
+</details>
 
 ## ⛏️ Shovel Specific Buckets
 These buckets utilize Shovel-specific features (like native YAML manifests) or are explicitly tagged for Shovel. They may not work with standard Scoop.
 
-{% for repo in shovel_repos %}
-### [{{repo.full_name}}]({{repo.html_url}}) (Score: {{repo.score}} | Auto-Update: {{ "%.0f"|format((repo.checkver_count / repo.entries|length * 100) if repo.entries|length > 0 else 0) }}%){% if repo.is_scoop_official %} 👑 Official Scoop Bucket{% elif repo.is_scoop_known %} ⭐ Known Scoop Bucket{% endif %}{% if repo.is_shovel_official %} 👑 Official Shovel Bucket{% elif repo.is_shovel_known %} ⭐ Known Shovel Bucket{% endif %}
-{% for entry in repo.entries -%}
-  * [{{ entry }}]({{ repo.html_url }}/blob/{{ repo.default_branch }}/{{ entry }})
-{% endfor -%}
+<details>
+<summary><b>Click to expand {{ shovel_repos|length }} Shovel buckets</b></summary>
 
+| Repository | Recipes | Score | Auto-Update | Badges |
+| :--- | :---: | :---: | :---: | :--- |
+{% for repo in shovel_repos %}
+| **[{{repo.full_name}}](directory/{{repo.full_name|replace('/', '+')}}.md)** | 📦 {{ repo.entries|length }} | ⭐ {{repo.score}} | 🔄 {{ "%.0f"|format((repo.checkver_count / repo.entries|length * 100) if repo.entries|length > 0 else 0) }}% | {% if repo.is_scoop_official %}👑 Official Scoop{% elif repo.is_scoop_known %}⭐ Known Scoop{% endif %}{% if repo.is_shovel_official %}<br>👑 Official Shovel{% elif repo.is_shovel_known %}<br>⭐ Known Shovel{% endif %} |
 {% endfor %}
+
+</details>
 
 ## 📦 All Known Buckets
 A combined list of every bucket discovered in the ecosystem.
 
+<details>
+<summary><b>Click to expand all {{ all_repos|length }} discovered buckets</b></summary>
+
+| Repository | Recipes | Score | Auto-Update | Badges |
+| :--- | :---: | :---: | :---: | :--- |
 {% for repo in all_repos %}
-* **[{{repo.full_name}}](directory/{{repo.full_name|replace('/', '+')}}.md)** — 📦 {{ repo.entries|length }} Recipes | ⭐ Score: {{repo.score}} | 🔄 Auto-Update: {{ "%.0f"|format((repo.checkver_count / repo.entries|length * 100) if repo.entries|length > 0 else 0) }}%{% if repo.is_scoop_official %} 👑 Official Scoop Bucket{% elif repo.is_scoop_known %} ⭐ Known Scoop Bucket{% endif %}{% if repo.is_shovel_official %} 👑 Official Shovel Bucket{% elif repo.is_shovel_known %} ⭐ Known Shovel Bucket{% endif %}
+| **[{{repo.full_name}}](directory/{{repo.full_name|replace('/', '+')}}.md)** | 📦 {{ repo.entries|length }} | ⭐ {{repo.score}} | 🔄 {{ "%.0f"|format((repo.checkver_count / repo.entries|length * 100) if repo.entries|length > 0 else 0) }}% | {% if repo.is_scoop_official %}👑 Official Scoop{% elif repo.is_scoop_known %}⭐ Known Scoop{% endif %}{% if repo.is_shovel_official %}<br>👑 Official Shovel{% elif repo.is_shovel_known %}<br>⭐ Known Shovel{% endif %} |
 {% endfor %}
+
+</details>
 
 # 🛠️ Operational Health (Crawler Metrics)
 * **Total Crawler Runs**: {{ metrics.total_runs }}
