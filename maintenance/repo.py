@@ -373,4 +373,5 @@ def update_repositories(cache, dir_path):
                 print("[!] Rate limit exception caught in thread. Shutting down pool cleanly...")
                 state.abort_flag = True
     print(f"[*] Slice complete. {updated_count} repos actually updated their data/files.")
+    state.abort_flag = False
     return updated_count

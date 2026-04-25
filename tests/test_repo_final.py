@@ -87,4 +87,4 @@ def test_update_repositories_rate_limit(mocker):
 
     update_repositories(cache, "/tmp")
 
-    assert state.abort_flag is True
+    assert state.abort_flag is False
