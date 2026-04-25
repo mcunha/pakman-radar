@@ -1,0 +1,79 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "scoop-radar"
+version = "0.1.0"
+description = "A curated list of awesome scoop and shovel buckets."
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+    { name = "Scoop Radar Contributors" }
+]
+license = { text = "MIT" }
+dependencies = [
+    "certifi",
+    "chardet",
+    "gitdb2",
+    "gitpython",
+    "idna",
+    "jinja2",
+    "jsonschema",
+    "markupsafe",
+    "pygal>=3.1.0",
+    "python-dotenv>=1.2.2",
+    "pyyaml",
+    "requests",
+    "smmap2",
+    "urllib3",
+]
+
+[tool.hatch.build.targets.wheel]
+packages = ["maintenance"]
+
+[tool.uv.workspace]
+
+[dependency-groups]
+dev = [
+    "astunparse>=1.6.3",
+    "hypothesis>=6.152.2",
+    "mutmut>=3.5.0",
+    "pre-commit>=4.6.0",
+    "pytest>=9.0.3",
+    "pytest-benchmark>=5.2.3",
+    "pytest-cov>=7.1.0",
+    "pytest-mock>=3.15.1",
+    "responses>=0.26.0",
+    "ruff>=0.15.12",
+]
+
+[tool.ruff.lint.pydocstyle]
+convention = "google"
+
+[tool.ruff.lint]
+select = ["E", "F", "D", "UP", "I", "N", "C90", "B", "A", "RUF"]
+ignore = ["C901", "N806", "E501", "D100", "D103", "F841"]
+
+[tool.ruff]
+line-length = 100
+
+[project.scripts]
+scoop-radar-updater = "maintenance.github_crawler:main"
+
+[tool.pytest.ini_options]
+minversion = "6.0"
+addopts = "-ra -q --cov=maintenance --cov-report=term-missing"
+testpaths = [
+    "tests",
+]
+
+[tool.coverage.run]
+branch = true
+source = ["maintenance"]
+
+[tool.mutmut]
+paths_to_mutate="maintenance/"
+backup=false
+runner="uv run pytest -x"
+tests_dir="tests/"

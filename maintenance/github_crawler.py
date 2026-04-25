@@ -1,0 +1,216 @@
+"""Github crawler for Scoop and Shovel buckets."""
+
+import os
+import time
+
+from dotenv import load_dotenv
+
+import maintenance.state as state
+from maintenance.api import fetch_schema_with_etag
+from maintenance.cache import load_cache, save_cache
+from maintenance.metrics import calculate_metrics
+from maintenance.output import generate_apis, generate_readme
+from maintenance.repo import discover_repositories, update_repositories
+
+dir_path = os.path.dirname(os.path.realpath(__file__))
+
+
+def fetch_schemas(cache):
+    """Fetch JSON schemas for Scoop and Shovel."""
+    print("[*] Fetching JSON schemas for validation...")
+    state.SCOOP_SCHEMA = fetch_schema_with_etag(
+        "https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json",
+        "__scoop_schema",
+        cache,
+    )
+    state.SHOVEL_SCHEMA = fetch_schema_with_etag(
+        "https://raw.githubusercontent.com/Ash258/Scoop-Core/main/schema.json",
+        "__shovel_schema",
+        cache,
+    )
+
+
+def main():
+    """Main entrypoint for the GitHub crawler process."""
+    load_dotenv()
+    start_time = time.time()
+
+    os.makedirs(os.path.join(dir_path, "cache"), exist_ok=True)
+
+    cache = load_cache(dir_path)
+
+    fetch_schemas(cache)
+    discover_start = time.time()
+    discover_repositories(cache)
+    discover_time = time.time() - discover_start
+
+    update_start = time.time()
+    updated_count = update_repositories(cache, dir_path)
+    update_time = time.time() - update_start
+
+    save_cache(cache, dir_path)
+
+    actual_repos, scoop_repos, shovel_repos, trending, hidden_gems, ecosystem_metrics = (
+        calculate_metrics(cache)
+    )
+
+    total_buckets = len(actual_repos)
+    total_recipes = sum(len(repo.get("entries", [])) for repo in actual_repos)
+
+    run_duration = time.time() - start_time
+    global_metrics = cache.get(
+        "global_metrics",
+        {
+            "total_runs": 0,
+            "total_run_time_seconds": 0.0,
+            "total_repo_updates": 0,
+            "previous_total_buckets": total_buckets,
+            "previous_total_recipes": total_recipes,
+            "bucket_velocity": 0,
+            "recipe_velocity": 0,
+            "total_evictions": 0,
+            "total_api_retries": 0,
+        },
+    )
+
+    global_metrics["total_runs"] += 1
+    global_metrics["total_run_time_seconds"] += run_duration
+    # In case update_repositories returned None (e.g. abort)
+    global_metrics["total_repo_updates"] += updated_count or 0
+
+    # Velocity calculation (net new)
+    global_metrics["bucket_velocity"] = total_buckets - global_metrics.get(
+        "previous_total_buckets", total_buckets
+    )
+    global_metrics["recipe_velocity"] = total_recipes - global_metrics.get(
+        "previous_total_recipes", total_recipes
+    )
+
+    global_metrics["previous_total_buckets"] = total_buckets
+    global_metrics["previous_total_recipes"] = total_recipes
+
+    global_metrics["total_evictions"] = (
+        global_metrics.get("total_evictions", 0) + state.evicted_count
+    )
+    global_metrics["total_api_retries"] = (
+        global_metrics.get("total_api_retries", 0) + state.api_retries
+    )
+
+    global_metrics["last_run_discover_time"] = discover_time
+    global_metrics["last_run_update_time"] = update_time
+
+    total_valid_probes = sum(repo.get("valid_probes", 0) for repo in actual_repos)
+    total_probes = sum(repo.get("total_probes", 0) for repo in actual_repos)
+    global_metrics["ecosystem_reliability"] = (
+        round(total_valid_probes / total_probes * 100, 1) if total_probes > 0 else 100.0
+    )
+
+    try:
+        cache_size_mb = os.path.getsize(os.path.join(dir_path, "cache.pickle")) / (1024 * 1024)
+    except OSError:
+        cache_size_mb = 0.0
+    global_metrics["cache_size_mb"] = cache_size_mb
+
+    # Merge ecosystem metrics into global metrics
+    global_metrics.update(ecosystem_metrics)
+
+    cache["global_metrics"] = global_metrics
+
+    from datetime import datetime, timedelta
+
+    # Process recent evictions (last 90 days)
+    evictions = cache.get("evictions", [])
+    if state.evicted_repos:
+        evictions.extend(state.evicted_repos)
+
+    cutoff_date = datetime.now() - timedelta(days=90)
+    recent_evictions = []
+    for ev in evictions:
+        try:
+            ev_date = datetime.strptime(ev["evicted_at"], "%Y-%m-%dT%H:%M:%SZ")
+            if ev_date >= cutoff_date:
+                recent_evictions.append(ev)
+        except (KeyError, ValueError):
+            pass
+
+    cache["evictions"] = recent_evictions
+
+    # --- Timeseries generation for Pygal ---
+    current_recipes_set = set()
+    current_scoop_recipes_set = set()
+    current_shovel_recipes_set = set()
+
+    for repo in actual_repos:
+        is_shovel = "shovel-bucket" in repo.get("topics", []) or any(
+            e.endswith(".yaml") or e.endswith(".yml") for e in repo.get("entries", [])
+        )
+
+        for entry in repo.get("entries", []):
+            item = f"{repo['full_name']}:{entry}"
+            current_recipes_set.add(item)
+            if is_shovel:
+                current_shovel_recipes_set.add(item)
+            else:
+                current_scoop_recipes_set.add(item)
+
+    previous_recipes_set = set(cache.get("previous_recipes_set", current_recipes_set))
+    previous_scoop_recipes_set = set(
+        cache.get("previous_scoop_recipes_set", current_scoop_recipes_set)
+    )
+    previous_shovel_recipes_set = set(
+        cache.get("previous_shovel_recipes_set", current_shovel_recipes_set)
+    )
+
+    def calc_delta(curr, prev):
+        added = len(curr - prev)
+        deleted = len(prev - curr)
+        retained = len(curr & prev)
+        return {"added": added, "deleted": -deleted, "retained": retained}
+
+    daily_entry = {
+        "date": datetime.now().strftime("%Y-%m-%d"),
+        "all": calc_delta(current_recipes_set, previous_recipes_set),
+        "scoop": calc_delta(current_scoop_recipes_set, previous_scoop_recipes_set),
+        "shovel": calc_delta(current_shovel_recipes_set, previous_shovel_recipes_set),
+    }
+
+    timeseries = cache.get("timeseries_history", [])
+    if not timeseries or timeseries[-1]["date"] != daily_entry["date"]:
+        timeseries.append(daily_entry)
+    else:
+        timeseries[-1] = daily_entry
+
+    if len(timeseries) > 90:
+        timeseries = timeseries[-90:]
+
+    cache["timeseries_history"] = timeseries
+    cache["previous_recipes_set"] = list(current_recipes_set)
+    cache["previous_scoop_recipes_set"] = list(current_scoop_recipes_set)
+    cache["previous_shovel_recipes_set"] = list(current_shovel_recipes_set)
+
+    from maintenance.output import generate_growth_charts
+
+    generate_growth_charts(timeseries, dir_path)
+
+    generate_readme(
+        actual_repos, scoop_repos, shovel_repos, hidden_gems, trending, global_metrics, dir_path
+    )
+    generate_apis(
+        actual_repos,
+        scoop_repos,
+        shovel_repos,
+        hidden_gems,
+        trending,
+        recent_evictions,
+        global_metrics,
+        dir_path,
+    )
+
+    # Save cache AFTER all ranks and metrics have been calculated so they persist for the next run!
+    save_cache(cache, dir_path)
+
+    print("[INFO] Script Finished...")
+
+
+if __name__ == "__main__":
+    main()
