@@ -1,0 +1,41 @@
+# Zevan770/scoop_zev
+
+* **Repository:** [https://github.com/Zevan770/scoop_zev](https://github.com/Zevan770/scoop_zev)
+* **Score:** 1.0
+* **Auto-Update:** 91%
+
+
+
+## 📦 Recipes (32)
+* [external-editor-revived.json](https://github.com/Zevan770/scoop_zev/blob/main/external-editor-revived.json)
+* [termix.json](https://github.com/Zevan770/scoop_zev/blob/main/termix.json)
+* [task-keeper.json](https://github.com/Zevan770/scoop_zev/blob/main/task-keeper.json)
+* [qtscrcpy.json](https://github.com/Zevan770/scoop_zev/blob/main/qtscrcpy.json)
+* [mq-lsp.json](https://github.com/Zevan770/scoop_zev/blob/main/mq-lsp.json)
+* [any-listen-desktop.json](https://github.com/Zevan770/scoop_zev/blob/main/any-listen-desktop.json)
+* [MapleBright.json](https://github.com/Zevan770/scoop_zev/blob/main/MapleBright.json)
+* [everything-alpha.json](https://github.com/Zevan770/scoop_zev/blob/main/everything-alpha.json)
+* [mq-tui.json](https://github.com/Zevan770/scoop_zev/blob/main/mq-tui.json)
+* [wezterm-nightly.json](https://github.com/Zevan770/scoop_zev/blob/main/wezterm-nightly.json)
+* [sonicinput.json](https://github.com/Zevan770/scoop_zev/blob/main/sonicinput.json)
+* [SpeedyNote.json](https://github.com/Zevan770/scoop_zev/blob/main/SpeedyNote.json)
+* [obsidian.json](https://github.com/Zevan770/scoop_zev/blob/main/obsidian.json)
+* [zonvie.json](https://github.com/Zevan770/scoop_zev/blob/main/zonvie.json)
+* [IosevkaTermSS05NFM_LXGWWenKaiMonoLite.json](https://github.com/Zevan770/scoop_zev/blob/main/IosevkaTermSS05NFM_LXGWWenKaiMonoLite.json)
+* [vocotype.json](https://github.com/Zevan770/scoop_zev/blob/main/vocotype.json)
+* [ObsidianShell.json](https://github.com/Zevan770/scoop_zev/blob/main/ObsidianShell.json)
+* [goose-desktop.json](https://github.com/Zevan770/scoop_zev/blob/main/goose-desktop.json)
+* [ffmpegfreeui.json](https://github.com/Zevan770/scoop_zev/blob/main/ffmpegfreeui.json)
+* [bilibili-tui.json](https://github.com/Zevan770/scoop_zev/blob/main/bilibili-tui.json)
+* [JetBrainsLxgwNerdMono.json](https://github.com/Zevan770/scoop_zev/blob/main/JetBrainsLxgwNerdMono.json)
+* [scrcpy-mask.json](https://github.com/Zevan770/scoop_zev/blob/main/scrcpy-mask.json)
+* [marksnip.json](https://github.com/Zevan770/scoop_zev/blob/main/marksnip.json)
+* [alacritty-sixel.json](https://github.com/Zevan770/scoop_zev/blob/main/alacritty-sixel.json)
+* [mq.json](https://github.com/Zevan770/scoop_zev/blob/main/mq.json)
+* [tauri-motrix.json](https://github.com/Zevan770/scoop_zev/blob/main/tauri-motrix.json)
+* [kanata-gui.json](https://github.com/Zevan770/scoop_zev/blob/main/kanata-gui.json)
+* [bobcat.json](https://github.com/Zevan770/scoop_zev/blob/main/bobcat.json)
+* [netmount.json](https://github.com/Zevan770/scoop_zev/blob/main/netmount.json)
+* [autohotkey_h.json](https://github.com/Zevan770/scoop_zev/blob/main/autohotkey_h.json)
+* [capswriter-offline.json](https://github.com/Zevan770/scoop_zev/blob/main/capswriter-offline.json)
+* [llm-mux.json](https://github.com/Zevan770/scoop_zev/blob/main/llm-mux.json)
