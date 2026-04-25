@@ -21,7 +21,7 @@ GitHubDarkStyle = Style(
 )
 
 
-def generate_growth_charts(timeseries, dir_path):
+def generate_growth_charts(timeseries, out_dir):
     """Generate SVG charts visualizing ecosystem growth and churn."""
     for ecosystem in ["all", "scoop", "shovel"]:
         # We only want to show the last 30 data points so it doesn't get too squished
@@ -48,13 +48,11 @@ def generate_growth_charts(timeseries, dir_path):
             chart.add("Added (Net New)", added, color="#2ECC71")
             chart.add("Deleted", deleted, color="#E74C3C")
 
-            chart.render_to_file(
-                os.path.join(dir_path, "..", f"growth_{ecosystem}_{theme_name}.svg")
-            )
+            chart.render_to_file(os.path.join(out_dir, f"growth_{ecosystem}_{theme_name}.svg"))
 
 
 def generate_readme(
-    actual_repos, scoop_repos, shovel_repos, hidden_gems, trending, metrics, dir_path
+    actual_repos, scoop_repos, shovel_repos, hidden_gems, trending, metrics, out_dir, dir_path
 ):
     """Generate the main README.md file."""
     print(
@@ -69,7 +67,7 @@ def generate_readme(
     )
 
     # Generate individual bucket markdown files
-    buckets_dir = os.path.join(dir_path, "..", "directory")
+    buckets_dir = os.path.join(out_dir, "directory")
     os.makedirs(buckets_dir, exist_ok=True)
     bucket_template = TEMPLATE_ENVIRONMENT.get_template("BucketTemplate.tpl")
 
@@ -89,11 +87,11 @@ def generate_readme(
     }
 
     markdown_content = TEMPLATE_ENVIRONMENT.get_template("ReadmeTemplate.tpl").render(context)
-    with open(os.path.join(dir_path, "..", "README.md"), "w", encoding="utf-8") as readme_file:
+    with open(os.path.join(out_dir, "README.md"), "w", encoding="utf-8") as readme_file:
         readme_file.write(markdown_content)
 
 
-def write_api_file(filename, data_key, data_list, metrics, dir_path):
+def write_api_file(filename, data_key, data_list, metrics, out_dir):
     """Write an API JSON file to disk."""
     api_data = {
         data_key: data_list,
@@ -103,20 +101,20 @@ def write_api_file(filename, data_key, data_list, metrics, dir_path):
             "global_metrics": metrics,
         },
     }
-    with open(os.path.join(dir_path, "..", filename), "w", encoding="utf-8") as json_file:
+    with open(os.path.join(out_dir, filename), "w", encoding="utf-8") as json_file:
         json.dump(api_data, json_file, indent=2, ensure_ascii=False)
 
 
 def generate_apis(
-    actual_repos, scoop_repos, shovel_repos, hidden_gems, trending, evictions, metrics, dir_path
+    actual_repos, scoop_repos, shovel_repos, hidden_gems, trending, evictions, metrics, out_dir
 ):
     """Generate JSON API files for ecosystem consumption."""
     print(
         "[*] Generating Ecosystem APIs (all.json, scoop.json, shovel.json, trending.json, hidden_gems.json, evictions.json)..."
     )
-    write_api_file("all.json", "all", actual_repos, metrics, dir_path)
-    write_api_file("scoop.json", "scoop", scoop_repos, metrics, dir_path)
-    write_api_file("shovel.json", "shovel", shovel_repos, metrics, dir_path)
-    write_api_file("hidden_gems.json", "hidden_gems", hidden_gems, metrics, dir_path)
-    write_api_file("trending.json", "trending", trending, metrics, dir_path)
-    write_api_file("evictions.json", "evictions", evictions, metrics, dir_path)
+    write_api_file("all.json", "all", actual_repos, metrics, out_dir)
+    write_api_file("scoop.json", "scoop", scoop_repos, metrics, out_dir)
+    write_api_file("shovel.json", "shovel", shovel_repos, metrics, out_dir)
+    write_api_file("hidden_gems.json", "hidden_gems", hidden_gems, metrics, out_dir)
+    write_api_file("trending.json", "trending", trending, metrics, out_dir)
+    write_api_file("evictions.json", "evictions", evictions, metrics, out_dir)

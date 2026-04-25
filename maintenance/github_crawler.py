@@ -198,6 +198,35 @@ def main():
     }
 
     timeseries = cache.get("timeseries_history", [])
+
+    # Inject historical seed data if we are missing it (e.g. running in CI for the first few times)
+    if len(timeseries) <= 1:
+        seed_path = os.path.join(dir_path, "seed_timeseries.json")
+        if os.path.exists(seed_path):
+            import json
+
+            try:
+                with open(seed_path, encoding="utf-8") as f:
+                    seed_timeseries = json.load(f)
+
+                # Check if timeseries already has an entry for today from earlier in the run
+                if (
+                    timeseries
+                    and seed_timeseries
+                    and seed_timeseries[-1]["date"] >= timeseries[0]["date"]
+                ):
+                    # Keep the seed data up until today's date
+                    seed_timeseries = [
+                        t for t in seed_timeseries if t["date"] < timeseries[0]["date"]
+                    ]
+
+                timeseries = seed_timeseries + timeseries
+                print(
+                    f"[*] Loaded {len(seed_timeseries)} days of historical timeseries data from seed."
+                )
+            except Exception as e:
+                print(f"[!] Warning: Failed to load seed timeseries: {e}")
+
     if not timeseries or timeseries[-1]["date"] != daily_entry["date"]:
         timeseries.append(daily_entry)
     else:
@@ -211,12 +240,39 @@ def main():
     cache["previous_scoop_recipes_set"] = list(current_scoop_recipes_set)
     cache["previous_shovel_recipes_set"] = list(current_shovel_recipes_set)
 
+    import argparse
+
     from maintenance.output import generate_growth_charts
 
-    generate_growth_charts(timeseries, dir_path)
+    parser = argparse.ArgumentParser(description="Scoop Radar Crawler")
+    parser.add_argument(
+        "--force",
+        action="store_true",
+        help="Force writing outputs and saving cache when running locally",
+    )
+    args, _ = parser.parse_known_args()
+
+    is_ci = os.environ.get("GITHUB_ACTIONS") == "true"
+
+    if is_ci or args.force:
+        out_dir = dir_path
+    else:
+        out_dir = os.path.join(dir_path, "..", "localonly-output")
+        os.makedirs(out_dir, exist_ok=True)
+        print(f"\n[INFO] Running in local mode. Writing generated outputs to '{out_dir}'.")
+        print("[INFO] To overwrite real repository files and cache, use --force.")
+
+    generate_growth_charts(timeseries, out_dir)
 
     generate_readme(
-        actual_repos, scoop_repos, shovel_repos, hidden_gems, trending, global_metrics, dir_path
+        actual_repos,
+        scoop_repos,
+        shovel_repos,
+        hidden_gems,
+        trending,
+        global_metrics,
+        out_dir,
+        dir_path,
     )
     generate_apis(
         actual_repos,
@@ -226,13 +282,18 @@ def main():
         trending,
         recent_evictions,
         global_metrics,
-        dir_path,
+        out_dir,
     )
 
-    # Save cache AFTER all ranks and metrics have been calculated so they persist for the next run!
-    save_cache(cache, dir_path)
+    if is_ci or args.force:
+        # Save cache AFTER all ranks and metrics have been calculated so they persist for the next run!
+        save_cache(cache, dir_path)
+    else:
+        # Also save cache locally so we don't refetch everything constantly
+        print("[INFO] Saving cache.pickle to localonly-output for debugging...")
+        save_cache(cache, out_dir)
 
-    print("[INFO] Script Finished...")
+    print("[INFO] Script Finished and outputs written.")
 
 
 if __name__ == "__main__":

@@ -21,12 +21,12 @@ def test_generate_growth_charts(tmp_path):
     dummy_dir.mkdir()
     generate_growth_charts(timeseries, str(dummy_dir))
 
-    assert (tmp_path / "growth_all_light.svg").exists()
-    assert (tmp_path / "growth_scoop_light.svg").exists()
-    assert (tmp_path / "growth_shovel_light.svg").exists()
-    assert (tmp_path / "growth_all_dark.svg").exists()
-    assert (tmp_path / "growth_scoop_dark.svg").exists()
-    assert (tmp_path / "growth_shovel_dark.svg").exists()
+    assert (dummy_dir / "growth_all_light.svg").exists()
+    assert (dummy_dir / "growth_scoop_light.svg").exists()
+    assert (dummy_dir / "growth_shovel_light.svg").exists()
+    assert (dummy_dir / "growth_all_dark.svg").exists()
+    assert (dummy_dir / "growth_scoop_dark.svg").exists()
+    assert (dummy_dir / "growth_shovel_dark.svg").exists()
 
 
 def test_generate_readme(tmp_path):
@@ -67,10 +67,17 @@ def test_generate_readme(tmp_path):
     bucket_template_file.write_text("Test bucket template")
 
     generate_readme(
-        actual_repos, scoop_repos, shovel_repos, hidden_gems, trending, metrics, str(tmp_path)
+        actual_repos,
+        scoop_repos,
+        shovel_repos,
+        hidden_gems,
+        trending,
+        metrics,
+        str(tmp_path),
+        str(tmp_path),
     )
 
-    readme_file = tmp_path.parent / "README.md"
+    readme_file = tmp_path / "README.md"
     assert readme_file.exists()
     content = readme_file.read_text()
     assert "Test template with user/repo" in content
@@ -87,7 +94,7 @@ def test_write_api_file(tmp_path):
 
     write_api_file("test.json", "my_key", data, metrics, str(dummy_dir))
 
-    output_file = tmp_path / "test.json"
+    output_file = dummy_dir / "test.json"
     assert output_file.exists()
     content = json.loads(output_file.read_text())
     assert content["my_key"] == data
