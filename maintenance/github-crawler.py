@@ -308,6 +308,17 @@ def main():
     print(f'[*] Slice complete. {updated_count} repos actually updated their data/files.')
 
     # 3. GENERATE README (Always generate a fresh README with whatever state the cache is in)
+    KNOWN_SCOOP_BUCKETS = [
+        'ScoopInstaller/Main', 'ScoopInstaller/Extras', 'ScoopInstaller/Versions',
+        'ScoopInstaller/Nirsoft', 'ScoopInstaller/Sysinternals', 'ScoopInstaller/PHP',
+        'ScoopInstaller/Nerd-Fonts', 'ScoopInstaller/Nonportable', 'ScoopInstaller/Java',
+        'ScoopInstaller/Games'
+    ]
+    
+    KNOWN_SHOVEL_BUCKETS = [
+        'Ash258/Scoop-Ash258'
+    ]
+
     # Upgrade existing stripped extensions
     for repofoldername in repo_keys:
         entry = cache[repofoldername]
@@ -329,6 +340,9 @@ def main():
     for repo in actual_repos:
         topics = repo.get('topics', [])
         entries = repo.get('entries', [])
+        
+        repo['is_scoop_official'] = repo.get('full_name', '').lower() in [b.lower() for b in KNOWN_SCOOP_BUCKETS]
+        repo['is_shovel_official'] = repo.get('full_name', '').lower() in [b.lower() for b in KNOWN_SHOVEL_BUCKETS] or repo.get('full_name', '').lower().startswith('ash258/')
         
         is_shovel = 'shovel-bucket' in topics or any(e.endswith('.yaml') or e.endswith('.yml') for e in entries)
         if is_shovel:
