@@ -50,6 +50,7 @@ def generate_readme(
         autoescape=False,
         loader=FileSystemLoader(os.path.join(dir_path, "template")),
         trim_blocks=False,
+        keep_trailing_newline=True,
     )
 
     context = {
