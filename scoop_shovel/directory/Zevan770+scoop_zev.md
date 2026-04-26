@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (32)
 * [external-editor-revived.json](https://github.com/Zevan770/scoop_zev/blob/main/bucket/external-editor-revived.json)
 * [termix.json](https://github.com/Zevan770/scoop_zev/blob/main/bucket/termix.json)

@@ -6,10 +6,12 @@
 
 
 
-## 📦 Recipes (15)
+
+## 📦 Recipes (16)
 * [aardio.json](https://github.com/bughug/scoop/blob/main/bucket/aardio.json)
 * [cockpit-tools.json](https://github.com/bughug/scoop/blob/main/bucket/cockpit-tools.json)
 * [bitvise-ssh-client.json](https://github.com/bughug/scoop/blob/main/bucket/bitvise-ssh-client.json)
+* [ZTools.json](https://github.com/bughug/scoop/blob/main/bucket/ZTools.json)
 * [opencode.json](https://github.com/bughug/scoop/blob/main/bucket/opencode.json)
 * [clash-verge-rev.json](https://github.com/bughug/scoop/blob/main/bucket/clash-verge-rev.json)
 * [rclone.json](https://github.com/bughug/scoop/blob/main/bucket/rclone.json)

@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (2)
 * [winhugs.json](https://github.com/Kantouzin/scoop-bucketouzin/blob/master/bucket/winhugs.json)
 * [kuin.json](https://github.com/Kantouzin/scoop-bucketouzin/blob/master/bucket/kuin.json)

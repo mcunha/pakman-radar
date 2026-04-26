@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [anime-studio.json](https://github.com/nonperforming/scoop/blob/master/bucket/anime-studio.json)

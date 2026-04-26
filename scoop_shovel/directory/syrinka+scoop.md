@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (5)
 * [minify.json](https://github.com/syrinka/scoop/blob/master/bucket/minify.json)
 * [rimsort.json](https://github.com/syrinka/scoop/blob/master/bucket/rimsort.json)

@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (3)
 * [edgeremoval.json](https://github.com/FrostyNick/scoop-bucket/blob/main/bucket/edgeremoval.json)
 * [purified.json](https://github.com/FrostyNick/scoop-bucket/blob/main/bucket/purified.json)

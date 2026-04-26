@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (4)
 * [openocd.json](https://github.com/Logiase/scoop-embedded/blob/master/bucket/openocd.json)
 * [riscv-none-embed-gcc.json](https://github.com/Logiase/scoop-embedded/blob/master/bucket/riscv-none-embed-gcc.json)

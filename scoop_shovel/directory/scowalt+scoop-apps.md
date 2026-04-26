@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (5)
 * [powerpanel-personal-np.json](https://github.com/scowalt/scoop-apps/blob/main/bucket/powerpanel-personal-np.json)
 * [cerebro.json](https://github.com/scowalt/scoop-apps/blob/main/bucket/cerebro.json)

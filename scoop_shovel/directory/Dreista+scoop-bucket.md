@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [hhc.json](https://github.com/Dreista/scoop-bucket/blob/trunk/bucket/hhc.json)

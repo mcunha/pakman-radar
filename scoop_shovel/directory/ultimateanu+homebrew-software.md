@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [hashdir.json](https://github.com/ultimateanu/homebrew-software/blob/main/bucket/hashdir.json)

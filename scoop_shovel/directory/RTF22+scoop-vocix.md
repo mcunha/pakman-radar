@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [vocix.json](https://github.com/RTF22/scoop-vocix/blob/main/bucket/vocix.json)

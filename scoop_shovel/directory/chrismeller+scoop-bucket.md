@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (9)
 * [sql-studio.json](https://github.com/chrismeller/scoop-bucket/blob/main/bucket/sql-studio.json)
 * [flashfxp.json](https://github.com/chrismeller/scoop-bucket/blob/main/bucket/flashfxp.json)
