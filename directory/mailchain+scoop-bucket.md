@@ -7,4 +7,4 @@
 
 
 ## 📦 Recipes (1)
-* [mailchain.json](https://github.com/mailchain/scoop-bucket/blob/master/mailchain.json)
+* [mailchain.json](https://github.com/mailchain/scoop-bucket/blob/master/bucket/mailchain.json)

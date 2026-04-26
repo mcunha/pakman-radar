@@ -8,6 +8,6 @@
 
 ## 📦 Recipes (4)
 * [claude-code.json](https://github.com/vladhietala/vlad-scoop-bucket/blob/master/bucket/claude-code.json)
-* [ghostPCL.json](https://github.com/vladhietala/vlad-scoop-bucket/blob/master/bucket/ghostPCL.json)
 * [hoop.dev.json](https://github.com/vladhietala/vlad-scoop-bucket/blob/master/bucket/hoop.dev.json)
+* [ghostPCL.json](https://github.com/vladhietala/vlad-scoop-bucket/blob/master/bucket/ghostPCL.json)
 * [youtube-dl.json](https://github.com/vladhietala/vlad-scoop-bucket/blob/master/bucket/youtube-dl.json)

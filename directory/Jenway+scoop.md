@@ -7,11 +7,11 @@
 
 
 ## 📦 Recipes (8)
-* [blockthespot.json](https://github.com/Jenway/scoop/blob/master/bucket/blockthespot.json)
-* [enigma-virtual-box.json](https://github.com/Jenway/scoop/blob/master/bucket/enigma-virtual-box.json)
-* [kikoplay.json](https://github.com/Jenway/scoop/blob/master/bucket/kikoplay.json)
-* [mikan_flutter.json](https://github.com/Jenway/scoop/blob/master/bucket/mikan_flutter.json)
-* [Monaco-NF-Mono-Ligaturized.json](https://github.com/Jenway/scoop/blob/master/bucket/Monaco-NF-Mono-Ligaturized.json)
-* [Monaco-NF-Mono.json](https://github.com/Jenway/scoop/blob/master/bucket/Monaco-NF-Mono.json)
-* [openjdk.json](https://github.com/Jenway/scoop/blob/master/bucket/openjdk.json)
 * [OpenTrace.json](https://github.com/Jenway/scoop/blob/master/bucket/OpenTrace.json)
+* [openjdk.json](https://github.com/Jenway/scoop/blob/master/bucket/openjdk.json)
+* [enigma-virtual-box.json](https://github.com/Jenway/scoop/blob/master/bucket/enigma-virtual-box.json)
+* [Monaco-NF-Mono-Ligaturized.json](https://github.com/Jenway/scoop/blob/master/bucket/Monaco-NF-Mono-Ligaturized.json)
+* [mikan_flutter.json](https://github.com/Jenway/scoop/blob/master/bucket/mikan_flutter.json)
+* [Monaco-NF-Mono.json](https://github.com/Jenway/scoop/blob/master/bucket/Monaco-NF-Mono.json)
+* [blockthespot.json](https://github.com/Jenway/scoop/blob/master/bucket/blockthespot.json)
+* [kikoplay.json](https://github.com/Jenway/scoop/blob/master/bucket/kikoplay.json)

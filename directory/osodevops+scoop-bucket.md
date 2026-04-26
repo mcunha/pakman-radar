@@ -7,10 +7,10 @@
 
 
 ## 📦 Recipes (7)
-* [instagramix.json](https://github.com/osodevops/scoop-bucket/blob/main/bucket/instagramix.json)
-* [kafka-backup-monitor.json](https://github.com/osodevops/scoop-bucket/blob/main/bucket/kafka-backup-monitor.json)
-* [kafka-backup.json](https://github.com/osodevops/scoop-bucket/blob/main/bucket/kafka-backup.json)
-* [pplx.json](https://github.com/osodevops/scoop-bucket/blob/main/bucket/pplx.json)
-* [slk.json](https://github.com/osodevops/scoop-bucket/blob/main/bucket/slk.json)
 * [td.json](https://github.com/osodevops/scoop-bucket/blob/main/bucket/td.json)
+* [slk.json](https://github.com/osodevops/scoop-bucket/blob/main/bucket/slk.json)
+* [kafka-backup-monitor.json](https://github.com/osodevops/scoop-bucket/blob/main/bucket/kafka-backup-monitor.json)
+* [pplx.json](https://github.com/osodevops/scoop-bucket/blob/main/bucket/pplx.json)
+* [instagramix.json](https://github.com/osodevops/scoop-bucket/blob/main/bucket/instagramix.json)
+* [kafka-backup.json](https://github.com/osodevops/scoop-bucket/blob/main/bucket/kafka-backup.json)
 * [xero.json](https://github.com/osodevops/scoop-bucket/blob/main/bucket/xero.json)

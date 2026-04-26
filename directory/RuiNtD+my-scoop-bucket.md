@@ -7,11 +7,11 @@
 
 
 ## 📦 Recipes (8)
+* [devtoys-cli.json](https://github.com/RuiNtD/my-scoop-bucket/blob/main/bucket/devtoys-cli.json)
 * [cava.json](https://github.com/RuiNtD/my-scoop-bucket/blob/main/bucket/cava.json)
 * [copyparty.json](https://github.com/RuiNtD/my-scoop-bucket/blob/main/bucket/copyparty.json)
-* [devtoys-cli.json](https://github.com/RuiNtD/my-scoop-bucket/blob/main/bucket/devtoys-cli.json)
 * [equilotl.json](https://github.com/RuiNtD/my-scoop-bucket/blob/main/bucket/equilotl.json)
-* [framework-tool.json](https://github.com/RuiNtD/my-scoop-bucket/blob/main/bucket/framework-tool.json)
 * [headlessmc.json](https://github.com/RuiNtD/my-scoop-bucket/blob/main/bucket/headlessmc.json)
 * [portablemc.json](https://github.com/RuiNtD/my-scoop-bucket/blob/main/bucket/portablemc.json)
+* [framework-tool.json](https://github.com/RuiNtD/my-scoop-bucket/blob/main/bucket/framework-tool.json)
 * [tacklecast.json](https://github.com/RuiNtD/my-scoop-bucket/blob/main/bucket/tacklecast.json)

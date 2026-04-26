@@ -7,13 +7,13 @@
 
 
 ## 📦 Recipes (10)
-* [adobe-reader-dc.json](https://github.com/mbl-35/scoop-srsrns/blob/main/bucket/adobe-reader-dc.json)
-* [firefox-developer-fr.json](https://github.com/mbl-35/scoop-srsrns/blob/main/bucket/firefox-developer-fr.json)
-* [firefox.json](https://github.com/mbl-35/scoop-srsrns/blob/main/bucket/firefox.json)
 * [nagstamon.json](https://github.com/mbl-35/scoop-srsrns/blob/main/bucket/nagstamon.json)
-* [tablacus.json](https://github.com/mbl-35/scoop-srsrns/blob/main/bucket/tablacus.json)
 * [taskbarxi.json](https://github.com/mbl-35/scoop-srsrns/blob/main/bucket/taskbarxi.json)
+* [adobe-reader-dc.json](https://github.com/mbl-35/scoop-srsrns/blob/main/bucket/adobe-reader-dc.json)
 * [wsl-switch.json](https://github.com/mbl-35/scoop-srsrns/blob/main/bucket/wsl-switch.json)
-* [wsl-vpnkit-tray.json](https://github.com/mbl-35/scoop-srsrns/blob/main/bucket/wsl-vpnkit-tray.json)
+* [tablacus.json](https://github.com/mbl-35/scoop-srsrns/blob/main/bucket/tablacus.json)
 * [wsl-vpnkit.json](https://github.com/mbl-35/scoop-srsrns/blob/main/bucket/wsl-vpnkit.json)
+* [firefox-developer-fr.json](https://github.com/mbl-35/scoop-srsrns/blob/main/bucket/firefox-developer-fr.json)
+* [wsl-vpnkit-tray.json](https://github.com/mbl-35/scoop-srsrns/blob/main/bucket/wsl-vpnkit-tray.json)
+* [firefox.json](https://github.com/mbl-35/scoop-srsrns/blob/main/bucket/firefox.json)
 * [wslctl.json](https://github.com/mbl-35/scoop-srsrns/blob/main/bucket/wslctl.json)

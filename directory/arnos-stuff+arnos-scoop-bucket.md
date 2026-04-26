@@ -7,9 +7,9 @@
 
 
 ## 📦 Recipes (6)
+* [control-my-monitor.json](https://github.com/arnos-stuff/arnos-scoop-bucket/blob/master/bucket/control-my-monitor.json)
 * [chrome-html-to-pdf.json](https://github.com/arnos-stuff/arnos-scoop-bucket/blob/master/bucket/chrome-html-to-pdf.json)
 * [conTeXt.json](https://github.com/arnos-stuff/arnos-scoop-bucket/blob/master/bucket/conTeXt.json)
-* [control-my-monitor.json](https://github.com/arnos-stuff/arnos-scoop-bucket/blob/master/bucket/control-my-monitor.json)
 * [fn-themes.json](https://github.com/arnos-stuff/arnos-scoop-bucket/blob/master/bucket/fn-themes.json)
-* [pandoc-sidenote.json](https://github.com/arnos-stuff/arnos-scoop-bucket/blob/master/bucket/pandoc-sidenote.json)
 * [quarto.wip.json](https://github.com/arnos-stuff/arnos-scoop-bucket/blob/master/bucket/quarto.wip.json)
+* [pandoc-sidenote.json](https://github.com/arnos-stuff/arnos-scoop-bucket/blob/master/bucket/pandoc-sidenote.json)

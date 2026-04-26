@@ -7,5 +7,5 @@
 
 
 ## 📦 Recipes (2)
-* [step-ca.json](https://github.com/smallstep/scoop-bucket/blob/main/step-ca.json)
-* [step.json](https://github.com/smallstep/scoop-bucket/blob/main/step.json)
+* [step.json](https://github.com/smallstep/scoop-bucket/blob/main/bucket/step.json)
+* [step-ca.json](https://github.com/smallstep/scoop-bucket/blob/main/bucket/step-ca.json)

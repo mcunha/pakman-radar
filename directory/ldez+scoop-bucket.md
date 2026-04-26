@@ -7,9 +7,9 @@
 
 
 ## 📦 Recipes (6)
-* [deptomod.json](https://github.com/ldez/scoop-bucket/blob/master/deptomod.json)
-* [distributarepo.json](https://github.com/ldez/scoop-bucket/blob/master/distributarepo.json)
-* [gcg.json](https://github.com/ldez/scoop-bucket/blob/master/gcg.json)
-* [gti.json](https://github.com/ldez/scoop-bucket/blob/master/gti.json)
-* [motoko.json](https://github.com/ldez/scoop-bucket/blob/master/motoko.json)
-* [prm.json](https://github.com/ldez/scoop-bucket/blob/master/prm.json)
+* [gcg.json](https://github.com/ldez/scoop-bucket/blob/master/bucket/gcg.json)
+* [motoko.json](https://github.com/ldez/scoop-bucket/blob/master/bucket/motoko.json)
+* [deptomod.json](https://github.com/ldez/scoop-bucket/blob/master/bucket/deptomod.json)
+* [gti.json](https://github.com/ldez/scoop-bucket/blob/master/bucket/gti.json)
+* [distributarepo.json](https://github.com/ldez/scoop-bucket/blob/master/bucket/distributarepo.json)
+* [prm.json](https://github.com/ldez/scoop-bucket/blob/master/bucket/prm.json)

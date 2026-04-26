@@ -7,5 +7,5 @@
 
 
 ## 📦 Recipes (2)
-* [putty-snapshot.json](https://github.com/icedream/scoop-bucket/blob/master/bucket/putty-snapshot.json)
 * [quassel.json](https://github.com/icedream/scoop-bucket/blob/master/bucket/quassel.json)
+* [putty-snapshot.json](https://github.com/icedream/scoop-bucket/blob/master/bucket/putty-snapshot.json)

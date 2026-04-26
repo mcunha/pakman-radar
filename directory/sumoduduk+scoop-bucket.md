@@ -7,4 +7,4 @@
 
 
 ## 📦 Recipes (1)
-* [termusix.json](https://github.com/sumoduduk/scoop-bucket/blob/main/termusix.json)
+* [termusix.json](https://github.com/sumoduduk/scoop-bucket/blob/main/bucket/termusix.json)

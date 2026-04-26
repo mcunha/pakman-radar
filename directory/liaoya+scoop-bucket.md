@@ -7,5 +7,5 @@
 
 
 ## 📦 Recipes (2)
-* [codelite.json](https://github.com/liaoya/scoop-bucket/blob/master/bucket/codelite.json)
 * [ppink.json](https://github.com/liaoya/scoop-bucket/blob/master/bucket/ppink.json)
+* [codelite.json](https://github.com/liaoya/scoop-bucket/blob/master/bucket/codelite.json)

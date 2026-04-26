@@ -7,7 +7,7 @@
 
 
 ## 📦 Recipes (4)
-* [Cica.json](https://github.com/zknx/scoop-bucket/blob/master/bucket/Cica.json)
-* [handle2.json](https://github.com/zknx/scoop-bucket/blob/master/bucket/handle2.json)
-* [jwno.json](https://github.com/zknx/scoop-bucket/blob/master/bucket/jwno.json)
 * [sioyek.json](https://github.com/zknx/scoop-bucket/blob/master/bucket/sioyek.json)
+* [handle2.json](https://github.com/zknx/scoop-bucket/blob/master/bucket/handle2.json)
+* [Cica.json](https://github.com/zknx/scoop-bucket/blob/master/bucket/Cica.json)
+* [jwno.json](https://github.com/zknx/scoop-bucket/blob/master/bucket/jwno.json)

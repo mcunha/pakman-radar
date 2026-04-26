@@ -7,10 +7,10 @@
 
 
 ## 📦 Recipes (7)
-* [capstone.json](https://github.com/Vechro/ryence/blob/main/bucket/capstone.json)
+* [ki.json](https://github.com/Vechro/ryence/blob/main/bucket/ki.json)
 * [chromium-canary.json](https://github.com/Vechro/ryence/blob/main/bucket/chromium-canary.json)
+* [jitwatch.json](https://github.com/Vechro/ryence/blob/main/bucket/jitwatch.json)
+* [capstone.json](https://github.com/Vechro/ryence/blob/main/bucket/capstone.json)
+* [recaf.json](https://github.com/Vechro/ryence/blob/main/bucket/recaf.json)
 * [decompiler.json](https://github.com/Vechro/ryence/blob/main/bucket/decompiler.json)
 * [gradle-profiler.json](https://github.com/Vechro/ryence/blob/main/bucket/gradle-profiler.json)
-* [jitwatch.json](https://github.com/Vechro/ryence/blob/main/bucket/jitwatch.json)
-* [ki.json](https://github.com/Vechro/ryence/blob/main/bucket/ki.json)
-* [recaf.json](https://github.com/Vechro/ryence/blob/main/bucket/recaf.json)

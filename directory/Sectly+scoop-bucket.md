@@ -7,6 +7,6 @@
 
 
 ## 📦 Recipes (3)
-* [everything.json](https://github.com/Sectly/scoop-bucket/blob/master/bucket/everything.json)
 * [metrochat.json](https://github.com/Sectly/scoop-bucket/blob/master/bucket/metrochat.json)
+* [everything.json](https://github.com/Sectly/scoop-bucket/blob/master/bucket/everything.json)
 * [tricksplit.json](https://github.com/Sectly/scoop-bucket/blob/master/bucket/tricksplit.json)

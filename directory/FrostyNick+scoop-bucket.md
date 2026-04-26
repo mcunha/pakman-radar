@@ -8,5 +8,5 @@
 
 ## 📦 Recipes (3)
 * [edgeremoval.json](https://github.com/FrostyNick/scoop-bucket/blob/main/bucket/edgeremoval.json)
-* [fennel.json](https://github.com/FrostyNick/scoop-bucket/blob/main/bucket/fennel.json)
 * [purified.json](https://github.com/FrostyNick/scoop-bucket/blob/main/bucket/purified.json)
+* [fennel.json](https://github.com/FrostyNick/scoop-bucket/blob/main/bucket/fennel.json)

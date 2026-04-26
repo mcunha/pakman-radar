@@ -7,12 +7,12 @@
 
 
 ## 📦 Recipes (9)
+* [msstyleeditor.json](https://github.com/tech189/tech189-bucket/blob/master/bucket/msstyleeditor.json)
 * [beautysearch.json](https://github.com/tech189/tech189-bucket/blob/master/bucket/beautysearch.json)
 * [diogenes.json](https://github.com/tech189/tech189-bucket/blob/master/bucket/diogenes.json)
 * [drovp.json](https://github.com/tech189/tech189-bucket/blob/master/bucket/drovp.json)
-* [msstyleeditor.json](https://github.com/tech189/tech189-bucket/blob/master/bucket/msstyleeditor.json)
 * [persistentwindows.json](https://github.com/tech189/tech189-bucket/blob/master/bucket/persistentwindows.json)
-* [png2ico.json](https://github.com/tech189/tech189-bucket/blob/master/bucket/png2ico.json)
 * [pngsource.json](https://github.com/tech189/tech189-bucket/blob/master/bucket/pngsource.json)
-* [sttr.json](https://github.com/tech189/tech189-bucket/blob/master/bucket/sttr.json)
 * [vkectl.json](https://github.com/tech189/tech189-bucket/blob/master/bucket/vkectl.json)
+* [sttr.json](https://github.com/tech189/tech189-bucket/blob/master/bucket/sttr.json)
+* [png2ico.json](https://github.com/tech189/tech189-bucket/blob/master/bucket/png2ico.json)

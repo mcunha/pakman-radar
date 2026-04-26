@@ -7,7 +7,7 @@
 
 
 ## 📦 Recipes (4)
-* [envfetch.json](https://github.com/ankddev/scoop-ankddev/blob/main/bucket/envfetch.json)
-* [gengo.json](https://github.com/ankddev/scoop-ankddev/blob/main/bucket/gengo.json)
-* [msedit.json](https://github.com/ankddev/scoop-ankddev/blob/main/bucket/msedit.json)
 * [onefetch.json](https://github.com/ankddev/scoop-ankddev/blob/main/bucket/onefetch.json)
+* [envfetch.json](https://github.com/ankddev/scoop-ankddev/blob/main/bucket/envfetch.json)
+* [msedit.json](https://github.com/ankddev/scoop-ankddev/blob/main/bucket/msedit.json)
+* [gengo.json](https://github.com/ankddev/scoop-ankddev/blob/main/bucket/gengo.json)

@@ -7,10 +7,10 @@
 
 
 ## 📦 Recipes (7)
-* [aquasnap.json](https://github.com/Koalhack/SCrispyBucket/blob/main/bucket/aquasnap.json)
 * [cisco-packettracer.json](https://github.com/Koalhack/SCrispyBucket/blob/main/bucket/cisco-packettracer.json)
-* [normcap.json](https://github.com/Koalhack/SCrispyBucket/blob/main/bucket/normcap.json)
+* [aquasnap.json](https://github.com/Koalhack/SCrispyBucket/blob/main/bucket/aquasnap.json)
 * [pureref.json](https://github.com/Koalhack/SCrispyBucket/blob/main/bucket/pureref.json)
-* [startallback.json](https://github.com/Koalhack/SCrispyBucket/blob/main/bucket/startallback.json)
 * [tidytabs.json](https://github.com/Koalhack/SCrispyBucket/blob/main/bucket/tidytabs.json)
+* [startallback.json](https://github.com/Koalhack/SCrispyBucket/blob/main/bucket/startallback.json)
+* [normcap.json](https://github.com/Koalhack/SCrispyBucket/blob/main/bucket/normcap.json)
 * [twingate.json](https://github.com/Koalhack/SCrispyBucket/blob/main/bucket/twingate.json)

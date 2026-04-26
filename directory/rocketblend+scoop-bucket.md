@@ -7,5 +7,5 @@
 
 
 ## 📦 Recipes (2)
-* [collector.json](https://github.com/rocketblend/scoop-bucket/blob/master/bucket/collector.json)
 * [rocketblend.json](https://github.com/rocketblend/scoop-bucket/blob/master/bucket/rocketblend.json)
+* [collector.json](https://github.com/rocketblend/scoop-bucket/blob/master/bucket/collector.json)

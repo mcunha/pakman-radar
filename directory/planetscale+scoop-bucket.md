@@ -7,5 +7,5 @@
 
 
 ## 📦 Recipes (2)
-* [ps-singer-tap.json](https://github.com/planetscale/scoop-bucket/blob/main/ps-singer-tap.json)
-* [pscale.json](https://github.com/planetscale/scoop-bucket/blob/main/pscale.json)
+* [pscale.json](https://github.com/planetscale/scoop-bucket/blob/main/bucket/pscale.json)
+* [ps-singer-tap.json](https://github.com/planetscale/scoop-bucket/blob/main/bucket/ps-singer-tap.json)

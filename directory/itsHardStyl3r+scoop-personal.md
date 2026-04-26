@@ -8,6 +8,6 @@
 
 ## 📦 Recipes (4)
 * [ccstopper.json](https://github.com/itsHardStyl3r/scoop-personal/blob/master/bucket/ccstopper.json)
-* [qbittorrent.json](https://github.com/itsHardStyl3r/scoop-personal/blob/master/bucket/qbittorrent.json)
 * [virtualbox-with-extension-pack-np.json](https://github.com/itsHardStyl3r/scoop-personal/blob/master/bucket/virtualbox-with-extension-pack-np.json)
 * [zerotier-np.json](https://github.com/itsHardStyl3r/scoop-personal/blob/master/bucket/zerotier-np.json)
+* [qbittorrent.json](https://github.com/itsHardStyl3r/scoop-personal/blob/master/bucket/qbittorrent.json)

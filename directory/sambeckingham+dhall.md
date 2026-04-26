@@ -7,5 +7,5 @@
 
 
 ## 📦 Recipes (2)
-* [dhall-bash.json](https://github.com/sambeckingham/dhall/blob/main/dhall-bash.json)
 * [dhall-json.json](https://github.com/sambeckingham/dhall/blob/main/dhall-json.json)
+* [dhall-bash.json](https://github.com/sambeckingham/dhall/blob/main/dhall-bash.json)
