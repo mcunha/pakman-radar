@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (13)
 * [musescore-nightly-with-file-associations.json](https://github.com/TheRandomLabs/Scoop-Bucket/blob/master/bucket/musescore-nightly-with-file-associations.json)
 * [shellexview.json](https://github.com/TheRandomLabs/Scoop-Bucket/blob/master/bucket/shellexview.json)

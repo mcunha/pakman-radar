@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (16)
 * [PicGuard.PicGuard.installer.yaml](https://github.com/picguard/winget-updater/blob/main/stable/PicGuard.PicGuard.installer.yaml)
 * [PicGuard.PicGuard.locale.zh-CN.yaml](https://github.com/picguard/winget-updater/blob/main/stable/PicGuard.PicGuard.locale.zh-CN.yaml)

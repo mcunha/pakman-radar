@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [configcat.json](https://github.com/configcat/scoop-configcat/blob/main/bucket/configcat.json)

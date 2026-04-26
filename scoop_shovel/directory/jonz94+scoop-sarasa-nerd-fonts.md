@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (49)
 * [sarasa-term-slab-hc-nerd-font.json](https://github.com/jonz94/scoop-sarasa-nerd-fonts/blob/master/bucket/sarasa-term-slab-hc-nerd-font.json)
 * [sarasa-mono-slab-hc-nerd-font.json](https://github.com/jonz94/scoop-sarasa-nerd-fonts/blob/master/bucket/sarasa-mono-slab-hc-nerd-font.json)

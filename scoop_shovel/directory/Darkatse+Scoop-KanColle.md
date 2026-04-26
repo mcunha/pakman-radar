@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (9)
 * [logbook-ex.json](https://github.com/Darkatse/Scoop-KanColle/blob/master/bucket/logbook-ex.json)
 * [logbookex-red.json](https://github.com/Darkatse/Scoop-KanColle/blob/master/bucket/logbookex-red.json)

@@ -3,8 +3,9 @@
 * **Repository:** [https://github.com/matthewjberger/scoop-nerd-fonts](https://github.com/matthewjberger/scoop-nerd-fonts)
 * **Score:** 1.0
 * **Auto-Update:** 92%
-* **Status:** ⭐ Known Scoop Bucket
-* **Status:** ⭐ Known Shovel Bucket
+
+
+
 
 ## 📦 Recipes (366)
 * [Hasklig-NF-Propo.json](https://github.com/matthewjberger/scoop-nerd-fonts/blob/master/bucket/Hasklig-NF-Propo.json)

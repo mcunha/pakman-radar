@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (164)
 * [simpread-synchelper.json](https://github.com/hu3rror/scoop-muggle/blob/master/bucket/simpread-synchelper.json)
 * [nora.json](https://github.com/hu3rror/scoop-muggle/blob/master/bucket/nora.json)

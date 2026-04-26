@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (21)
 * [galaxy-paradox.json](https://github.com/borger/scoop-galaxy-integrations/blob/main/bucket/galaxy-paradox.json)
 * [galaxy-pathofexile.json](https://github.com/borger/scoop-galaxy-integrations/blob/main/bucket/galaxy-pathofexile.json)

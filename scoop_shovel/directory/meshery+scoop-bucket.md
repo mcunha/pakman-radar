@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [mesheryctl.json](https://github.com/meshery/scoop-bucket/blob/master/bucket/mesheryctl.json)

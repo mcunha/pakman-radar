@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (33)
 * [autopsy-python-plugins.json](https://github.com/jfut/scoop-jfut/blob/master/bucket/autopsy-python-plugins.json)
 * [explzh.ja.json](https://github.com/jfut/scoop-jfut/blob/master/bucket/explzh.ja.json)

@@ -3,7 +3,8 @@
 * **Repository:** [https://github.com/niheaven/scoop-sysinternals](https://github.com/niheaven/scoop-sysinternals)
 * **Score:** 1.0
 * **Auto-Update:** 100%
-* **Status:** ⭐ Known Scoop Bucket
+
+
 
 
 ## 📦 Recipes (75)

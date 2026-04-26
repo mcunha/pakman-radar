@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (35)
 * [zigmod.json](https://github.com/iquiw/scoop-bucket/blob/master/bucket/zigmod.json)
 * [pict.json](https://github.com/iquiw/scoop-bucket/blob/master/bucket/pict.json)

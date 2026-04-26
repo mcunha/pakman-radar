@@ -3,7 +3,8 @@
 * **Repository:** [https://github.com/microsoft/winget-pkgs-submission-test](https://github.com/microsoft/winget-pkgs-submission-test)
 * **Score:** 1.0
 * **Auto-Update:** 0%
-* **Status:** 👑 Official Scoop Bucket
+
+* **Status:** 👑 Official Repository
 
 
 ## 📦 Recipes (5352)

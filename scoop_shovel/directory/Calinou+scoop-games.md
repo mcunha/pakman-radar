@@ -3,8 +3,9 @@
 * **Repository:** [https://github.com/Calinou/scoop-games](https://github.com/Calinou/scoop-games)
 * **Score:** 1.0
 * **Auto-Update:** 92%
-* **Status:** ⭐ Known Scoop Bucket
-* **Status:** ⭐ Known Shovel Bucket
+
+
+
 
 ## 📦 Recipes (398)
 * [gdsdecomp.json](https://github.com/Calinou/scoop-games/blob/master/bucket/gdsdecomp.json)

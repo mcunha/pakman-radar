@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (70)
 * [nsis-2.18.json](https://github.com/NSIS-Dev/scoop-nsis/blob/main/bucket/nsis-2.18.json)
 * [nsis-3.02.1.json](https://github.com/NSIS-Dev/scoop-nsis/blob/main/bucket/nsis-3.02.1.json)

@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (20)
 * [qui.json](https://github.com/Rinkerbel/scooped/blob/master/bucket/qui.json)
 * [mangayomi.json](https://github.com/Rinkerbel/scooped/blob/master/bucket/mangayomi.json)

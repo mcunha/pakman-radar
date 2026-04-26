@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (45)
 * [comfyui.json](https://github.com/Scoopforge/Extras-Plus/blob/main/bucket/comfyui.json)
 * [tropy.json](https://github.com/Scoopforge/Extras-Plus/blob/main/bucket/tropy.json)

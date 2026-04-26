@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (26)
 * [VoiceMeet.VoiceMeet.locale.ko-KR.yaml](https://github.com/voicemeet/winget-updater/blob/main/stable/VoiceMeet.VoiceMeet.locale.ko-KR.yaml)
 * [VoiceMeet.VoiceMeet.locale.zh-HK.yaml](https://github.com/voicemeet/winget-updater/blob/main/stable/VoiceMeet.VoiceMeet.locale.zh-HK.yaml)

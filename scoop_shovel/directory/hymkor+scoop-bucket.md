@@ -6,7 +6,8 @@
 
 
 
-## 📦 Recipes (57)
+
+## 📦 Recipes (58)
 * [box.json](https://github.com/hymkor/scoop-bucket/blob/master/bucket/box.json)
 * [binview.json](https://github.com/hymkor/scoop-bucket/blob/master/bucket/binview.json)
 * [gmnlisp.json](https://github.com/hymkor/scoop-bucket/blob/master/bucket/gmnlisp.json)
@@ -38,6 +39,7 @@
 * [go-importconst.json](https://github.com/hymkor/scoop-bucket/blob/master/bucket/go-importconst.json)
 * [jegan.json](https://github.com/hymkor/scoop-bucket/blob/master/bucket/jegan.json)
 * [vo.json](https://github.com/hymkor/scoop-bucket/blob/master/bucket/vo.json)
+* [nemo.json](https://github.com/hymkor/scoop-bucket/blob/master/bucket/nemo.json)
 * [md5tree.json](https://github.com/hymkor/scoop-bucket/blob/master/bucket/md5tree.json)
 * [zar.json](https://github.com/hymkor/scoop-bucket/blob/master/bucket/zar.json)
 * [seek.json](https://github.com/hymkor/scoop-bucket/blob/master/bucket/seek.json)

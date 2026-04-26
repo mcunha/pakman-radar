@@ -4,7 +4,8 @@
 * **Score:** 1.0
 * **Auto-Update:** 86%
 
-* **Status:** ⭐ Known Shovel Bucket
+
+
 
 ## 📦 Recipes (73)
 * [sql-server-management-studio-np.json](https://github.com/TheRandomLabs/scoop-nonportable/blob/master/bucket/sql-server-management-studio-np.json)

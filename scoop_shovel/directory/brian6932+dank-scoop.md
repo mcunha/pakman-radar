@@ -6,7 +6,8 @@
 
 
 
-## 📦 Recipes (183)
+
+## 📦 Recipes (182)
 * [TidyDesktopMonster.json](https://github.com/brian6932/dank-scoop/blob/master/bucket/TidyDesktopMonster.json)
 * [technorino.json](https://github.com/brian6932/dank-scoop/blob/master/bucket/technorino.json)
 * [cc-clean-launcher.json](https://github.com/brian6932/dank-scoop/blob/master/bucket/cc-clean-launcher.json)
@@ -82,7 +83,6 @@
 * [rusty-twinkle-tray.json](https://github.com/brian6932/dank-scoop/blob/master/bucket/rusty-twinkle-tray.json)
 * [dotnetversionlister.json](https://github.com/brian6932/dank-scoop/blob/master/bucket/dotnetversionlister.json)
 * [mpv-user-input.json](https://github.com/brian6932/dank-scoop/blob/master/bucket/mpv-user-input.json)
-* [vtm.json](https://github.com/brian6932/dank-scoop/blob/master/bucket/vtm.json)
 * [termsvg.json](https://github.com/brian6932/dank-scoop/blob/master/bucket/termsvg.json)
 * [apng2gif-cli.json](https://github.com/brian6932/dank-scoop/blob/master/bucket/apng2gif-cli.json)
 * [mpv-sub-select.json](https://github.com/brian6932/dank-scoop/blob/master/bucket/mpv-sub-select.json)

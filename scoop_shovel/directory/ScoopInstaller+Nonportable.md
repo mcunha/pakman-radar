@@ -3,7 +3,8 @@
 * **Repository:** [https://github.com/ScoopInstaller/Nonportable](https://github.com/ScoopInstaller/Nonportable)
 * **Score:** 1.0
 * **Auto-Update:** 88%
-* **Status:** 👑 Official Scoop Bucket
+
+* **Status:** 👑 Official Repository
 
 
 ## 📦 Recipes (131)

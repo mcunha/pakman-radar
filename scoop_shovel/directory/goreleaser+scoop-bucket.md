@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (4)
 * [goreleaser-pro.json](https://github.com/goreleaser/scoop-bucket/blob/master/bucket/goreleaser-pro.json)
 * [goreleaser.json](https://github.com/goreleaser/scoop-bucket/blob/master/bucket/goreleaser.json)

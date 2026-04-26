@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (4)
 * [zig-mach.json](https://github.com/enndubyu/scoop-zig/blob/master/bucket/zig-mach.json)
 * [zig.json](https://github.com/enndubyu/scoop-zig/blob/master/bucket/zig.json)

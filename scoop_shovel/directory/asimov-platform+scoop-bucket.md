@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (33)
 * [asimov-serpapi-module.json](https://github.com/asimov-platform/scoop-bucket/blob/master/bucket/asimov-serpapi-module.json)
 * [asimov-cli.json](https://github.com/asimov-platform/scoop-bucket/blob/master/bucket/asimov-cli.json)

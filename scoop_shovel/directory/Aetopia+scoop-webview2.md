@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [webview2.json](https://github.com/Aetopia/scoop-webview2/blob/main/bucket/webview2.json)

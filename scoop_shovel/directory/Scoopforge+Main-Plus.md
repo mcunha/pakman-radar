@@ -6,7 +6,8 @@
 
 
 
-## 📦 Recipes (30)
+
+## 📦 Recipes (31)
 * [nebula.json](https://github.com/Scoopforge/Main-Plus/blob/main/bucket/nebula.json)
 * [rheo.json](https://github.com/Scoopforge/Main-Plus/blob/main/bucket/rheo.json)
 * [docker-completion.json](https://github.com/Scoopforge/Main-Plus/blob/main/bucket/docker-completion.json)
@@ -29,6 +30,7 @@
 * [json-tui.json](https://github.com/Scoopforge/Main-Plus/blob/main/bucket/json-tui.json)
 * [llama.cpp.json](https://github.com/Scoopforge/Main-Plus/blob/main/bucket/llama.cpp.json)
 * [ltex-ls-plus.json](https://github.com/Scoopforge/Main-Plus/blob/main/bucket/ltex-ls-plus.json)
+* [shimmy.json](https://github.com/Scoopforge/Main-Plus/blob/main/bucket/shimmy.json)
 * [sendme.json](https://github.com/Scoopforge/Main-Plus/blob/main/bucket/sendme.json)
 * [cryptomator-cli.json](https://github.com/Scoopforge/Main-Plus/blob/main/bucket/cryptomator-cli.json)
 * [shiroa.json](https://github.com/Scoopforge/Main-Plus/blob/main/bucket/shiroa.json)

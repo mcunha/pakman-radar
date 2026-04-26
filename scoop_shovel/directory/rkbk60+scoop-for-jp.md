@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (7)
 * [nyagos.json](https://github.com/rkbk60/scoop-for-jp/blob/master/nyagos.json)
 * [myrica.json](https://github.com/rkbk60/scoop-for-jp/blob/master/myrica.json)

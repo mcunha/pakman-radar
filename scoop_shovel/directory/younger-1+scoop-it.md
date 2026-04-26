@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (24)
 * [weylus.json](https://github.com/younger-1/scoop-it/blob/master/bucket/weylus.json)
 * [kmonad.json](https://github.com/younger-1/scoop-it/blob/master/bucket/kmonad.json)

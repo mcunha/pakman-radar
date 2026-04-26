@@ -3,8 +3,9 @@
 * **Repository:** [https://github.com/ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
 * **Score:** 1.0
 * **Auto-Update:** 92%
-* **Status:** 👑 Official Scoop Bucket
-* **Status:** ⭐ Known Shovel Bucket
+
+* **Status:** 👑 Official Repository
+
 
 ## 📦 Recipes (2300)
 * [imhex.json](https://github.com/ScoopInstaller/Extras/blob/master/bucket/imhex.json)

@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (10)
 * [spicetify-themes.json](https://github.com/TheRandomLabs/Scoop-Spotify/blob/master/bucket/spicetify-themes.json)
 * [spotify-with-blockthespot.json](https://github.com/TheRandomLabs/Scoop-Spotify/blob/master/bucket/spotify-with-blockthespot.json)

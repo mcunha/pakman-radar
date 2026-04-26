@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (17)
 * [typst-upgrade.json](https://github.com/typst-community/scoop-bucket/blob/main/bucket/typst-upgrade.json)
 * [typsite.json](https://github.com/typst-community/scoop-bucket/blob/main/bucket/typsite.json)
