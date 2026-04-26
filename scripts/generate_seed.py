@@ -1,11 +1,16 @@
+import argparse
 import concurrent.futures
 import json
 import os
+import shutil
+import stat
 import subprocess
 from datetime import datetime, timedelta, timezone
 
+from maintenance.config import get_config
 
-def get_daily_snapshots(repo_path, full_name, is_shovel_bucket):
+
+def get_daily_snapshots(repo_path, full_name, is_shovel_bucket, config):
     """Get the state of the repository for the last 91 days."""
     snapshots = {}
 
@@ -42,21 +47,26 @@ def get_daily_snapshots(repo_path, full_name, is_shovel_bucket):
                 valid_scoop = set()
 
                 for f in files:
-                    if f.endswith(".json") or f.endswith(".yaml") or f.endswith(".yml"):
-                        parts = f.split("/")
-                        if len(parts) == 1 or (len(parts) == 2 and parts[0] == "bucket"):
-                            recipe_name = parts[-1]
-                            item = f"{full_name}:{recipe_name}".lower()
+                    if config.name == "winget":
+                        if f.endswith(".yaml") and "manifests/" in f.replace("\\", "/"):
+                            valid_files.add(f"{full_name}:{f.split('/')[-1]}".lower())
+                    else:
+                        if f.endswith(".json") or f.endswith(".yaml") or f.endswith(".yml"):
+                            parts = f.split("/")
+                            if len(parts) == 1 or (len(parts) == 2 and parts[0] == "bucket"):
+                                recipe_name = parts[-1]
+                                item = f"{full_name}:{recipe_name}".lower()
 
-                            is_shovel = (
-                                is_shovel_bucket or f.endswith(".yaml") or f.endswith(".yml")
-                            )
+                                is_shovel = (
+                                    is_shovel_bucket or f.endswith(".yaml") or f.endswith(".yml")
+                                )
 
-                            valid_files.add(item)
-                            if is_shovel:
-                                valid_shovel.add(item)
-                            else:
-                                valid_scoop.add(item)
+                                valid_files.add(item)
+                                if config.name == "scoop_shovel":
+                                    if is_shovel:
+                                        valid_shovel.add(item)
+                                    else:
+                                        valid_scoop.add(item)
 
                 snapshots[date_str] = {
                     "all": valid_files,
@@ -71,7 +81,7 @@ def get_daily_snapshots(repo_path, full_name, is_shovel_bucket):
     return snapshots
 
 
-def process_repository(repo):
+def process_repository(repo, config):
     """Clone a repository and get its historical snapshots."""
     full_name = repo["full_name"]
     git_url = repo["git_url"]
@@ -94,10 +104,7 @@ def process_repository(repo):
         except subprocess.CalledProcessError:
             pass
 
-    snapshots = get_daily_snapshots(repo_dir, full_name, is_shovel_bucket)
-
-    import shutil
-    import stat
+    snapshots = get_daily_snapshots(repo_dir, full_name, is_shovel_bucket, config)
 
     try:
 
@@ -112,17 +119,21 @@ def process_repository(repo):
     return snapshots
 
 
-def main():
-    if not os.path.exists("all.json"):
-        print("[!] all.json not found. Run the crawler first to generate the ecosystem data.")
+def seed_ecosystem(ecosystem_name):
+    print(f"\n{'='*50}\n[*] Starting seed generation for: {ecosystem_name}\n{'='*50}")
+    config = get_config(ecosystem_name)
+    json_path = os.path.join(config.out_dir, "all.json")
+
+    if not os.path.exists(json_path):
+        print(f"[!] {json_path} not found. Run the crawler first to generate the ecosystem data.")
         return
 
-    with open("all.json", encoding="utf-8") as f:
+    with open(json_path, encoding="utf-8") as f:
         data = json.load(f)
 
     repos = data.get("all", [])
     if not repos:
-        print("[!] No repositories found in all.json.")
+        print(f"[!] No repositories found in {json_path}.")
         return
 
     os.makedirs("temp_seed_clones", exist_ok=True)
@@ -136,7 +147,7 @@ def main():
 
     # Process up to 10 repos concurrently
     with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
-        future_to_repo = {executor.submit(process_repository, repo): repo for repo in repos}
+        future_to_repo = {executor.submit(process_repository, repo, config): repo for repo in repos}
 
         for future in concurrent.futures.as_completed(future_to_repo):
             repo = future_to_repo[future]
@@ -146,8 +157,9 @@ def main():
                     for date_str, snaps in repo_snapshots.items():
                         if date_str in global_snapshots:
                             global_snapshots[date_str]["all"].update(snaps["all"])
-                            global_snapshots[date_str]["scoop"].update(snaps["scoop"])
-                            global_snapshots[date_str]["shovel"].update(snaps["shovel"])
+                            if config.name == "scoop_shovel":
+                                global_snapshots[date_str]["scoop"].update(snaps["scoop"])
+                                global_snapshots[date_str]["shovel"].update(snaps["shovel"])
             except Exception as e:
                 print(f"[!] Exception processing {repo['full_name']}: {e}")
 
@@ -169,35 +181,45 @@ def main():
         daily_entry = {
             "date": curr_date,
             "all": calc_delta(curr_snap["all"], prev_snap["all"]),
-            "scoop": calc_delta(curr_snap["scoop"], prev_snap["scoop"]),
-            "shovel": calc_delta(curr_snap["shovel"], prev_snap["shovel"]),
         }
+        if config.name == "scoop_shovel":
+            daily_entry["scoop"] = calc_delta(curr_snap["scoop"], prev_snap["scoop"])
+            daily_entry["shovel"] = calc_delta(curr_snap["shovel"], prev_snap["shovel"])
+
         timeseries.append(daily_entry)
 
-    # Inject into cache.pickle
-    import pickle
+    # Output to seed_timeseries.json in the ecosystem directory
+    seed_output_path = os.path.join(config.out_dir, "seed_timeseries.json")
+    with open(seed_output_path, "w", encoding="utf-8") as f:
+        json.dump(timeseries, f, indent=2)
 
-    cache_path = os.path.join("maintenance", "cache.pickle")
-    if os.path.exists(cache_path):
-        with open(cache_path, "rb") as f:
-            cache = pickle.load(f)
-    else:
-        cache = {}
-
-    cache["timeseries_history"] = timeseries
-    cache["previous_recipes_set"] = list(global_snapshots[dates[-1]]["all"])
-    cache["previous_scoop_recipes_set"] = list(global_snapshots[dates[-1]]["scoop"])
-    cache["previous_shovel_recipes_set"] = list(global_snapshots[dates[-1]]["shovel"])
-
-    with open(cache_path, "wb") as f:
-        pickle.dump(cache, f)
-
-    print(f"[*] Seed generation complete. Timeseries rebuilt for last {len(timeseries)} days.")
+    print(
+        f"[*] Seed generation complete. Timeseries rebuilt for last {len(timeseries)} days. Saved to {seed_output_path}"
+    )
 
     try:
         os.rmdir("temp_seed_clones")
     except OSError:
         pass
+
+
+def main():
+    parser = argparse.ArgumentParser(description="Seed Timeseries Generator")
+    parser.add_argument(
+        "--ecosystem",
+        type=str,
+        default="all",
+        choices=["all", "scoop_shovel", "chocolatey", "winget"],
+        help="Which ecosystem to seed",
+    )
+    args = parser.parse_args()
+
+    ecosystems_to_run = (
+        ["scoop_shovel", "chocolatey", "winget"] if args.ecosystem == "all" else [args.ecosystem]
+    )
+
+    for eco in ecosystems_to_run:
+        seed_ecosystem(eco)
 
 
 if __name__ == "__main__":
