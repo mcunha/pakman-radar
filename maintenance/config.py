@@ -4,7 +4,9 @@
 class EcosystemConfig:
     """Configuration class for package manager ecosystems."""
 
-    def __init__(self, name, out_dir, topics, official_orgs, known_buckets_urls, schemas):
+    def __init__(
+        self, name, out_dir, topics, official_orgs, known_buckets_urls, schemas, default_repos=None
+    ):
         """Initialize the ecosystem configuration."""
         self.name = name
         self.out_dir = out_dir
@@ -12,6 +14,7 @@ class EcosystemConfig:
         self.official_orgs = official_orgs
         self.known_buckets_urls = known_buckets_urls
         self.schemas = schemas
+        self.default_repos = default_repos or []
 
 
 def get_config(ecosystem_name):
@@ -44,6 +47,7 @@ def get_config(ecosystem_name):
             official_orgs=["chocolatey", "chocolatey-community"],
             known_buckets_urls={},
             schemas={},
+            default_repos=["chocolatey-community/chocolatey-packages"],
         )
     elif ecosystem_name == "winget":
         return EcosystemConfig(
@@ -53,6 +57,7 @@ def get_config(ecosystem_name):
             official_orgs=["microsoft"],
             known_buckets_urls={},
             schemas={},
+            default_repos=["microsoft/winget-pkgs"],
         )
     else:
         raise ValueError(f"Unknown ecosystem: {ecosystem_name}")

@@ -18,7 +18,12 @@ from maintenance.cache import upgrade_cache_entry
 
 def is_manifest(path):
     """Check if a file path represents a valid manifest file."""
-    return path.endswith(".json") or path.endswith(".yaml") or path.endswith(".yml") or path.endswith(".nuspec")
+    return (
+        path.endswith(".json")
+        or path.endswith(".yaml")
+        or path.endswith(".yml")
+        or path.endswith(".nuspec")
+    )
 
 
 def get_next_check_due(entry):
@@ -317,8 +322,36 @@ def process_repo(repofoldername, cache_entry, dir_path, config):
 
 def discover_repositories(cache, config):
     """Search for new repositories on GitHub."""
+    for full_name in config.default_repos:
+        repofoldername = full_name.replace("/", "+")
+        if repofoldername not in cache:
+            try:
+                print(f"[*] Fetching metadata for default repo: {full_name}")
+                repo_url = f"https://api.github.com/repos/{full_name}"
+                item = fetchjson(repo_url)
+                if "full_name" in item:
+                    cache[repofoldername] = {
+                        "name": item["name"],
+                        "full_name": item["full_name"],
+                        "git_url": item["git_url"],
+                        "html_url": item["html_url"],
+                        "score": float(item.get("score", 100.0)),
+                        "default_branch": item.get("default_branch", "master"),
+                        "topics": item.get("topics", []),
+                        "last_checked": "2000-01-01T00:00:00Z",
+                        "pushed_at": item.get("pushed_at", "2000-01-01T00:00:00Z"),
+                        "archived": item.get("archived", False),
+                        "disabled": item.get("disabled", False),
+                        "entries": [],
+                    }
+            except Exception as e:
+                print(f"[!] Failed to fetch metadata for default repo {full_name}: {e}")
+
     queries = [f"topic:{t}" for t in config.topics]
     queries.extend([f"{t.replace('-', ' ')} in:name,description" for t in config.topics])
+
+    if config.name == "chocolatey":
+        queries.extend(["path:automatic/*/*.nuspec", "path:manual/*/*.nuspec"])
 
     query_index = cache.get("search_query_index", 0)
     search_page = cache.get("search_page", 1)
@@ -377,11 +410,11 @@ def update_repositories(cache, dir_path, config):
     repo_keys = [k for k in cache.keys() if "+" in k]
     for k in repo_keys:
         cache[k] = upgrade_cache_entry(k, cache[k])
-        # Force re-check for new ecosystems if they currently have 0 entries, 
+        # Force re-check for new ecosystems if they currently have 0 entries,
         # as our discovery logic may have been improved since they were first checked
         if config.name in ("chocolatey", "winget") and not cache[k].get("entries"):
             cache[k]["last_checked"] = "2000-01-01T00:00:00Z"
-            
+
     repo_keys.sort(key=(lambda k: get_next_check_due(cache[k])))
     now = datetime.now(timezone.utc)
     due_repos = [k for k in repo_keys if (get_next_check_due(cache[k]) <= now)]
