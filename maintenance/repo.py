@@ -347,7 +347,9 @@ def update_repositories(cache, dir_path, config):
         futures = []
         for repofoldername in repos_to_process:
             futures.append(
-                executor.submit(process_repo, repofoldername, cache[repofoldername], dir_path, config)
+                executor.submit(
+                    process_repo, repofoldername, cache[repofoldername], dir_path, config
+                )
             )
         for future in concurrent.futures.as_completed(futures):
             try:

@@ -33,7 +33,9 @@ def write_file_posix(file_path, content):
 
 def generate_growth_charts(timeseries, out_dir, ecosystem_name="scoop_shovel"):
     """Generate SVG charts visualizing ecosystem growth and churn."""
-    ecosystems_to_chart = ["all", "scoop", "shovel"] if ecosystem_name == "scoop_shovel" else ["all"]
+    ecosystems_to_chart = (
+        ["all", "scoop", "shovel"] if ecosystem_name == "scoop_shovel" else ["all"]
+    )
     for ecosystem in ecosystems_to_chart:
         # We only want to show the last 30 data points so it doesn't get too squished
         display_series = timeseries[-30:] if len(timeseries) > 30 else timeseries
@@ -66,7 +68,15 @@ def generate_growth_charts(timeseries, out_dir, ecosystem_name="scoop_shovel"):
 
 
 def generate_readme(
-    actual_repos, scoop_repos, shovel_repos, hidden_gems, trending, metrics, out_dir, dir_path, ecosystem_name="scoop_shovel"
+    actual_repos,
+    scoop_repos,
+    shovel_repos,
+    hidden_gems,
+    trending,
+    metrics,
+    out_dir,
+    dir_path,
+    ecosystem_name="scoop_shovel",
 ):
     """Generate the main README.md file."""
     print(

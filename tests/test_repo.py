@@ -1,11 +1,11 @@
 from maintenance.config import get_config
-MOCK_CONFIG = get_config('scoop_shovel')
+
+MOCK_CONFIG = get_config("scoop_shovel")
 
 from datetime import datetime, timezone
 
 import maintenance.state as state
 from maintenance.repo import get_next_check_due, is_manifest, process_repo, validate_manifest_file
-
 
 
 def test_is_manifest():

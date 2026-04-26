@@ -2,8 +2,10 @@ import json
 from unittest.mock import patch
 
 import pytest
+
 from maintenance.config import get_config
-MOCK_CONFIG = get_config('scoop_shovel')
+
+MOCK_CONFIG = get_config("scoop_shovel")
 
 import responses
 

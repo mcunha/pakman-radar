@@ -1,14 +1,15 @@
 from datetime import datetime, timezone
 
 import pytest
+
 from maintenance.config import get_config
-MOCK_CONFIG = get_config('scoop_shovel')
+
+MOCK_CONFIG = get_config("scoop_shovel")
 
 
 import maintenance.state as state
 from maintenance.api import RateLimitExceededError
 from maintenance.repo import (
-
     discover_repositories,
     get_next_check_due,
     process_repo,

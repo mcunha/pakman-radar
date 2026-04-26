@@ -1,10 +1,10 @@
 from maintenance.config import get_config
-MOCK_CONFIG = get_config('scoop_shovel')
+
+MOCK_CONFIG = get_config("scoop_shovel")
 
 from datetime import datetime, timezone
 
 from maintenance.repo import get_next_check_due, process_repo
-
 
 
 def test_get_next_check_due_disabled():

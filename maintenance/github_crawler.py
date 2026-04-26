@@ -18,7 +18,7 @@ dir_path = os.path.dirname(os.path.realpath(__file__))
 def fetch_schemas(cache, config):
     """Fetch JSON schemas for Ecosystem."""
     print(f"[*] Fetching JSON schemas for validation... ({config.name})")
-    
+
     if "scoop" in config.schemas:
         state.SCOOP_SCHEMA = fetch_schema_with_etag(
             config.schemas["scoop"],
@@ -36,9 +36,8 @@ def fetch_schemas(cache, config):
 def main():
     """Main entrypoint for the GitHub crawler process."""
     load_dotenv()
-    
+
     import argparse
-    from maintenance.config import get_config
 
     parser = argparse.ArgumentParser(description="Scoop Radar Crawler")
     parser.add_argument(
@@ -51,29 +50,33 @@ def main():
         type=str,
         default="all",
         choices=["all", "scoop_shovel", "chocolatey"],
-        help="Which ecosystem to crawl"
+        help="Which ecosystem to crawl",
     )
     args, _ = parser.parse_known_args()
-    
-    ecosystems_to_run = ["scoop_shovel", "chocolatey"] if args.ecosystem == "all" else [args.ecosystem]
-    
+
+    ecosystems_to_run = (
+        ["scoop_shovel", "chocolatey"] if args.ecosystem == "all" else [args.ecosystem]
+    )
+
     for ecosystem_name in ecosystems_to_run:
         print(f"\n{'='*50}\n[*] Starting crawler for ecosystem: {ecosystem_name}\n{'='*50}")
         run_ecosystem(ecosystem_name, args.force)
 
+
 def run_ecosystem(ecosystem_name, force_save):
     from maintenance.config import get_config
+
     config = get_config(ecosystem_name)
-    
+
     start_time = time.time()
-    
+
     is_ci = os.environ.get("GITHUB_ACTIONS") == "true"
     if is_ci or force_save:
         out_dir = os.path.normpath(os.path.join(dir_path, "..", config.out_dir))
     else:
         out_dir = os.path.join(dir_path, "..", "localonly-output", config.out_dir)
         print(f"\n[INFO] Running in local mode. Writing generated outputs to '{out_dir}'.")
-    
+
     os.makedirs(os.path.join(out_dir, "cache"), exist_ok=True)
 
     cache = load_cache(out_dir)
@@ -295,7 +298,7 @@ def run_ecosystem(ecosystem_name, force_save):
         global_metrics,
         out_dir,
         dir_path,
-        config.name
+        config.name,
     )
     generate_apis(
         actual_repos,

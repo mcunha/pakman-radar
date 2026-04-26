@@ -1,8 +1,8 @@
 from maintenance.config import get_config
-MOCK_CONFIG = get_config('scoop_shovel')
+
+MOCK_CONFIG = get_config("scoop_shovel")
 
 from maintenance.metrics import calculate_metrics, get_repo_score
-
 
 
 def test_get_repo_score_empty_pushed_at():

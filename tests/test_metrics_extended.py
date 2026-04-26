@@ -1,12 +1,12 @@
 from maintenance.config import get_config
-MOCK_CONFIG = get_config('scoop_shovel')
+
+MOCK_CONFIG = get_config("scoop_shovel")
 
 from unittest.mock import patch
 
 import responses
 
 from maintenance.metrics import calculate_metrics, extract_github_repos
-
 
 
 @responses.activate

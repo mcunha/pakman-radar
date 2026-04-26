@@ -1,8 +1,8 @@
 from maintenance.config import get_config
-MOCK_CONFIG = get_config('scoop_shovel')
+
+MOCK_CONFIG = get_config("scoop_shovel")
 
 from maintenance.repo import process_repo
-
 
 
 def test_process_repo_eviction_404(mocker):

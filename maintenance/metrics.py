@@ -136,11 +136,25 @@ def calculate_metrics(cache, config):
 
         # For Scoop/Shovel Ecosystem compatibility, populate these specific keys.
         # For Chocolatey, they will just be false, which is fine since the templates can be updated or will just ignore them.
-        repo["is_scoop_official"] = repo_org in ["scoopinstaller"] if config.name == "scoop_shovel" else (repo_org in config.official_orgs)
-        repo["is_scoop_known"] = full_name_lower in [b.lower() for b in known_buckets.get("scoop", [])] if config.name == "scoop_shovel" else False
+        repo["is_scoop_official"] = (
+            repo_org in ["scoopinstaller"]
+            if config.name == "scoop_shovel"
+            else (repo_org in config.official_orgs)
+        )
+        repo["is_scoop_known"] = (
+            full_name_lower in [b.lower() for b in known_buckets.get("scoop", [])]
+            if config.name == "scoop_shovel"
+            else False
+        )
 
-        repo["is_shovel_official"] = repo_org in ["ash258", "shovel-org"] if config.name == "scoop_shovel" else False
-        repo["is_shovel_known"] = full_name_lower in [b.lower() for b in known_buckets.get("shovel", [])] if config.name == "scoop_shovel" else False
+        repo["is_shovel_official"] = (
+            repo_org in ["ash258", "shovel-org"] if config.name == "scoop_shovel" else False
+        )
+        repo["is_shovel_known"] = (
+            full_name_lower in [b.lower() for b in known_buckets.get("shovel", [])]
+            if config.name == "scoop_shovel"
+            else False
+        )
 
         is_shovel = "shovel-bucket" in topics or any(
             e.endswith(".yaml") or e.endswith(".yml") for e in entries

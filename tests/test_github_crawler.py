@@ -1,11 +1,10 @@
 from maintenance.config import get_config
-MOCK_CONFIG = get_config('scoop_shovel')
 
-import os
+MOCK_CONFIG = get_config("scoop_shovel")
+
 
 import maintenance.state as state
 from maintenance.github_crawler import fetch_schemas, main
-
 
 
 def test_fetch_schemas(mocker):

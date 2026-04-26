@@ -1,9 +1,9 @@
 from maintenance.config import get_config
-MOCK_CONFIG = get_config('scoop_shovel')
+
+MOCK_CONFIG = get_config("scoop_shovel")
 
 import maintenance.state as state
 from maintenance.repo import process_repo, validate_manifest_file
-
 
 
 def test_validate_manifest_yaml(tmp_path):
