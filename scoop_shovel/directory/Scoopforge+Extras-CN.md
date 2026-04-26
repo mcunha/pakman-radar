@@ -6,7 +6,7 @@
 
 
 
-## 📦 Recipes (89)
+## 📦 Recipes (90)
 * [yuque.json](https://github.com/Scoopforge/Extras-CN/blob/master/bucket/yuque.json)
 * [quarkclouddrive.json](https://github.com/Scoopforge/Extras-CN/blob/master/bucket/quarkclouddrive.json)
 * [downkyi.json](https://github.com/Scoopforge/Extras-CN/blob/master/bucket/downkyi.json)
@@ -31,6 +31,7 @@
 * [regester.json](https://github.com/Scoopforge/Extras-CN/blob/master/bucket/regester.json)
 * [mpv.net-cm.json](https://github.com/Scoopforge/Extras-CN/blob/master/bucket/mpv.net-cm.json)
 * [aigcpanel.json](https://github.com/Scoopforge/Extras-CN/blob/master/bucket/aigcpanel.json)
+* [tts-vue-next.json](https://github.com/Scoopforge/Extras-CN/blob/master/bucket/tts-vue-next.json)
 * [quicker.json](https://github.com/Scoopforge/Extras-CN/blob/master/bucket/quicker.json)
 * [ting-fr.json](https://github.com/Scoopforge/Extras-CN/blob/master/bucket/ting-fr.json)
 * [bilitools.json](https://github.com/Scoopforge/Extras-CN/blob/master/bucket/bilitools.json)

@@ -1,0 +1,29 @@
+{
+  "scoop": [],
+  "metadata": {
+    "generated_at": "2026-04-26T10:42:36Z",
+    "count": 0,
+    "global_metrics": {
+      "total_runs": 1,
+      "total_run_time_seconds": 6.877277135848999,
+      "total_repo_updates": 60,
+      "previous_total_buckets": 0,
+      "previous_total_recipes": 0,
+      "bucket_velocity": 0,
+      "recipe_velocity": 0,
+      "total_evictions": 0,
+      "total_api_retries": 0,
+      "last_run_discover_time": 2.7985966205596924,
+      "last_run_update_time": 4.077958345413208,
+      "ecosystem_reliability": 100.0,
+      "cache_size_mb": 0.0371856689453125,
+      "total_unique_recipes": 0,
+      "auto_update_percentage": 0.0,
+      "official_recipes": 0,
+      "community_recipes": 0,
+      "stale_buckets": 0,
+      "shovel_buckets": 0,
+      "scoop_buckets": 0
+    }
+  }
+}
