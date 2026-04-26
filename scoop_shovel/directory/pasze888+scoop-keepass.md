@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (26)
 * [keepass-language-Chinese_Simplified.json](https://github.com/pasze888/scoop-keepass/blob/master/bucket/keepass-language-Chinese_Simplified.json)
 * [keepass-language-Russian.json](https://github.com/pasze888/scoop-keepass/blob/master/bucket/keepass-language-Russian.json)

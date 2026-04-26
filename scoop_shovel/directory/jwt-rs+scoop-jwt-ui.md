@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [jwt-ui.json](https://github.com/jwt-rs/scoop-jwt-ui/blob/main/jwt-ui.json)

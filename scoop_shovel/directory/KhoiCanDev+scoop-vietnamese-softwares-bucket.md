@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (6)
 * [pencil.json](https://github.com/KhoiCanDev/scoop-vietnamese-softwares-bucket/blob/main/bucket/pencil.json)
 * [openkey.json](https://github.com/KhoiCanDev/scoop-vietnamese-softwares-bucket/blob/main/bucket/openkey.json)

@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (15)
 * [logi-options-plus-mini.json](https://github.com/prettycation/margin/blob/master/bucket/logi-options-plus-mini.json)
 * [faster-whisper-xxl.json](https://github.com/prettycation/margin/blob/master/bucket/faster-whisper-xxl.json)

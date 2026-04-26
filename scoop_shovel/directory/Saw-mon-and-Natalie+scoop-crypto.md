@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [solana.json](https://github.com/Saw-mon-and-Natalie/scoop-crypto/blob/main/bucket/solana.json)

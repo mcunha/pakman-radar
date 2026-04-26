@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (4)
 * [claude-code.json](https://github.com/vladhietala/vlad-scoop-bucket/blob/master/bucket/claude-code.json)
 * [hoop.dev.json](https://github.com/vladhietala/vlad-scoop-bucket/blob/master/bucket/hoop.dev.json)

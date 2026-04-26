@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [app-name.json](https://github.com/wiuri/wr_scoop_bucket/blob/master/bucket/app-name.json)

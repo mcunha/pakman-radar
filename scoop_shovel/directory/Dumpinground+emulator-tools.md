@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (5)
 * [nsz.json](https://github.com/Dumpinground/emulator-tools/blob/master/bucket/nsz.json)
 * [cdencrypt.json](https://github.com/Dumpinground/emulator-tools/blob/master/bucket/cdencrypt.json)

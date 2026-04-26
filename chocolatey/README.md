@@ -6,12 +6,12 @@ A data-driven, automated discovery and ranking engine for the Chocolatey package
 ![Update Package Managers Radar](https://github.com/mcunha/scoop-radar/actions/workflows/update.yml/badge.svg)
 
 # 📊 Ecosystem Health
-* **Total Unique Recipes**: 2294
-* **Ecosystem Auto-Update Health**: 29.38%
+* **Total Unique Recipes**: 2319
+* **Ecosystem Auto-Update Health**: 29.81%
 * **Ecosystem Reliability**: 100.0% (Sampled URL Health)
-* **Official vs. Community**: 1 Official / 2616 Community
+* **Official vs. Community**: 1 Official / 2642 Community
 
-* **Stale/Abandoned Sources (> 1 Year)**: 🪦 74
+* **Stale/Abandoned Sources (> 1 Year)**: 🪦 85
 
 ### Ecosystem Growth (All Recipes)
 <picture>
@@ -63,7 +63,7 @@ These repositories are actively maintained and feature a high percentage of **un
 A combined list of every source discovered in the ecosystem.
 
 <details>
-<summary><b>Click to expand all 148 discovered sources</b></summary>
+<summary><b>Click to expand all 165 discovered sources</b></summary>
 
 | Repository | Recipes | Score | Auto-Update | Badges |
 | :--- | :---: | :---: | :---: | :--- |
@@ -109,20 +109,23 @@ A combined list of every source discovered in the ecosystem.
 | **[jackrschumacher/lazygit-choco-latest](directory/jackrschumacher+lazygit-choco-latest.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[Mateleo/helium-chocolatey](directory/Mateleo+helium-chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[jufab/skaffold-chocolatey](directory/jufab+skaffold-chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[brogers5/chocolatey-package-foxitreader](directory/brogers5+chocolatey-package-foxitreader.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[streamlink/streamlink-chocolatey](directory/streamlink+streamlink-chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[LogtalkDotOrg/chocolatey-packages](directory/LogtalkDotOrg+chocolatey-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[sacloud/chocolatey-usacloud](directory/sacloud+chocolatey-usacloud.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[sacloud/chocolatey-docker-machine-sakuracloud](directory/sacloud+chocolatey-docker-machine-sakuracloud.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[sacloud/chocolatey-terraform-provider-sakuracloud](directory/sacloud+chocolatey-terraform-provider-sakuracloud.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[brogers5/chocolatey-package-imazing](directory/brogers5+chocolatey-package-imazing.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[open-circle-ltd/chocolatey.wwphone-cti](directory/open-circle-ltd+chocolatey.wwphone-cti.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.wwphone](directory/open-circle-ltd+chocolatey.wwphone.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[brogers5/chocolatey-package-imazing](directory/brogers5+chocolatey-package-imazing.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[treeverse/chocolatey-dvc](directory/treeverse+chocolatey-dvc.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[gsmitheidw/visualparadigm-ce](directory/gsmitheidw+visualparadigm-ce.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[brogers5/chocolatey-package-en-croissant](directory/brogers5+chocolatey-package-en-croissant.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-ps-remote-play](directory/brogers5+chocolatey-package-ps-remote-play.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
+| **[brogers5/chocolatey-package-xsplit-broadcaster](directory/brogers5+chocolatey-package-xsplit-broadcaster.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[chocolatey-community/chocolatey-hooks](directory/chocolatey-community+chocolatey-hooks.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% | 👑 Official |
 | **[adamrushuk/velero-choco](directory/adamrushuk+velero-choco.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[brogers5/chocolatey-package-green-tunnel-cli](directory/brogers5+chocolatey-package-green-tunnel-cli.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-green-tunnel-gui](directory/brogers5+chocolatey-package-green-tunnel-gui.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[terraform-docs/chocolatey-package](directory/terraform-docs+chocolatey-package.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[brogers5/chocolatey-package-livesplit](directory/brogers5+chocolatey-package-livesplit.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
@@ -133,6 +136,8 @@ A combined list of every source discovered in the ecosystem.
 | **[brogers5/chocolatey-package-openrgb](directory/brogers5+chocolatey-package-openrgb.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-openrgb.install](directory/brogers5+chocolatey-package-openrgb.install.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-twinkle-tray](directory/brogers5+chocolatey-package-twinkle-tray.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
+| **[open-circle-ltd/chocolatey.epson-iprojection](directory/open-circle-ltd+chocolatey.epson-iprojection.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[open-circle-ltd/chocolatey.airtame](directory/open-circle-ltd+chocolatey.airtame.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[willjasen/chocolatey-duo-auth-proxy](directory/willjasen+chocolatey-duo-auth-proxy.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[blaiz2023/Blaiz-Tools](directory/blaiz2023+Blaiz-Tools.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[brogers5/chocolatey-package-multimonitortool](directory/brogers5+chocolatey-package-multimonitortool.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
@@ -141,6 +146,7 @@ A combined list of every source discovered in the ecosystem.
 | **[brogers5/chocolatey-package-xsplit-vcam](directory/brogers5+chocolatey-package-xsplit-vcam.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[piotrek-szczygiel/clink-chocolatey](directory/piotrek-szczygiel+clink-chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[glennsarti/ChocolateyPackages](directory/glennsarti+ChocolateyPackages.md)** | 📦 3 | ⭐ 1.0 | 🔄 100% |  |
+| **[brogers5/chocolatey-package-isx](directory/brogers5+chocolatey-package-isx.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[Twingate-Labs/chocolatey-packages](directory/Twingate-Labs+chocolatey-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[drasyl/drasyl-choco](directory/drasyl+drasyl-choco.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[agabrys/chocolatey-packages](directory/agabrys+chocolatey-packages.md)** | 📦 13 | ⭐ 1.0 | 🔄 0% |  |
@@ -165,6 +171,9 @@ A combined list of every source discovered in the ecosystem.
 | **[brogers5/chocolatey-package-crushee.install](directory/brogers5+chocolatey-package-crushee.install.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-crushee.portable](directory/brogers5+chocolatey-package-crushee.portable.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-rweverything.install](directory/brogers5+chocolatey-package-rweverything.install.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
+| **[brogers5/chocolatey-package-rweverything](directory/brogers5+chocolatey-package-rweverything.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
+| **[brogers5/chocolatey-package-paraffin](directory/brogers5+chocolatey-package-paraffin.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
+| **[brogers5/chocolatey-package-vcam.ai](directory/brogers5+chocolatey-package-vcam.ai.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[HaxeFoundation/haxe-choco](directory/HaxeFoundation+haxe-choco.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
 | **[Mahagon/chocolatey-packages](directory/Mahagon+chocolatey-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[pocki/chocolateypackages](directory/pocki+chocolateypackages.md)** | 📦 12 | ⭐ 1.0 | 🔄 0% |  |
@@ -176,19 +185,26 @@ A combined list of every source discovered in the ecosystem.
 | **[open-circle-ltd/chocolatey.lenovo-thinkpad-usb-c-driver](directory/open-circle-ltd+chocolatey.lenovo-thinkpad-usb-c-driver.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[TheClonker/rednotebook-chocolatey](directory/TheClonker+rednotebook-chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[dariusz-wozniak/Chocolatey-Packages](directory/dariusz-wozniak+Chocolatey-Packages.md)** | 📦 9 | ⭐ 1.0 | 🔄 0% |  |
+| **[DustinVenegas/au-packages](directory/DustinVenegas+au-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[dittodhole/chocolatey-superorca](directory/dittodhole+chocolatey-superorca.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[pamendez/Range-Kata-Choco](directory/pamendez+Range-Kata-Choco.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[mosesdd/chocolatey.zoiper](directory/mosesdd+chocolatey.zoiper.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[C-Duv/chocolatey-fusioninventory-agent](directory/C-Duv+chocolatey-fusioninventory-agent.md)** | 📦 3 | ⭐ 1.0 | 🔄 0% |  |
 | **[majkinetor/au](directory/majkinetor+au.md)** | 📦 3 | ⭐ 1.0 | 🔄 67% |  |
 | **[open-circle-ltd/chocolatey.dialogik](directory/open-circle-ltd+chocolatey.dialogik.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[andyli/sauce-connect-choco](directory/andyli+sauce-connect-choco.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[aminya/chocolatey-wabt](directory/aminya+chocolatey-wabt.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[nimishbongale/lektor-choco-package](directory/nimishbongale+lektor-choco-package.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[eargollo/choco-rssowlnix](directory/eargollo+choco-rssowlnix.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[sbaerlocher/chocolatey.veeam-agent](directory/sbaerlocher+chocolatey.veeam-agent.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[itigoag/chocolatey.synology-activebackup-for-business-agent](directory/itigoag+chocolatey.synology-activebackup-for-business-agent.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[picolino/chocolatey-packages](directory/picolino+chocolatey-packages.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
 | **[belidzs/chocolatey-nledger](directory/belidzs+chocolatey-nledger.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[marcinbojko/forticlient](directory/marcinbojko+forticlient.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[jgeorgeson/chocolatey-packages](directory/jgeorgeson+chocolatey-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
+| **[iyato/chocolatey-packages](directory/iyato+chocolatey-packages.md)** | 📦 7 | ⭐ 1.0 | 🔄 100% |  |
 | **[sbaerlocher/chocolatey.mountain-duck](directory/sbaerlocher+chocolatey.mountain-duck.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[astra-midnight/chocolatey-pkgs](directory/astra-midnight+chocolatey-pkgs.md)** | 📦 3 | ⭐ 1.0 | 🔄 100% |  |
 | **[simonewebdesign/chocolatey-packages](directory/simonewebdesign+chocolatey-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[virtualex-itv/choco-marcs-updater](directory/virtualex-itv+choco-marcs-updater.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[Cossey/chocopackages](directory/Cossey+chocopackages.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
@@ -200,6 +216,7 @@ A combined list of every source discovered in the ecosystem.
 | **[adriens/chocolatey-netbeans-11](directory/adriens+chocolatey-netbeans-11.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[belidzs/chocolatey-flacsquisher](directory/belidzs+chocolatey-flacsquisher.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[langsamu/Chocolatey](directory/langsamu+Chocolatey.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
+| **[belidzs/chocolatey-amt](directory/belidzs+chocolatey-amt.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[JamieMagee/chocolatey-packages](directory/JamieMagee+chocolatey-packages.md)** | 📦 9 | ⭐ 1.0 | 🔄 100% |  |
 | **[flcdrg/chocolatey-dellcommandupdate](directory/flcdrg+chocolatey-dellcommandupdate.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[tricktux/choco-neovim-git](directory/tricktux+choco-neovim-git.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
@@ -219,15 +236,15 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 9
-* **Total Repo Updates**: 540
+* **Total Crawler Runs**: 10
+* **Total Repo Updates**: 600
 * **Ecosystem Growth (Since Last Run)**:
-  * 🪣 +20 Repositories
-  * 📦 +41 Recipes
+  * 🪣 +17 Repositories
+  * 📦 +26 Recipes
 * **Eviction Count**: 🗑️ 0
 * **API Rate Limit Retries**: ⏳ 0
 * **Cache Size**: 💾 0.39 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 0.43s
-  * 📥 Update: 0.72s
+  * 🔍 Discovery: 0.18s
+  * 📥 Update: 0.70s
 * **Cumulative Compute Time**: 0.5 minutes

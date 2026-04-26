@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (6)
 * [emeditor.json](https://github.com/dearrrfish/scoop-bucket/blob/main/bucket/emeditor.json)
 * [icalingua-plus-plus.json](https://github.com/dearrrfish/scoop-bucket/blob/main/bucket/icalingua-plus-plus.json)

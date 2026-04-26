@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (9)
 * [clash-for-windows.json](https://github.com/muxinxy/scoop-bucket/blob/master/bucket/clash-for-windows.json)
 * [frpmgr.json](https://github.com/muxinxy/scoop-bucket/blob/master/bucket/frpmgr.json)

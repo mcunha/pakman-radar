@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (8)
 * [super-ttc-iosevka-slab.json](https://github.com/jonz94/scoop-personal/blob/main/bucket/super-ttc-iosevka-slab.json)
 * [super-ttc-iosevka-curly-slab.json](https://github.com/jonz94/scoop-personal/blob/main/bucket/super-ttc-iosevka-curly-slab.json)

@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (8)
 * [browser-tamer.json](https://github.com/fahim-ahmed05/scoop-bucket/blob/master/bucket/browser-tamer.json)
 * [vacuumtube.json](https://github.com/fahim-ahmed05/scoop-bucket/blob/master/bucket/vacuumtube.json)
