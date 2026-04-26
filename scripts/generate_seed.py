@@ -51,9 +51,16 @@ def get_daily_snapshots(repo_path, full_name, is_shovel_bucket, config):
                         # Skip multifile parts to accurately count the package identity
                         if ".installer." in f or ".locale." in f:
                             continue
-                        
+
+                        installer_f = f.replace(".yaml", ".installer.yaml")
+                        if installer_f not in files:
+                            continue
+
                         normalized_f = f.replace("\\", "/")
-                        if f.endswith(".yaml") and any(d in normalized_f for d in ["manifests/", "packages/", "automatic/", "manual/"]):
+                        if f.endswith(".yaml") and any(
+                            d in normalized_f
+                            for d in ["manifests/", "packages/", "automatic/", "manual/"]
+                        ):
                             valid_files.add(f"{full_name}:{f.split('/')[-1]}".lower())
                     else:
                         if f.endswith(".json") or f.endswith(".yaml") or f.endswith(".yml"):

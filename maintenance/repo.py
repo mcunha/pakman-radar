@@ -78,6 +78,10 @@ def discover_manifests(repo_path, is_shovel_repo, config):
                         continue
                     file_path = os.path.join(root, f)
                     if os.path.isfile(file_path) and is_manifest(f):
+                        installer_f = f.replace(".yaml", ".installer.yaml")
+                        if installer_f not in files:
+                            continue
+
                         (is_valid, has_checkver) = validate_manifest_file(
                             file_path, f, is_shovel_repo, config
                         )
