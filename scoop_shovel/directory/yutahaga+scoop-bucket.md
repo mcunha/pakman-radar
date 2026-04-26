@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (6)
 * [nexusfont.json](https://github.com/yutahaga/scoop-bucket/blob/master/bucket/nexusfont.json)
 * [nyagos.json](https://github.com/yutahaga/scoop-bucket/blob/master/bucket/nyagos.json)

@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (11)
 * [sync-clipboard.json](https://github.com/Cusox/scoop-bucket/blob/master/bucket/sync-clipboard.json)
 * [neteasemusic.json](https://github.com/Cusox/scoop-bucket/blob/master/bucket/neteasemusic.json)

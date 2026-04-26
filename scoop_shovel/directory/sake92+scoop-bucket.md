@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [deder.json](https://github.com/sake92/scoop-bucket/blob/main/bucket/deder.json)

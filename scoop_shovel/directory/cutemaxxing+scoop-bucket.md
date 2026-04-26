@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (4)
 * [crystaldiskinfoshizuku.json](https://github.com/cutemaxxing/scoop-bucket/blob/main/bucket/crystaldiskinfoshizuku.json)
 * [crystaldiskmarkshizuku.json](https://github.com/cutemaxxing/scoop-bucket/blob/main/bucket/crystaldiskmarkshizuku.json)

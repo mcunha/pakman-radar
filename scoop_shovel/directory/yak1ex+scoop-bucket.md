@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (20)
 * [afxbkmk.json](https://github.com/yak1ex/scoop-bucket/blob/master/bucket/afxbkmk.json)
 * [firefilecopy.json](https://github.com/yak1ex/scoop-bucket/blob/master/bucket/firefilecopy.json)

@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [nomad.json](https://github.com/rdmcgregor/scoop-bucket/blob/master/bucket/nomad.json)

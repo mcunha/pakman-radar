@@ -2,14 +2,14 @@
 
 * **Repository:** [https://github.com/Vinfall/sb](https://github.com/Vinfall/sb)
 * **Score:** 1.0
-* **Auto-Update:** 89%
+* **Auto-Update:** 88%
 
 
 
-## 📦 Recipes (35)
+
+## 📦 Recipes (32)
 * [sarasa-nerd.json](https://github.com/Vinfall/sb/blob/main/bucket/sarasa-nerd.json)
 * [cromite.json](https://github.com/Vinfall/sb/blob/main/bucket/cromite.json)
-* [supermium.json](https://github.com/Vinfall/sb/blob/main/bucket/supermium.json)
 * [dotnet-10-desktop-runtime.json](https://github.com/Vinfall/sb/blob/main/bucket/dotnet-10-desktop-runtime.json)
 * [neeview-fd.json](https://github.com/Vinfall/sb/blob/main/bucket/neeview-fd.json)
 * [romvault.json](https://github.com/Vinfall/sb/blob/main/bucket/romvault.json)
@@ -25,12 +25,10 @@
 * [dotnet-8-desktop-runtime.json](https://github.com/Vinfall/sb/blob/main/bucket/dotnet-8-desktop-runtime.json)
 * [nerd-fonts.json](https://github.com/Vinfall/sb/blob/main/bucket/nerd-fonts.json)
 * [virtio-win.json](https://github.com/Vinfall/sb/blob/main/bucket/virtio-win.json)
-* [xboxdownload.json](https://github.com/Vinfall/sb/blob/main/bucket/xboxdownload.json)
 * [dotnet-9-desktop-runtime.json](https://github.com/Vinfall/sb/blob/main/bucket/dotnet-9-desktop-runtime.json)
 * [hikarifield.json](https://github.com/Vinfall/sb/blob/main/bucket/hikarifield.json)
 * [sarasa-superttc.json](https://github.com/Vinfall/sb/blob/main/bucket/sarasa-superttc.json)
 * [assetstudiomod.json](https://github.com/Vinfall/sb/blob/main/bucket/assetstudiomod.json)
-* [locale-remulator.json](https://github.com/Vinfall/sb/blob/main/bucket/locale-remulator.json)
 * [dosbox-x.json](https://github.com/Vinfall/sb/blob/main/bucket/dosbox-x.json)
 * [cemu-dev.json](https://github.com/Vinfall/sb/blob/main/bucket/cemu-dev.json)
 * [eden.json](https://github.com/Vinfall/sb/blob/main/bucket/eden.json)

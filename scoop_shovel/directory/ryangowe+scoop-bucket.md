@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (10)
 * [picacg.json](https://github.com/ryangowe/scoop-bucket/blob/master/bucket/picacg.json)
 * [ehentai.json](https://github.com/ryangowe/scoop-bucket/blob/master/bucket/ehentai.json)

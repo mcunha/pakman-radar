@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (4)
 * [terraform-beta.json](https://github.com/glucas/scoop-bucket/blob/master/bucket/terraform-beta.json)
 * [emacs-28.json](https://github.com/glucas/scoop-bucket/blob/master/bucket/emacs-28.json)

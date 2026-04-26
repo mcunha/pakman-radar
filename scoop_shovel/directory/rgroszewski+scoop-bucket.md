@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [jx.json](https://github.com/rgroszewski/scoop-bucket/blob/master/bucket/jx.json)

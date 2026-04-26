@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (21)
 * [alacritty.json](https://github.com/tar80/scoop-bucket/blob/main/bucket/alacritty.json)
 * [screentogif.json](https://github.com/tar80/scoop-bucket/blob/main/bucket/screentogif.json)

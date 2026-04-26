@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (5)
 * [nvm.json](https://github.com/sh3yee/scoop-bucket/blob/main/bucket/nvm.json)
 * [maple-mono.json](https://github.com/sh3yee/scoop-bucket/blob/main/bucket/maple-mono.json)
