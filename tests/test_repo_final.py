@@ -6,7 +6,6 @@ from maintenance.config import get_config
 
 MOCK_CONFIG = get_config("scoop_shovel")
 
-
 import maintenance.state as state
 from maintenance.api import RateLimitExceededError
 from maintenance.repo import (
@@ -31,7 +30,7 @@ def test_validate_manifest_file_exception(tmp_path):
     state.SHOVEL_SCHEMA = None
     file_path = tmp_path / "app.json"
     file_path.write_text("invalid json")
-    is_valid, has_checkver = validate_manifest_file(str(file_path), "app.json", False)
+    is_valid, has_checkver = validate_manifest_file(str(file_path), "app.json", False, MOCK_CONFIG)
     assert is_valid is False
 
 

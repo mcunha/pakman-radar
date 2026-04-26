@@ -49,13 +49,13 @@ def main():
         "--ecosystem",
         type=str,
         default="all",
-        choices=["all", "scoop_shovel", "chocolatey"],
+        choices=["all", "scoop_shovel", "chocolatey", "winget"],
         help="Which ecosystem to crawl",
     )
     args, _ = parser.parse_known_args()
 
     ecosystems_to_run = (
-        ["scoop_shovel", "chocolatey"] if args.ecosystem == "all" else [args.ecosystem]
+        ["scoop_shovel", "chocolatey", "winget"] if args.ecosystem == "all" else [args.ecosystem]
     )
 
     for ecosystem_name in ecosystems_to_run:

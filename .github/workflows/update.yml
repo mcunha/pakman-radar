@@ -35,6 +35,8 @@ jobs:
             scoop_shovel/cache.pickle
             chocolatey/cache
             chocolatey/cache.pickle
+            winget/cache
+            winget/cache.pickle
           key: ${{ runner.os }}-crawler-v2-cache-${{ github.run_id }}
           restore-keys: |
             ${{ runner.os }}-crawler-v2-cache-
@@ -67,4 +69,5 @@ jobs:
           path: |
             scoop_shovel/cache.pickle
             chocolatey/cache.pickle
+            winget/cache.pickle
           retention-days: 7

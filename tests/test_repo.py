@@ -1,11 +1,10 @@
-from maintenance.config import get_config
-
-MOCK_CONFIG = get_config("scoop_shovel")
-
 from datetime import datetime, timezone
 
 import maintenance.state as state
+from maintenance.config import get_config
 from maintenance.repo import get_next_check_due, is_manifest, process_repo, validate_manifest_file
+
+MOCK_CONFIG = get_config("scoop_shovel")
 
 
 def test_is_manifest():
@@ -38,7 +37,7 @@ def test_validate_manifest_file_no_schema(tmp_path):
     file_path = tmp_path / "app.json"
     file_path.write_text('{"version": "1.0", "checkver": "regex"}')
 
-    is_valid, has_checkver = validate_manifest_file(str(file_path), "app.json", False)
+    is_valid, has_checkver = validate_manifest_file(str(file_path), "app.json", False, MOCK_CONFIG)
     assert is_valid is True
     assert has_checkver is True
 
@@ -50,7 +49,7 @@ def test_validate_manifest_file_invalid_no_version(tmp_path):
     file_path = tmp_path / "app.json"
     file_path.write_text('{"description": "no version"}')
 
-    is_valid, has_checkver = validate_manifest_file(str(file_path), "app.json", False)
+    is_valid, has_checkver = validate_manifest_file(str(file_path), "app.json", False, MOCK_CONFIG)
     assert is_valid is False
     assert has_checkver is False
 

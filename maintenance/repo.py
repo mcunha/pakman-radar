@@ -51,10 +51,61 @@ def get_next_check_due(entry):
     return last_checked + interval
 
 
-def validate_manifest_file(file_path, f, is_shovel_repo):
+def discover_manifests(repo_path, is_shovel_repo, config):
+    entries = []
+    checkver_count = 0
+    if config.name == "winget":
+        manifest_dirs = [os.path.join(repo_path, "manifests"), repo_path]
+        for start_dir in manifest_dirs:
+            if not os.path.exists(start_dir):
+                continue
+            for root, _, files in os.walk(start_dir):
+                if ".git" in root:
+                    continue
+                for f in files:
+                    file_path = os.path.join(root, f)
+                    if os.path.isfile(file_path) and is_manifest(f):
+                        (is_valid, has_checkver) = validate_manifest_file(
+                            file_path, f, is_shovel_repo, config
+                        )
+                        if is_valid:
+                            rel_path = os.path.relpath(file_path, repo_path).replace("\\", "/")
+                            entries.append(rel_path)
+                            if has_checkver:
+                                checkver_count += 1
+            if entries:
+                break
+    else:
+        for d in [repo_path, os.path.join(repo_path, "bucket")]:
+            if os.path.isdir(d):
+                for f in os.listdir(d):
+                    file_path = os.path.join(d, f)
+                    if os.path.isfile(file_path) and is_manifest(f):
+                        (is_valid, has_checkver) = validate_manifest_file(
+                            file_path, f, is_shovel_repo, config
+                        )
+                        if is_valid:
+                            rel_path = f"bucket/{f}" if d.endswith("bucket") else f
+                            entries.append(rel_path)
+                            if has_checkver:
+                                checkver_count += 1
+    return entries, checkver_count
+
+
+def validate_manifest_file(file_path, f, is_shovel_repo, config):
     """Validate a manifest file against the official Scoop or Shovel schema."""
     is_valid = True
     has_checkver = False
+    if config.name == "winget":
+        try:
+            with open(file_path, encoding="utf-8") as mf:
+                manifest_data = yaml.safe_load(mf)
+            if not isinstance(manifest_data, dict) or "PackageIdentifier" not in manifest_data:
+                is_valid = False
+        except Exception:
+            is_valid = False
+        return is_valid, has_checkver
+
     schema_to_use = state.SHOVEL_SCHEMA if is_shovel_repo else state.SCOOP_SCHEMA
     try:
         with open(file_path, encoding="utf-8") as mf:
@@ -168,19 +219,7 @@ def process_repo(repofoldername, cache_entry, dir_path, config):
             except Exception:
                 pass
             if os.path.isdir(repo_path):
-                for d in [repo_path, os.path.join(repo_path, "bucket")]:
-                    if os.path.isdir(d):
-                        for f in os.listdir(d):
-                            file_path = os.path.join(d, f)
-                            if os.path.isfile(file_path) and is_manifest(f):
-                                (is_valid, has_checkver) = validate_manifest_file(
-                                    file_path, f, is_shovel_repo
-                                )
-                                if is_valid:
-                                    rel_path = f"bucket/{f}" if d.endswith("bucket") else f
-                                    entries.append(rel_path)
-                                    if has_checkver:
-                                        checkver_count += 1
+                entries, checkver_count = discover_manifests(repo_path, is_shovel_repo, config)
             cache_entry["entries"] = entries
             cache_entry["checkver_count"] = checkver_count
             _probe_cache_entry(repo_path, entries, cache_entry)
@@ -212,19 +251,7 @@ def process_repo(repofoldername, cache_entry, dir_path, config):
             except Exception:
                 pass
         if os.path.isdir(repo_path):
-            for d in [repo_path, os.path.join(repo_path, "bucket")]:
-                if os.path.isdir(d):
-                    for f in os.listdir(d):
-                        file_path = os.path.join(d, f)
-                        if os.path.isfile(file_path) and is_manifest(f):
-                            (is_valid, has_checkver) = validate_manifest_file(
-                                file_path, f, is_shovel_repo
-                            )
-                            if is_valid:
-                                rel_path = f"bucket/{f}" if d.endswith("bucket") else f
-                                entries.append(rel_path)
-                                if has_checkver:
-                                    checkver_count += 1
+            entries, checkver_count = discover_manifests(repo_path, is_shovel_repo, config)
             cache_entry["entries"] = entries
             cache_entry["checkver_count"] = checkver_count
         _probe_cache_entry(repo_path, entries, cache_entry)

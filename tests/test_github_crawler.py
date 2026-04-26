@@ -1,10 +1,8 @@
+import maintenance.state as state
 from maintenance.config import get_config
+from maintenance.github_crawler import fetch_schemas, main
 
 MOCK_CONFIG = get_config("scoop_shovel")
-
-
-import maintenance.state as state
-from maintenance.github_crawler import fetch_schemas, main
 
 
 def test_fetch_schemas(mocker):
@@ -38,11 +36,11 @@ def test_main(mocker, tmp_path):
     main()
 
     # Assert all the high-level orchestrated phases were called for both ecosystems
-    assert mock_load_cache.call_count == 2
-    assert mock_fetch_schemas.call_count == 2
-    assert mock_discover.call_count == 2
-    assert mock_update.call_count == 2
-    assert mock_save_cache.call_count == 4
-    assert mock_metrics.call_count == 2
-    assert mock_readme.call_count == 2
-    assert mock_apis.call_count == 2
+    assert mock_load_cache.call_count == 3
+    assert mock_fetch_schemas.call_count == 3
+    assert mock_discover.call_count == 3
+    assert mock_update.call_count == 3
+    assert mock_save_cache.call_count == 6
+    assert mock_metrics.call_count == 3
+    assert mock_readme.call_count == 3
+    assert mock_apis.call_count == 3

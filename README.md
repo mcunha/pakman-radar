@@ -7,7 +7,8 @@ This repository tracks, ranks, and analyzes community repositories (buckets/feed
 ## Supported Ecosystems
 
 *   [**Scoop & Shovel**](./scoop_shovel/README.md): The original crawler, tracking over 1,000+ buckets and 120,000+ recipes.
-*   [**Chocolatey**](./chocolatey/README.md): Tracking community package sources for Chocolatey (Coming Soon).
+*   [**Chocolatey**](./chocolatey/README.md): Tracking community package sources for Chocolatey.
+*   [**WinGet**](./winget/README.md): Tracking community package sources for Windows Package Manager (Coming Soon).
 
 ## How it works
 

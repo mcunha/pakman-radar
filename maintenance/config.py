@@ -3,6 +3,7 @@
 
 class EcosystemConfig:
     """Configuration class for package manager ecosystems."""
+
     def __init__(self, name, out_dir, topics, official_orgs, known_buckets_urls, schemas):
         """Initialize the ecosystem configuration."""
         self.name = name
@@ -41,6 +42,15 @@ def get_config(ecosystem_name):
                 "chocolatey-automatic",
             ],
             official_orgs=["chocolatey", "chocolatey-community"],
+            known_buckets_urls={},
+            schemas={},
+        )
+    elif ecosystem_name == "winget":
+        return EcosystemConfig(
+            name="winget",
+            out_dir="winget",
+            topics=["winget-pkgs", "winget-repository", "winget-manifests", "winget-packages"],
+            official_orgs=["microsoft"],
             known_buckets_urls={},
             schemas={},
         )
