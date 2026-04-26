@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [codex-manage.json](https://github.com/AspireOne/scoop-bucket/blob/main/bucket/codex-manage.json)

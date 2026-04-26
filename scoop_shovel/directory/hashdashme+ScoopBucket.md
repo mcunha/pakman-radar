@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (6)
 * [spotx.json](https://github.com/hashdashme/ScoopBucket/blob/master/bucket/spotx.json)
 * [jan.json](https://github.com/hashdashme/ScoopBucket/blob/master/bucket/jan.json)

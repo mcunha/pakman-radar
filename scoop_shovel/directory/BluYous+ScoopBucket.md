@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (28)
 * [dbeaver-enterprise-free.json](https://github.com/BluYous/ScoopBucket/blob/master/bucket/dbeaver-enterprise-free.json)
 * [idea-ultimate-free.json](https://github.com/BluYous/ScoopBucket/blob/master/bucket/idea-ultimate-free.json)

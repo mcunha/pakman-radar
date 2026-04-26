@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (15)
 * [lx-music-desktop.json](https://github.com/ZhWn/ScoopBucket/blob/master/bucket/lx-music-desktop.json)
 * [ffmetrics.json](https://github.com/ZhWn/ScoopBucket/blob/master/bucket/ffmetrics.json)

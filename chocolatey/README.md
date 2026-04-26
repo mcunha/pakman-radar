@@ -6,10 +6,10 @@ A data-driven, automated discovery and ranking engine for the Chocolatey package
 ![Update Package Managers Radar](https://github.com/mcunha/scoop-radar/actions/workflows/update.yml/badge.svg)
 
 # 📊 Ecosystem Health
-* **Total Unique Recipes**: 2861
-* **Ecosystem Auto-Update Health**: 37.2%
+* **Total Unique Recipes**: 2932
+* **Ecosystem Auto-Update Health**: 35.94%
 * **Ecosystem Reliability**: 100.0% (Sampled URL Health)
-* **Official vs. Community**: 364 Official / 2851 Community
+* **Official vs. Community**: 477 Official / 2851 Community
 
 * **Stale/Abandoned Sources (> 1 Year)**: 🪦 121
 
@@ -63,7 +63,7 @@ These repositories are actively maintained and feature a high percentage of **un
 A combined list of every source discovered in the ecosystem.
 
 <details>
-<summary><b>Click to expand all 226 discovered sources</b></summary>
+<summary><b>Click to expand all 227 discovered sources</b></summary>
 
 | Repository | Recipes | Score | Auto-Update | Badges |
 | :--- | :---: | :---: | :---: | :--- |
@@ -74,6 +74,7 @@ A combined list of every source discovered in the ecosystem.
 | **[pauby/ChocoPackages](directory/pauby+ChocoPackages.md)** | 📦 197 | ⭐ 1.0 | 🔄 59% |  |
 | **[adgellida/chocolateyautomaticpackages](directory/adgellida+chocolateyautomaticpackages.md)** | 📦 153 | ⭐ 1.0 | 🔄 0% |  |
 | **[rpapub/ChocolateyPackages](directory/rpapub+ChocolateyPackages.md)** | 📦 117 | ⭐ 1.0 | 🔄 0% |  |
+| **[chocolatey/choco](directory/chocolatey+choco.md)** | 📦 113 | ⭐ 1.0 | 🔄 0% | 👑 Official |
 | **[flcdrg/au-packages](directory/flcdrg+au-packages.md)** | 📦 103 | ⭐ 1.0 | 🔄 56% |  |
 | **[jakublevy/chocopkgs](directory/jakublevy+chocopkgs.md)** | 📦 98 | ⭐ 1.0 | 🔄 97% |  |
 | **[ITS-Unibas/chocolatey-internal-packages](directory/ITS-Unibas+chocolatey-internal-packages.md)** | 📦 76 | ⭐ 1.0 | 🔄 78% |  |
@@ -297,15 +298,15 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 17
-* **Total Repo Updates**: 1034
+* **Total Crawler Runs**: 18
+* **Total Repo Updates**: 1094
 * **Ecosystem Growth (Since Last Run)**:
-  * 🪣 +2 Repositories
-  * 📦 +82 Recipes
+  * 🪣 +1 Repositories
+  * 📦 +113 Recipes
 * **Eviction Count**: 🗑️ 0
 * **API Rate Limit Retries**: ⏳ 0
-* **Cache Size**: 💾 0.59 MB
+* **Cache Size**: 💾 0.64 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 2.64s
-  * 📥 Update: 1.49s
-* **Cumulative Compute Time**: 0.9 minutes
+  * 🔍 Discovery: 3.03s
+  * 📥 Update: 2.20s
+* **Cumulative Compute Time**: 1.0 minutes

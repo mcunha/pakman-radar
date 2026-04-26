@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [clash-for-windows.json](https://github.com/tenvdo/ScoopBucket/blob/master/bucket/clash-for-windows.json)

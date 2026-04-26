@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [Cursor2.json](https://github.com/chiaoshin/ScoopBucket/blob/main/Cursor2.json)

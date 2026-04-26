@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (6)
 * [lx-music-desktop-beta.json](https://github.com/LetsShareAll/ScoopBucket/blob/main/bucket/lx-music-desktop-beta.json)
 * [lx-music-desktop.json](https://github.com/LetsShareAll/ScoopBucket/blob/main/bucket/lx-music-desktop.json)

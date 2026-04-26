@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [zipserve.json](https://github.com/supcik/scoop-bucket/blob/main/bucket/zipserve.json)

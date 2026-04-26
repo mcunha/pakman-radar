@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (2)
 * [wsl-nixos.json](https://github.com/VinDeville/ScoopBucket/blob/master/bucket/wsl-nixos.json)
 * [captvty.json](https://github.com/VinDeville/ScoopBucket/blob/master/bucket/captvty.json)

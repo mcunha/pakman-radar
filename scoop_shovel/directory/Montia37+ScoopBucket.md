@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (25)
 * [steam.json](https://github.com/Montia37/ScoopBucket/blob/main/bucket/steam.json)
 * [coretemp.json](https://github.com/Montia37/ScoopBucket/blob/main/bucket/coretemp.json)

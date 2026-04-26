@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (9)
 * [clash-for-windows.json](https://github.com/codecopy/ScoopBucket/blob/master/bucket/clash-for-windows.json)
 * [windterm.json](https://github.com/codecopy/ScoopBucket/blob/master/bucket/windterm.json)

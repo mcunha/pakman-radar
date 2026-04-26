@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [cvx.json](https://github.com/gregPerlinLi/scoop-bucket/blob/master/bucket/cvx.json)

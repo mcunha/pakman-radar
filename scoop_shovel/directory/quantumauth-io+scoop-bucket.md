@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [quantum-auth-client.json](https://github.com/quantumauth-io/scoop-bucket/blob/main/bucket/quantum-auth-client.json)

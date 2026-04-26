@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [rgsm.json](https://github.com/AsterNighT/scoop-bucket/blob/master/bucket/rgsm.json)
