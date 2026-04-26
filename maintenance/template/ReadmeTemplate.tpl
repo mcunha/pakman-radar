@@ -1,20 +1,17 @@
-# scoop-radar
-A data-driven, automated discovery and ranking engine for the Scoop package manager ecosystem on Windows
+# {{ ecosystem_name|replace('_', ' ')|title }} Radar
+A data-driven, automated discovery and ranking engine for the {{ ecosystem_name|replace('_', ' ')|title }} package manager ecosystem on Windows
 
 # Build Status
 ![Tests & Linting](https://github.com/mcunha/scoop-radar/actions/workflows/test.yml/badge.svg)
 ![Update Scoop Radar README](https://github.com/mcunha/scoop-radar/actions/workflows/update.yml/badge.svg)
-
-# Acknowledgements
-This project was heavily inspired by the original `awesome-scoop` directories maintained by [algomaniac](https://github.com/algomaniac) and [tapannallan](https://github.com/tapannallan).
 
 # 📊 Ecosystem Health
 * **Total Unique Recipes**: {{ metrics.total_unique_recipes }}
 * **Ecosystem Auto-Update Health**: {{ metrics.auto_update_percentage }}%
 * **Ecosystem Reliability**: {{ metrics.ecosystem_reliability }}% (Sampled URL Health)
 * **Official vs. Community**: {{ metrics.official_recipes }} Official / {{ metrics.community_recipes }} Community
-* **Bucket Ecosystem**: {{ metrics.scoop_buckets }} Scoop / {{ metrics.shovel_buckets }} Shovel
-* **Bucket Graveyard (Stale > 1 Year)**: 🪦 {{ metrics.stale_buckets }}
+{% if ecosystem_name == 'scoop_shovel' %}* **Bucket Ecosystem**: {{ metrics.scoop_buckets }} Scoop / {{ metrics.shovel_buckets }} Shovel{% endif %}
+* **Stale/Abandoned Sources (> 1 Year)**: 🪦 {{ metrics.stale_buckets }}
 
 ### Ecosystem Growth (All Recipes)
 <picture>
@@ -23,6 +20,7 @@ This project was heavily inspired by the original `awesome-scoop` directories ma
   <img alt="All Recipes Growth" src="growth_all_light.svg">
 </picture>
 
+{% if ecosystem_name == 'scoop_shovel' %}
 ### Scoop vs Shovel Growth
 <p align="center">
   <picture>
@@ -36,26 +34,33 @@ This project was heavily inspired by the original `awesome-scoop` directories ma
     <img alt="Shovel Recipes Growth" src="growth_shovel_light.svg" width="49%">
   </picture>
 </p>
+{% endif %}
 
 # 🚀 Getting Started
-To add and use any of the buckets listed below, simply run the following command in your terminal:
+To add and use any of the repositories listed below, run the appropriate command for your package manager:
+
+{% if ecosystem_name == 'scoop_shovel' %}
 ```powershell
 scoop bucket add <bucket-name> <bucket-url>
+scoop install <bucket-name>/<app-name>
 ```
-For example, to add a specific bucket, find its URL from the list below and run:
+{% elif ecosystem_name == 'chocolatey' %}
 ```powershell
-scoop bucket add my-awesome-bucket https://github.com/user/my-awesome-bucket
+choco source add -n <source-name> -s <source-url>
+choco install <app-name> --source <source-name>
 ```
-After adding the bucket, you can install any of its applications like this:
+{% elif ecosystem_name == 'winget' %}
 ```powershell
-scoop install my-awesome-bucket/<app-name>
+winget source add -n <source-name> -a <source-url>
+winget install <app-name> --source <source-name>
 ```
+{% endif %}
 
-# Third party buckets by popularity
+# Third party repositories by popularity
 
 {% if hidden_gems %}
 ## 💎 Hidden Gems
-These buckets are actively maintained and feature a high percentage of **unique** applications not found in official repositories. Great for discovering niche tools!
+These repositories are actively maintained and feature a high percentage of **unique** applications not found in official repositories. Great for discovering niche tools!
 
 | Repository | Unique Recipes | Total Recipes | Score | Auto-Update |
 | :--- | :---: | :---: | :---: | :---: |
@@ -66,7 +71,7 @@ These buckets are actively maintained and feature a high percentage of **unique*
 
 {% if trending %}
 ## 🔥 Trending
-These active buckets are rapidly climbing the ranks due to recent, high-quality updates and growing recipe counts!
+These active repositories are rapidly climbing the ranks due to recent, high-quality updates and growing recipe counts!
 
 | Repository | Rank Change | Current Rank | Recipes | Score | Auto-Update |
 | :--- | :---: | :---: | :---: | :---: | :---: |
@@ -79,10 +84,11 @@ These active buckets are rapidly climbing the ranks due to recent, high-quality 
 | Repository | Recipes | Score | Auto-Update | Badges |
 | :--- | :---: | :---: | :---: | :--- |
 {% for repo in repos -%}
-| **[{{repo.full_name}}](directory/{{repo.full_name|replace('/', '+')}}.md)** | 📦 {{ repo.entries|length }} | ⭐ {{repo.score}} | 🔄 {{ "%.0f"|format((repo.checkver_count / repo.entries|length * 100) if repo.entries|length > 0 else 0) }}% | {% if repo.is_scoop_official %}👑 Official Scoop{% elif repo.is_scoop_known %}⭐ Known Scoop{% endif %}{% if repo.is_shovel_official %}<br>👑 Official Shovel{% elif repo.is_shovel_known %}<br>⭐ Known Shovel{% endif %} |
+| **[{{repo.full_name}}](directory/{{repo.full_name|replace('/', '+')}}.md)** | 📦 {{ repo.entries|length }} | ⭐ {{repo.score}} | 🔄 {{ "%.0f"|format((repo.checkver_count / repo.entries|length * 100) if repo.entries|length > 0 else 0) }}% | {% if ecosystem_name == 'scoop_shovel' %}{% if repo.is_scoop_official %}👑 Official Scoop{% elif repo.is_scoop_known %}⭐ Known Scoop{% endif %}{% if repo.is_shovel_official %}<br>👑 Official Shovel{% elif repo.is_shovel_known %}<br>⭐ Known Shovel{% endif %}{% else %}{% if repo.is_scoop_official %}👑 Official{% endif %}{% endif %} |
 {% endfor %}
 {%- endmacro %}
 
+{% if ecosystem_name == 'scoop_shovel' %}
 ## 🥄 Scoop Compatible Buckets
 These buckets are fully compatible with Scoop (and Shovel). They contain standard JSON manifests.
 
@@ -101,11 +107,13 @@ These buckets utilize Shovel-specific features (like native YAML manifests) or a
 {{ render_bucket_table(shovel_repos) }}
 </details>
 
-## 📦 All Known Buckets
-A combined list of every bucket discovered in the ecosystem.
+{% endif %}
+
+## 📦 All Known Sources
+A combined list of every source discovered in the ecosystem.
 
 <details>
-<summary><b>Click to expand all {{ all_repos|length }} discovered buckets</b></summary>
+<summary><b>Click to expand all {{ all_repos|length }} discovered sources</b></summary>
 
 {{ render_bucket_table(all_repos) }}
 </details>
@@ -114,7 +122,7 @@ A combined list of every bucket discovered in the ecosystem.
 * **Total Crawler Runs**: {{ metrics.total_runs }}
 * **Total Repo Updates**: {{ metrics.total_repo_updates }}
 * **Ecosystem Growth (Since Last Run)**:
-  * 🪣 {{ "%+d"|format(metrics.bucket_velocity) }} Buckets
+  * 🪣 {{ "%+d"|format(metrics.bucket_velocity) }} Repositories
   * 📦 {{ "%+d"|format(metrics.recipe_velocity) }} Recipes
 * **Eviction Count**: 🗑️ {{ metrics.total_evictions }}
 * **API Rate Limit Retries**: ⏳ {{ metrics.total_api_retries }}
