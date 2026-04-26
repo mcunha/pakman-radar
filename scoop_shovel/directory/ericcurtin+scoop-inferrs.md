@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [inferrs.json](https://github.com/ericcurtin/scoop-inferrs/blob/main/bucket/inferrs.json)

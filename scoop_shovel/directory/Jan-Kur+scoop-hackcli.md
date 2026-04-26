@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [hackcli.json](https://github.com/Jan-Kur/scoop-hackcli/blob/main/hackcli.json)

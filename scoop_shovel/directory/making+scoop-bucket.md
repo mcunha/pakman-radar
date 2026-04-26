@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [rsc.json](https://github.com/making/scoop-bucket/blob/main/bucket/rsc.json)

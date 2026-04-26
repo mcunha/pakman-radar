@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [kronk.json](https://github.com/janpgu/scoop-kronk/blob/main/kronk.json)

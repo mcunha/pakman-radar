@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [laurus.json](https://github.com/chrismdemian/scoop-bucket/blob/main/bucket/laurus.json)

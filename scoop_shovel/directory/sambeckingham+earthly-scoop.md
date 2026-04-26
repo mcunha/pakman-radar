@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [earthly.json](https://github.com/sambeckingham/earthly-scoop/blob/main/earthly.json)

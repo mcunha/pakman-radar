@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [revoco.json](https://github.com/fulgidus/scoop-revoco/blob/main/revoco.json)

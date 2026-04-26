@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [rustledger.json](https://github.com/rustledger/scoop-rustledger/blob/main/bucket/rustledger.json)

@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [logq.json](https://github.com/riccardomerenda/scoop-bucket/blob/main/bucket/logq.json)

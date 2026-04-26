@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [ghosttywin32.json](https://github.com/i999rri/scoop-bucket/blob/main/bucket/ghosttywin32.json)

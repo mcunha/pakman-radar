@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [lavawm.json](https://github.com/jack-work/scoop-lavawm/blob/master/bucket/lavawm.json)

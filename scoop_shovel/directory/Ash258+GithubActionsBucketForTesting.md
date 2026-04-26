@@ -4,7 +4,8 @@
 * **Score:** 1.0
 * **Auto-Update:** 82%
 
-* **Status:** 👑 Official Shovel Bucket
+
+
 
 ## 📦 Recipes (17)
 * [xmake.json](https://github.com/Ash258/GithubActionsBucketForTesting/blob/main/bucket/xmake.json)
