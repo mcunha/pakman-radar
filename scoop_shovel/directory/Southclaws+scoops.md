@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [sampctl.json](https://github.com/Southclaws/scoops/blob/master/sampctl.json)

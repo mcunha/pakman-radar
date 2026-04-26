@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (10)
 * [qtscrcpy.json](https://github.com/catusax/scoop-bucket/blob/master/bucket/qtscrcpy.json)
 * [geckodriver.json](https://github.com/catusax/scoop-bucket/blob/master/bucket/geckodriver.json)

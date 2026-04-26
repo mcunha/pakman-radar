@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [usage-monitor-for-claude.json](https://github.com/GitHubEtienne/scoop-bucket/blob/master/bucket/usage-monitor-for-claude.json)

@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [direnv.json](https://github.com/shenker/scoop-bucket/blob/master/bucket/direnv.json)

@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [figgy.json](https://github.com/jd3b/scoop-bucket/blob/main/bucket/figgy.json)

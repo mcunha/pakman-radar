@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (6)
 * [zig_dev.json](https://github.com/PizzaKirby/scoop_bucket/blob/master/bucket/zig_dev.json)
 * [freecad.json](https://github.com/PizzaKirby/scoop_bucket/blob/master/bucket/freecad.json)

@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [kickstart.json](https://github.com/nixtarted/scoop-bucket/blob/master/bucket/kickstart.json)

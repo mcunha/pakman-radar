@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [git-why.json](https://github.com/quanng28/gitwhy-scoop-bucket/blob/main/bucket/git-why.json)

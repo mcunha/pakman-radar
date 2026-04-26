@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (20)
 * [TeXGyreDejaVu-Math.json](https://github.com/jassielof/scoop-bucket/blob/master/bucket/TeXGyreDejaVu-Math.json)
 * [TeXGyrePagella-Math.json](https://github.com/jassielof/scoop-bucket/blob/master/bucket/TeXGyrePagella-Math.json)

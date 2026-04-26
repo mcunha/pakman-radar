@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [sdkman.json](https://github.com/palindrom615/scoop-bucket/blob/master/bucket/sdkman.json)

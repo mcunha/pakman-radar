@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [cs-script.json](https://github.com/freeflyer-team/scoop-bucket/blob/main/bucket/cs-script.json)
