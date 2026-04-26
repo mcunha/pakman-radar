@@ -53,12 +53,12 @@ def main():
     )
 
     for ecosystem_name in ecosystems_to_run:
-        print(f"\n{'='*50}\n[*] Starting crawler for ecosystem: {ecosystem_name}\n{'='*50}")
+        print(f"\n{'=' * 50}\n[*] Starting crawler for ecosystem: {ecosystem_name}\n{'=' * 50}")
         run_ecosystem(ecosystem_name, args.force)
 
     # Generate Top-Level Dashboard
     if len(ecosystems_to_run) > 1:  # Only aggregate if we're running all ecosystems or it's forced
-        print(f"\n{'='*50}\n[*] Generating Top-Level Ecosystem Dashboard\n{'='*50}")
+        print(f"\n{'=' * 50}\n[*] Generating Top-Level Ecosystem Dashboard\n{'=' * 50}")
         generate_dashboard()
 
 
@@ -98,17 +98,17 @@ def generate_dashboard():
         # Regex replacements for dashboard badges/text
         content = re.sub(
             r"\[\*\*Scoop & Shovel\*\*\]\(\./scoop_shovel/README\.md\):.*",
-            f'[**Scoop & Shovel**](./scoop_shovel/README.md): Tracking 📦 **{dashboard_data["scoop_shovel"]["recipes"]:,}** Packages across 🪣 **{dashboard_data["scoop_shovel"]["repos"]:,}** Repositories',
+            f"[**Scoop & Shovel**](./scoop_shovel/README.md): Tracking 📦 **{dashboard_data['scoop_shovel']['recipes']:,}** Packages across 🪣 **{dashboard_data['scoop_shovel']['repos']:,}** Repositories",
             content,
         )
         content = re.sub(
             r"\[\*\*Chocolatey\*\*\]\(\./chocolatey/README\.md\):.*",
-            f'[**Chocolatey**](./chocolatey/README.md): Tracking 📦 **{dashboard_data["chocolatey"]["recipes"]:,}** Packages across 🪣 **{dashboard_data["chocolatey"]["repos"]:,}** Sources',
+            f"[**Chocolatey**](./chocolatey/README.md): Tracking 📦 **{dashboard_data['chocolatey']['recipes']:,}** Packages across 🪣 **{dashboard_data['chocolatey']['repos']:,}** Sources",
             content,
         )
         content = re.sub(
             r"\[\*\*WinGet\*\*\]\(\./winget/README\.md\):.*",
-            f'[**WinGet**](./winget/README.md): Tracking 📦 **{dashboard_data["winget"]["recipes"]:,}** Packages across 🪣 **{dashboard_data["winget"]["repos"]:,}** Repositories',
+            f"[**WinGet**](./winget/README.md): Tracking 📦 **{dashboard_data['winget']['recipes']:,}** Packages across 🪣 **{dashboard_data['winget']['repos']:,}** Repositories",
             content,
         )
 

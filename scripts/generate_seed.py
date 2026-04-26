@@ -60,7 +60,10 @@ def get_daily_snapshots(repo_path, full_name, is_shovel_bucket, config):
                         # If we don't, we might include some incomplete multi-file manifests, which is a tiny edge case.
                         # Let's just remove the strict installer check here to capture singletons.
                         normalized_f = f.replace("\\", "/")
-                        if f.endswith(".yaml") and any(d in normalized_f for d in ["manifests/", "packages/", "automatic/", "manual/"]):
+                        if f.endswith(".yaml") and any(
+                            d in normalized_f
+                            for d in ["manifests/", "packages/", "automatic/", "manual/"]
+                        ):
                             valid_files.add(f"{full_name}:{f.split('/')[-1]}".lower())
                     else:
                         if f.endswith(".json") or f.endswith(".yaml") or f.endswith(".yml"):
@@ -132,7 +135,7 @@ def process_repository(repo, config):
 
 
 def seed_ecosystem(ecosystem_name):
-    print(f"\n{'='*50}\n[*] Starting seed generation for: {ecosystem_name}\n{'='*50}")
+    print(f"\n{'=' * 50}\n[*] Starting seed generation for: {ecosystem_name}\n{'=' * 50}")
     config = get_config(ecosystem_name)
     json_path = os.path.join(config.out_dir, "all.json")
 
