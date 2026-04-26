@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [lazyenv.json](https://github.com/lazynop/scoop-bucket/blob/main/bucket/lazyenv.json)

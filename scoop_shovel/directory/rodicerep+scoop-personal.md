@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (12)
 * [ghc.json](https://github.com/rodicerep/scoop-personal/blob/master/bucket/ghc.json)
 * [ghc844.json](https://github.com/rodicerep/scoop-personal/blob/master/bucket/ghc844.json)

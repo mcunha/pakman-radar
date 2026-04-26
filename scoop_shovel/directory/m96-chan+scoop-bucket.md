@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [slacko.json](https://github.com/m96-chan/scoop-bucket/blob/main/bucket/slacko.json)

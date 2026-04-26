@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [my_firefox.json](https://github.com/markusatveter/my_bucket/blob/main/bucket/my_firefox.json)

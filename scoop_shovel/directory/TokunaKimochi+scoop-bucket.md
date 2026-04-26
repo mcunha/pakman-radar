@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (2)
 * [nyagos.json](https://github.com/TokunaKimochi/scoop-bucket/blob/master/bucket/nyagos.json)
 * [peco.json](https://github.com/TokunaKimochi/scoop-bucket/blob/master/bucket/peco.json)

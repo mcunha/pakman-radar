@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [xsql.json](https://github.com/zx06/scoop-bucket/blob/main/bucket/xsql.json)

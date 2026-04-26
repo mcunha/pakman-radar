@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [teploy.json](https://github.com/useteploy/scoop-bucket/blob/main/bucket/teploy.json)

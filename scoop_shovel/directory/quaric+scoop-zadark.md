@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [zadark.json](https://github.com/quaric/scoop-zadark/blob/main/bucket/zadark.json)

@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [stoa.json](https://github.com/Liszt-Fly/scoop-bucket/blob/main/bucket/stoa.json)

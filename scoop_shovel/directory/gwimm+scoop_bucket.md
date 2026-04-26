@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (2)
 * [zig-master.json](https://github.com/gwimm/scoop_bucket/blob/master/bucket/zig-master.json)
 * [nim-nightly.json](https://github.com/gwimm/scoop_bucket/blob/master/bucket/nim-nightly.json)

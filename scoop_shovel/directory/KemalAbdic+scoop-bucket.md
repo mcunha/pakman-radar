@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [ec2pf.json](https://github.com/KemalAbdic/scoop-bucket/blob/main/bucket/ec2pf.json)

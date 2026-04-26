@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [BG3ModManager.json](https://github.com/ThePoultryMan/Coals-Bucket/blob/master/bucket/BG3ModManager.json)

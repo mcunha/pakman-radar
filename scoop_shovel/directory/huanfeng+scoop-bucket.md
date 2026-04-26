@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (4)
 * [hex.json](https://github.com/huanfeng/scoop-bucket/blob/main/bucket/hex.json)
 * [lsuart.json](https://github.com/huanfeng/scoop-bucket/blob/main/bucket/lsuart.json)

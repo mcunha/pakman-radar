@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (4)
 * [moonscript.json](https://github.com/TangentFoxy/ScoopBucket-ThirdParty/blob/master/moonscript.json)
 * [openresty.json](https://github.com/TangentFoxy/ScoopBucket-ThirdParty/blob/master/openresty.json)

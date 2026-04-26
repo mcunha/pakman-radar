@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [myna.json](https://github.com/jpalaniselvam/scoop-bucket/blob/main/bucket/myna.json)

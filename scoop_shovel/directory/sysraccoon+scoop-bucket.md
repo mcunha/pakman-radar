@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [kanata-winiov2.json](https://github.com/sysraccoon/scoop-bucket/blob/master/bucket/kanata-winiov2.json)
