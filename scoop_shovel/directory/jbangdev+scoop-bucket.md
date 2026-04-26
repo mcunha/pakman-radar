@@ -2,9 +2,11 @@
 
 * **Repository:** [https://github.com/jbangdev/scoop-bucket](https://github.com/jbangdev/scoop-bucket)
 * **Score:** 1.0
-* **Auto-Update:** 200%
+* **Auto-Update:** 100%
 
 
 
-## 📦 Recipes (1)
+
+## 📦 Recipes (2)
+* [jbang.json](https://github.com/jbangdev/scoop-bucket/blob/main/bucket/jbang.json)
 * [jbang.json](https://github.com/jbangdev/scoop-bucket/blob/main/bucket/jbang.json)

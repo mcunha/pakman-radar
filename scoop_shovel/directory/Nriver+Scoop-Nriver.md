@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (2)
 * [jackett-cn.json](https://github.com/Nriver/Scoop-Nriver/blob/master/bucket/jackett-cn.json)
 * [trilium-cn.json](https://github.com/Nriver/Scoop-Nriver/blob/master/bucket/trilium-cn.json)

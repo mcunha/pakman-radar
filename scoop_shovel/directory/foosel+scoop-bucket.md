@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (7)
 * [scoop-tray.json](https://github.com/foosel/scoop-bucket/blob/main/bucket/scoop-tray.json)
 * [freecad-linkbranch-daily.json](https://github.com/foosel/scoop-bucket/blob/main/bucket/freecad-linkbranch-daily.json)

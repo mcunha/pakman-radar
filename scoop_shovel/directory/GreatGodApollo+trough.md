@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (2)
 * [genday.json](https://github.com/GreatGodApollo/trough/blob/master/bucket/genday.json)
 * [qgr.json](https://github.com/GreatGodApollo/trough/blob/master/bucket/qgr.json)

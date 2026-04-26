@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (106)
 * [alacritty.json](https://github.com/zeldrisho/scoop-bucket/blob/master/bucket/alacritty.json)
 * [steam.json](https://github.com/zeldrisho/scoop-bucket/blob/master/bucket/steam.json)

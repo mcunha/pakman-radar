@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (42)
 * [whois.json](https://github.com/wanstarge/scoopx/blob/master/bucket/whois.json)
 * [dark.json](https://github.com/wanstarge/scoopx/blob/master/bucket/dark.json)

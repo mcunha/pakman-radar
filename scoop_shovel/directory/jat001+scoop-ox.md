@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (38)
 * [netease-dd.json](https://github.com/jat001/scoop-ox/blob/master/bucket/netease-dd.json)
 * [curseforge.json](https://github.com/jat001/scoop-ox/blob/master/bucket/curseforge.json)

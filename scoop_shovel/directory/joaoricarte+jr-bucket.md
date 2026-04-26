@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (44)
 * [webplot.json](https://github.com/joaoricarte/jr-bucket/blob/main/bucket/webplot.json)
 * [lyx.json](https://github.com/joaoricarte/jr-bucket/blob/main/bucket/lyx.json)

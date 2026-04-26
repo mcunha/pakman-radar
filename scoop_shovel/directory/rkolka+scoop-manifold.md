@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (9)
 * [manifold-xtra-clearscript.json](https://github.com/rkolka/scoop-manifold/blob/main/bucket/manifold-xtra-clearscript.json)
 * [manifold-xtra-VectorFun.json](https://github.com/rkolka/scoop-manifold/blob/main/bucket/manifold-xtra-VectorFun.json)

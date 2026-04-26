@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (30)
 * [epicgames.json](https://github.com/nickbudi/scoop-bucket/blob/master/bucket/epicgames.json)
 * [streamlink-portable.json](https://github.com/nickbudi/scoop-bucket/blob/master/bucket/streamlink-portable.json)

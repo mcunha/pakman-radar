@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (36)
 * [discord-quest-completer.json](https://github.com/Strappazzon/scoop/blob/master/bucket/discord-quest-completer.json)
 * [uassetgui.json](https://github.com/Strappazzon/scoop/blob/master/bucket/uassetgui.json)

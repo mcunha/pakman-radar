@@ -3,7 +3,7 @@ A data-driven, automated discovery and ranking engine for the Winget package man
 
 # Build Status
 ![Tests & Linting](https://github.com/mcunha/scoop-radar/actions/workflows/test.yml/badge.svg)
-![Update Scoop Radar README](https://github.com/mcunha/scoop-radar/actions/workflows/update.yml/badge.svg)
+![Update Package Managers Radar](https://github.com/mcunha/scoop-radar/actions/workflows/update.yml/badge.svg)
 
 # 📊 Ecosystem Health
 * **Total Unique Recipes**: 1569
@@ -69,8 +69,8 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 2
-* **Total Repo Updates**: 26
+* **Total Crawler Runs**: 3
+* **Total Repo Updates**: 29
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
@@ -78,6 +78,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 0
 * **Cache Size**: 💾 0.51 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 0.13s
-  * 📥 Update: 0.00s
+  * 🔍 Discovery: 0.38s
+  * 📥 Update: 1.81s
 * **Cumulative Compute Time**: 0.3 minutes

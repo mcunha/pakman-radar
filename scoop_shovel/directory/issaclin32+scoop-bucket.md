@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (44)
 * [ichitaro-viewer-np.json](https://github.com/issaclin32/scoop-bucket/blob/master/bucket/ichitaro-viewer-np.json)
 * [grammarly-np.json](https://github.com/issaclin32/scoop-bucket/blob/master/bucket/grammarly-np.json)

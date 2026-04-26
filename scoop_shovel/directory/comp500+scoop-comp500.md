@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (7)
 * [cemu-shortcut.json](https://github.com/comp500/scoop-comp500/blob/master/cemu-shortcut.json)
 * [powdertoy.json](https://github.com/comp500/scoop-comp500/blob/master/powdertoy.json)

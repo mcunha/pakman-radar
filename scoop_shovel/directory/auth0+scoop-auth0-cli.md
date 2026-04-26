@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [auth0.json](https://github.com/auth0/scoop-auth0-cli/blob/main/auth0.json)
