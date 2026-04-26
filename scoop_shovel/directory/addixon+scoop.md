@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (5)
 * [jabradirect.json](https://github.com/addixon/scoop/blob/main/bucket/jabradirect.json)
 * [pixlet.json](https://github.com/addixon/scoop/blob/main/bucket/pixlet.json)

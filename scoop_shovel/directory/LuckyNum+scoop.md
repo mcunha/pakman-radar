@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (15)
 * [huorong.json](https://github.com/LuckyNum/scoop/blob/master/bucket/huorong.json)
 * [cap.json](https://github.com/LuckyNum/scoop/blob/master/bucket/cap.json)

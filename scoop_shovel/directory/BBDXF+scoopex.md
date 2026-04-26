@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [scoopex.json](https://github.com/BBDXF/scoopex/blob/main/bucket/scoopex.json)

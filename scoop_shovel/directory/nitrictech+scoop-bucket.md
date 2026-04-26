@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [nitric.json](https://github.com/nitrictech/scoop-bucket/blob/main/bucket/nitric.json)

@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [gsctl.json](https://github.com/giantswarm/scoop-bucket/blob/master/bucket/gsctl.json)

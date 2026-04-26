@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (14)
 * [nat-type-tester.json](https://github.com/0b1000/bucket/blob/main/bucket/nat-type-tester.json)
 * [eudic.json](https://github.com/0b1000/bucket/blob/main/bucket/eudic.json)

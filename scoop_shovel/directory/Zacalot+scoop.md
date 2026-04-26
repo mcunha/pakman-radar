@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [zacor.json](https://github.com/Zacalot/scoop/blob/main/bucket/zacor.json)

@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (7)
 * [stencil.json](https://github.com/raystack/scoop-bucket/blob/main/bucket/stencil.json)
 * [meteor.json](https://github.com/raystack/scoop-bucket/blob/main/bucket/meteor.json)

@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [zd.json](https://github.com/johanviberg/scoop-bucket/blob/main/bucket/zd.json)

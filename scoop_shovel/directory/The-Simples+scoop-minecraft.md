@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (18)
 * [pacmc.json](https://github.com/The-Simples/scoop-minecraft/blob/main/bucket/pacmc.json)
 * [multimc.json](https://github.com/The-Simples/scoop-minecraft/blob/main/bucket/multimc.json)

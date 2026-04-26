@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (18)
 * [atom-portable.json](https://github.com/athrunsun/scoop-bucket/blob/master/bucket/atom-portable.json)
 * [atom-portable-cn-taobao-mirror.json](https://github.com/athrunsun/scoop-bucket/blob/master/bucket/atom-portable-cn-taobao-mirror.json)

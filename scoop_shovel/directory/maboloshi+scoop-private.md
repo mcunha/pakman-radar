@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (39)
 * [CascadiaMono-NF-Mono.json](https://github.com/maboloshi/scoop-private/blob/master/bucket/CascadiaMono-NF-Mono.json)
 * [weixin.json](https://github.com/maboloshi/scoop-private/blob/master/bucket/weixin.json)
