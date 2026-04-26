@@ -60,7 +60,13 @@ def discover_manifests(repo_path, is_shovel_repo, config):
     entries = []
     checkver_count = 0
     if config.name == "winget":
-        manifest_dirs = [os.path.join(repo_path, "manifests"), repo_path]
+        manifest_dirs = [
+            os.path.join(repo_path, "manifests"),
+            os.path.join(repo_path, "packages"),
+            os.path.join(repo_path, "automatic"),
+            os.path.join(repo_path, "manual"),
+            repo_path,
+        ]
         for start_dir in manifest_dirs:
             if not os.path.exists(start_dir):
                 continue
@@ -352,6 +358,15 @@ def discover_repositories(cache, config):
 
     if config.name == "chocolatey":
         queries.extend(["path:automatic/*/*.nuspec", "path:manual/*/*.nuspec"])
+    elif config.name == "winget":
+        queries.extend(
+            [
+                "path:manifests/*/*/*.yaml",
+                "path:packages/*/*/*.yaml",
+                "path:automatic/*/*/*.yaml",
+                "path:manual/*/*/*.yaml",
+            ]
+        )
 
     query_index = cache.get("search_query_index", 0)
     search_page = cache.get("search_page", 1)
