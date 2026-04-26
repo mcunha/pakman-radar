@@ -6,10 +6,10 @@ A data-driven, automated discovery and ranking engine for the Chocolatey package
 ![Update Package Managers Radar](https://github.com/mcunha/scoop-radar/actions/workflows/update.yml/badge.svg)
 
 # 📊 Ecosystem Health
-* **Total Unique Recipes**: 2773
-* **Ecosystem Auto-Update Health**: 36.07%
+* **Total Unique Recipes**: 2784
+* **Ecosystem Auto-Update Health**: 36.1%
 * **Ecosystem Reliability**: 100.0% (Sampled URL Health)
-* **Official vs. Community**: 364 Official / 2758 Community
+* **Official vs. Community**: 364 Official / 2769 Community
 
 * **Stale/Abandoned Sources (> 1 Year)**: 🪦 121
 
@@ -63,7 +63,7 @@ These repositories are actively maintained and feature a high percentage of **un
 A combined list of every source discovered in the ecosystem.
 
 <details>
-<summary><b>Click to expand all 222 discovered sources</b></summary>
+<summary><b>Click to expand all 224 discovered sources</b></summary>
 
 | Repository | Recipes | Score | Auto-Update | Badges |
 | :--- | :---: | :---: | :---: | :--- |
@@ -87,6 +87,7 @@ A combined list of every source discovered in the ecosystem.
 | **[pascalberger/chocolatey-packages](directory/pascalberger+chocolatey-packages.md)** | 📦 15 | ⭐ 1.0 | 🔄 87% |  |
 | **[hoanganhduc/chocolatey](directory/hoanganhduc+chocolatey.md)** | 📦 12 | ⭐ 1.0 | 🔄 0% |  |
 | **[naveen521kk/au-packages](directory/naveen521kk+au-packages.md)** | 📦 12 | ⭐ 1.0 | 🔄 83% |  |
+| **[kai2nenobu/my-chocolatey-packages](directory/kai2nenobu+my-chocolatey-packages.md)** | 📦 10 | ⭐ 1.0 | 🔄 50% |  |
 | **[ITS-Unibas/chocolatey-community-packages](directory/ITS-Unibas+chocolatey-community-packages.md)** | 📦 9 | ⭐ 1.0 | 🔄 89% |  |
 | **[C4illin/Choco-Packages](directory/C4illin+Choco-Packages.md)** | 📦 9 | ⭐ 1.0 | 🔄 89% |  |
 | **[HealisticEngineer/chocolatey-packages](directory/HealisticEngineer+chocolatey-packages.md)** | 📦 8 | ⭐ 1.0 | 🔄 100% |  |
@@ -167,6 +168,7 @@ A combined list of every source discovered in the ecosystem.
 | **[brogers5/chocolatey-package-xsplit-vcam](directory/brogers5+chocolatey-package-xsplit-vcam.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[piotrek-szczygiel/clink-chocolatey](directory/piotrek-szczygiel+clink-chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[virginviolet/chocolatey-packages](directory/virginviolet+chocolatey-packages.md)** | 📦 18 | ⭐ 1.0 | 🔄 0% |  |
+| **[cokelid/ChocoButler](directory/cokelid+ChocoButler.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[glennsarti/ChocolateyPackages](directory/glennsarti+ChocolateyPackages.md)** | 📦 3 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-isx](directory/brogers5+chocolatey-package-isx.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[Twingate-Labs/chocolatey-packages](directory/Twingate-Labs+chocolatey-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
@@ -293,15 +295,15 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 15
-* **Total Repo Updates**: 910
+* **Total Crawler Runs**: 16
+* **Total Repo Updates**: 972
 * **Ecosystem Growth (Since Last Run)**:
-  * 🪣 +7 Repositories
-  * 📦 +367 Recipes
+  * 🪣 +2 Repositories
+  * 📦 +11 Recipes
 * **Eviction Count**: 🗑️ 0
 * **API Rate Limit Retries**: ⏳ 0
-* **Cache Size**: 💾 0.51 MB
+* **Cache Size**: 💾 0.56 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 2.57s
-  * 📥 Update: 2.30s
+  * 🔍 Discovery: 3.18s
+  * 📥 Update: 2.06s
 * **Cumulative Compute Time**: 0.8 minutes

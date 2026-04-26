@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (22)
 * [Yank-Note.json](https://github.com/bookyue/scoop-egg/blob/master/bucket/Yank-Note.json)
 * [clash-for-windows.json](https://github.com/bookyue/scoop-egg/blob/master/bucket/clash-for-windows.json)

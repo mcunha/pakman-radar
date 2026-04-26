@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [steam.json](https://github.com/isso-719/gaming-scoop/blob/main/bucket/steam.json)

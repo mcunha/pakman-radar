@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [slay.json](https://github.com/hammadxcm/scoop-slay/blob/main/bucket/slay.json)

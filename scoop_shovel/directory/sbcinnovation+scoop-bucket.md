@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (4)
 * [lmux.json](https://github.com/sbcinnovation/scoop-bucket/blob/main/bucket/lmux.json)
 * [squoosh.json](https://github.com/sbcinnovation/scoop-bucket/blob/main/bucket/squoosh.json)

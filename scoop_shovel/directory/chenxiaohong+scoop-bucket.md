@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (14)
 * [wechat.json](https://github.com/chenxiaohong/scoop-bucket/blob/main/bucket/wechat.json)
 * [neteasemusic.json](https://github.com/chenxiaohong/scoop-bucket/blob/main/bucket/neteasemusic.json)

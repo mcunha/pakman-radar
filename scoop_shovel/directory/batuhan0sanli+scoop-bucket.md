@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [airbridge.json](https://github.com/batuhan0sanli/scoop-bucket/blob/main/bucket/airbridge.json)

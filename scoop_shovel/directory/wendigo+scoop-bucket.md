@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [chrome-protocol-proxy.json](https://github.com/wendigo/scoop-bucket/blob/master/bucket/chrome-protocol-proxy.json)

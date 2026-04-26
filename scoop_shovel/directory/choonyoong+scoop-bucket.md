@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (10)
 * [openapi-tui.json](https://github.com/choonyoong/scoop-bucket/blob/master/bucket/openapi-tui.json)
 * [blazingjj.json](https://github.com/choonyoong/scoop-bucket/blob/master/bucket/blazingjj.json)

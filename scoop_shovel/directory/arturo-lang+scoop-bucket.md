@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [arturo.json](https://github.com/arturo-lang/scoop-bucket/blob/main/bucket/arturo.json)

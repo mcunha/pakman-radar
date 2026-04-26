@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [skate-ipsum.json](https://github.com/madflow/scoop-bucket/blob/main/bucket/skate-ipsum.json)

@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (32)
 * [openjdk.json](https://github.com/kkkykin/Personal-Scoop-Bucket/blob/master/bucket/openjdk.json)
 * [fingerprint-chromium.json](https://github.com/kkkykin/Personal-Scoop-Bucket/blob/master/bucket/fingerprint-chromium.json)

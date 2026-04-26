@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [nanum-barun-gothic.json](https://github.com/lesstif/scoop-bucket-for-korean/blob/master/nanum-barun-gothic.json)

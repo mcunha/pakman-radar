@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [eudic.json](https://github.com/wcmiracle/wuzi_scoop/blob/master/bucket/eudic.json)

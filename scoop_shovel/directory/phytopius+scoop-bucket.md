@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [quickssh.json](https://github.com/phytopius/scoop-bucket/blob/main/bucket/quickssh.json)

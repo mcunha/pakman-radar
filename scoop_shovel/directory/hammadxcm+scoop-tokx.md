@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [tokx.json](https://github.com/hammadxcm/scoop-tokx/blob/main/bucket/tokx.json)

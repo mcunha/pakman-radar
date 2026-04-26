@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (3)
 * [php7.json](https://github.com/Sandex/scoop-supernova/blob/master/php7.json)
 * [phpstorm.json](https://github.com/Sandex/scoop-supernova/blob/master/phpstorm.json)

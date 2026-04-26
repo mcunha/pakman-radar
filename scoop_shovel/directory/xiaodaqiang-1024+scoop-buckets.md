@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (4)
 * [v2rayn-core.json](https://github.com/xiaodaqiang-1024/scoop-buckets/blob/main/bucket/v2rayn-core.json)
 * [BookXNotePro.json](https://github.com/xiaodaqiang-1024/scoop-buckets/blob/main/bucket/BookXNotePro.json)

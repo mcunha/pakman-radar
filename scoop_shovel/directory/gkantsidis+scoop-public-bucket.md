@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (6)
 * [libminizinc.json](https://github.com/gkantsidis/scoop-public-bucket/blob/master/bucket/libminizinc.json)
 * [bflat.json](https://github.com/gkantsidis/scoop-public-bucket/blob/master/bucket/bflat.json)

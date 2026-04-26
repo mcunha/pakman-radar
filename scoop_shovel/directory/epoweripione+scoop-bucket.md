@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (55)
 * [WiseProgramUninstaller.json](https://github.com/epoweripione/scoop-bucket/blob/master/bucket/WiseProgramUninstaller.json)
 * [WiseDiskCleaner.json](https://github.com/epoweripione/scoop-bucket/blob/master/bucket/WiseDiskCleaner.json)
