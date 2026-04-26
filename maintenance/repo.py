@@ -78,10 +78,6 @@ def discover_manifests(repo_path, is_shovel_repo, config):
                         continue
                     file_path = os.path.join(root, f)
                     if os.path.isfile(file_path) and is_manifest(f):
-                        installer_f = f.replace(".yaml", ".installer.yaml")
-                        if installer_f not in files:
-                            continue
-
                         (is_valid, has_checkver) = validate_manifest_file(
                             file_path, f, is_shovel_repo, config
                         )
@@ -134,6 +130,12 @@ def validate_manifest_file(file_path, f, is_shovel_repo, config):
                 manifest_data = yaml.safe_load(mf)
             if not isinstance(manifest_data, dict) or "PackageIdentifier" not in manifest_data:
                 is_valid = False
+            else:
+                mtype = manifest_data.get("ManifestType", "")
+                if mtype != "singleton":
+                    installer_f = file_path.replace(".yaml", ".installer.yaml")
+                    if not os.path.exists(installer_f):
+                        is_valid = False
         except Exception:
             is_valid = False
         return is_valid, has_checkver

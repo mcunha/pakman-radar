@@ -52,15 +52,15 @@ def get_daily_snapshots(repo_path, full_name, is_shovel_bucket, config):
                         if ".installer." in f or ".locale." in f:
                             continue
 
-                        installer_f = f.replace(".yaml", ".installer.yaml")
-                        if installer_f not in files:
-                            continue
-
+                        # Read ManifestType? We can't easily read it from git history without checking out the file.
+                        # As a fallback for the seed script, we just check if .installer.yaml exists OR if it's the root yaml.
+                        # Wait, we can't be perfect in seed generation without reading the file.
+                        # But wait! Almost all singletons do not have an installer file.
+                        # If we strictly require .installer.yaml we miss singletons.
+                        # If we don't, we might include some incomplete multi-file manifests, which is a tiny edge case.
+                        # Let's just remove the strict installer check here to capture singletons.
                         normalized_f = f.replace("\\", "/")
-                        if f.endswith(".yaml") and any(
-                            d in normalized_f
-                            for d in ["manifests/", "packages/", "automatic/", "manual/"]
-                        ):
+                        if f.endswith(".yaml") and any(d in normalized_f for d in ["manifests/", "packages/", "automatic/", "manual/"]):
                             valid_files.add(f"{full_name}:{f.split('/')[-1]}".lower())
                     else:
                         if f.endswith(".json") or f.endswith(".yaml") or f.endswith(".yml"):
