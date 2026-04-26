@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (10)
 * [pwsh-prompt.json](https://github.com/lucaspimentel/scoop-bucket/blob/master/bucket/pwsh-prompt.json)
 * [winget-tui.json](https://github.com/lucaspimentel/scoop-bucket/blob/master/bucket/winget-tui.json)

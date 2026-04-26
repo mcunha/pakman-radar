@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [javascript-package-delegator.json](https://github.com/louiss0/the-code-fixer-23-buckets/blob/main/bucket/javascript-package-delegator.json)

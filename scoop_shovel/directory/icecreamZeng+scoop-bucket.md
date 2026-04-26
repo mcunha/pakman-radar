@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (29)
 * [comfyui.json](https://github.com/icecreamZeng/scoop-bucket/blob/master/bucket/comfyui.json)
 * [Warcraft3.json](https://github.com/icecreamZeng/scoop-bucket/blob/master/bucket/Warcraft3.json)

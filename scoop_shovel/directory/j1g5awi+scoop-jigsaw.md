@@ -6,12 +6,13 @@
 
 
 
+
 ## 📦 Recipes (8)
-* [autocorrect.json](https://github.com/j1g5awi/scoop-jigsaw/blob/master/bucket/autocorrect.json)
 * [calibre.json](https://github.com/j1g5awi/scoop-jigsaw/blob/master/bucket/calibre.json)
-* [go-cqhttp-nightly.json](https://github.com/j1g5awi/scoop-jigsaw/blob/master/bucket/go-cqhttp-nightly.json)
-* [go-cqhttp.json](https://github.com/j1g5awi/scoop-jigsaw/blob/master/bucket/go-cqhttp.json)
 * [python-poetry-preview.json](https://github.com/j1g5awi/scoop-jigsaw/blob/master/bucket/python-poetry-preview.json)
 * [python-poetry.json](https://github.com/j1g5awi/scoop-jigsaw/blob/master/bucket/python-poetry.json)
+* [go-cqhttp.json](https://github.com/j1g5awi/scoop-jigsaw/blob/master/bucket/go-cqhttp.json)
+* [autocorrect.json](https://github.com/j1g5awi/scoop-jigsaw/blob/master/bucket/autocorrect.json)
+* [go-cqhttp-nightly.json](https://github.com/j1g5awi/scoop-jigsaw/blob/master/bucket/go-cqhttp-nightly.json)
 * [simpread-sync.json](https://github.com/j1g5awi/scoop-jigsaw/blob/master/bucket/simpread-sync.json)
 * [weasel-dev.json](https://github.com/j1g5awi/scoop-jigsaw/blob/master/bucket/weasel-dev.json)

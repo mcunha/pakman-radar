@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (11)
 * [lutgen-studio.json](https://github.com/jack-mil/scoop-bucket/blob/master/bucket/lutgen-studio.json)
 * [typos-lsp.json](https://github.com/jack-mil/scoop-bucket/blob/master/bucket/typos-lsp.json)

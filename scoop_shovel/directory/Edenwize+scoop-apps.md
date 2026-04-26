@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (13)
 * [7zip-7zr.json](https://github.com/Edenwize/scoop-apps/blob/master/bucket/7zip-7zr.json)
 * [font_firago.json](https://github.com/Edenwize/scoop-apps/blob/master/bucket/font_firago.json)

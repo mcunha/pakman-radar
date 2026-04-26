@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [sveltin.json](https://github.com/sveltinio/scoop-sveltin/blob/main/sveltin.json)

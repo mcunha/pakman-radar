@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [jarl.json](https://github.com/devcsrj/scoop-bucket/blob/master/bucket/jarl.json)

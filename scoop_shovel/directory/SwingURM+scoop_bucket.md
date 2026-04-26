@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (6)
 * [gcc-trcrsired.json](https://github.com/SwingURM/scoop_bucket/blob/master/bucket/gcc-trcrsired.json)
 * [decompiler.json](https://github.com/SwingURM/scoop_bucket/blob/master/bucket/decompiler.json)

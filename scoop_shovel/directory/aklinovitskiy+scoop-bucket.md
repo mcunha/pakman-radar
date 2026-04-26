@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (4)
 * [sqlindexmanager.json](https://github.com/aklinovitskiy/scoop-bucket/blob/master/bucket/sqlindexmanager.json)
 * [oscript.json](https://github.com/aklinovitskiy/scoop-bucket/blob/master/bucket/oscript.json)

@@ -6,6 +6,7 @@
 
 
 
+
 ## 📦 Recipes (7)
 * [claude-code.json](https://github.com/john180/scoop-bucket/blob/master/bucket/claude-code.json)
 * [maa-ci.json](https://github.com/john180/scoop-bucket/blob/master/bucket/maa-ci.json)

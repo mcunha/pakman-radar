@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [demohelper.json](https://github.com/yukihane/scoop-bucket-yukihane/blob/master/demohelper.json)
