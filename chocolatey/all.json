@@ -643,7 +643,7 @@
       "topics": [
         "hacktoberfest"
       ],
-      "last_checked": "2026-04-27T01:20:55Z",
+      "last_checked": "2026-04-27T08:30:49Z",
       "pushed_at": "2026-04-27T00:36:12Z",
       "archived": false,
       "disabled": false,
@@ -997,7 +997,7 @@
         "deprecated/extensions/chocolatey-fosshub.extension/chocolatey-fosshub.extension.nuspec"
       ],
       "checkver_count": 281,
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "probe_success_rate": 1.0,
       "valid_probes": 0,
       "total_probes": 0,
@@ -1026,7 +1026,7 @@
         "malware-analysis",
         "reverse-engineering"
       ],
-      "last_checked": "2026-04-26T21:14:11Z",
+      "last_checked": "2026-04-27T08:30:49Z",
       "pushed_at": "2026-04-22T22:44:25Z",
       "archived": false,
       "disabled": false,
@@ -2389,7 +2389,7 @@
         "chocolatey-packages",
         "hacktoberfest"
       ],
-      "last_checked": "2026-04-27T01:20:54Z",
+      "last_checked": "2026-04-27T08:30:49Z",
       "pushed_at": "2026-04-26T00:14:42Z",
       "archived": false,
       "disabled": false,
@@ -2776,7 +2776,7 @@
         "chocolatey-packages",
         "manual-packages"
       ],
-      "last_checked": "2026-04-27T01:20:54Z",
+      "last_checked": "2026-04-27T08:30:49Z",
       "pushed_at": "2026-04-26T06:08:38Z",
       "archived": false,
       "disabled": false,
@@ -3029,7 +3029,7 @@
         "chocolatey",
         "chocolatey-packages"
       ],
-      "last_checked": "2026-04-27T01:20:54Z",
+      "last_checked": "2026-04-27T08:30:49Z",
       "pushed_at": "2026-04-26T09:43:36Z",
       "archived": false,
       "disabled": false,
@@ -3219,7 +3219,7 @@
         "chocolatey-automatic",
         "chocolatey-packages"
       ],
-      "last_checked": "2026-04-27T01:20:54Z",
+      "last_checked": "2026-04-27T08:30:50Z",
       "pushed_at": "2026-04-24T14:11:45Z",
       "archived": false,
       "disabled": false,
@@ -3258,7 +3258,7 @@
         "vscodium-insiders.install/vscodium-insiders.install.nuspec"
       ],
       "checkver_count": 31,
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "probe_success_rate": 1.0,
       "valid_probes": 0,
       "total_probes": 0,
@@ -3510,7 +3510,7 @@
       "topics": [
         "chocolatey-packages"
       ],
-      "last_checked": "2026-04-26T11:40:03Z",
+      "last_checked": "2026-04-27T08:30:49Z",
       "pushed_at": "2026-04-19T00:36:18Z",
       "archived": false,
       "disabled": false,
@@ -3529,7 +3529,7 @@
         "pdfarranger/pdfarranger.nuspec"
       ],
       "checkver_count": 0,
-      "consecutive_failures": 1,
+      "consecutive_failures": 0,
       "probe_success_rate": 1.0,
       "valid_probes": 0,
       "total_probes": 0,
@@ -3559,7 +3559,7 @@
         "chocolatey-automatic",
         "chocolatey-packages"
       ],
-      "last_checked": "2026-04-27T01:20:54Z",
+      "last_checked": "2026-04-27T08:30:49Z",
       "pushed_at": "2026-04-24T16:07:32Z",
       "archived": false,
       "disabled": false,
@@ -4130,7 +4130,7 @@
         "chocolatey-automatic",
         "chocolatey-packages"
       ],
-      "last_checked": "2026-04-27T01:20:54Z",
+      "last_checked": "2026-04-27T08:30:49Z",
       "pushed_at": "2026-04-25T13:42:29Z",
       "archived": false,
       "disabled": false,
@@ -4248,7 +4248,7 @@
         "chocolatey-packages",
         "windows"
       ],
-      "last_checked": "2026-04-27T02:06:38Z",
+      "last_checked": "2026-04-27T08:30:50Z",
       "pushed_at": "2026-04-25T12:41:08Z",
       "archived": false,
       "disabled": false,
@@ -4634,7 +4634,7 @@
         "texlive-distribution",
         "tinytex"
       ],
-      "last_checked": "2026-04-27T01:20:54Z",
+      "last_checked": "2026-04-27T08:30:49Z",
       "pushed_at": "2026-04-25T04:45:44Z",
       "archived": false,
       "disabled": false,
@@ -4756,7 +4756,7 @@
         "software-management",
         "windows"
       ],
-      "last_checked": "2026-04-26T11:40:03Z",
+      "last_checked": "2026-04-27T08:30:50Z",
       "pushed_at": "2026-04-18T17:41:14Z",
       "archived": false,
       "disabled": false,
@@ -4764,7 +4764,7 @@
         "controlmymonitor.nuspec"
       ],
       "checkver_count": 1,
-      "consecutive_failures": 1,
+      "consecutive_failures": 0,
       "probe_success_rate": 1.0,
       "valid_probes": 0,
       "total_probes": 0,
@@ -4792,7 +4792,7 @@
         "chocolatey-packages",
         "lazygit"
       ],
-      "last_checked": "2026-04-27T01:20:54Z",
+      "last_checked": "2026-04-27T08:30:49Z",
       "pushed_at": "2026-04-26T07:06:14Z",
       "archived": false,
       "disabled": false,
@@ -4800,7 +4800,7 @@
         "lazygit.nuspec"
       ],
       "checkver_count": 0,
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "probe_success_rate": 1.0,
       "valid_probes": 0,
       "total_probes": 0,
@@ -5038,7 +5038,7 @@
       "unique_count": 1,
       "uniqueness_ratio": 1.0,
       "auto_update_percentage": 100.0,
-      "final_score": 32.89720770839918,
+      "final_score": 32.842413187851236,
       "current_rank": 58,
       "rank_velocity": 0,
       "previous_rank": 58,
@@ -5904,7 +5904,7 @@
       "unique_count": 1,
       "uniqueness_ratio": 1.0,
       "auto_update_percentage": 0.0,
-      "final_score": 29.883509078262193,
+      "final_score": 29.82871455771425,
       "current_rank": 79,
       "rank_velocity": 0,
       "previous_rank": 79,
@@ -8382,7 +8382,7 @@
       "unique_count": 1,
       "uniqueness_ratio": 1.0,
       "auto_update_percentage": 0.0,
-      "final_score": -30.021912368901646,
+      "final_score": -30.095153188146185,
       "current_rank": 138,
       "rank_velocity": 0,
       "previous_rank": 138,
@@ -9829,7 +9829,7 @@
       "unique_count": 1,
       "uniqueness_ratio": 1.0,
       "auto_update_percentage": 0.0,
-      "final_score": -102.23736014401872,
+      "final_score": -102.31060096326325,
       "current_rank": 174,
       "rank_velocity": 0,
       "previous_rank": 174,
@@ -10272,7 +10272,7 @@
       "unique_count": 2,
       "uniqueness_ratio": 1.0,
       "auto_update_percentage": 0.0,
-      "final_score": -129.94206178389712,
+      "final_score": -130.03448140797178,
       "current_rank": 186,
       "rank_velocity": 0,
       "previous_rank": 186,
@@ -11842,22 +11842,22 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-04-27T07:20:42Z",
+    "generated_at": "2026-04-27T08:30:50Z",
     "count": 228,
     "global_metrics": {
-      "total_runs": 29,
-      "total_run_time_seconds": 98.47835731506348,
-      "total_repo_updates": 1772,
+      "total_runs": 30,
+      "total_run_time_seconds": 101.11421322822571,
+      "total_repo_updates": 1844,
       "previous_total_buckets": 228,
       "previous_total_recipes": 3330,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
       "total_evictions": 0,
       "total_api_retries": 0,
-      "last_run_discover_time": 0.6499326229095459,
-      "last_run_update_time": 1.6249878406524658,
+      "last_run_discover_time": 0.2528066635131836,
+      "last_run_update_time": 2.3013975620269775,
       "ecosystem_reliability": 100.0,
-      "cache_size_mb": 0.7894163131713867,
+      "cache_size_mb": 0.7894134521484375,
       "total_unique_recipes": 2932,
       "auto_update_percentage": 35.98,
       "official_recipes": 481,
