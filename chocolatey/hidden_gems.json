@@ -641,7 +641,7 @@
         "malware-analysis",
         "reverse-engineering"
       ],
-      "last_checked": "2026-05-01T15:41:46Z",
+      "last_checked": "2026-05-01T22:37:58Z",
       "pushed_at": "2026-04-29T23:35:24Z",
       "archived": false,
       "disabled": false,
@@ -972,7 +972,7 @@
         "chocolatey-packages",
         "powershell"
       ],
-      "last_checked": "2026-04-30T23:39:16Z",
+      "last_checked": "2026-05-01T22:37:58Z",
       "pushed_at": "2026-04-22T14:53:57Z",
       "archived": false,
       "disabled": false,
@@ -1275,7 +1275,7 @@
         "hacktoberfest"
       ],
       "last_checked": "2026-04-28T19:19:09Z",
-      "pushed_at": "2026-05-01T00:58:32Z",
+      "pushed_at": "2026-05-01T04:54:48Z",
       "archived": false,
       "disabled": false,
       "entries": [
@@ -1551,7 +1551,7 @@
         "powershell"
       ],
       "last_checked": "2026-04-27T23:39:52Z",
-      "pushed_at": "2026-04-30T18:34:19Z",
+      "pushed_at": "2026-05-01T18:19:19Z",
       "archived": false,
       "disabled": false,
       "entries": [
@@ -2015,20 +2015,20 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-05-01T21:40:11Z",
+    "generated_at": "2026-05-01T22:37:58Z",
     "count": 10,
     "global_metrics": {
-      "total_runs": 131,
-      "total_run_time_seconds": 455.34198451042175,
-      "total_repo_updates": 8033,
+      "total_runs": 132,
+      "total_run_time_seconds": 459.39141726493835,
+      "total_repo_updates": 8095,
       "previous_total_buckets": 227,
       "previous_total_recipes": 3329,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
       "total_evictions": 1,
       "total_api_retries": 0,
-      "last_run_discover_time": 0.15558195114135742,
-      "last_run_update_time": 1.2513439655303955,
+      "last_run_discover_time": 2.626991033554077,
+      "last_run_update_time": 1.3956477642059326,
       "ecosystem_reliability": 100.0,
       "cache_size_mb": 0.8037090301513672,
       "total_unique_recipes": 2931,
