@@ -54,6 +54,14 @@ These repositories are actively maintained and feature a high percentage of **un
 
 
 
+## 🔥 Trending
+These active repositories are rapidly climbing the ranks due to recent, high-quality updates and growing recipe counts!
+
+| Repository | Rank Change | Current Rank | Recipes | Score | Auto-Update |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **[robertZaufall/chocolatey-packages](directory/robertZaufall+chocolatey-packages.md)** | 📈 +1 | 🏆 #33 | 📦 5 | ⭐ 1.0 | 🔄 60% |
+
+
 
 
 
@@ -99,8 +107,8 @@ A combined list of every source discovered in the ecosystem.
 | **[kai2nenobu/chocolatey-packages](directory/kai2nenobu+chocolatey-packages.md)** | 📦 7 | ⭐ 1.0 | 🔄 100% |  |
 | **[michidk/choco](directory/michidk+choco.md)** | 📦 6 | ⭐ 1.0 | 🔄 100% |  |
 | **[w0/au-packages](directory/w0+au-packages.md)** | 📦 6 | ⭐ 1.0 | 🔄 100% |  |
-| **[pact-foundation/choco](directory/pact-foundation+choco.md)** | 📦 7 | ⭐ 1.0 | 🔄 0% |  |
 | **[robertZaufall/chocolatey-packages](directory/robertZaufall+chocolatey-packages.md)** | 📦 5 | ⭐ 1.0 | 🔄 60% |  |
+| **[pact-foundation/choco](directory/pact-foundation+choco.md)** | 📦 7 | ⭐ 1.0 | 🔄 0% |  |
 | **[darinegan/chocolatey-packages](directory/darinegan+chocolatey-packages.md)** | 📦 4 | ⭐ 1.0 | 🔄 100% |  |
 | **[swissgrc/chocolatey-packages](directory/swissgrc+chocolatey-packages.md)** | 📦 4 | ⭐ 1.0 | 🔄 100% |  |
 | **[scowalt/chocolatey-packages](directory/scowalt+chocolatey-packages.md)** | 📦 4 | ⭐ 1.0 | 🔄 25% |  |
@@ -298,8 +306,8 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 154
-* **Total Repo Updates**: 9437
+* **Total Crawler Runs**: 155
+* **Total Repo Updates**: 9497
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
@@ -307,6 +315,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 0
 * **Cache Size**: 💾 0.80 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 3.15s
-  * 📥 Update: 0.94s
-* **Cumulative Compute Time**: 8.7 minutes
+  * 🔍 Discovery: 3.13s
+  * 📥 Update: 1.39s
+* **Cumulative Compute Time**: 8.8 minutes
