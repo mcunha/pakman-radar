@@ -8,8 +8,8 @@
 
 
 ## 📦 Recipes (5)
-* [udevgothic-nf.json](https://github.com/misumisumi/scoop-bucket/blob/main/bucket/udevgothic-nf.json)
-* [yaskkserv2.json](https://github.com/misumisumi/scoop-bucket/blob/main/bucket/yaskkserv2.json)
-* [moralerspace-hw-nf.json](https://github.com/misumisumi/scoop-bucket/blob/main/bucket/moralerspace-hw-nf.json)
-* [wavesurfer.json](https://github.com/misumisumi/scoop-bucket/blob/main/bucket/wavesurfer.json)
 * [moralerspace-nf.json](https://github.com/misumisumi/scoop-bucket/blob/main/bucket/moralerspace-nf.json)
+* [moralerspace-hw-nf.json](https://github.com/misumisumi/scoop-bucket/blob/main/bucket/moralerspace-hw-nf.json)
+* [udevgothic-nf.json](https://github.com/misumisumi/scoop-bucket/blob/main/bucket/udevgothic-nf.json)
+* [wavesurfer.json](https://github.com/misumisumi/scoop-bucket/blob/main/bucket/wavesurfer.json)
+* [yaskkserv2.json](https://github.com/misumisumi/scoop-bucket/blob/main/bucket/yaskkserv2.json)
