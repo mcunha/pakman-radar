@@ -1275,7 +1275,7 @@
         "hacktoberfest"
       ],
       "last_checked": "2026-04-28T19:19:09Z",
-      "pushed_at": "2026-05-02T00:21:21Z",
+      "pushed_at": "2026-05-07T00:19:52Z",
       "archived": false,
       "disabled": false,
       "entries": [
@@ -1551,7 +1551,7 @@
         "powershell"
       ],
       "last_checked": "2026-04-27T23:39:52Z",
-      "pushed_at": "2026-05-06T14:49:59Z",
+      "pushed_at": "2026-05-07T06:58:01Z",
       "archived": false,
       "disabled": false,
       "entries": [
@@ -2015,22 +2015,22 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-05-07T07:33:04Z",
+    "generated_at": "2026-05-07T08:13:29Z",
     "count": 10,
     "global_metrics": {
-      "total_runs": 247,
-      "total_run_time_seconds": 821.610645532608,
-      "total_repo_updates": 15038,
+      "total_runs": 248,
+      "total_run_time_seconds": 826.7604382038116,
+      "total_repo_updates": 15097,
       "previous_total_buckets": 227,
       "previous_total_recipes": 3329,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
       "total_evictions": 1,
       "total_api_retries": 0,
-      "last_run_discover_time": 0.16521525382995605,
-      "last_run_update_time": 1.826636791229248,
+      "last_run_discover_time": 3.147401809692383,
+      "last_run_update_time": 1.976412057876587,
       "ecosystem_reliability": 100.0,
-      "cache_size_mb": 0.8065433502197266,
+      "cache_size_mb": 0.8065404891967773,
       "total_unique_recipes": 2931,
       "auto_update_percentage": 35.99,
       "official_recipes": 481,
