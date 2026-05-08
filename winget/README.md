@@ -71,8 +71,8 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 279
-* **Total Repo Updates**: 9151
+* **Total Crawler Runs**: 280
+* **Total Repo Updates**: 9184
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
@@ -80,6 +80,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 0
 * **Cache Size**: 💾 0.93 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 0.19s
-  * 📥 Update: 15.32s
-* **Cumulative Compute Time**: 75.1 minutes
+  * 🔍 Discovery: 0.24s
+  * 📥 Update: 15.59s
+* **Cumulative Compute Time**: 75.4 minutes
