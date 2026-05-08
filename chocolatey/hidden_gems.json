@@ -641,7 +641,7 @@
         "malware-analysis",
         "reverse-engineering"
       ],
-      "last_checked": "2026-05-07T23:39:34Z",
+      "last_checked": "2026-05-08T05:43:50Z",
       "pushed_at": "2026-05-06T23:27:30Z",
       "archived": false,
       "disabled": false,
@@ -1275,7 +1275,7 @@
         "hacktoberfest"
       ],
       "last_checked": "2026-04-28T19:19:09Z",
-      "pushed_at": "2026-05-07T00:19:52Z",
+      "pushed_at": "2026-05-08T00:21:28Z",
       "archived": false,
       "disabled": false,
       "entries": [
@@ -1551,7 +1551,7 @@
         "powershell"
       ],
       "last_checked": "2026-04-27T23:39:52Z",
-      "pushed_at": "2026-05-07T06:58:01Z",
+      "pushed_at": "2026-05-07T19:04:52Z",
       "archived": false,
       "disabled": false,
       "entries": [
@@ -2015,22 +2015,22 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-05-08T03:33:49Z",
+    "generated_at": "2026-05-08T05:43:50Z",
     "count": 10,
     "global_metrics": {
-      "total_runs": 267,
-      "total_run_time_seconds": 908.8791501522064,
-      "total_repo_updates": 16238,
+      "total_runs": 268,
+      "total_run_time_seconds": 912.9785852432251,
+      "total_repo_updates": 16301,
       "previous_total_buckets": 227,
       "previous_total_recipes": 3329,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
       "total_evictions": 1,
       "total_api_retries": 0,
-      "last_run_discover_time": 0.17503976821899414,
-      "last_run_update_time": 1.0572881698608398,
+      "last_run_discover_time": 2.8426685333251953,
+      "last_run_update_time": 1.2312605381011963,
       "ecosystem_reliability": 100.0,
-      "cache_size_mb": 0.8090248107910156,
+      "cache_size_mb": 0.8090400695800781,
       "total_unique_recipes": 2931,
       "auto_update_percentage": 35.99,
       "official_recipes": 481,
