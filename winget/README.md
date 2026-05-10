@@ -6,10 +6,10 @@ A data-driven, automated discovery and ranking engine for the Winget package man
 ![Update Package Managers Radar](https://github.com/mcunha/scoop-radar/actions/workflows/update.yml/badge.svg)
 
 # 📊 Ecosystem Health
-* **Total Unique Recipes**: 2001
+* **Total Unique Recipes**: 1843
 * **Ecosystem Auto-Update Health**: 0.0%
 * **Ecosystem Reliability**: 100.0% (Sampled URL Health)
-* **Official vs. Community**: 4965 Official / 3705 Community
+* **Official vs. Community**: 4965 Official / 1277 Community
 
 * **Stale/Abandoned Sources (> 1 Year)**: 🪦 2
 
@@ -59,7 +59,7 @@ A combined list of every source discovered in the ecosystem.
 | Repository | Recipes | Score | Auto-Update | Badges |
 | :--- | :---: | :---: | :---: | :--- |
 | **[microsoft/winget-pkgs-submission-test](directory/microsoft+winget-pkgs-submission-test.md)** | 📦 4867 | ⭐ 1.0 | 🔄 0% | 👑 Official |
-| **[eliaor/winget-pkgs](directory/eliaor+winget-pkgs.md)** | 📦 3400 | ⭐ 1.0 | 🔄 0% |  |
+| **[eliaor/winget-pkgs](directory/eliaor+winget-pkgs.md)** | 📦 972 | ⭐ 1.0 | 🔄 0% |  |
 | **[vedantmgoyal9/winget-pkgs-automation](directory/vedantmgoyal9+winget-pkgs-automation.md)** | 📦 342 | ⭐ 1.0 | 🔄 0% |  |
 | **[pl4nty/winget-pkgs-selfhost](directory/pl4nty+winget-pkgs-selfhost.md)** | 📦 43 | ⭐ 1.0 | 🔄 0% |  |
 | **[picguard/winget-updater](directory/picguard+winget-updater.md)** | 📦 4 | ⭐ 1.0 | 🔄 0% |  |
@@ -71,15 +71,15 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 325
-* **Total Repo Updates**: 10671
+* **Total Crawler Runs**: 326
+* **Total Repo Updates**: 10705
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
-  * 📦 +0 Recipes
+  * 📦 -2428 Recipes
 * **Eviction Count**: 🗑️ 1
 * **API Rate Limit Retries**: ⏳ 0
-* **Cache Size**: 💾 0.93 MB
+* **Cache Size**: 💾 0.74 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 1.62s
-  * 📥 Update: 15.71s
-* **Cumulative Compute Time**: 87.3 minutes
+  * 🔍 Discovery: 0.14s
+  * 📥 Update: 15.47s
+* **Cumulative Compute Time**: 87.5 minutes
