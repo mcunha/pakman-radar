@@ -3,23 +3,27 @@
     {
       "full_name": "jackrschumacher/lazygit-choco-latest",
       "evicted_at": "2026-04-27T15:14:20Z"
+    },
+    {
+      "full_name": "openwong2kim/scoop-wmux",
+      "evicted_at": "2026-05-11T21:50:24Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-05-11T20:56:52Z",
-    "count": 1,
+    "generated_at": "2026-05-11T21:51:07Z",
+    "count": 2,
     "global_metrics": {
-      "total_runs": 345,
-      "total_run_time_seconds": 5588.870237350464,
-      "total_repo_updates": 11332,
+      "total_runs": 346,
+      "total_run_time_seconds": 5607.0463654994965,
+      "total_repo_updates": 11366,
       "previous_total_buckets": 9,
       "previous_total_recipes": 6242,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
-      "total_evictions": 1,
+      "total_evictions": 2,
       "total_api_retries": 0,
-      "last_run_discover_time": 0.22393059730529785,
-      "last_run_update_time": 17.248714685440063,
+      "last_run_discover_time": 0.8310010433197021,
+      "last_run_update_time": 17.329794883728027,
       "ecosystem_reliability": 100.0,
       "cache_size_mb": 0.7334051132202148,
       "total_unique_recipes": 1843,
