@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [dataspammerde.json](https://github.com/PIRANY1/dataspammer-bucket/blob/main/bucket/dataspammerde.json)
 * [dataspammer.json](https://github.com/PIRANY1/dataspammer-bucket/blob/main/bucket/dataspammer.json)
+* [dataspammerde.json](https://github.com/PIRANY1/dataspammer-bucket/blob/main/bucket/dataspammerde.json)
