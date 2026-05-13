@@ -143,8 +143,8 @@ A combined list of every source discovered in the ecosystem.
 | **[chocolatey-community/chocolatey-hooks](directory/chocolatey-community+chocolatey-hooks.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% | 👑 Official |
 | **[adamrushuk/velero-choco](directory/adamrushuk+velero-choco.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[brogers5/chocolatey-package-sandisk-dashboard](directory/brogers5+chocolatey-package-sandisk-dashboard.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
-| **[brogers5/chocolatey-package-green-tunnel-cli](directory/brogers5+chocolatey-package-green-tunnel-cli.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-green-tunnel-gui](directory/brogers5+chocolatey-package-green-tunnel-gui.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
+| **[brogers5/chocolatey-package-green-tunnel-cli](directory/brogers5+chocolatey-package-green-tunnel-cli.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[terraform-docs/chocolatey-package](directory/terraform-docs+chocolatey-package.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[brogers5/chocolatey-package-livesplit](directory/brogers5+chocolatey-package-livesplit.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-goldwave](directory/brogers5+chocolatey-package-goldwave.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
@@ -198,8 +198,8 @@ A combined list of every source discovered in the ecosystem.
 | **[zarethrex/cookiecutter-chocolatey-package](directory/zarethrex+cookiecutter-chocolatey-package.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[zarethrex/chocolatey-padloc-tauri](directory/zarethrex+chocolatey-padloc-tauri.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[echizenryoma/Chocolatey-Package](directory/echizenryoma+Chocolatey-Package.md)** | 📦 3 | ⭐ 1.0 | 🔄 100% |  |
-| **[JourneyOver/chocolatey-packages](directory/JourneyOver+chocolatey-packages.md)** | 📦 34 | ⭐ 1.0 | 🔄 0% |  |
 | **[simeononsecurity/chocolateypackages](directory/simeononsecurity+chocolateypackages.md)** | 📦 9 | ⭐ 1.0 | 🔄 22% |  |
+| **[JourneyOver/chocolatey-packages](directory/JourneyOver+chocolatey-packages.md)** | 📦 34 | ⭐ 1.0 | 🔄 0% |  |
 | **[Kristinita/SashaChocolatey](directory/Kristinita+SashaChocolatey.md)** | 📦 37 | ⭐ 1.0 | 🔄 0% |  |
 | **[bramanda48/chocolatey-packages](directory/bramanda48+chocolatey-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[forwardcomputers/chocolatey-packages](directory/forwardcomputers+chocolatey-packages.md)** | 📦 2 | ⭐ 1.0 | 🔄 100% |  |
@@ -298,8 +298,8 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 384
-* **Total Repo Updates**: 23278
+* **Total Crawler Runs**: 385
+* **Total Repo Updates**: 23339
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
@@ -307,6 +307,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 0
 * **Cache Size**: 💾 0.81 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 3.77s
-  * 📥 Update: 2.00s
+  * 🔍 Discovery: 0.25s
+  * 📥 Update: 1.52s
 * **Cumulative Compute Time**: 21.4 minutes
