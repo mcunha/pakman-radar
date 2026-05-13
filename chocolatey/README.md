@@ -121,6 +121,7 @@ A combined list of every source discovered in the ecosystem.
 | **[blaiz2023/Blaiz-Tools](directory/blaiz2023+Blaiz-Tools.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.wwphone](directory/open-circle-ltd+chocolatey.wwphone.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[Mateleo/helium-chocolatey](directory/Mateleo+helium-chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[zarethrex/chocolatey-openbve](directory/zarethrex+chocolatey-openbve.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[ggarns-gh/chocolatey-packages](directory/ggarns-gh+chocolatey-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[brogers5/chocolatey-package-imazing](directory/brogers5+chocolatey-package-imazing.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-foxitreader](directory/brogers5+chocolatey-package-foxitreader.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
@@ -134,7 +135,6 @@ A combined list of every source discovered in the ecosystem.
 | **[sacloud/chocolatey-usacloud](directory/sacloud+chocolatey-usacloud.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[sacloud/chocolatey-docker-machine-sakuracloud](directory/sacloud+chocolatey-docker-machine-sakuracloud.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[sacloud/chocolatey-terraform-provider-sakuracloud](directory/sacloud+chocolatey-terraform-provider-sakuracloud.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[zarethrex/chocolatey-openbve](directory/zarethrex+chocolatey-openbve.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[treeverse/chocolatey-dvc](directory/treeverse+chocolatey-dvc.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[gsmitheidw/visualparadigm-ce](directory/gsmitheidw+visualparadigm-ce.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[brogers5/chocolatey-package-en-croissant](directory/brogers5+chocolatey-package-en-croissant.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
@@ -234,8 +234,8 @@ A combined list of every source discovered in the ecosystem.
 | **[ynlamy/chocolatey-packages](directory/ynlamy+chocolatey-packages.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
 | **[C-Duv/chocolatey-fusioninventory-agent](directory/C-Duv+chocolatey-fusioninventory-agent.md)** | 📦 3 | ⭐ 1.0 | 🔄 0% |  |
 | **[majkinetor/au](directory/majkinetor+au.md)** | 📦 3 | ⭐ 1.0 | 🔄 67% |  |
-| **[open-circle-ltd/chocolatey.dialogik](directory/open-circle-ltd+chocolatey.dialogik.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[majkinetor/au-packages-template](directory/majkinetor+au-packages-template.md)** | 📦 4 | ⭐ 1.0 | 🔄 100% |  |
+| **[open-circle-ltd/chocolatey.dialogik](directory/open-circle-ltd+chocolatey.dialogik.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[andyli/sauce-connect-choco](directory/andyli+sauce-connect-choco.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[aminya/chocolatey-wabt](directory/aminya+chocolatey-wabt.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[aleohl/chocolatey.pendulums](directory/aleohl+chocolatey.pendulums.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
@@ -298,8 +298,8 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 375
-* **Total Repo Updates**: 22739
+* **Total Crawler Runs**: 376
+* **Total Repo Updates**: 22799
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
@@ -307,6 +307,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 0
 * **Cache Size**: 💾 0.81 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 4.05s
-  * 📥 Update: 1.66s
-* **Cumulative Compute Time**: 20.9 minutes
+  * 🔍 Discovery: 3.02s
+  * 📥 Update: 1.48s
+* **Cumulative Compute Time**: 21.0 minutes
