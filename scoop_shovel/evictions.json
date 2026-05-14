@@ -3,32 +3,36 @@
     {
       "full_name": "openwong2kim/scoop-wmux",
       "evicted_at": "2026-05-11T21:50:24Z"
+    },
+    {
+      "full_name": "wwvo/Adler",
+      "evicted_at": "2026-05-14T16:06:53Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-05-14T15:33:06Z",
-    "count": 1,
+    "generated_at": "2026-05-14T16:09:27Z",
+    "count": 2,
     "global_metrics": {
-      "total_runs": 403,
-      "total_run_time_seconds": 67263.11222600937,
-      "total_repo_updates": 24844,
-      "previous_total_buckets": 1286,
-      "previous_total_recipes": 127816,
-      "bucket_velocity": 0,
-      "recipe_velocity": 0,
-      "total_evictions": 1,
+      "total_runs": 404,
+      "total_run_time_seconds": 67446.5475282669,
+      "total_repo_updates": 24906,
+      "previous_total_buckets": 1285,
+      "previous_total_recipes": 127813,
+      "bucket_velocity": -1,
+      "recipe_velocity": -3,
+      "total_evictions": 2,
       "total_api_retries": 0,
-      "last_run_discover_time": 0.49367594718933105,
-      "last_run_update_time": 323.14979910850525,
-      "ecosystem_reliability": 88.5,
-      "cache_size_mb": 9.597879409790039,
-      "total_unique_recipes": 31067,
+      "last_run_discover_time": 0.17885732650756836,
+      "last_run_update_time": 182.54702591896057,
+      "ecosystem_reliability": 88.6,
+      "cache_size_mb": 9.596579551696777,
+      "total_unique_recipes": 31064,
       "auto_update_percentage": 85.35,
       "official_recipes": 48451,
-      "community_recipes": 79365,
+      "community_recipes": 79362,
       "stale_buckets": 442,
       "shovel_buckets": 25,
-      "scoop_buckets": 1261
+      "scoop_buckets": 1260
     }
   }
 }
