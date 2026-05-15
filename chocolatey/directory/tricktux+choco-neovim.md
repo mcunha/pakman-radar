@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [neovim.nuspec](https://github.com/tricktux/choco-neovim/blob/master/neovim-git/neovim.nuspec)
 * [neovim.nuspec](https://github.com/tricktux/choco-neovim/blob/master/neovim/neovim.nuspec)
+* [neovim.nuspec](https://github.com/tricktux/choco-neovim/blob/master/neovim-git/neovim.nuspec)
