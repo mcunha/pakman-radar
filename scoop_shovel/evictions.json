@@ -7,25 +7,29 @@
     {
       "full_name": "wwvo/Adler",
       "evicted_at": "2026-05-14T16:06:53Z"
+    },
+    {
+      "full_name": "alex5544255/meshery-cli-scoop-feeds",
+      "evicted_at": "2026-05-15T19:56:12Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-05-15T18:56:22Z",
-    "count": 2,
+    "generated_at": "2026-05-15T19:56:18Z",
+    "count": 3,
     "global_metrics": {
-      "total_runs": 427,
-      "total_run_time_seconds": 70694.78950858116,
-      "total_repo_updates": 26306,
+      "total_runs": 428,
+      "total_run_time_seconds": 70719.5961637497,
+      "total_repo_updates": 26373,
       "previous_total_buckets": 1287,
       "previous_total_recipes": 127815,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
-      "total_evictions": 2,
+      "total_evictions": 3,
       "total_api_retries": 0,
-      "last_run_discover_time": 0.5391504764556885,
-      "last_run_update_time": 21.659380197525024,
-      "ecosystem_reliability": 89.0,
-      "cache_size_mb": 9.599813461303711,
+      "last_run_discover_time": 0.30248260498046875,
+      "last_run_update_time": 23.401243209838867,
+      "ecosystem_reliability": 88.8,
+      "cache_size_mb": 9.59807014465332,
       "total_unique_recipes": 31066,
       "auto_update_percentage": 85.35,
       "official_recipes": 48451,
