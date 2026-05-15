@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [parabolic.json](https://github.com/TechPro424/scoop-bucket/blob/master/bucket/parabolic.json)
 * [prismlauncher-cracked.json](https://github.com/TechPro424/scoop-bucket/blob/master/bucket/prismlauncher-cracked.json)
+* [parabolic.json](https://github.com/TechPro424/scoop-bucket/blob/master/bucket/parabolic.json)
