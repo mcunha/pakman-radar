@@ -8,10 +8,10 @@
 
 
 ## 📦 Recipes (7)
-* [sed.json](https://github.com/busterdevil9835/ani-cli_direct_scoop/blob/main/bucket/sed.json)
-* [grep.json](https://github.com/busterdevil9835/ani-cli_direct_scoop/blob/main/bucket/grep.json)
-* [fzf.json](https://github.com/busterdevil9835/ani-cli_direct_scoop/blob/main/bucket/fzf.json)
-* [ffmpeg.json](https://github.com/busterdevil9835/ani-cli_direct_scoop/blob/main/bucket/ffmpeg.json)
-* [curl.json](https://github.com/busterdevil9835/ani-cli_direct_scoop/blob/main/bucket/curl.json)
-* [mpv.json](https://github.com/busterdevil9835/ani-cli_direct_scoop/blob/main/bucket/mpv.json)
 * [ani-cli.json](https://github.com/busterdevil9835/ani-cli_direct_scoop/blob/main/bucket/ani-cli.json)
+* [sed.json](https://github.com/busterdevil9835/ani-cli_direct_scoop/blob/main/bucket/sed.json)
+* [fzf.json](https://github.com/busterdevil9835/ani-cli_direct_scoop/blob/main/bucket/fzf.json)
+* [grep.json](https://github.com/busterdevil9835/ani-cli_direct_scoop/blob/main/bucket/grep.json)
+* [mpv.json](https://github.com/busterdevil9835/ani-cli_direct_scoop/blob/main/bucket/mpv.json)
+* [curl.json](https://github.com/busterdevil9835/ani-cli_direct_scoop/blob/main/bucket/curl.json)
+* [ffmpeg.json](https://github.com/busterdevil9835/ani-cli_direct_scoop/blob/main/bucket/ffmpeg.json)

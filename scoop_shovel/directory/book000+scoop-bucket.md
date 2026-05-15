@@ -8,7 +8,7 @@
 
 
 ## 📦 Recipes (4)
-* [ElitesRNGAuraObserver.json](https://github.com/book000/scoop-bucket/blob/master/bucket/ElitesRNGAuraObserver.json)
-* [splashscreen-changer.json](https://github.com/book000/scoop-bucket/blob/master/bucket/splashscreen-changer.json)
-* [jquake.json](https://github.com/book000/scoop-bucket/blob/master/bucket/jquake.json)
 * [freefilesync.json](https://github.com/book000/scoop-bucket/blob/master/bucket/freefilesync.json)
+* [splashscreen-changer.json](https://github.com/book000/scoop-bucket/blob/master/bucket/splashscreen-changer.json)
+* [ElitesRNGAuraObserver.json](https://github.com/book000/scoop-bucket/blob/master/bucket/ElitesRNGAuraObserver.json)
+* [jquake.json](https://github.com/book000/scoop-bucket/blob/master/bucket/jquake.json)
