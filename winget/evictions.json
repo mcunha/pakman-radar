@@ -15,23 +15,27 @@
     {
       "full_name": "alex5544255/meshery-cli-scoop-feeds",
       "evicted_at": "2026-05-15T19:56:12Z"
+    },
+    {
+      "full_name": "itzzGero/scoop-sampler",
+      "evicted_at": "2026-05-16T18:41:26Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-05-16T17:42:09Z",
-    "count": 4,
+    "generated_at": "2026-05-16T18:41:56Z",
+    "count": 5,
     "global_metrics": {
-      "total_runs": 448,
-      "total_run_time_seconds": 7477.638407468796,
-      "total_repo_updates": 14743,
+      "total_runs": 449,
+      "total_run_time_seconds": 7497.188832044601,
+      "total_repo_updates": 14776,
       "previous_total_buckets": 9,
       "previous_total_recipes": 6242,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
-      "total_evictions": 4,
+      "total_evictions": 5,
       "total_api_retries": 0,
-      "last_run_discover_time": 0.1681509017944336,
-      "last_run_update_time": 16.82767152786255,
+      "last_run_discover_time": 2.6224772930145264,
+      "last_run_update_time": 16.91234588623047,
       "ecosystem_reliability": 100.0,
       "cache_size_mb": 0.7372732162475586,
       "total_unique_recipes": 1843,
