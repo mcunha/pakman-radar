@@ -8,6 +8,6 @@
 
 
 ## 📦 Recipes (3)
+* [bandizip.json](https://github.com/imaping/bucket/blob/main/bucket/bandizip.json)
 * [listary.json](https://github.com/imaping/bucket/blob/main/bucket/listary.json)
 * [FiddlerEverywhere.json](https://github.com/imaping/bucket/blob/main/bucket/FiddlerEverywhere.json)
-* [bandizip.json](https://github.com/imaping/bucket/blob/main/bucket/bandizip.json)
