@@ -8,7 +8,7 @@
 
 
 ## 📦 Recipes (4)
+* [nfpm.json](https://github.com/goreleaser/scoop-bucket/blob/master/bucket/nfpm.json)
 * [goreleaser-pro.json](https://github.com/goreleaser/scoop-bucket/blob/master/bucket/goreleaser-pro.json)
 * [goreleaser.json](https://github.com/goreleaser/scoop-bucket/blob/master/bucket/goreleaser.json)
 * [chglog.json](https://github.com/goreleaser/scoop-bucket/blob/master/bucket/chglog.json)
-* [nfpm.json](https://github.com/goreleaser/scoop-bucket/blob/master/bucket/nfpm.json)
