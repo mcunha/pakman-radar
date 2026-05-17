@@ -8,10 +8,10 @@
 
 
 ## 📦 Recipes (7)
-* [foobar2000-portable.json](https://github.com/stasjok/my-scoop-bucket/blob/master/bucket/foobar2000-portable.json)
 * [trillian.json](https://github.com/stasjok/my-scoop-bucket/blob/master/bucket/trillian.json)
 * [openconnect-gui.json](https://github.com/stasjok/my-scoop-bucket/blob/master/bucket/openconnect-gui.json)
+* [duplicati.json](https://github.com/stasjok/my-scoop-bucket/blob/master/bucket/duplicati.json)
 * [virt-viewer.json](https://github.com/stasjok/my-scoop-bucket/blob/master/bucket/virt-viewer.json)
 * [lavfilters.json](https://github.com/stasjok/my-scoop-bucket/blob/master/bucket/lavfilters.json)
+* [foobar2000-portable.json](https://github.com/stasjok/my-scoop-bucket/blob/master/bucket/foobar2000-portable.json)
 * [totalcommander.json](https://github.com/stasjok/my-scoop-bucket/blob/master/bucket/totalcommander.json)
-* [duplicati.json](https://github.com/stasjok/my-scoop-bucket/blob/master/bucket/duplicati.json)
