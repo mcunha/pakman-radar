@@ -8,6 +8,6 @@
 
 
 ## 📦 Recipes (3)
-* [luffy.json](https://github.com/DemonKingSwarn/flix-cli-bucket/blob/master/bucket/luffy.json)
-* [win-wellbeing.json](https://github.com/DemonKingSwarn/flix-cli-bucket/blob/master/bucket/win-wellbeing.json)
 * [flix-cli.json](https://github.com/DemonKingSwarn/flix-cli-bucket/blob/master/bucket/flix-cli.json)
+* [win-wellbeing.json](https://github.com/DemonKingSwarn/flix-cli-bucket/blob/master/bucket/win-wellbeing.json)
+* [luffy.json](https://github.com/DemonKingSwarn/flix-cli-bucket/blob/master/bucket/luffy.json)
