@@ -8,7 +8,7 @@
 
 
 ## 📦 Recipes (4)
-* [bore.json](https://github.com/Animesh-Ghosh/kulfi-scoop/blob/master/bucket/bore.json)
 * [slashbase.json](https://github.com/Animesh-Ghosh/kulfi-scoop/blob/master/bucket/slashbase.json)
+* [bore.json](https://github.com/Animesh-Ghosh/kulfi-scoop/blob/master/bucket/bore.json)
 * [areyouok.json](https://github.com/Animesh-Ghosh/kulfi-scoop/blob/master/bucket/areyouok.json)
 * [websocketd.json](https://github.com/Animesh-Ghosh/kulfi-scoop/blob/master/bucket/websocketd.json)
