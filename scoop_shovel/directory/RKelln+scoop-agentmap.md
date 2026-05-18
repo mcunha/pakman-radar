@@ -6,5 +6,6 @@
 
 
 
+
 ## 📦 Recipes (1)
 * [agentmap.json](https://github.com/RKelln/scoop-agentmap/blob/main/agentmap.json)
