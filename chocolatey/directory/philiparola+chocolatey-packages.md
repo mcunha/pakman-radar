@@ -8,6 +8,6 @@
 
 
 ## 📦 Recipes (3)
-* [chirp.nuspec](https://github.com/philiparola/chocolatey-packages/blob/master/manual/chirp.install/chirp.nuspec)
-* [opencv.nuspec](https://github.com/philiparola/chocolatey-packages/blob/master/auto/opencv/5.x/opencv.nuspec)
 * [opencv.nuspec](https://github.com/philiparola/chocolatey-packages/blob/master/auto/opencv/4.x/opencv.nuspec)
+* [opencv.nuspec](https://github.com/philiparola/chocolatey-packages/blob/master/auto/opencv/5.x/opencv.nuspec)
+* [chirp.nuspec](https://github.com/philiparola/chocolatey-packages/blob/master/manual/chirp.install/chirp.nuspec)
