@@ -8,7 +8,7 @@
 
 
 ## 📦 Recipes (4)
-* [hex.json](https://github.com/huanfeng/scoop-bucket/blob/main/bucket/hex.json)
-* [lsuart.json](https://github.com/huanfeng/scoop-bucket/blob/main/bucket/lsuart.json)
 * [apkhub.json](https://github.com/huanfeng/scoop-bucket/blob/main/bucket/apkhub.json)
+* [hex.json](https://github.com/huanfeng/scoop-bucket/blob/main/bucket/hex.json)
 * [apk_info_tool.json](https://github.com/huanfeng/scoop-bucket/blob/main/bucket/apk_info_tool.json)
+* [lsuart.json](https://github.com/huanfeng/scoop-bucket/blob/main/bucket/lsuart.json)
