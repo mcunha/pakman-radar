@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [nexus-oss.nuspec](https://github.com/chocolatey-community/chocolatey-packages-template/blob/master/automatic/nexus-oss/nexus-oss.nuspec)
 * [html-tidy.nuspec](https://github.com/chocolatey-community/chocolatey-packages-template/blob/master/automatic/html-tidy/html-tidy.nuspec)
+* [nexus-oss.nuspec](https://github.com/chocolatey-community/chocolatey-packages-template/blob/master/automatic/nexus-oss/nexus-oss.nuspec)
