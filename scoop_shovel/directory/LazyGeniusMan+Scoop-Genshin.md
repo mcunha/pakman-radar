@@ -9,7 +9,7 @@
 
 ## 📦 Recipes (5)
 * [amenoma-cn.json](https://github.com/LazyGeniusMan/Scoop-Genshin/blob/master/bucket/amenoma-cn.json)
-* [inventory-kamera.json](https://github.com/LazyGeniusMan/Scoop-Genshin/blob/master/bucket/inventory-kamera.json)
 * [amenoma-en.json](https://github.com/LazyGeniusMan/Scoop-Genshin/blob/master/bucket/amenoma-en.json)
-* [adeptiscanner-gi.json](https://github.com/LazyGeniusMan/Scoop-Genshin/blob/master/bucket/adeptiscanner-gi.json)
+* [inventory-kamera.json](https://github.com/LazyGeniusMan/Scoop-Genshin/blob/master/bucket/inventory-kamera.json)
 * [gcsimui.json](https://github.com/LazyGeniusMan/Scoop-Genshin/blob/master/bucket/gcsimui.json)
+* [adeptiscanner-gi.json](https://github.com/LazyGeniusMan/Scoop-Genshin/blob/master/bucket/adeptiscanner-gi.json)
