@@ -120,7 +120,6 @@ A combined list of every source discovered in the ecosystem.
 | **[streamlink/streamlink-chocolatey](directory/streamlink+streamlink-chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[LogtalkDotOrg/chocolatey-packages](directory/LogtalkDotOrg+chocolatey-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.wwphone-cti](directory/open-circle-ltd+chocolatey.wwphone-cti.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[blaiz2023/Blaiz-Tools](directory/blaiz2023+Blaiz-Tools.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[adamrushuk/velero-choco](directory/adamrushuk+velero-choco.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[christosgalano/bicep-docs-choco](directory/christosgalano+bicep-docs-choco.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.wwphone](directory/open-circle-ltd+chocolatey.wwphone.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
@@ -130,6 +129,7 @@ A combined list of every source discovered in the ecosystem.
 | **[zarethrex/chocolatey-openbve](directory/zarethrex+chocolatey-openbve.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[voicemeet/chocolatey-packages](directory/voicemeet+chocolatey-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[ggarns-gh/chocolatey-packages](directory/ggarns-gh+chocolatey-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[blaiz2023/Blaiz-Tools](directory/blaiz2023+Blaiz-Tools.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[brogers5/chocolatey-package-foxitreader](directory/brogers5+chocolatey-package-foxitreader.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[leejongyoung/egovframe-chocolatey](directory/leejongyoung+egovframe-chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[brogers5/chocolatey-package-controlmymonitor](directory/brogers5+chocolatey-package-controlmymonitor.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
@@ -298,8 +298,8 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 550
-* **Total Repo Updates**: 33255
+* **Total Crawler Runs**: 551
+* **Total Repo Updates**: 33316
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
@@ -307,6 +307,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 0
 * **Cache Size**: 💾 0.81 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 0.31s
-  * 📥 Update: 1.91s
-* **Cumulative Compute Time**: 30.8 minutes
+  * 🔍 Discovery: 0.30s
+  * 📥 Update: 1.73s
+* **Cumulative Compute Time**: 30.9 minutes
