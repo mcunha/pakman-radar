@@ -642,7 +642,7 @@
         "reverse-engineering"
       ],
       "last_checked": "2026-05-23T14:02:31Z",
-      "pushed_at": "2026-05-20T23:15:00Z",
+      "pushed_at": "2026-05-23T04:38:40Z",
       "archived": false,
       "disabled": false,
       "entries": [
@@ -1252,7 +1252,7 @@
       "unique_count": 266,
       "uniqueness_ratio": 1.0,
       "auto_update_percentage": 62.78,
-      "final_score": 635.4320175472367,
+      "final_score": 635.3772230266887,
       "current_rank": 4,
       "rank_velocity": 0,
       "previous_rank": 4,
@@ -1662,7 +1662,7 @@
         "manual-packages"
       ],
       "last_checked": "2026-04-28T19:19:08Z",
-      "pushed_at": "2026-05-22T00:13:09Z",
+      "pushed_at": "2026-05-23T12:10:24Z",
       "archived": false,
       "disabled": false,
       "entries": [
@@ -1959,7 +1959,7 @@
         "chocolatey-packages"
       ],
       "last_checked": "2026-04-27T15:14:20Z",
-      "pushed_at": "2026-05-21T21:18:46Z",
+      "pushed_at": "2026-05-23T05:55:31Z",
       "archived": false,
       "disabled": false,
       "entries": [
@@ -2015,22 +2015,22 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-05-23T14:50:44Z",
+    "generated_at": "2026-05-23T15:46:31Z",
     "count": 10,
     "global_metrics": {
-      "total_runs": 577,
-      "total_run_time_seconds": 1945.1608412265778,
-      "total_repo_updates": 34876,
+      "total_runs": 578,
+      "total_run_time_seconds": 1948.9360001087189,
+      "total_repo_updates": 34936,
       "previous_total_buckets": 227,
       "previous_total_recipes": 3329,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
       "total_evictions": 7,
       "total_api_retries": 0,
-      "last_run_discover_time": 0.258725643157959,
-      "last_run_update_time": 1.3721094131469727,
+      "last_run_discover_time": 2.713385581970215,
+      "last_run_update_time": 1.0276637077331543,
       "ecosystem_reliability": 100.0,
-      "cache_size_mb": 0.811131477355957,
+      "cache_size_mb": 0.8111286163330078,
       "total_unique_recipes": 2931,
       "auto_update_percentage": 35.99,
       "official_recipes": 481,
