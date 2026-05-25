@@ -8,11 +8,11 @@
 
 
 ## 📦 Recipes (8)
-* [pre-commit.json](https://github.com/fredjoseph/scoop-bucket/blob/master/bucket/pre-commit.json)
 * [my-xdman.json](https://github.com/fredjoseph/scoop-bucket/blob/master/bucket/my-xdman.json)
 * [NZBGet.json](https://github.com/fredjoseph/scoop-bucket/blob/master/bucket/NZBGet.json)
+* [subsync.json](https://github.com/fredjoseph/scoop-bucket/blob/master/bucket/subsync.json)
+* [pre-commit.json](https://github.com/fredjoseph/scoop-bucket/blob/master/bucket/pre-commit.json)
 * [my-wsltty.json](https://github.com/fredjoseph/scoop-bucket/blob/master/bucket/my-wsltty.json)
 * [PenguinSubtitlePlayer.json](https://github.com/fredjoseph/scoop-bucket/blob/master/bucket/PenguinSubtitlePlayer.json)
 * [Hozz.json](https://github.com/fredjoseph/scoop-bucket/blob/master/bucket/Hozz.json)
-* [subsync.json](https://github.com/fredjoseph/scoop-bucket/blob/master/bucket/subsync.json)
 * [my-keepass.json](https://github.com/fredjoseph/scoop-bucket/blob/master/bucket/my-keepass.json)
