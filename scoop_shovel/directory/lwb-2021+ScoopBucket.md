@@ -8,7 +8,7 @@
 
 
 ## 📦 Recipes (4)
-* [clash-premium.json](https://github.com/lwb-2021/ScoopBucket/blob/master/bucket/clash-premium.json)
-* [watt-toolkit.json](https://github.com/lwb-2021/ScoopBucket/blob/master/bucket/watt-toolkit.json)
 * [utools.json](https://github.com/lwb-2021/ScoopBucket/blob/master/bucket/utools.json)
+* [clash-premium.json](https://github.com/lwb-2021/ScoopBucket/blob/master/bucket/clash-premium.json)
 * [tor-browser-mirror.json](https://github.com/lwb-2021/ScoopBucket/blob/master/bucket/tor-browser-mirror.json)
+* [watt-toolkit.json](https://github.com/lwb-2021/ScoopBucket/blob/master/bucket/watt-toolkit.json)

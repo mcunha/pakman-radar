@@ -8,6 +8,6 @@
 
 
 ## 📦 Recipes (3)
-* [pharo-launcher.json](https://github.com/brendanburkhart/scoop-bucket/blob/master/bucket/pharo-launcher.json)
-* [pidsim.json](https://github.com/brendanburkhart/scoop-bucket/blob/master/bucket/pidsim.json)
 * [termite.json](https://github.com/brendanburkhart/scoop-bucket/blob/master/bucket/termite.json)
+* [pidsim.json](https://github.com/brendanburkhart/scoop-bucket/blob/master/bucket/pidsim.json)
+* [pharo-launcher.json](https://github.com/brendanburkhart/scoop-bucket/blob/master/bucket/pharo-launcher.json)
