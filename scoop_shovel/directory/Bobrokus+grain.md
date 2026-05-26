@@ -9,7 +9,7 @@
 
 ## 📦 Recipes (5)
 * [micaforeveryone.json](https://github.com/Bobrokus/grain/blob/master/bucket/micaforeveryone.json)
-* [modrinth-app.json](https://github.com/Bobrokus/grain/blob/master/bucket/modrinth-app.json)
-* [zen-browser.json](https://github.com/Bobrokus/grain/blob/master/bucket/zen-browser.json)
 * [bloxstrap.json](https://github.com/Bobrokus/grain/blob/master/bucket/bloxstrap.json)
+* [zen-browser.json](https://github.com/Bobrokus/grain/blob/master/bucket/zen-browser.json)
+* [modrinth-app.json](https://github.com/Bobrokus/grain/blob/master/bucket/modrinth-app.json)
 * [rawaccel.json](https://github.com/Bobrokus/grain/blob/master/bucket/rawaccel.json)
