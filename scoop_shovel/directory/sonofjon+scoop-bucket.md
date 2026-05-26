@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [moo0-system-monitor.json](https://github.com/sonofjon/scoop-bucket/blob/main/bucket/moo0-system-monitor.json)
 * [unified-remote.json](https://github.com/sonofjon/scoop-bucket/blob/main/bucket/unified-remote.json)
+* [moo0-system-monitor.json](https://github.com/sonofjon/scoop-bucket/blob/main/bucket/moo0-system-monitor.json)
