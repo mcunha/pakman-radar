@@ -8,6 +8,6 @@
 
 
 ## 📦 Recipes (3)
+* [logviewpro.json](https://github.com/sonicmingit/sonic-bucket/blob/main/bucket/logviewpro.json)
 * [ajazz.json](https://github.com/sonicmingit/sonic-bucket/blob/main/bucket/ajazz.json)
 * [mobaxterm-cn.json](https://github.com/sonicmingit/sonic-bucket/blob/main/bucket/mobaxterm-cn.json)
-* [logviewpro.json](https://github.com/sonicmingit/sonic-bucket/blob/main/bucket/logviewpro.json)
