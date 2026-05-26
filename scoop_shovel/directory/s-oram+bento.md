@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [murex.json](https://github.com/s-oram/bento/blob/master/bucket/murex.json)
 * [soul.json](https://github.com/s-oram/bento/blob/master/bucket/soul.json)
+* [murex.json](https://github.com/s-oram/bento/blob/master/bucket/murex.json)

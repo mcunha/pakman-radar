@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [standardnotes.nuspec](https://github.com/forwardcomputers/chocolatey-packages/blob/main/standardnotes/standardnotes.nuspec)
 * [microsoft-ui-xaml.nuspec](https://github.com/forwardcomputers/chocolatey-packages/blob/main/microsoft-ui-xaml/microsoft-ui-xaml.nuspec)
+* [standardnotes.nuspec](https://github.com/forwardcomputers/chocolatey-packages/blob/main/standardnotes/standardnotes.nuspec)

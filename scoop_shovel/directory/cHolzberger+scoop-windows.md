@@ -8,6 +8,6 @@
 
 
 ## 📦 Recipes (3)
-* [winfsp-np.json](https://github.com/cHolzberger/scoop-windows/blob/master/bucket/winfsp-np.json)
 * [fselect.json](https://github.com/cHolzberger/scoop-windows/blob/master/bucket/fselect.json)
 * [unison.json](https://github.com/cHolzberger/scoop-windows/blob/master/bucket/unison.json)
+* [winfsp-np.json](https://github.com/cHolzberger/scoop-windows/blob/master/bucket/winfsp-np.json)
