@@ -8,7 +8,7 @@
 
 
 ## 📦 Recipes (4)
-* [moonscript.json](https://github.com/TangentFoxy/ScoopBucket-ThirdParty/blob/master/moonscript.json)
 * [openresty.json](https://github.com/TangentFoxy/ScoopBucket-ThirdParty/blob/master/openresty.json)
 * [love.json](https://github.com/TangentFoxy/ScoopBucket-ThirdParty/blob/master/love.json)
 * [butler.json](https://github.com/TangentFoxy/ScoopBucket-ThirdParty/blob/master/butler.json)
+* [moonscript.json](https://github.com/TangentFoxy/ScoopBucket-ThirdParty/blob/master/moonscript.json)
