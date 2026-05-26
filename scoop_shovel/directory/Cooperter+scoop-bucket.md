@@ -8,7 +8,7 @@
 
 
 ## 📦 Recipes (4)
-* [SSTap.json](https://github.com/Cooperter/scoop-bucket/blob/main/bucket/SSTap.json)
 * [redisinsight.json](https://github.com/Cooperter/scoop-bucket/blob/main/bucket/redisinsight.json)
 * [mqttx.json](https://github.com/Cooperter/scoop-bucket/blob/main/bucket/mqttx.json)
 * [NoSQLBooster-for-MongoDB.json](https://github.com/Cooperter/scoop-bucket/blob/main/bucket/NoSQLBooster-for-MongoDB.json)
+* [SSTap.json](https://github.com/Cooperter/scoop-bucket/blob/main/bucket/SSTap.json)

@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [radian.json](https://github.com/rakkateichou/rakbucket/blob/master/bucket/radian.json)
 * [vastai.json](https://github.com/rakkateichou/rakbucket/blob/master/bucket/vastai.json)
+* [radian.json](https://github.com/rakkateichou/rakbucket/blob/master/bucket/radian.json)

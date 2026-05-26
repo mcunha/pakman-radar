@@ -8,12 +8,12 @@
 
 
 ## 📦 Recipes (9)
+* [KanColleViewer.json](https://github.com/Darkatse/Scoop-KanColle/blob/master/bucket/KanColleViewer.json)
+* [WhoCallsTheFleet.json](https://github.com/Darkatse/Scoop-KanColle/blob/master/bucket/WhoCallsTheFleet.json)
+* [poi-np.json](https://github.com/Darkatse/Scoop-KanColle/blob/master/bucket/poi-np.json)
+* [IntelligentNavalGun.json](https://github.com/Darkatse/Scoop-KanColle/blob/master/bucket/IntelligentNavalGun.json)
+* [poi.json](https://github.com/Darkatse/Scoop-KanColle/blob/master/bucket/poi.json)
+* [poi-nightly.json](https://github.com/Darkatse/Scoop-KanColle/blob/master/bucket/poi-nightly.json)
 * [logbook-ex.json](https://github.com/Darkatse/Scoop-KanColle/blob/master/bucket/logbook-ex.json)
 * [logbookex-red.json](https://github.com/Darkatse/Scoop-KanColle/blob/master/bucket/logbookex-red.json)
-* [WhoCallsTheFleet.json](https://github.com/Darkatse/Scoop-KanColle/blob/master/bucket/WhoCallsTheFleet.json)
-* [KanColleViewer.json](https://github.com/Darkatse/Scoop-KanColle/blob/master/bucket/KanColleViewer.json)
-* [poi.json](https://github.com/Darkatse/Scoop-KanColle/blob/master/bucket/poi.json)
-* [IntelligentNavalGun.json](https://github.com/Darkatse/Scoop-KanColle/blob/master/bucket/IntelligentNavalGun.json)
-* [poi-np.json](https://github.com/Darkatse/Scoop-KanColle/blob/master/bucket/poi-np.json)
-* [poi-nightly.json](https://github.com/Darkatse/Scoop-KanColle/blob/master/bucket/poi-nightly.json)
 * [ElectronicObserver.json](https://github.com/Darkatse/Scoop-KanColle/blob/master/bucket/ElectronicObserver.json)

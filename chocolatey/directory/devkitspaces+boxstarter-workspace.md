@@ -9,6 +9,6 @@
 
 ## 📦 Recipes (4)
 * [DevScrtl.nuspec](https://github.com/devkitspaces/boxstarter-workspace/blob/main/src/dev.scrtl/DevScrtl.nuspec)
-* [DevCore.nuspec](https://github.com/devkitspaces/boxstarter-workspace/blob/main/src/dev.core/DevCore.nuspec)
-* [BaseEnv.nuspec](https://github.com/devkitspaces/boxstarter-workspace/blob/main/src/baseenv/BaseEnv.nuspec)
 * [DevTools.nuspec](https://github.com/devkitspaces/boxstarter-workspace/blob/main/src/dev.tools/DevTools.nuspec)
+* [BaseEnv.nuspec](https://github.com/devkitspaces/boxstarter-workspace/blob/main/src/baseenv/BaseEnv.nuspec)
+* [DevCore.nuspec](https://github.com/devkitspaces/boxstarter-workspace/blob/main/src/dev.core/DevCore.nuspec)

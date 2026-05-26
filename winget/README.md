@@ -6,10 +6,10 @@ A data-driven, automated discovery and ranking engine for the Winget package man
 ![Update Package Managers Radar](https://github.com/mcunha/scoop-radar/actions/workflows/update.yml/badge.svg)
 
 # 📊 Ecosystem Health
-* **Total Unique Recipes**: 1843
+* **Total Unique Recipes**: 1837
 * **Ecosystem Auto-Update Health**: 0.0%
 * **Ecosystem Reliability**: 100.0% (Sampled URL Health)
-* **Official vs. Community**: 4965 Official / 1277 Community
+* **Official vs. Community**: 4965 Official / 1271 Community
 
 * **Stale/Abandoned Sources (> 1 Year)**: 🪦 2
 
@@ -66,20 +66,20 @@ A combined list of every source discovered in the ecosystem.
 | **[voicemeet/winget-updater](directory/voicemeet+winget-updater.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
 | **[223n/winget-usacloud](directory/223n+winget-usacloud.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
 | **[cloudflightio/winget-pkgs](directory/cloudflightio+winget-pkgs.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[RadikaRules/scripts](directory/RadikaRules+scripts.md)** | 📦 9 | ⭐ 1.0 | 🔄 0% |  |
+| **[RadikaRules/scripts](directory/RadikaRules+scripts.md)** | 📦 3 | ⭐ 1.0 | 🔄 0% |  |
 
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 629
-* **Total Repo Updates**: 20720
+* **Total Crawler Runs**: 630
+* **Total Repo Updates**: 20782
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
-  * 📦 +0 Recipes
+  * 📦 -6 Recipes
 * **Eviction Count**: 🗑️ 7
 * **API Rate Limit Retries**: ⏳ 0
 * **Cache Size**: 💾 0.74 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 0.26s
-  * 📥 Update: 16.59s
-* **Cumulative Compute Time**: 178.9 minutes
+  * 🔍 Discovery: 0.53s
+  * 📥 Update: 18.29s
+* **Cumulative Compute Time**: 179.2 minutes
