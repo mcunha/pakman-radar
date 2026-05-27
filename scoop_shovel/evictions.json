@@ -23,32 +23,36 @@
     {
       "full_name": "iGAP-Code/roblox-dev-toolkit",
       "evicted_at": "2026-05-22T17:06:55Z"
+    },
+    {
+      "full_name": "YOUIMARK/scoop-bucket",
+      "evicted_at": "2026-05-27T22:10:24Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-05-27T21:04:21Z",
-    "count": 6,
+    "generated_at": "2026-05-27T22:10:25Z",
+    "count": 7,
     "global_metrics": {
-      "total_runs": 650,
-      "total_run_time_seconds": 102938.66849160194,
-      "total_repo_updates": 40740,
-      "previous_total_buckets": 1309,
-      "previous_total_recipes": 143917,
-      "bucket_velocity": 0,
-      "recipe_velocity": 0,
-      "total_evictions": 6,
+      "total_runs": 651,
+      "total_run_time_seconds": 103102.0536699295,
+      "total_repo_updates": 40804,
+      "previous_total_buckets": 1308,
+      "previous_total_recipes": 127929,
+      "bucket_velocity": -1,
+      "recipe_velocity": -15988,
+      "total_evictions": 7,
       "total_api_retries": 0,
-      "last_run_discover_time": 3.5630197525024414,
-      "last_run_update_time": 40.10745072364807,
-      "ecosystem_reliability": 87.8,
-      "cache_size_mb": 10.786128044128418,
-      "total_unique_recipes": 31519,
-      "auto_update_percentage": 85.62,
-      "official_recipes": 53976,
-      "community_recipes": 89941,
+      "last_run_discover_time": 3.2317535877227783,
+      "last_run_update_time": 159.3134639263153,
+      "ecosystem_reliability": 87.7,
+      "cache_size_mb": 10.356487274169922,
+      "total_unique_recipes": 31109,
+      "auto_update_percentage": 85.35,
+      "official_recipes": 48462,
+      "community_recipes": 79467,
       "stale_buckets": 443,
       "shovel_buckets": 25,
-      "scoop_buckets": 1284
+      "scoop_buckets": 1283
     }
   }
 }
