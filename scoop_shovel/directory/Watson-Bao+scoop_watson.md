@@ -8,7 +8,7 @@
 
 
 ## 📦 Recipes (4)
-* [seraphine.json](https://github.com/Watson-Bao/scoop_watson/blob/master/bucket/seraphine.json)
-* [PureCodec.json](https://github.com/Watson-Bao/scoop_watson/blob/master/bucket/PureCodec.json)
-* [landrop.json](https://github.com/Watson-Bao/scoop_watson/blob/master/bucket/landrop.json)
 * [ClashForWindows-cn.json](https://github.com/Watson-Bao/scoop_watson/blob/master/bucket/ClashForWindows-cn.json)
+* [PureCodec.json](https://github.com/Watson-Bao/scoop_watson/blob/master/bucket/PureCodec.json)
+* [seraphine.json](https://github.com/Watson-Bao/scoop_watson/blob/master/bucket/seraphine.json)
+* [landrop.json](https://github.com/Watson-Bao/scoop_watson/blob/master/bucket/landrop.json)
