@@ -8,11 +8,11 @@
 
 
 ## 📦 Recipes (8)
-* [specialk.json](https://github.com/BinToss/scoop-bucket/blob/master/bucket/specialk.json)
 * [uwphook.json](https://github.com/BinToss/scoop-bucket/blob/master/bucket/uwphook.json)
-* [reshade-addon.json](https://github.com/BinToss/scoop-bucket/blob/master/bucket/reshade-addon.json)
-* [deskflow-np.json](https://github.com/BinToss/scoop-bucket/blob/master/bucket/deskflow-np.json)
 * [dwmblurglass.json](https://github.com/BinToss/scoop-bucket/blob/master/bucket/dwmblurglass.json)
-* [olive-editor-nightly.json](https://github.com/BinToss/scoop-bucket/blob/master/bucket/olive-editor-nightly.json)
-* [rawaccel.json](https://github.com/BinToss/scoop-bucket/blob/master/bucket/rawaccel.json)
 * [reloaded-ii.json](https://github.com/BinToss/scoop-bucket/blob/master/bucket/reloaded-ii.json)
+* [olive-editor-nightly.json](https://github.com/BinToss/scoop-bucket/blob/master/bucket/olive-editor-nightly.json)
+* [reshade-addon.json](https://github.com/BinToss/scoop-bucket/blob/master/bucket/reshade-addon.json)
+* [specialk.json](https://github.com/BinToss/scoop-bucket/blob/master/bucket/specialk.json)
+* [deskflow-np.json](https://github.com/BinToss/scoop-bucket/blob/master/bucket/deskflow-np.json)
+* [rawaccel.json](https://github.com/BinToss/scoop-bucket/blob/master/bucket/rawaccel.json)
