@@ -8,8 +8,8 @@
 
 
 ## 📦 Recipes (5)
-* [oh-my-posh.json](https://github.com/asoluter/Scoop-Asoluter/blob/main/bucket/oh-my-posh.json)
 * [7zip.json](https://github.com/asoluter/Scoop-Asoluter/blob/main/bucket/7zip.json)
-* [notepadplusplus.json](https://github.com/asoluter/Scoop-Asoluter/blob/main/bucket/notepadplusplus.json)
 * [gitextensions.json](https://github.com/asoluter/Scoop-Asoluter/blob/main/bucket/gitextensions.json)
 * [libreoffice.json](https://github.com/asoluter/Scoop-Asoluter/blob/main/bucket/libreoffice.json)
+* [notepadplusplus.json](https://github.com/asoluter/Scoop-Asoluter/blob/main/bucket/notepadplusplus.json)
+* [oh-my-posh.json](https://github.com/asoluter/Scoop-Asoluter/blob/main/bucket/oh-my-posh.json)
