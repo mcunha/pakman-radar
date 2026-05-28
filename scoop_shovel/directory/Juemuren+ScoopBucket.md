@@ -8,9 +8,9 @@
 
 
 ## 📦 Recipes (6)
-* [quarto.json](https://github.com/Juemuren/ScoopBucket/blob/main/bucket/quarto.json)
-* [graphviz.json](https://github.com/Juemuren/ScoopBucket/blob/main/bucket/graphviz.json)
 * [Sarasa-Mono-SC.json](https://github.com/Juemuren/ScoopBucket/blob/main/bucket/Sarasa-Mono-SC.json)
+* [graphviz.json](https://github.com/Juemuren/ScoopBucket/blob/main/bucket/graphviz.json)
 * [miktex.json](https://github.com/Juemuren/ScoopBucket/blob/main/bucket/miktex.json)
+* [quarto.json](https://github.com/Juemuren/ScoopBucket/blob/main/bucket/quarto.json)
 * [juliaup.json](https://github.com/Juemuren/ScoopBucket/blob/main/bucket/juliaup.json)
 * [mise.json](https://github.com/Juemuren/ScoopBucket/blob/main/bucket/mise.json)
