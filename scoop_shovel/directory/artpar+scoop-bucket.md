@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [currier.json](https://github.com/artpar/scoop-bucket/blob/main/bucket/currier.json)
 * [terminal-tunnel.json](https://github.com/artpar/scoop-bucket/blob/main/bucket/terminal-tunnel.json)
+* [currier.json](https://github.com/artpar/scoop-bucket/blob/main/bucket/currier.json)

@@ -9,9 +9,9 @@
 
 ## 📦 Recipes (7)
 * [music-presence.json](https://github.com/doabell/scoop/blob/master/bucket/music-presence.json)
-* [just-lsp.json](https://github.com/doabell/scoop/blob/master/bucket/just-lsp.json)
 * [en-croissant.json](https://github.com/doabell/scoop/blob/master/bucket/en-croissant.json)
 * [x-mouse-button-control.json](https://github.com/doabell/scoop/blob/master/bucket/x-mouse-button-control.json)
+* [just-lsp.json](https://github.com/doabell/scoop/blob/master/bucket/just-lsp.json)
 * [librescore.json](https://github.com/doabell/scoop/blob/master/bucket/librescore.json)
-* [n_m3u8dl-re.json](https://github.com/doabell/scoop/blob/master/bucket/n_m3u8dl-re.json)
 * [ipget.json](https://github.com/doabell/scoop/blob/master/bucket/ipget.json)
+* [n_m3u8dl-re.json](https://github.com/doabell/scoop/blob/master/bucket/n_m3u8dl-re.json)
