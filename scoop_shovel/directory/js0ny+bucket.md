@@ -8,12 +8,12 @@
 
 
 ## 📦 Recipes (9)
+* [yiji.json](https://github.com/js0ny/bucket/blob/master/bucket/yiji.json)
+* [ltspice.json](https://github.com/js0ny/bucket/blob/master/bucket/ltspice.json)
+* [kmonad-git.json](https://github.com/js0ny/bucket/blob/master/bucket/kmonad-git.json)
 * [renamedit.json](https://github.com/js0ny/bucket/blob/master/bucket/renamedit.json)
-* [ltspice24.json](https://github.com/js0ny/bucket/blob/master/bucket/ltspice24.json)
+* [CommandLineMedia-dotnet9.json](https://github.com/js0ny/bucket/blob/master/bucket/CommandLineMedia-dotnet9.json)
+* [evil-helix.json](https://github.com/js0ny/bucket/blob/master/bucket/evil-helix.json)
 * [renamedit-git.json](https://github.com/js0ny/bucket/blob/master/bucket/renamedit-git.json)
 * [ltspice17-np.json](https://github.com/js0ny/bucket/blob/master/bucket/ltspice17-np.json)
-* [yiji.json](https://github.com/js0ny/bucket/blob/master/bucket/yiji.json)
-* [CommandLineMedia-dotnet9.json](https://github.com/js0ny/bucket/blob/master/bucket/CommandLineMedia-dotnet9.json)
-* [kmonad-git.json](https://github.com/js0ny/bucket/blob/master/bucket/kmonad-git.json)
-* [evil-helix.json](https://github.com/js0ny/bucket/blob/master/bucket/evil-helix.json)
-* [ltspice.json](https://github.com/js0ny/bucket/blob/master/bucket/ltspice.json)
+* [ltspice24.json](https://github.com/js0ny/bucket/blob/master/bucket/ltspice24.json)
