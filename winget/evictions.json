@@ -31,23 +31,27 @@
     {
       "full_name": "YOUIMARK/scoop-bucket",
       "evicted_at": "2026-05-27T22:10:24Z"
+    },
+    {
+      "full_name": "arusso-aboutcloud/scoop-bucket",
+      "evicted_at": "2026-05-29T19:15:30Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-05-29T17:35:04Z",
-    "count": 8,
+    "generated_at": "2026-05-29T19:17:24Z",
+    "count": 9,
     "global_metrics": {
-      "total_runs": 679,
-      "total_run_time_seconds": 11643.355924606323,
-      "total_repo_updates": 22450,
+      "total_runs": 680,
+      "total_run_time_seconds": 11660.472071647644,
+      "total_repo_updates": 22484,
       "previous_total_buckets": 9,
       "previous_total_recipes": 6236,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
-      "total_evictions": 8,
+      "total_evictions": 9,
       "total_api_retries": 0,
-      "last_run_discover_time": 1.659785509109497,
-      "last_run_update_time": 17.192143440246582,
+      "last_run_discover_time": 0.3653080463409424,
+      "last_run_update_time": 16.73526406288147,
       "ecosystem_reliability": 100.0,
       "cache_size_mb": 0.7438449859619141,
       "total_unique_recipes": 1837,
