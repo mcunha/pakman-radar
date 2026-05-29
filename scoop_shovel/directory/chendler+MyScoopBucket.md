@@ -8,7 +8,7 @@
 
 
 ## 📦 Recipes (4)
-* [nebula.json](https://github.com/chendler/MyScoopBucket/blob/master/bucket/nebula.json)
-* [cryptomator-cli.json](https://github.com/chendler/MyScoopBucket/blob/master/bucket/cryptomator-cli.json)
-* [tortoisegit.json](https://github.com/chendler/MyScoopBucket/blob/master/bucket/tortoisegit.json)
 * [nncron.json](https://github.com/chendler/MyScoopBucket/blob/master/bucket/nncron.json)
+* [nebula.json](https://github.com/chendler/MyScoopBucket/blob/master/bucket/nebula.json)
+* [tortoisegit.json](https://github.com/chendler/MyScoopBucket/blob/master/bucket/tortoisegit.json)
+* [cryptomator-cli.json](https://github.com/chendler/MyScoopBucket/blob/master/bucket/cryptomator-cli.json)
