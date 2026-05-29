@@ -6449,13 +6449,13 @@
         "windows",
         "winget-pkgs"
       ],
-      "last_checked": "2026-05-25T17:27:00Z",
+      "last_checked": "2026-05-29T11:34:20Z",
       "pushed_at": "2026-04-22T14:07:26Z",
       "archived": false,
       "disabled": false,
       "entries": [
-        "manifests/s/sacloud/usacloud/1.21.0/sacloud.usacloud.yaml",
-        "manifests/s/sacloud/usacloud/1.22.0/sacloud.usacloud.yaml"
+        "manifests/s/sacloud/usacloud/1.22.0/sacloud.usacloud.yaml",
+        "manifests/s/sacloud/usacloud/1.21.0/sacloud.usacloud.yaml"
       ],
       "checkver_count": 0,
       "consecutive_failures": 0,
@@ -6549,20 +6549,20 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-05-29T09:43:41Z",
+    "generated_at": "2026-05-29T11:34:31Z",
     "count": 9,
     "global_metrics": {
-      "total_runs": 675,
-      "total_run_time_seconds": 11565.977981567383,
-      "total_repo_updates": 22313,
+      "total_runs": 676,
+      "total_run_time_seconds": 11584.470789670944,
+      "total_repo_updates": 22348,
       "previous_total_buckets": 9,
       "previous_total_recipes": 6236,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
       "total_evictions": 8,
       "total_api_retries": 0,
-      "last_run_discover_time": 4.573904752731323,
-      "last_run_update_time": 16.92594599723816,
+      "last_run_discover_time": 1.4504749774932861,
+      "last_run_update_time": 17.02654218673706,
       "ecosystem_reliability": 100.0,
       "cache_size_mb": 0.7438449859619141,
       "total_unique_recipes": 1837,
