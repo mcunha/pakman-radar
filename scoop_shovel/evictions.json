@@ -35,32 +35,36 @@
     {
       "full_name": "fruini/scoop-bucket",
       "evicted_at": "2026-05-30T08:13:56Z"
+    },
+    {
+      "full_name": "maokwen/scoop-bucket",
+      "evicted_at": "2026-05-30T21:42:22Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-05-30T20:40:13Z",
-    "count": 9,
+    "generated_at": "2026-05-30T21:42:29Z",
+    "count": 10,
     "global_metrics": {
-      "total_runs": 704,
-      "total_run_time_seconds": 110683.88803005219,
-      "total_repo_updates": 44116,
-      "previous_total_buckets": 1316,
-      "previous_total_recipes": 127947,
-      "bucket_velocity": 1,
-      "recipe_velocity": 3,
-      "total_evictions": 9,
+      "total_runs": 705,
+      "total_run_time_seconds": 110710.42730212212,
+      "total_repo_updates": 44176,
+      "previous_total_buckets": 1315,
+      "previous_total_recipes": 127905,
+      "bucket_velocity": -1,
+      "recipe_velocity": -42,
+      "total_evictions": 10,
       "total_api_retries": 0,
-      "last_run_discover_time": 2.3067402839660645,
-      "last_run_update_time": 31.674691438674927,
-      "ecosystem_reliability": 88.4,
-      "cache_size_mb": 9.631085395812988,
-      "total_unique_recipes": 31108,
+      "last_run_discover_time": 0.15833306312561035,
+      "last_run_update_time": 25.632706880569458,
+      "ecosystem_reliability": 88.5,
+      "cache_size_mb": 9.62940502166748,
+      "total_unique_recipes": 31107,
       "auto_update_percentage": 85.34,
-      "official_recipes": 48474,
-      "community_recipes": 79473,
+      "official_recipes": 48467,
+      "community_recipes": 79438,
       "stale_buckets": 447,
       "shovel_buckets": 25,
-      "scoop_buckets": 1291
+      "scoop_buckets": 1290
     }
   }
 }

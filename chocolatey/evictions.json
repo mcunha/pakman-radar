@@ -39,23 +39,27 @@
     {
       "full_name": "fruini/scoop-bucket",
       "evicted_at": "2026-05-30T08:13:56Z"
+    },
+    {
+      "full_name": "maokwen/scoop-bucket",
+      "evicted_at": "2026-05-30T21:42:22Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-05-30T20:40:15Z",
-    "count": 10,
+    "generated_at": "2026-05-30T21:42:33Z",
+    "count": 11,
     "global_metrics": {
-      "total_runs": 704,
-      "total_run_time_seconds": 2389.581163406372,
-      "total_repo_updates": 42582,
+      "total_runs": 705,
+      "total_run_time_seconds": 2393.220865726471,
+      "total_repo_updates": 42641,
       "previous_total_buckets": 227,
       "previous_total_recipes": 3329,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
-      "total_evictions": 10,
+      "total_evictions": 11,
       "total_api_retries": 0,
-      "last_run_discover_time": 0.21979975700378418,
-      "last_run_update_time": 1.060378074645996,
+      "last_run_discover_time": 2.660527467727661,
+      "last_run_update_time": 0.9546704292297363,
       "ecosystem_reliability": 100.0,
       "cache_size_mb": 0.8114461898803711,
       "total_unique_recipes": 2931,
