@@ -31,32 +31,36 @@
     {
       "full_name": "arusso-aboutcloud/scoop-bucket",
       "evicted_at": "2026-05-29T19:15:30Z"
+    },
+    {
+      "full_name": "fruini/scoop-bucket",
+      "evicted_at": "2026-05-30T08:13:56Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-05-30T07:23:59Z",
-    "count": 8,
+    "generated_at": "2026-05-30T08:14:02Z",
+    "count": 9,
     "global_metrics": {
-      "total_runs": 690,
-      "total_run_time_seconds": 108257.15797424316,
-      "total_repo_updates": 43298,
-      "previous_total_buckets": 1314,
-      "previous_total_recipes": 127961,
-      "bucket_velocity": 0,
-      "recipe_velocity": 0,
-      "total_evictions": 8,
+      "total_runs": 691,
+      "total_run_time_seconds": 108296.26086258888,
+      "total_repo_updates": 43361,
+      "previous_total_buckets": 1313,
+      "previous_total_recipes": 127942,
+      "bucket_velocity": -1,
+      "recipe_velocity": -19,
+      "total_evictions": 9,
       "total_api_retries": 0,
-      "last_run_discover_time": 2.615267038345337,
-      "last_run_update_time": 23.89407253265381,
-      "ecosystem_reliability": 88.5,
-      "cache_size_mb": 9.628866195678711,
-      "total_unique_recipes": 31119,
-      "auto_update_percentage": 85.35,
+      "last_run_discover_time": 0.7144734859466553,
+      "last_run_update_time": 37.595595836639404,
+      "ecosystem_reliability": 88.4,
+      "cache_size_mb": 9.628279685974121,
+      "total_unique_recipes": 31104,
+      "auto_update_percentage": 85.34,
       "official_recipes": 48474,
-      "community_recipes": 79487,
+      "community_recipes": 79468,
       "stale_buckets": 445,
       "shovel_buckets": 25,
-      "scoop_buckets": 1289
+      "scoop_buckets": 1288
     }
   }
 }
