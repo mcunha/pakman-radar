@@ -8,9 +8,9 @@
 
 
 ## 📦 Recipes (6)
-* [crowbar.json](https://github.com/pl4gue/scoup-bucket/blob/master/bucket/crowbar.json)
-* [spacedrive.json](https://github.com/pl4gue/scoup-bucket/blob/master/bucket/spacedrive.json)
+* [OpenComic.json](https://github.com/pl4gue/scoup-bucket/blob/master/bucket/OpenComic.json)
 * [vtfedit-reloaded.json](https://github.com/pl4gue/scoup-bucket/blob/master/bucket/vtfedit-reloaded.json)
+* [spacedrive.json](https://github.com/pl4gue/scoup-bucket/blob/master/bucket/spacedrive.json)
 * [fjordlauncher.json](https://github.com/pl4gue/scoup-bucket/blob/master/bucket/fjordlauncher.json)
 * [Equibop.json](https://github.com/pl4gue/scoup-bucket/blob/master/bucket/Equibop.json)
-* [OpenComic.json](https://github.com/pl4gue/scoup-bucket/blob/master/bucket/OpenComic.json)
+* [crowbar.json](https://github.com/pl4gue/scoup-bucket/blob/master/bucket/crowbar.json)
