@@ -43,25 +43,29 @@
     {
       "full_name": "maokwen/scoop-bucket",
       "evicted_at": "2026-05-30T21:42:22Z"
+    },
+    {
+      "full_name": "fishandsheep/scoop-bucket",
+      "evicted_at": "2026-05-31T11:53:28Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-05-31T11:05:32Z",
-    "count": 11,
+    "generated_at": "2026-05-31T11:53:39Z",
+    "count": 12,
     "global_metrics": {
-      "total_runs": 713,
-      "total_run_time_seconds": 2410.519793987274,
-      "total_repo_updates": 43123,
+      "total_runs": 714,
+      "total_run_time_seconds": 2414.417598247528,
+      "total_repo_updates": 43182,
       "previous_total_buckets": 227,
       "previous_total_recipes": 3329,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
-      "total_evictions": 11,
+      "total_evictions": 12,
       "total_api_retries": 0,
-      "last_run_discover_time": 0.24759149551391602,
-      "last_run_update_time": 1.9883244037628174,
+      "last_run_discover_time": 2.8463873863220215,
+      "last_run_update_time": 1.0191617012023926,
       "ecosystem_reliability": 100.0,
-      "cache_size_mb": 0.8115310668945312,
+      "cache_size_mb": 0.8115339279174805,
       "total_unique_recipes": 2931,
       "auto_update_percentage": 35.99,
       "official_recipes": 481,
