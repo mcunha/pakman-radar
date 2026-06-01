@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [deemix.json](https://github.com/mrror/scoop-bucket/blob/main/bucket/deemix.json)
 * [spotiflac.json](https://github.com/mrror/scoop-bucket/blob/main/bucket/spotiflac.json)
+* [deemix.json](https://github.com/mrror/scoop-bucket/blob/main/bucket/deemix.json)
