@@ -8,8 +8,8 @@
 
 
 ## 📦 Recipes (5)
-* [explorer-tab-utility.json](https://github.com/h-hg/dragon/blob/master/bucket/explorer-tab-utility.json)
-* [caesium-clt.json](https://github.com/h-hg/dragon/blob/master/bucket/caesium-clt.json)
 * [baidupcs-go.json](https://github.com/h-hg/dragon/blob/master/bucket/baidupcs-go.json)
 * [aliyunpan.json](https://github.com/h-hg/dragon/blob/master/bucket/aliyunpan.json)
+* [caesium-clt.json](https://github.com/h-hg/dragon/blob/master/bucket/caesium-clt.json)
+* [explorer-tab-utility.json](https://github.com/h-hg/dragon/blob/master/bucket/explorer-tab-utility.json)
 * [mihomo-compatible.json](https://github.com/h-hg/dragon/blob/master/bucket/mihomo-compatible.json)
