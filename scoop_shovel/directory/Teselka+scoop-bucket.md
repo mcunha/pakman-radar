@@ -8,7 +8,7 @@
 
 
 ## 📦 Recipes (4)
-* [usbtreeview.json](https://github.com/Teselka/scoop-bucket/blob/master/bucket/usbtreeview.json)
-* [muon-dev.json](https://github.com/Teselka/scoop-bucket/blob/master/bucket/muon-dev.json)
 * [steam-spoof.json](https://github.com/Teselka/scoop-bucket/blob/master/bucket/steam-spoof.json)
 * [creaminstaller.json](https://github.com/Teselka/scoop-bucket/blob/master/bucket/creaminstaller.json)
+* [muon-dev.json](https://github.com/Teselka/scoop-bucket/blob/master/bucket/muon-dev.json)
+* [usbtreeview.json](https://github.com/Teselka/scoop-bucket/blob/master/bucket/usbtreeview.json)

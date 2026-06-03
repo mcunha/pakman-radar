@@ -8,6 +8,6 @@
 
 
 ## 📦 Recipes (3)
-* [keyboard-inspector.json](https://github.com/arphox/arphox-scoop-bucket/blob/main/bucket/keyboard-inspector.json)
 * [clipview.json](https://github.com/arphox/arphox-scoop-bucket/blob/main/bucket/clipview.json)
+* [keyboard-inspector.json](https://github.com/arphox/arphox-scoop-bucket/blob/main/bucket/keyboard-inspector.json)
 * [occt.json](https://github.com/arphox/arphox-scoop-bucket/blob/main/bucket/occt.json)
