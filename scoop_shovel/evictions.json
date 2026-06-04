@@ -47,25 +47,29 @@
     {
       "full_name": "The-Uprooted-Project/scoop-bucket",
       "evicted_at": "2026-06-03T03:35:27Z"
+    },
+    {
+      "full_name": "skylence-be/scoop-bucket",
+      "evicted_at": "2026-06-04T15:34:00Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-04T13:31:34Z",
-    "count": 12,
+    "generated_at": "2026-06-04T15:35:04Z",
+    "count": 13,
     "global_metrics": {
-      "total_runs": 772,
-      "total_run_time_seconds": 119111.48992609978,
-      "total_repo_updates": 48454,
+      "total_runs": 773,
+      "total_run_time_seconds": 119208.33102250099,
+      "total_repo_updates": 48521,
       "previous_total_buckets": 1323,
       "previous_total_recipes": 127976,
-      "bucket_velocity": 1,
-      "recipe_velocity": 1,
-      "total_evictions": 12,
+      "bucket_velocity": 0,
+      "recipe_velocity": 0,
+      "total_evictions": 13,
       "total_api_retries": 0,
-      "last_run_discover_time": 4.970726251602173,
-      "last_run_update_time": 63.899683237075806,
-      "ecosystem_reliability": 88.8,
-      "cache_size_mb": 9.635356903076172,
+      "last_run_discover_time": 3.513028860092163,
+      "last_run_update_time": 92.61205530166626,
+      "ecosystem_reliability": 88.9,
+      "cache_size_mb": 9.636330604553223,
       "total_unique_recipes": 31120,
       "auto_update_percentage": 85.34,
       "official_recipes": 48498,
