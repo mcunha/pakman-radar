@@ -51,32 +51,36 @@
     {
       "full_name": "skylence-be/scoop-bucket",
       "evicted_at": "2026-06-04T15:34:00Z"
+    },
+    {
+      "full_name": "qiazo/scoop-bucket",
+      "evicted_at": "2026-06-05T18:03:18Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-05T17:06:56Z",
-    "count": 13,
+    "generated_at": "2026-06-05T18:03:26Z",
+    "count": 14,
     "global_metrics": {
-      "total_runs": 789,
-      "total_run_time_seconds": 120781.16895222664,
-      "total_repo_updates": 49565,
-      "previous_total_buckets": 1329,
-      "previous_total_recipes": 127983,
-      "bucket_velocity": 0,
-      "recipe_velocity": 0,
-      "total_evictions": 13,
+      "total_runs": 790,
+      "total_run_time_seconds": 120807.37657690048,
+      "total_repo_updates": 49627,
+      "previous_total_buckets": 1328,
+      "previous_total_recipes": 127980,
+      "bucket_velocity": -1,
+      "recipe_velocity": -3,
+      "total_evictions": 14,
       "total_api_retries": 0,
-      "last_run_discover_time": 1.0909900665283203,
-      "last_run_update_time": 17.022825241088867,
-      "ecosystem_reliability": 88.3,
-      "cache_size_mb": 9.640182495117188,
+      "last_run_discover_time": 0.2559175491333008,
+      "last_run_update_time": 25.273764610290527,
+      "ecosystem_reliability": 88.5,
+      "cache_size_mb": 9.639433860778809,
       "total_unique_recipes": 31124,
       "auto_update_percentage": 85.34,
       "official_recipes": 48498,
-      "community_recipes": 79485,
+      "community_recipes": 79482,
       "stale_buckets": 452,
       "shovel_buckets": 25,
-      "scoop_buckets": 1304
+      "scoop_buckets": 1303
     }
   }
 }
