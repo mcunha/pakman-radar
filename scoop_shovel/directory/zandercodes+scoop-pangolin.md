@@ -8,6 +8,6 @@
 
 
 ## 📦 Recipes (3)
+* [windows-np.json](https://github.com/zandercodes/scoop-pangolin/blob/main/bucket/windows-np.json)
 * [newt.json](https://github.com/zandercodes/scoop-pangolin/blob/main/bucket/newt.json)
 * [olm.json](https://github.com/zandercodes/scoop-pangolin/blob/main/bucket/olm.json)
-* [windows-np.json](https://github.com/zandercodes/scoop-pangolin/blob/main/bucket/windows-np.json)
