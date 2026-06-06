@@ -1959,7 +1959,7 @@
         "chocolatey-packages"
       ],
       "last_checked": "2026-04-27T15:14:20Z",
-      "pushed_at": "2026-06-05T16:43:26Z",
+      "pushed_at": "2026-06-06T12:53:54Z",
       "archived": false,
       "disabled": false,
       "entries": [
@@ -2015,20 +2015,20 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-06T21:43:44Z",
+    "generated_at": "2026-06-06T22:43:39Z",
     "count": 10,
     "global_metrics": {
-      "total_runs": 815,
-      "total_run_time_seconds": 2769.2388093471527,
-      "total_repo_updates": 49199,
+      "total_runs": 816,
+      "total_run_time_seconds": 2772.4903388023376,
+      "total_repo_updates": 49259,
       "previous_total_buckets": 227,
       "previous_total_recipes": 3329,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
       "total_evictions": 15,
       "total_api_retries": 0,
-      "last_run_discover_time": 0.16089773178100586,
-      "last_run_update_time": 0.9958958625793457,
+      "last_run_discover_time": 2.314023971557617,
+      "last_run_update_time": 0.9060518741607666,
       "ecosystem_reliability": 100.0,
       "cache_size_mb": 0.8129701614379883,
       "total_unique_recipes": 2931,
