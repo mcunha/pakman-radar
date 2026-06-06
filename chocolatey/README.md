@@ -185,8 +185,8 @@ A combined list of every source discovered in the ecosystem.
 | **[foundata/chocolatey-usewindow.extension](directory/foundata+chocolatey-usewindow.extension.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[foundata/chocolatey-sendmouseclick.extension](directory/foundata+chocolatey-sendmouseclick.extension.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[foundata/chocolatey-sendkeys.extension](directory/foundata+chocolatey-sendkeys.extension.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[agabrys/chocolatey-packages](directory/agabrys+chocolatey-packages.md)** | 📦 13 | ⭐ 1.0 | 🔄 0% |  |
 | **[brianary/chocolatey-packages](directory/brianary+chocolatey-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[agabrys/chocolatey-packages](directory/agabrys+chocolatey-packages.md)** | 📦 13 | ⭐ 1.0 | 🔄 0% |  |
 | **[samuel-lucas6/Kryptor-Chocolatey](directory/samuel-lucas6+Kryptor-Chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[midrare/choco-packages](directory/midrare+choco-packages.md)** | 📦 5 | ⭐ 1.0 | 🔄 100% |  |
 | **[atiq-cs/choco](directory/atiq-cs+choco.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
@@ -298,8 +298,8 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 812
-* **Total Repo Updates**: 49022
+* **Total Crawler Runs**: 813
+* **Total Repo Updates**: 49081
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
@@ -307,6 +307,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 0
 * **Cache Size**: 💾 0.81 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 2.58s
-  * 📥 Update: 1.04s
+  * 🔍 Discovery: 0.21s
+  * 📥 Update: 1.13s
 * **Cumulative Compute Time**: 46.1 minutes
