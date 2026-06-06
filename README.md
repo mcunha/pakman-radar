@@ -6,7 +6,7 @@ This repository tracks, ranks, and analyzes community repositories (buckets/feed
 
 ## Supported Ecosystems
 
-*   [**Scoop & Shovel**](./scoop_shovel/README.md): Tracking 📦 **127,982** Packages across 🪣 **1,329** Repositories
+*   [**Scoop & Shovel**](./scoop_shovel/README.md): Tracking 📦 **127,983** Packages across 🪣 **1,330** Repositories
 *   [**Chocolatey**](./chocolatey/README.md): Tracking 📦 **3,329** Packages across 🪣 **227** Sources
 *   [**WinGet**](./winget/README.md): Tracking 📦 **6,236** Packages across 🪣 **9** Repositories
 
