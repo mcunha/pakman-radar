@@ -126,9 +126,9 @@ A combined list of every source discovered in the ecosystem.
 | **[adamrushuk/velero-choco](directory/adamrushuk+velero-choco.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.wwphone](directory/open-circle-ltd+chocolatey.wwphone.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[christosgalano/bicep-docs-choco](directory/christosgalano+bicep-docs-choco.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[LogtalkDotOrg/chocolatey-packages](directory/LogtalkDotOrg+chocolatey-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[zarethrex/chocolatey-openbve](directory/zarethrex+chocolatey-openbve.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.microsoft-office-deployment](directory/open-circle-ltd+chocolatey.microsoft-office-deployment.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[LogtalkDotOrg/chocolatey-packages](directory/LogtalkDotOrg+chocolatey-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[voicemeet/chocolatey-packages](directory/voicemeet+chocolatey-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[streamlink/streamlink-chocolatey](directory/streamlink+streamlink-chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.wwphone-cti](directory/open-circle-ltd+chocolatey.wwphone-cti.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
@@ -201,8 +201,8 @@ A combined list of every source discovered in the ecosystem.
 | **[simeononsecurity/chocolateypackages](directory/simeononsecurity+chocolateypackages.md)** | 📦 9 | ⭐ 1.0 | 🔄 22% |  |
 | **[JourneyOver/chocolatey-packages](directory/JourneyOver+chocolatey-packages.md)** | 📦 34 | ⭐ 1.0 | 🔄 0% |  |
 | **[bramanda48/chocolatey-packages](directory/bramanda48+chocolatey-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
-| **[forwardcomputers/chocolatey-packages](directory/forwardcomputers+chocolatey-packages.md)** | 📦 2 | ⭐ 1.0 | 🔄 100% |  |
 | **[Kristinita/SashaChocolatey](directory/Kristinita+SashaChocolatey.md)** | 📦 37 | ⭐ 1.0 | 🔄 0% |  |
+| **[forwardcomputers/chocolatey-packages](directory/forwardcomputers+chocolatey-packages.md)** | 📦 2 | ⭐ 1.0 | 🔄 100% |  |
 | **[open-circle-ltd/chocolatey.Win32-OpenSSH](directory/open-circle-ltd+chocolatey.Win32-OpenSSH.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[brogers5/chocolatey-package-rweverything.portable](directory/brogers5+chocolatey-package-rweverything.portable.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-crushee](directory/brogers5+chocolatey-package-crushee.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
@@ -256,8 +256,8 @@ A combined list of every source discovered in the ecosystem.
 | **[astra-midnight/chocolatey-pkgs](directory/astra-midnight+chocolatey-pkgs.md)** | 📦 3 | ⭐ 1.0 | 🔄 100% |  |
 | **[sorashi/taiga-chocolatey-package](directory/sorashi+taiga-chocolatey-package.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[virtualex-itv/choco-marcs-updater](directory/virtualex-itv+choco-marcs-updater.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[Cossey/chocopackages](directory/Cossey+chocopackages.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[danielskowronski/choco-hashi-ui](directory/danielskowronski+choco-hashi-ui.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[Cossey/chocopackages](directory/Cossey+chocopackages.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[itigoag/chocolatey.bria](directory/itigoag+chocolatey.bria.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[belidzs/chocolatey-flyway](directory/belidzs+chocolatey-flyway.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[belidzs/chocolatey-log4view](directory/belidzs+chocolatey-log4view.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
@@ -298,8 +298,8 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 842
-* **Total Repo Updates**: 50808
+* **Total Crawler Runs**: 843
+* **Total Repo Updates**: 50868
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
@@ -307,6 +307,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 0
 * **Cache Size**: 💾 0.81 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 2.73s
-  * 📥 Update: 1.75s
+  * 🔍 Discovery: 0.30s
+  * 📥 Update: 2.16s
 * **Cumulative Compute Time**: 47.6 minutes
