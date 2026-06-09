@@ -54,6 +54,14 @@ These repositories are actively maintained and feature a high percentage of **un
 
 
 
+## 🔥 Trending
+These active repositories are rapidly climbing the ranks due to recent, high-quality updates and growing recipe counts!
+
+| Repository | Rank Change | Current Rank | Recipes | Score | Auto-Update |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **[ITS-Unibas/chocolatey-community-packages](directory/ITS-Unibas+chocolatey-community-packages.md)** | 📈 +1 | 🏆 #25 | 📦 9 | ⭐ 1.0 | 🔄 89% |
+
+
 
 
 
@@ -91,8 +99,8 @@ A combined list of every source discovered in the ecosystem.
 | **[hoanganhduc/chocolatey](directory/hoanganhduc+chocolatey.md)** | 📦 12 | ⭐ 1.0 | 🔄 0% |  |
 | **[kai2nenobu/my-chocolatey-packages](directory/kai2nenobu+my-chocolatey-packages.md)** | 📦 10 | ⭐ 1.0 | 🔄 50% |  |
 | **[hbre/chocolatey](directory/hbre+chocolatey.md)** | 📦 10 | ⭐ 1.0 | 🔄 0% |  |
-| **[C4illin/Choco-Packages](directory/C4illin+Choco-Packages.md)** | 📦 9 | ⭐ 1.0 | 🔄 89% |  |
 | **[ITS-Unibas/chocolatey-community-packages](directory/ITS-Unibas+chocolatey-community-packages.md)** | 📦 9 | ⭐ 1.0 | 🔄 89% |  |
+| **[C4illin/Choco-Packages](directory/C4illin+Choco-Packages.md)** | 📦 9 | ⭐ 1.0 | 🔄 89% |  |
 | **[HealisticEngineer/chocolatey-packages](directory/HealisticEngineer+chocolatey-packages.md)** | 📦 8 | ⭐ 1.0 | 🔄 100% |  |
 | **[kwilliams1987/chocolatey-packages](directory/kwilliams1987+chocolatey-packages.md)** | 📦 7 | ⭐ 1.0 | 🔄 0% |  |
 | **[erwinkersten/chocolatey-packages](directory/erwinkersten+chocolatey-packages.md)** | 📦 7 | ⭐ 1.0 | 🔄 100% |  |
@@ -151,8 +159,8 @@ A combined list of every source discovered in the ecosystem.
 | **[terraform-docs/chocolatey-package](directory/terraform-docs+chocolatey-package.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[brogers5/chocolatey-package-livesplit](directory/brogers5+chocolatey-package-livesplit.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-goldwave](directory/brogers5+chocolatey-package-goldwave.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
-| **[AJDurant/choco-sqlitespy](directory/AJDurant+choco-sqlitespy.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[AJDurant/choco-docker-engine](directory/AJDurant+choco-docker-engine.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[AJDurant/choco-sqlitespy](directory/AJDurant+choco-sqlitespy.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[OpenChrom/OpenChromChocolateyPackage](directory/OpenChrom+OpenChromChocolateyPackage.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[brogers5/chocolatey-package-openrgb](directory/brogers5+chocolatey-package-openrgb.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-openrgb.install](directory/brogers5+chocolatey-package-openrgb.install.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
@@ -256,8 +264,8 @@ A combined list of every source discovered in the ecosystem.
 | **[astra-midnight/chocolatey-pkgs](directory/astra-midnight+chocolatey-pkgs.md)** | 📦 3 | ⭐ 1.0 | 🔄 100% |  |
 | **[sorashi/taiga-chocolatey-package](directory/sorashi+taiga-chocolatey-package.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[virtualex-itv/choco-marcs-updater](directory/virtualex-itv+choco-marcs-updater.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[danielskowronski/choco-hashi-ui](directory/danielskowronski+choco-hashi-ui.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[Cossey/chocopackages](directory/Cossey+chocopackages.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[danielskowronski/choco-hashi-ui](directory/danielskowronski+choco-hashi-ui.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[itigoag/chocolatey.bria](directory/itigoag+chocolatey.bria.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[belidzs/chocolatey-flyway](directory/belidzs+chocolatey-flyway.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[belidzs/chocolatey-log4view](directory/belidzs+chocolatey-log4view.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
@@ -298,8 +306,8 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 861
-* **Total Repo Updates**: 51933
+* **Total Crawler Runs**: 862
+* **Total Repo Updates**: 51992
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
@@ -307,6 +315,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 0
 * **Cache Size**: 💾 0.81 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 0.20s
-  * 📥 Update: 1.40s
-* **Cumulative Compute Time**: 48.5 minutes
+  * 🔍 Discovery: 2.95s
+  * 📥 Update: 1.36s
+* **Cumulative Compute Time**: 48.6 minutes
