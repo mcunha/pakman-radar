@@ -109,8 +109,8 @@ A combined list of every source discovered in the ecosystem.
 | **[mlt/chocolatey-packages](directory/mlt+chocolatey-packages.md)** | 📦 3 | ⭐ 1.0 | 🔄 100% |  |
 | **[DrFaust92/chocolatey-packages](directory/DrFaust92+chocolatey-packages.md)** | 📦 3 | ⭐ 1.0 | 🔄 0% |  |
 | **[welpo/chocolatey-packages](directory/welpo+chocolatey-packages.md)** | 📦 3 | ⭐ 1.0 | 🔄 0% |  |
-| **[Takmg/chocolatey](directory/Takmg+chocolatey.md)** | 📦 4 | ⭐ 1.0 | 🔄 50% |  |
 | **[philiparola/chocolatey-packages](directory/philiparola+chocolatey-packages.md)** | 📦 3 | ⭐ 1.0 | 🔄 0% |  |
+| **[Takmg/chocolatey](directory/Takmg+chocolatey.md)** | 📦 4 | ⭐ 1.0 | 🔄 50% |  |
 | **[streamlink/streamlink-twitch-gui-chocolatey](directory/streamlink+streamlink-twitch-gui-chocolatey.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
 | **[tricktux/choco-neovim](directory/tricktux+choco-neovim.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
 | **[robertZaufall/ChocolateStoreCore](directory/robertZaufall+ChocolateStoreCore.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
@@ -151,8 +151,8 @@ A combined list of every source discovered in the ecosystem.
 | **[terraform-docs/chocolatey-package](directory/terraform-docs+chocolatey-package.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[brogers5/chocolatey-package-livesplit](directory/brogers5+chocolatey-package-livesplit.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-goldwave](directory/brogers5+chocolatey-package-goldwave.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
-| **[AJDurant/choco-docker-engine](directory/AJDurant+choco-docker-engine.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[AJDurant/choco-sqlitespy](directory/AJDurant+choco-sqlitespy.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[AJDurant/choco-docker-engine](directory/AJDurant+choco-docker-engine.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[OpenChrom/OpenChromChocolateyPackage](directory/OpenChrom+OpenChromChocolateyPackage.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[brogers5/chocolatey-package-openrgb](directory/brogers5+chocolatey-package-openrgb.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-openrgb.install](directory/brogers5+chocolatey-package-openrgb.install.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
@@ -298,8 +298,8 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 860
-* **Total Repo Updates**: 51874
+* **Total Crawler Runs**: 861
+* **Total Repo Updates**: 51933
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
@@ -307,6 +307,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 0
 * **Cache Size**: 💾 0.81 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 3.20s
-  * 📥 Update: 1.74s
+  * 🔍 Discovery: 0.20s
+  * 📥 Update: 1.40s
 * **Cumulative Compute Time**: 48.5 minutes
