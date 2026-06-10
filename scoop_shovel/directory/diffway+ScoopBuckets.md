@@ -9,7 +9,7 @@
 
 ## 📦 Recipes (5)
 * [nomnom.json](https://github.com/diffway/ScoopBuckets/blob/main/bucket/nomnom.json)
+* [transmission-renamer.json](https://github.com/diffway/ScoopBuckets/blob/main/bucket/transmission-renamer.json)
+* [thunderbird-esr-ru.json](https://github.com/diffway/ScoopBuckets/blob/main/bucket/thunderbird-esr-ru.json)
 * [openoffice-ru.json](https://github.com/diffway/ScoopBuckets/blob/main/bucket/openoffice-ru.json)
 * [thunderbird-ru.json](https://github.com/diffway/ScoopBuckets/blob/main/bucket/thunderbird-ru.json)
-* [thunderbird-esr-ru.json](https://github.com/diffway/ScoopBuckets/blob/main/bucket/thunderbird-esr-ru.json)
-* [transmission-renamer.json](https://github.com/diffway/ScoopBuckets/blob/main/bucket/transmission-renamer.json)
