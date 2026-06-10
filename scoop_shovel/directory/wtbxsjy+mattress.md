@@ -9,8 +9,8 @@
 
 ## 📦 Recipes (6)
 * [rtools.json](https://github.com/wtbxsjy/mattress/blob/master/bucket/rtools.json)
-* [r-release.json](https://github.com/wtbxsjy/mattress/blob/master/bucket/r-release.json)
-* [rstudio-preview.json](https://github.com/wtbxsjy/mattress/blob/master/bucket/rstudio-preview.json)
-* [positron-prerelease.json](https://github.com/wtbxsjy/mattress/blob/master/bucket/positron-prerelease.json)
-* [MacType.json](https://github.com/wtbxsjy/mattress/blob/master/bucket/MacType.json)
 * [quarto-prerelease.json](https://github.com/wtbxsjy/mattress/blob/master/bucket/quarto-prerelease.json)
+* [rstudio-preview.json](https://github.com/wtbxsjy/mattress/blob/master/bucket/rstudio-preview.json)
+* [MacType.json](https://github.com/wtbxsjy/mattress/blob/master/bucket/MacType.json)
+* [r-release.json](https://github.com/wtbxsjy/mattress/blob/master/bucket/r-release.json)
+* [positron-prerelease.json](https://github.com/wtbxsjy/mattress/blob/master/bucket/positron-prerelease.json)
