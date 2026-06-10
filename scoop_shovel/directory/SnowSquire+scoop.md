@@ -9,7 +9,7 @@
 
 ## 📦 Recipes (5)
 * [xwin.json](https://github.com/SnowSquire/scoop/blob/main/bucket/xwin.json)
-* [irony-mod-manager.json](https://github.com/SnowSquire/scoop/blob/main/bucket/irony-mod-manager.json)
-* [ck3-tiger.json](https://github.com/SnowSquire/scoop/blob/main/bucket/ck3-tiger.json)
-* [imperator-tiger.json](https://github.com/SnowSquire/scoop/blob/main/bucket/imperator-tiger.json)
 * [vic3-tiger.json](https://github.com/SnowSquire/scoop/blob/main/bucket/vic3-tiger.json)
+* [irony-mod-manager.json](https://github.com/SnowSquire/scoop/blob/main/bucket/irony-mod-manager.json)
+* [imperator-tiger.json](https://github.com/SnowSquire/scoop/blob/main/bucket/imperator-tiger.json)
+* [ck3-tiger.json](https://github.com/SnowSquire/scoop/blob/main/bucket/ck3-tiger.json)
