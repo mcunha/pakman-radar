@@ -8,12 +8,12 @@
 
 
 ## 📦 Recipes (9)
+* [86box-roms.json](https://github.com/Deskehs/personalBucket/blob/master/bucket/86box-roms.json)
+* [vscodium-insiders.json](https://github.com/Deskehs/personalBucket/blob/master/bucket/vscodium-insiders.json)
+* [goldendict-ng.json](https://github.com/Deskehs/personalBucket/blob/master/bucket/goldendict-ng.json)
+* [krita-plus.json](https://github.com/Deskehs/personalBucket/blob/master/bucket/krita-plus.json)
+* [graalvm20.json](https://github.com/Deskehs/personalBucket/blob/master/bucket/graalvm20.json)
+* [86box-experimental.json](https://github.com/Deskehs/personalBucket/blob/master/bucket/86box-experimental.json)
 * [ghidra.json](https://github.com/Deskehs/personalBucket/blob/master/bucket/ghidra.json)
 * [krita-next.json](https://github.com/Deskehs/personalBucket/blob/master/bucket/krita-next.json)
-* [krita-plus.json](https://github.com/Deskehs/personalBucket/blob/master/bucket/krita-plus.json)
-* [86box-experimental.json](https://github.com/Deskehs/personalBucket/blob/master/bucket/86box-experimental.json)
-* [goldendict-ng.json](https://github.com/Deskehs/personalBucket/blob/master/bucket/goldendict-ng.json)
-* [86box-roms.json](https://github.com/Deskehs/personalBucket/blob/master/bucket/86box-roms.json)
-* [graalvm20.json](https://github.com/Deskehs/personalBucket/blob/master/bucket/graalvm20.json)
 * [gnucash.json](https://github.com/Deskehs/personalBucket/blob/master/bucket/gnucash.json)
-* [vscodium-insiders.json](https://github.com/Deskehs/personalBucket/blob/master/bucket/vscodium-insiders.json)
