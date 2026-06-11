@@ -8,9 +8,9 @@
 
 
 ## 📦 Recipes (6)
-* [wavetone.json](https://github.com/qyurila/scoop-bucket/blob/master/bucket/wavetone.json)
-* [hackbgrt.json](https://github.com/qyurila/scoop-bucket/blob/master/bucket/hackbgrt.json)
-* [vocalshifter-le.json](https://github.com/qyurila/scoop-bucket/blob/master/bucket/vocalshifter-le.json)
 * [dnvm.json](https://github.com/qyurila/scoop-bucket/blob/master/bucket/dnvm.json)
+* [hackbgrt.json](https://github.com/qyurila/scoop-bucket/blob/master/bucket/hackbgrt.json)
 * [tagstudio.json](https://github.com/qyurila/scoop-bucket/blob/master/bucket/tagstudio.json)
 * [ticktick.json](https://github.com/qyurila/scoop-bucket/blob/master/bucket/ticktick.json)
+* [wavetone.json](https://github.com/qyurila/scoop-bucket/blob/master/bucket/wavetone.json)
+* [vocalshifter-le.json](https://github.com/qyurila/scoop-bucket/blob/master/bucket/vocalshifter-le.json)
