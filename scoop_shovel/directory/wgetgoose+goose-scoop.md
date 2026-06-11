@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [ungoogled-chromium.json](https://github.com/wgetgoose/goose-scoop/blob/main/ungoogled-chromium.json)
 * [notion-enhanced.json](https://github.com/wgetgoose/goose-scoop/blob/main/notion-enhanced.json)
+* [ungoogled-chromium.json](https://github.com/wgetgoose/goose-scoop/blob/main/ungoogled-chromium.json)
