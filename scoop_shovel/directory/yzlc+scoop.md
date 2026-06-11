@@ -8,12 +8,12 @@
 
 
 ## 📦 Recipes (9)
-* [wemeet.json](https://github.com/yzlc/scoop/blob/main/bucket/wemeet.json)
+* [soapui1.json](https://github.com/yzlc/scoop/blob/main/bucket/soapui1.json)
 * [svn.json](https://github.com/yzlc/scoop/blob/main/bucket/svn.json)
+* [oracleJdk7.json](https://github.com/yzlc/scoop/blob/main/bucket/oracleJdk7.json)
+* [poecharm.json](https://github.com/yzlc/scoop/blob/main/bucket/poecharm.json)
+* [wxwork.json](https://github.com/yzlc/scoop/blob/main/bucket/wxwork.json)
 * [DingTalk.json](https://github.com/yzlc/scoop/blob/main/bucket/DingTalk.json)
 * [battle.json](https://github.com/yzlc/scoop/blob/main/bucket/battle.json)
+* [wemeet.json](https://github.com/yzlc/scoop/blob/main/bucket/wemeet.json)
 * [oracleJdk8.json](https://github.com/yzlc/scoop/blob/main/bucket/oracleJdk8.json)
-* [oracleJdk7.json](https://github.com/yzlc/scoop/blob/main/bucket/oracleJdk7.json)
-* [wxwork.json](https://github.com/yzlc/scoop/blob/main/bucket/wxwork.json)
-* [poecharm.json](https://github.com/yzlc/scoop/blob/main/bucket/poecharm.json)
-* [soapui1.json](https://github.com/yzlc/scoop/blob/main/bucket/soapui1.json)
