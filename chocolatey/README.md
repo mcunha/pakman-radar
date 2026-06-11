@@ -54,6 +54,14 @@ These repositories are actively maintained and feature a high percentage of **un
 
 
 
+## 🔥 Trending
+These active repositories are rapidly climbing the ranks due to recent, high-quality updates and growing recipe counts!
+
+| Repository | Rank Change | Current Rank | Recipes | Score | Auto-Update |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **[joachimschmidt557/chocolatey-packages-manual-automatic](directory/joachimschmidt557+chocolatey-packages-manual-automatic.md)** | 📈 +1 | 🏆 #13 | 📦 59 | ⭐ 1.0 | 🔄 61% |
+
+
 
 
 
@@ -79,8 +87,8 @@ A combined list of every source discovered in the ecosystem.
 | **[jakublevy/chocopkgs](directory/jakublevy+chocopkgs.md)** | 📦 98 | ⭐ 1.0 | 🔄 97% |  |
 | **[ITS-Unibas/chocolatey-internal-packages](directory/ITS-Unibas+chocolatey-internal-packages.md)** | 📦 76 | ⭐ 1.0 | 🔄 78% |  |
 | **[virtualex-itv/chocolatey-packages](directory/virtualex-itv+chocolatey-packages.md)** | 📦 73 | ⭐ 1.0 | 🔄 75% |  |
-| **[majkinetor/au-packages](directory/majkinetor+au-packages.md)** | 📦 110 | ⭐ 1.0 | 🔄 50% |  |
 | **[joachimschmidt557/chocolatey-packages-manual-automatic](directory/joachimschmidt557+chocolatey-packages-manual-automatic.md)** | 📦 59 | ⭐ 1.0 | 🔄 61% |  |
+| **[majkinetor/au-packages](directory/majkinetor+au-packages.md)** | 📦 110 | ⭐ 1.0 | 🔄 50% |  |
 | **[EpicMorg/chocolatey](directory/EpicMorg+chocolatey.md)** | 📦 57 | ⭐ 1.0 | 🔄 0% |  |
 | **[Thilas/chocolatey-packages](directory/Thilas+chocolatey-packages.md)** | 📦 32 | ⭐ 1.0 | 🔄 97% |  |
 | **[strausmann/ChocolateyPackages](directory/strausmann+ChocolateyPackages.md)** | 📦 32 | ⭐ 1.0 | 🔄 50% |  |
@@ -218,9 +226,9 @@ A combined list of every source discovered in the ecosystem.
 | **[pocki/chocolateypackages](directory/pocki+chocolateypackages.md)** | 📦 12 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.adobe-acrobat-reader-dc](directory/open-circle-ltd+chocolatey.adobe-acrobat-reader-dc.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[skadogg/ghostwriter-portable](directory/skadogg+ghostwriter-portable.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[open-circle-ltd/chocolatey.rsa-secureid-software-token](directory/open-circle-ltd+chocolatey.rsa-secureid-software-token.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.adobe-creative-cloud](directory/open-circle-ltd+chocolatey.adobe-creative-cloud.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.jabra-direct](directory/open-circle-ltd+chocolatey.jabra-direct.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[open-circle-ltd/chocolatey.rsa-secureid-software-token](directory/open-circle-ltd+chocolatey.rsa-secureid-software-token.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.lenovo-thinkpad-usb-c-driver](directory/open-circle-ltd+chocolatey.lenovo-thinkpad-usb-c-driver.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.isl-light-client](directory/open-circle-ltd+chocolatey.isl-light-client.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[TheClonker/rednotebook-chocolatey](directory/TheClonker+rednotebook-chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
@@ -298,8 +306,8 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 885
-* **Total Repo Updates**: 53355
+* **Total Crawler Runs**: 886
+* **Total Repo Updates**: 53414
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
@@ -307,6 +315,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 0
 * **Cache Size**: 💾 0.81 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 3.59s
-  * 📥 Update: 1.46s
-* **Cumulative Compute Time**: 50.0 minutes
+  * 🔍 Discovery: 2.31s
+  * 📥 Update: 1.20s
+* **Cumulative Compute Time**: 50.1 minutes

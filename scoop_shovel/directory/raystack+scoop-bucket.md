@@ -8,10 +8,10 @@
 
 
 ## 📦 Recipes (7)
-* [guardian.json](https://github.com/raystack/scoop-bucket/blob/main/bucket/guardian.json)
 * [meteor.json](https://github.com/raystack/scoop-bucket/blob/main/bucket/meteor.json)
-* [stencil.json](https://github.com/raystack/scoop-bucket/blob/main/bucket/stencil.json)
 * [compass.json](https://github.com/raystack/scoop-bucket/blob/main/bucket/compass.json)
-* [shield.json](https://github.com/raystack/scoop-bucket/blob/main/bucket/shield.json)
 * [frontier.json](https://github.com/raystack/scoop-bucket/blob/main/bucket/frontier.json)
+* [stencil.json](https://github.com/raystack/scoop-bucket/blob/main/bucket/stencil.json)
 * [raccoon.json](https://github.com/raystack/scoop-bucket/blob/main/bucket/raccoon.json)
+* [shield.json](https://github.com/raystack/scoop-bucket/blob/main/bucket/shield.json)
+* [guardian.json](https://github.com/raystack/scoop-bucket/blob/main/bucket/guardian.json)
