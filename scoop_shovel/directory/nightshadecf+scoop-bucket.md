@@ -8,6 +8,6 @@
 
 
 ## 📦 Recipes (3)
-* [elvish-persist.json](https://github.com/nightshadecf/scoop-bucket/blob/main/bucket/elvish-persist.json)
 * [yandex.json](https://github.com/nightshadecf/scoop-bucket/blob/main/bucket/yandex.json)
 * [httpie-gui.json](https://github.com/nightshadecf/scoop-bucket/blob/main/bucket/httpie-gui.json)
+* [elvish-persist.json](https://github.com/nightshadecf/scoop-bucket/blob/main/bucket/elvish-persist.json)
