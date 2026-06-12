@@ -9,7 +9,7 @@
 
 ## 📦 Recipes (5)
 * [wowup-cf.json](https://github.com/erayaydin/bucket/blob/master/bucket/wowup-cf.json)
-* [wiresock.json](https://github.com/erayaydin/bucket/blob/master/bucket/wiresock.json)
-* [qtpass.json](https://github.com/erayaydin/bucket/blob/master/bucket/qtpass.json)
 * [browserpass.json](https://github.com/erayaydin/bucket/blob/master/bucket/browserpass.json)
+* [qtpass.json](https://github.com/erayaydin/bucket/blob/master/bucket/qtpass.json)
+* [wiresock.json](https://github.com/erayaydin/bucket/blob/master/bucket/wiresock.json)
 * [password.json](https://github.com/erayaydin/bucket/blob/master/bucket/password.json)
