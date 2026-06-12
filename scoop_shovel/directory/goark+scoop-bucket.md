@@ -8,9 +8,9 @@
 
 
 ## 📦 Recipes (6)
-* [gnkf.json](https://github.com/goark/scoop-bucket/blob/master/bucket/gnkf.json)
-* [gpgpdump.json](https://github.com/goark/scoop-bucket/blob/master/bucket/gpgpdump.json)
-* [depm.json](https://github.com/goark/scoop-bucket/blob/master/bucket/depm.json)
 * [toolbox.json](https://github.com/goark/scoop-bucket/blob/master/bucket/toolbox.json)
+* [depm.json](https://github.com/goark/scoop-bucket/blob/master/bucket/depm.json)
+* [gpgpdump.json](https://github.com/goark/scoop-bucket/blob/master/bucket/gpgpdump.json)
 * [ml.json](https://github.com/goark/scoop-bucket/blob/master/bucket/ml.json)
 * [gpt-cli.json](https://github.com/goark/scoop-bucket/blob/master/bucket/gpt-cli.json)
+* [gnkf.json](https://github.com/goark/scoop-bucket/blob/master/bucket/gnkf.json)
