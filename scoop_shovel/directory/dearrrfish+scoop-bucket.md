@@ -8,9 +8,9 @@
 
 
 ## 📦 Recipes (6)
+* [webd.json](https://github.com/dearrrfish/scoop-bucket/blob/main/bucket/webd.json)
+* [yank-note.json](https://github.com/dearrrfish/scoop-bucket/blob/main/bucket/yank-note.json)
+* [energy-star-x.json](https://github.com/dearrrfish/scoop-bucket/blob/main/bucket/energy-star-x.json)
 * [emeditor.json](https://github.com/dearrrfish/scoop-bucket/blob/main/bucket/emeditor.json)
 * [icalingua-plus-plus.json](https://github.com/dearrrfish/scoop-bucket/blob/main/bucket/icalingua-plus-plus.json)
 * [spotify-lyrics-extension.json](https://github.com/dearrrfish/scoop-bucket/blob/main/bucket/spotify-lyrics-extension.json)
-* [energy-star-x.json](https://github.com/dearrrfish/scoop-bucket/blob/main/bucket/energy-star-x.json)
-* [webd.json](https://github.com/dearrrfish/scoop-bucket/blob/main/bucket/webd.json)
-* [yank-note.json](https://github.com/dearrrfish/scoop-bucket/blob/main/bucket/yank-note.json)
