@@ -8,9 +8,9 @@
 
 
 ## 📦 Recipes (6)
-* [typst-lsp.json](https://github.com/qwjyh/scoop_bucket/blob/master/bucket/typst-lsp.json)
-* [haskell-language-server.json](https://github.com/qwjyh/scoop_bucket/blob/master/bucket/haskell-language-server.json)
 * [tinymist.json](https://github.com/qwjyh/scoop_bucket/blob/master/bucket/tinymist.json)
-* [cbqn.json](https://github.com/qwjyh/scoop_bucket/blob/master/bucket/cbqn.json)
-* [powershell-editorservice.json](https://github.com/qwjyh/scoop_bucket/blob/master/bucket/powershell-editorservice.json)
 * [ghc.json](https://github.com/qwjyh/scoop_bucket/blob/master/bucket/ghc.json)
+* [powershell-editorservice.json](https://github.com/qwjyh/scoop_bucket/blob/master/bucket/powershell-editorservice.json)
+* [haskell-language-server.json](https://github.com/qwjyh/scoop_bucket/blob/master/bucket/haskell-language-server.json)
+* [cbqn.json](https://github.com/qwjyh/scoop_bucket/blob/master/bucket/cbqn.json)
+* [typst-lsp.json](https://github.com/qwjyh/scoop_bucket/blob/master/bucket/typst-lsp.json)
