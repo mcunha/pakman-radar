@@ -234,8 +234,8 @@ A combined list of every source discovered in the ecosystem.
 | **[ynlamy/chocolatey-packages](directory/ynlamy+chocolatey-packages.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
 | **[C-Duv/chocolatey-fusioninventory-agent](directory/C-Duv+chocolatey-fusioninventory-agent.md)** | 📦 3 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.dialogik](directory/open-circle-ltd+chocolatey.dialogik.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[majkinetor/au](directory/majkinetor+au.md)** | 📦 3 | ⭐ 1.0 | 🔄 67% |  |
 | **[andyli/sauce-connect-choco](directory/andyli+sauce-connect-choco.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[majkinetor/au](directory/majkinetor+au.md)** | 📦 3 | ⭐ 1.0 | 🔄 67% |  |
 | **[majkinetor/au-packages-template](directory/majkinetor+au-packages-template.md)** | 📦 4 | ⭐ 1.0 | 🔄 100% |  |
 | **[aminya/chocolatey-wabt](directory/aminya+chocolatey-wabt.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[aleohl/chocolatey.pendulums](directory/aleohl+chocolatey.pendulums.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
@@ -298,8 +298,8 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 962
-* **Total Repo Updates**: 57942
+* **Total Crawler Runs**: 963
+* **Total Repo Updates**: 58001
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
@@ -307,6 +307,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 0
 * **Cache Size**: 💾 0.81 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 2.78s
-  * 📥 Update: 1.71s
-* **Cumulative Compute Time**: 54.0 minutes
+  * 🔍 Discovery: 0.14s
+  * 📥 Update: 1.22s
+* **Cumulative Compute Time**: 54.1 minutes
