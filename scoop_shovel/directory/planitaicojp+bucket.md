@@ -8,12 +8,12 @@
 
 
 ## 📦 Recipes (9)
+* [edinet.json](https://github.com/planitaicojp/bucket/blob/main/bucket/edinet.json)
+* [gbizinfo.json](https://github.com/planitaicojp/bucket/blob/main/bucket/gbizinfo.json)
+* [houjin-cli.json](https://github.com/planitaicojp/bucket/blob/main/bucket/houjin-cli.json)
 * [jpweather.json](https://github.com/planitaicojp/bucket/blob/main/bucket/jpweather.json)
 * [lm-cli.json](https://github.com/planitaicojp/bucket/blob/main/bucket/lm-cli.json)
+* [lm.json](https://github.com/planitaicojp/bucket/blob/main/bucket/lm.json)
 * [freee.json](https://github.com/planitaicojp/bucket/blob/main/bucket/freee.json)
 * [resas.json](https://github.com/planitaicojp/bucket/blob/main/bucket/resas.json)
-* [lm.json](https://github.com/planitaicojp/bucket/blob/main/bucket/lm.json)
-* [gbizinfo.json](https://github.com/planitaicojp/bucket/blob/main/bucket/gbizinfo.json)
 * [jplaw.json](https://github.com/planitaicojp/bucket/blob/main/bucket/jplaw.json)
-* [houjin-cli.json](https://github.com/planitaicojp/bucket/blob/main/bucket/houjin-cli.json)
-* [edinet.json](https://github.com/planitaicojp/bucket/blob/main/bucket/edinet.json)
