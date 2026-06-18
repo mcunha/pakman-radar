@@ -59,32 +59,36 @@
     {
       "full_name": "ahmedmoh2722/Zerocloud-AI-main",
       "evicted_at": "2026-06-18T15:34:58Z"
+    },
+    {
+      "full_name": "danieljustus/scoop-bucket",
+      "evicted_at": "2026-06-18T20:07:34Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-18T19:12:00Z",
-    "count": 15,
+    "generated_at": "2026-06-18T20:28:29Z",
+    "count": 16,
     "global_metrics": {
-      "total_runs": 1004,
-      "total_run_time_seconds": 152433.8226377964,
-      "total_repo_updates": 63263,
-      "previous_total_buckets": 1373,
-      "previous_total_recipes": 128068,
-      "bucket_velocity": 0,
-      "recipe_velocity": 0,
-      "total_evictions": 15,
+      "total_runs": 1005,
+      "total_run_time_seconds": 153728.99944782257,
+      "total_repo_updates": 63326,
+      "previous_total_buckets": 1372,
+      "previous_total_recipes": 128067,
+      "bucket_velocity": -1,
+      "recipe_velocity": -1,
+      "total_evictions": 16,
       "total_api_retries": 0,
-      "last_run_discover_time": 0.32931971549987793,
-      "last_run_update_time": 18.738150119781494,
-      "ecosystem_reliability": 87.7,
-      "cache_size_mb": 9.671846389770508,
-      "total_unique_recipes": 31167,
+      "last_run_discover_time": 1.2190215587615967,
+      "last_run_update_time": 342.65142011642456,
+      "ecosystem_reliability": 87.8,
+      "cache_size_mb": 9.67142105102539,
+      "total_unique_recipes": 31166,
       "auto_update_percentage": 85.33,
       "official_recipes": 48504,
-      "community_recipes": 79564,
+      "community_recipes": 79563,
       "stale_buckets": 462,
       "shovel_buckets": 25,
-      "scoop_buckets": 1348
+      "scoop_buckets": 1347
     }
   }
 }
