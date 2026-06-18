@@ -55,32 +55,36 @@
     {
       "full_name": "qiazo/scoop-bucket",
       "evicted_at": "2026-06-05T18:03:18Z"
+    },
+    {
+      "full_name": "ahmedmoh2722/Zerocloud-AI-main",
+      "evicted_at": "2026-06-18T15:34:58Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-18T13:34:15Z",
-    "count": 14,
+    "generated_at": "2026-06-18T15:35:11Z",
+    "count": 15,
     "global_metrics": {
-      "total_runs": 1001,
-      "total_run_time_seconds": 152333.68789625168,
-      "total_repo_updates": 63069,
-      "previous_total_buckets": 1372,
-      "previous_total_recipes": 128065,
+      "total_runs": 1002,
+      "total_run_time_seconds": 152362.43705654144,
+      "total_repo_updates": 63133,
+      "previous_total_buckets": 1373,
+      "previous_total_recipes": 128068,
       "bucket_velocity": 1,
-      "recipe_velocity": 1,
-      "total_evictions": 14,
+      "recipe_velocity": 3,
+      "total_evictions": 15,
       "total_api_retries": 0,
-      "last_run_discover_time": 3.7265491485595703,
-      "last_run_update_time": 26.276467084884644,
-      "ecosystem_reliability": 88.3,
-      "cache_size_mb": 9.671442985534668,
-      "total_unique_recipes": 31165,
+      "last_run_discover_time": 3.518087863922119,
+      "last_run_update_time": 24.19139051437378,
+      "ecosystem_reliability": 88.1,
+      "cache_size_mb": 9.673494338989258,
+      "total_unique_recipes": 31167,
       "auto_update_percentage": 85.33,
       "official_recipes": 48504,
-      "community_recipes": 79561,
+      "community_recipes": 79564,
       "stale_buckets": 462,
       "shovel_buckets": 25,
-      "scoop_buckets": 1347
+      "scoop_buckets": 1348
     }
   }
 }
