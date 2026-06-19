@@ -48,8 +48,8 @@ These repositories are actively maintained and feature a high percentage of **un
 | **[ITS-Unibas/chocolatey-internal-packages](directory/ITS-Unibas+chocolatey-internal-packages.md)** | 💎 76 (100.0%) | 📦 76 | ⭐ 1.0 | 🔄 78% |
 | **[virtualex-itv/chocolatey-packages](directory/virtualex-itv+chocolatey-packages.md)** | 💎 73 (100.0%) | 📦 73 | ⭐ 1.0 | 🔄 75% |
 | **[joachimschmidt557/chocolatey-packages-manual-automatic](directory/joachimschmidt557+chocolatey-packages-manual-automatic.md)** | 💎 59 (100.0%) | 📦 59 | ⭐ 1.0 | 🔄 61% |
-| **[EpicMorg/chocolatey](directory/EpicMorg+chocolatey.md)** | 💎 57 (100.0%) | 📦 57 | ⭐ 1.0 | 🔄 0% |
 | **[Thilas/chocolatey-packages](directory/Thilas+chocolatey-packages.md)** | 💎 32 (100.0%) | 📦 32 | ⭐ 1.0 | 🔄 97% |
+| **[strausmann/ChocolateyPackages](directory/strausmann+ChocolateyPackages.md)** | 💎 32 (100.0%) | 📦 32 | ⭐ 1.0 | 🔄 50% |
 
 
 
@@ -298,8 +298,8 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 1015
-* **Total Repo Updates**: 61093
+* **Total Crawler Runs**: 1016
+* **Total Repo Updates**: 61153
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
@@ -307,6 +307,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 0
 * **Cache Size**: 💾 0.82 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 0.31s
-  * 📥 Update: 1.83s
-* **Cumulative Compute Time**: 57.4 minutes
+  * 🔍 Discovery: 3.14s
+  * 📥 Update: 1.36s
+* **Cumulative Compute Time**: 57.5 minutes
