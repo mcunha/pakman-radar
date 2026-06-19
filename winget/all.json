@@ -6370,7 +6370,7 @@
         "winget-pkgs"
       ],
       "last_checked": "2026-04-30T08:33:33Z",
-      "pushed_at": "2026-06-08T14:31:05Z",
+      "pushed_at": "2026-06-19T07:23:54Z",
       "archived": false,
       "disabled": false,
       "entries": [
@@ -6412,7 +6412,7 @@
         "winget-pkgs"
       ],
       "last_checked": "2026-04-29T02:15:09Z",
-      "pushed_at": "2026-06-14T03:21:30Z",
+      "pushed_at": "2026-06-19T03:13:36Z",
       "archived": false,
       "disabled": false,
       "entries": [
@@ -6450,7 +6450,7 @@
         "winget-pkgs"
       ],
       "last_checked": "2026-06-18T06:03:27Z",
-      "pushed_at": "2026-06-15T17:55:41Z",
+      "pushed_at": "2026-06-19T11:37:09Z",
       "archived": false,
       "disabled": false,
       "entries": [
@@ -6549,20 +6549,20 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-19T15:33:49Z",
+    "generated_at": "2026-06-19T17:08:26Z",
     "count": 9,
     "global_metrics": {
-      "total_runs": 1017,
-      "total_run_time_seconds": 17747.886524438858,
-      "total_repo_updates": 33951,
+      "total_runs": 1018,
+      "total_run_time_seconds": 17766.530648231506,
+      "total_repo_updates": 33985,
       "previous_total_buckets": 9,
       "previous_total_recipes": 6236,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
       "total_evictions": 17,
       "total_api_retries": 0,
-      "last_run_discover_time": 0.2614474296569824,
-      "last_run_update_time": 17.042189598083496,
+      "last_run_discover_time": 0.9699645042419434,
+      "last_run_update_time": 17.65513300895691,
       "ecosystem_reliability": 100.0,
       "cache_size_mb": 0.7621984481811523,
       "total_unique_recipes": 1837,
