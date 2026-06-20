@@ -73,11 +73,11 @@ These active repositories are rapidly climbing the ranks due to recent, high-qua
 
 | Repository | Rank Change | Current Rank | Recipes | Score | Auto-Update |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| **[mslxl/ScoopIt](directory/mslxl+ScoopIt.md)** | 📈 +20 | 🏆 #157 | 📦 36 | ⭐ 1.0 | 🔄 92% |
-| **[richardkng/ScoopBucket](directory/richardkng+ScoopBucket.md)** | 📈 +6 | 🏆 #103 | 📦 52 | ⭐ 1.0 | 🔄 96% |
-| **[js0ny/bucket](directory/js0ny+bucket.md)** | 📈 +2 | 🏆 #307 | 📦 9 | ⭐ 1.0 | 🔄 56% |
-| **[coldmoon6261/panda](directory/coldmoon6261+panda.md)** | 📈 +2 | 🏆 #308 | 📦 9 | ⭐ 1.0 | 🔄 100% |
-| **[f1a3h/f1bsh](directory/f1a3h+f1bsh.md)** | 📈 +2 | 🏆 #309 | 📦 9 | ⭐ 1.0 | 🔄 89% |
+| **[AureateGarden/Zeo-Apps](directory/AureateGarden+Zeo-Apps.md)** | 📈 +62 | 🏆 #331 | 📦 8 | ⭐ 1.0 | 🔄 100% |
+| **[plutotree/scoop-bucket](directory/plutotree+scoop-bucket.md)** | 📈 +59 | 🏆 #222 | 📦 18 | ⭐ 1.0 | 🔄 100% |
+| **[EFLKumo/jam](directory/EFLKumo+jam.md)** | 📈 +53 | 🏆 #288 | 📦 10 | ⭐ 1.0 | 🔄 100% |
+| **[jinzhongjia/scoop-bucket](directory/jinzhongjia+scoop-bucket.md)** | 📈 +43 | 🏆 #269 | 📦 12 | ⭐ 1.0 | 🔄 100% |
+| **[thekips/scoop-bucket](directory/thekips+scoop-bucket.md)** | 📈 +40 | 🏆 #274 | 📦 12 | ⭐ 1.0 | 🔄 83% |
 
 
 
@@ -156,10 +156,10 @@ These buckets are fully compatible with Scoop (and Shovel). They contain standar
 | **[HUMORCE/nuke](directory/HUMORCE+nuke.md)** | 📦 90 | ⭐ 1.0 | 🔄 79% |  |
 | **[WantChane/doge_bucket](directory/WantChane+doge_bucket.md)** | 📦 88 | ⭐ 1.0 | 🔄 99% |  |
 | **[souhaiebtar/scoop-apps](directory/souhaiebtar+scoop-apps.md)** | 📦 86 | ⭐ 1.0 | 🔄 93% |  |
-| **[gregwen/grewen-scoop](directory/gregwen+grewen-scoop.md)** | 📦 86 | ⭐ 1.0 | 🔄 95% |  |
 | **[Scoopforge/Extras-CN](directory/Scoopforge+Extras-CN.md)** | 📦 90 | ⭐ 1.0 | 🔄 97% |  |
 | **[ZhangTianrong/scoop-bucket](directory/ZhangTianrong+scoop-bucket.md)** | 📦 82 | ⭐ 1.0 | 🔄 93% |  |
 | **[echoiron/echo-scoop](directory/echoiron+echo-scoop.md)** | 📦 82 | ⭐ 1.0 | 🔄 0% |  |
+| **[gregwen/grewen-scoop](directory/gregwen+grewen-scoop.md)** | 📦 86 | ⭐ 1.0 | 🔄 95% |  |
 | **[404NetworkError/scoop-bucket](directory/404NetworkError+scoop-bucket.md)** | 📦 81 | ⭐ 1.0 | 🔄 96% |  |
 | **[lewis-yeung/scoop-bucket](directory/lewis-yeung+scoop-bucket.md)** | 📦 85 | ⭐ 1.0 | 🔄 86% |  |
 | **[Donaldduck8/malware-analysis-bucket](directory/Donaldduck8+malware-analysis-bucket.md)** | 📦 80 | ⭐ 1.0 | 🔄 69% |  |
@@ -173,10 +173,10 @@ These buckets are fully compatible with Scoop (and Shovel). They contain standar
 | **[niheaven/scoop-sysinternals](directory/niheaven+scoop-sysinternals.md)** | 📦 75 | ⭐ 1.0 | 🔄 100% | ⭐ Known Scoop |
 | **[cc713/ownscoop](directory/cc713+ownscoop.md)** | 📦 76 | ⭐ 1.0 | 🔄 100% |  |
 | **[elisimpson/scoop-bucket](directory/elisimpson+scoop-bucket.md)** | 📦 71 | ⭐ 1.0 | 🔄 94% |  |
+| **[huxiaoning/scoop_bucket](directory/huxiaoning+scoop_bucket.md)** | 📦 70 | ⭐ 1.0 | 🔄 83% |  |
 | **[TheRandomLabs/scoop-nonportable](directory/TheRandomLabs+scoop-nonportable.md)** | 📦 73 | ⭐ 1.0 | 🔄 86% | <br>⭐ Known Shovel |
 | **[cscnk52/cetacea](directory/cscnk52+cetacea.md)** | 📦 73 | ⭐ 1.0 | 🔄 100% |  |
 | **[maqibg/MQBucket](directory/maqibg+MQBucket.md)** | 📦 77 | ⭐ 1.0 | 🔄 100% |  |
-| **[huxiaoning/scoop_bucket](directory/huxiaoning+scoop_bucket.md)** | 📦 70 | ⭐ 1.0 | 🔄 83% |  |
 | **[warexify/scoop-edk2-buildtools](directory/warexify+scoop-edk2-buildtools.md)** | 📦 65 | ⭐ 1.0 | 🔄 75% |  |
 | **[qwerty12/scoop-alts](directory/qwerty12+scoop-alts.md)** | 📦 60 | ⭐ 1.0 | 🔄 78% |  |
 | **[li-ruijie/scoop](directory/li-ruijie+scoop.md)** | 📦 59 | ⭐ 1.0 | 🔄 100% |  |
@@ -198,7 +198,6 @@ These buckets are fully compatible with Scoop (and Shovel). They contain standar
 | **[mvrpl/windows-apps](directory/mvrpl+windows-apps.md)** | 📦 53 | ⭐ 1.0 | 🔄 94% |  |
 | **[beer-psi/scoop-bucket](directory/beer-psi+scoop-bucket.md)** | 📦 51 | ⭐ 1.0 | 🔄 80% |  |
 | **[suquiya/suquiya_bucket](directory/suquiya+suquiya_bucket.md)** | 📦 47 | ⭐ 1.0 | 🔄 96% |  |
-| **[apeiraco/scoop-bucket](directory/apeiraco+scoop-bucket.md)** | 📦 46 | ⭐ 1.0 | 🔄 96% |  |
 | **[nateify/scoop-nateify](directory/nateify+scoop-nateify.md)** | 📦 46 | ⭐ 1.0 | 🔄 96% |  |
 | **[Scoopforge/Extras-Plus](directory/Scoopforge+Extras-Plus.md)** | 📦 45 | ⭐ 1.0 | 🔄 100% |  |
 | **[kt-devhub/extra](directory/kt-devhub+extra.md)** | 📦 45 | ⭐ 1.0 | 🔄 89% |  |
@@ -209,6 +208,7 @@ These buckets are fully compatible with Scoop (and Shovel). They contain standar
 | **[MMKubicki/ScoopBucket](directory/MMKubicki+ScoopBucket.md)** | 📦 43 | ⭐ 1.0 | 🔄 100% |  |
 | **[Locietta/sniffer](directory/Locietta+sniffer.md)** | 📦 42 | ⭐ 1.0 | 🔄 100% |  |
 | **[wanstarge/scoopx](directory/wanstarge+scoopx.md)** | 📦 42 | ⭐ 1.0 | 🔄 93% |  |
+| **[apeiraco/scoop-bucket](directory/apeiraco+scoop-bucket.md)** | 📦 46 | ⭐ 1.0 | 🔄 96% |  |
 | **[jonz94/scoop-sarasa-nerd-fonts](directory/jonz94+scoop-sarasa-nerd-fonts.md)** | 📦 49 | ⭐ 1.0 | 🔄 100% |  |
 | **[niceEli/Pail](directory/niceEli+Pail.md)** | 📦 41 | ⭐ 1.0 | 🔄 93% |  |
 | **[Spiraster/scoop-bucket](directory/Spiraster+scoop-bucket.md)** | 📦 41 | ⭐ 1.0 | 🔄 93% |  |
@@ -239,7 +239,6 @@ These buckets are fully compatible with Scoop (and Shovel). They contain standar
 | **[nicerloop/scoop-nicerloop](directory/nicerloop+scoop-nicerloop.md)** | 📦 32 | ⭐ 1.0 | 🔄 62% |  |
 | **[Zevan770/scoop_zev](directory/Zevan770+scoop_zev.md)** | 📦 32 | ⭐ 1.0 | 🔄 91% |  |
 | **[kkkykin/Personal-Scoop-Bucket](directory/kkkykin+Personal-Scoop-Bucket.md)** | 📦 32 | ⭐ 1.0 | 🔄 100% |  |
-| **[Vinfall/sb](directory/Vinfall+sb.md)** | 📦 32 | ⭐ 1.0 | 🔄 88% |  |
 | **[mslxl/ScoopIt](directory/mslxl+ScoopIt.md)** | 📦 36 | ⭐ 1.0 | 🔄 92% |  |
 | **[asimov-platform/scoop-bucket](directory/asimov-platform+scoop-bucket.md)** | 📦 33 | ⭐ 1.0 | 🔄 100% |  |
 | **[Scoopforge/Main-Plus](directory/Scoopforge+Main-Plus.md)** | 📦 31 | ⭐ 1.0 | 🔄 100% |  |
@@ -260,6 +259,7 @@ These buckets are fully compatible with Scoop (and Shovel). They contain standar
 | **[Bergbok/Scoop-Bucket](directory/Bergbok+Scoop-Bucket.md)** | 📦 28 | ⭐ 1.0 | 🔄 68% |  |
 | **[gigberg/localbucket](directory/gigberg+localbucket.md)** | 📦 28 | ⭐ 1.0 | 🔄 75% |  |
 | **[BluYous/ScoopBucket](directory/BluYous+ScoopBucket.md)** | 📦 28 | ⭐ 1.0 | 🔄 100% |  |
+| **[Vinfall/sb](directory/Vinfall+sb.md)** | 📦 32 | ⭐ 1.0 | 🔄 88% |  |
 | **[tac091/scoop-multi](directory/tac091+scoop-multi.md)** | 📦 31 | ⭐ 1.0 | 🔄 87% |  |
 | **[amano41/scoop-bucket](directory/amano41+scoop-bucket.md)** | 📦 27 | ⭐ 1.0 | 🔄 96% |  |
 | **[MetalDevOps/scoop-bucket](directory/MetalDevOps+scoop-bucket.md)** | 📦 27 | ⭐ 1.0 | 🔄 74% |  |
@@ -278,6 +278,7 @@ These buckets are fully compatible with Scoop (and Shovel). They contain standar
 | **[ous50/ous50-bucket](directory/ous50+ous50-bucket.md)** | 📦 23 | ⭐ 1.0 | 🔄 96% |  |
 | **[Milo123459/cone](directory/Milo123459+cone.md)** | 📦 23 | ⭐ 1.0 | 🔄 100% |  |
 | **[filip2cz/scoop-retro](directory/filip2cz+scoop-retro.md)** | 📦 47 | ⭐ 1.0 | 🔄 2% |  |
+| **[pasze888/scoop-keepass](directory/pasze888+scoop-keepass.md)** | 📦 26 | ⭐ 1.0 | 🔄 100% |  |
 | **[se35710/scoop-redhat](directory/se35710+scoop-redhat.md)** | 📦 22 | ⭐ 1.0 | 🔄 100% |  |
 | **[artiga033/Armory](directory/artiga033+Armory.md)** | 📦 22 | ⭐ 1.0 | 🔄 86% |  |
 | **[Montia37/ScoopBucket](directory/Montia37+ScoopBucket.md)** | 📦 25 | ⭐ 1.0 | 🔄 76% |  |
@@ -288,7 +289,6 @@ These buckets are fully compatible with Scoop (and Shovel). They contain standar
 | **[Ciberbago/ciber-bucket](directory/Ciberbago+ciber-bucket.md)** | 📦 21 | ⭐ 1.0 | 🔄 71% |  |
 | **[strxnge-effects/scoopert](directory/strxnge-effects+scoopert.md)** | 📦 21 | ⭐ 1.0 | 🔄 71% |  |
 | **[maciakl/bucket](directory/maciakl+bucket.md)** | 📦 21 | ⭐ 1.0 | 🔄 100% |  |
-| **[Rinkerbel/scooped](directory/Rinkerbel+scooped.md)** | 📦 20 | ⭐ 1.0 | 🔄 100% |  |
 | **[KO6FCH/scoop-ham](directory/KO6FCH+scoop-ham.md)** | 📦 20 | ⭐ 1.0 | 🔄 100% |  |
 | **[owenvoke/scoop-bucket](directory/owenvoke+scoop-bucket.md)** | 📦 20 | ⭐ 1.0 | 🔄 100% |  |
 | **[yak1ex/scoop-bucket](directory/yak1ex+scoop-bucket.md)** | 📦 20 | ⭐ 1.0 | 🔄 90% |  |
@@ -300,8 +300,8 @@ These buckets are fully compatible with Scoop (and Shovel). They contain standar
 | **[anxshi/various-infills](directory/anxshi+various-infills.md)** | 📦 19 | ⭐ 1.0 | 🔄 100% |  |
 | **[zeemanz/my-bucket](directory/zeemanz+my-bucket.md)** | 📦 19 | ⭐ 1.0 | 🔄 100% |  |
 | **[sqliuchang/scoop-bucket](directory/sqliuchang+scoop-bucket.md)** | 📦 19 | ⭐ 1.0 | 🔄 95% |  |
-| **[pasze888/scoop-keepass](directory/pasze888+scoop-keepass.md)** | 📦 26 | ⭐ 1.0 | 🔄 100% |  |
 | **[bookyue/scoop-egg](directory/bookyue+scoop-egg.md)** | 📦 22 | ⭐ 1.0 | 🔄 100% |  |
+| **[plutotree/scoop-bucket](directory/plutotree+scoop-bucket.md)** | 📦 18 | ⭐ 1.0 | 🔄 100% |  |
 | **[danalec/scoop-alts](directory/danalec+scoop-alts.md)** | 📦 18 | ⭐ 1.0 | 🔄 89% |  |
 | **[ltguillaume/schep](directory/ltguillaume+schep.md)** | 📦 18 | ⭐ 1.0 | 🔄 100% |  |
 | **[warthurton/scoop-ntwind](directory/warthurton+scoop-ntwind.md)** | 📦 18 | ⭐ 1.0 | 🔄 100% |  |
@@ -317,6 +317,7 @@ These buckets are fully compatible with Scoop (and Shovel). They contain standar
 | **[TheCjw/scoop-retools](directory/TheCjw+scoop-retools.md)** | 📦 19 | ⭐ 1.0 | 🔄 79% |  |
 | **[jcwillox/scoop-python](directory/jcwillox+scoop-python.md)** | 📦 17 | ⭐ 1.0 | 🔄 100% |  |
 | **[cainiao1992/scoop-chenxf](directory/cainiao1992+scoop-chenxf.md)** | 📦 17 | ⭐ 1.0 | 🔄 100% |  |
+| **[Rinkerbel/scooped](directory/Rinkerbel+scooped.md)** | 📦 20 | ⭐ 1.0 | 🔄 100% |  |
 | **[bodrick/scoop-bucket](directory/bodrick+scoop-bucket.md)** | 📦 20 | ⭐ 1.0 | 🔄 100% |  |
 | **[bughug/scoop](directory/bughug+scoop.md)** | 📦 16 | ⭐ 1.0 | 🔄 100% |  |
 | **[charmbracelet/scoop-bucket](directory/charmbracelet+scoop-bucket.md)** | 📦 16 | ⭐ 1.0 | 🔄 0% |  |
@@ -325,6 +326,7 @@ These buckets are fully compatible with Scoop (and Shovel). They contain standar
 | **[Snowflyt/snowforge](directory/Snowflyt+snowforge.md)** | 📦 15 | ⭐ 1.0 | 🔄 93% |  |
 | **[hmerritt/scoop-bucket](directory/hmerritt+scoop-bucket.md)** | 📦 15 | ⭐ 1.0 | 🔄 93% |  |
 | **[prettycation/margin](directory/prettycation+margin.md)** | 📦 15 | ⭐ 1.0 | 🔄 93% |  |
+| **[LuckyNum/scoop](directory/LuckyNum+scoop.md)** | 📦 15 | ⭐ 1.0 | 🔄 87% |  |
 | **[sliots/ScoopBucket](directory/sliots+ScoopBucket.md)** | 📦 15 | ⭐ 1.0 | 🔄 93% |  |
 | **[ZhWn/ScoopBucket](directory/ZhWn+ScoopBucket.md)** | 📦 15 | ⭐ 1.0 | 🔄 100% |  |
 | **[nikkoura/scoop-bucket-elitedangerous](directory/nikkoura+scoop-bucket-elitedangerous.md)** | 📦 15 | ⭐ 1.0 | 🔄 100% |  |
@@ -338,7 +340,6 @@ These buckets are fully compatible with Scoop (and Shovel). They contain standar
 | **[sbklb1/scoop-bucket](directory/sbklb1+scoop-bucket.md)** | 📦 13 | ⭐ 1.0 | 🔄 77% |  |
 | **[Edenwize/scoop-apps](directory/Edenwize+scoop-apps.md)** | 📦 13 | ⭐ 1.0 | 🔄 46% |  |
 | **[Saturnyx/Unheard-Devtools](directory/Saturnyx+Unheard-Devtools.md)** | 📦 13 | ⭐ 1.0 | 🔄 85% |  |
-| **[sh4869221b/scoop-bucket](directory/sh4869221b+scoop-bucket.md)** | 📦 13 | ⭐ 1.0 | 🔄 85% |  |
 | **[petlyh/scoop-bucket](directory/petlyh+scoop-bucket.md)** | 📦 16 | ⭐ 1.0 | 🔄 44% |  |
 | **[pinebright/scoop-bucket](directory/pinebright+scoop-bucket.md)** | 📦 16 | ⭐ 1.0 | 🔄 88% |  |
 | **[kanami09/Scoop-xPack](directory/kanami09+Scoop-xPack.md)** | 📦 14 | ⭐ 1.0 | 🔄 57% |  |
@@ -346,28 +347,27 @@ These buckets are fully compatible with Scoop (and Shovel). They contain standar
 | **[RecursiveMaple/scoop](directory/RecursiveMaple+scoop.md)** | 📦 13 | ⭐ 1.0 | 🔄 92% |  |
 | **[ddavness/scoop-roblox](directory/ddavness+scoop-roblox.md)** | 📦 12 | ⭐ 1.0 | 🔄 100% |  |
 | **[guitarrapc/scoop-bucket](directory/guitarrapc+scoop-bucket.md)** | 📦 12 | ⭐ 1.0 | 🔄 100% |  |
-| **[JotmKKmkLTzE/Scoop-apps](directory/JotmKKmkLTzE+Scoop-apps.md)** | 📦 12 | ⭐ 1.0 | 🔄 100% |  |
 | **[Drunk-Dream/drudream](directory/Drunk-Dream+drudream.md)** | 📦 12 | ⭐ 1.0 | 🔄 92% |  |
+| **[jinzhongjia/scoop-bucket](directory/jinzhongjia+scoop-bucket.md)** | 📦 12 | ⭐ 1.0 | 🔄 100% |  |
 | **[szyha/bucket](directory/szyha+bucket.md)** | 📦 12 | ⭐ 1.0 | 🔄 100% |  |
 | **[itsutsu/5coop](directory/itsutsu+5coop.md)** | 📦 12 | ⭐ 1.0 | 🔄 100% |  |
 | **[Vader0pr/scoop-bucket](directory/Vader0pr+scoop-bucket.md)** | 📦 12 | ⭐ 1.0 | 🔄 100% |  |
 | **[kfyangc/scoop-bucket](directory/kfyangc+scoop-bucket.md)** | 📦 12 | ⭐ 1.0 | 🔄 100% |  |
+| **[thekips/scoop-bucket](directory/thekips+scoop-bucket.md)** | 📦 12 | ⭐ 1.0 | 🔄 83% |  |
 | **[Gaweringo/scoop-bucket](directory/Gaweringo+scoop-bucket.md)** | 📦 12 | ⭐ 1.0 | 🔄 83% |  |
 | **[wensimehrp/OpenTTD-bucket](directory/wensimehrp+OpenTTD-bucket.md)** | 📦 12 | ⭐ 1.0 | 🔄 75% |  |
 | **[RuinTD/my-scoop-bucket](directory/RuinTD+my-scoop-bucket.md)** | 📦 12 | ⭐ 1.0 | 🔄 100% |  |
 | **[santarl/scoop_bucket](directory/santarl+scoop_bucket.md)** | 📦 14 | ⭐ 1.0 | 🔄 86% |  |
 | **[ifvlaboratory/ScoopBucket-ifvlab](directory/ifvlaboratory+ScoopBucket-ifvlab.md)** | 📦 12 | ⭐ 1.0 | 🔄 83% |  |
-| **[LuckyNum/scoop](directory/LuckyNum+scoop.md)** | 📦 15 | ⭐ 1.0 | 🔄 87% |  |
 | **[zhihaofans/Milk](directory/zhihaofans+Milk.md)** | 📦 26 | ⭐ 1.0 | 🔄 0% |  |
 | **[WenSimEHRP/OpenTTD-bucket](directory/WenSimEHRP+OpenTTD-bucket.md)** | 📦 12 | ⭐ 1.0 | 🔄 75% |  |
-| **[plutotree/scoop-bucket](directory/plutotree+scoop-bucket.md)** | 📦 18 | ⭐ 1.0 | 🔄 100% |  |
 | **[swxfe/miscbucket](directory/swxfe+miscbucket.md)** | 📦 11 | ⭐ 1.0 | 🔄 100% |  |
 | **[jack-mil/scoop-bucket](directory/jack-mil+scoop-bucket.md)** | 📦 11 | ⭐ 1.0 | 🔄 100% |  |
-| **[Jojo4GH/scoop-JojoIV](directory/Jojo4GH+scoop-JojoIV.md)** | 📦 11 | ⭐ 1.0 | 🔄 91% |  |
 | **[Pengxn/xn](directory/Pengxn+xn.md)** | 📦 11 | ⭐ 1.0 | 🔄 100% |  |
 | **[Cusox/scoop-bucket](directory/Cusox+scoop-bucket.md)** | 📦 11 | ⭐ 1.0 | 🔄 100% |  |
 | **[chenxiaohong/scoop-bucket](directory/chenxiaohong+scoop-bucket.md)** | 📦 14 | ⭐ 1.0 | 🔄 93% |  |
 | **[Witchilich/scoop-witchilich](directory/Witchilich+scoop-witchilich.md)** | 📦 22 | ⭐ 1.0 | 🔄 95% |  |
+| **[EFLKumo/jam](directory/EFLKumo+jam.md)** | 📦 10 | ⭐ 1.0 | 🔄 100% |  |
 | **[nostorg/scoop-nostr](directory/nostorg+scoop-nostr.md)** | 📦 10 | ⭐ 1.0 | 🔄 100% |  |
 | **[pierreteam/scoop-js-engine](directory/pierreteam+scoop-js-engine.md)** | 📦 10 | ⭐ 1.0 | 🔄 100% |  |
 | **[ycrack/scoop-ycrack](directory/ycrack+scoop-ycrack.md)** | 📦 10 | ⭐ 1.0 | 🔄 100% |  |
@@ -380,6 +380,7 @@ These buckets are fully compatible with Scoop (and Shovel). They contain standar
 | **[amorphobia/ScoopSources](directory/amorphobia+ScoopSources.md)** | 📦 10 | ⭐ 1.0 | 🔄 100% |  |
 | **[scillidan/scoop-shovel](directory/scillidan+scoop-shovel.md)** | 📦 10 | ⭐ 1.0 | 🔄 100% |  |
 | **[UHDbits/UHDbucket](directory/UHDbits+UHDbucket.md)** | 📦 10 | ⭐ 1.0 | 🔄 100% |  |
+| **[sh4869221b/scoop-bucket](directory/sh4869221b+scoop-bucket.md)** | 📦 13 | ⭐ 1.0 | 🔄 85% |  |
 | **[tkit1994/scoop_bucket](directory/tkit1994+scoop_bucket.md)** | 📦 16 | ⭐ 1.0 | 🔄 100% |  |
 | **[Vodes/Bucket](directory/Vodes+Bucket.md)** | 📦 9 | ⭐ 1.0 | 🔄 100% |  |
 | **[chrismeller/scoop-bucket](directory/chrismeller+scoop-bucket.md)** | 📦 9 | ⭐ 1.0 | 🔄 100% |  |
@@ -391,9 +392,8 @@ These buckets are fully compatible with Scoop (and Shovel). They contain standar
 | **[f1a3h/f1bsh](directory/f1a3h+f1bsh.md)** | 📦 9 | ⭐ 1.0 | 🔄 89% |  |
 | **[4x0v7/kube-scoop](directory/4x0v7+kube-scoop.md)** | 📦 9 | ⭐ 1.0 | 🔄 100% |  |
 | **[NECOtype/dip](directory/NECOtype+dip.md)** | 📦 12 | ⭐ 1.0 | 🔄 100% |  |
-| **[jinzhongjia/scoop-bucket](directory/jinzhongjia+scoop-bucket.md)** | 📦 12 | ⭐ 1.0 | 🔄 100% |  |
+| **[JotmKKmkLTzE/Scoop-apps](directory/JotmKKmkLTzE+Scoop-apps.md)** | 📦 12 | ⭐ 1.0 | 🔄 100% |  |
 | **[wsw0108/scoop-bucket](directory/wsw0108+scoop-bucket.md)** | 📦 12 | ⭐ 1.0 | 🔄 67% |  |
-| **[thekips/scoop-bucket](directory/thekips+scoop-bucket.md)** | 📦 12 | ⭐ 1.0 | 🔄 83% |  |
 | **[tetradice/scoop-iyokan-jp](directory/tetradice+scoop-iyokan-jp.md)** | 📦 13 | ⭐ 1.0 | 🔄 100% |  |
 | **[MahdiAkrami01/scoop-bucket](directory/MahdiAkrami01+scoop-bucket.md)** | 📦 9 | ⭐ 1.0 | 🔄 100% |  |
 | **[pynappo/scoop-bucket](directory/pynappo+scoop-bucket.md)** | 📦 9 | ⭐ 1.0 | 🔄 100% |  |
@@ -405,10 +405,12 @@ These buckets are fully compatible with Scoop (and Shovel). They contain standar
 | **[kltk/scoop-bucket](directory/kltk+scoop-bucket.md)** | 📦 15 | ⭐ 1.0 | 🔄 100% |  |
 | **[insomnimus/scoop-bucket](directory/insomnimus+scoop-bucket.md)** | 📦 10 | ⭐ 1.0 | 🔄 100% |  |
 | **[wangzq/scoop-bucket](directory/wangzq+scoop-bucket.md)** | 📦 9 | ⭐ 1.0 | 🔄 44% |  |
+| **[Jojo4GH/scoop-JojoIV](directory/Jojo4GH+scoop-JojoIV.md)** | 📦 11 | ⭐ 1.0 | 🔄 91% |  |
 | **[planitaicojp/bucket](directory/planitaicojp+bucket.md)** | 📦 9 | ⭐ 1.0 | 🔄 0% |  |
 | **[AndreiVernon/scoop-cone](directory/AndreiVernon+scoop-cone.md)** | 📦 8 | ⭐ 1.0 | 🔄 100% |  |
 | **[Nevuly/frostbite](directory/Nevuly+frostbite.md)** | 📦 8 | ⭐ 1.0 | 🔄 100% |  |
 | **[henshouse/scoop](directory/henshouse+scoop.md)** | 📦 8 | ⭐ 1.0 | 🔄 88% |  |
+| **[AureateGarden/Zeo-Apps](directory/AureateGarden+Zeo-Apps.md)** | 📦 8 | ⭐ 1.0 | 🔄 100% |  |
 | **[fahim-ahmed05/scoop-bucket](directory/fahim-ahmed05+scoop-bucket.md)** | 📦 8 | ⭐ 1.0 | 🔄 100% |  |
 | **[jonz94/scoop-personal](directory/jonz94+scoop-personal.md)** | 📦 8 | ⭐ 1.0 | 🔄 100% |  |
 | **[BinToss/scoop-bucket](directory/BinToss+scoop-bucket.md)** | 📦 8 | ⭐ 1.0 | 🔄 100% |  |
@@ -420,7 +422,6 @@ These buckets are fully compatible with Scoop (and Shovel). They contain standar
 | **[zaevi/scoop-bucket](directory/zaevi+scoop-bucket.md)** | 📦 8 | ⭐ 1.0 | 🔄 100% |  |
 | **[ChenXiangcheng1/cxc-scoop-bucket](directory/ChenXiangcheng1+cxc-scoop-bucket.md)** | 📦 8 | ⭐ 1.0 | 🔄 88% |  |
 | **[YDX-2147483647/scoop-bucket](directory/YDX-2147483647+scoop-bucket.md)** | 📦 8 | ⭐ 1.0 | 🔄 100% |  |
-| **[EFLKumo/jam](directory/EFLKumo+jam.md)** | 📦 10 | ⭐ 1.0 | 🔄 100% |  |
 | **[dyuu7/docket](directory/dyuu7+docket.md)** | 📦 10 | ⭐ 1.0 | 🔄 80% |  |
 | **[lucaspimentel/scoop-bucket](directory/lucaspimentel+scoop-bucket.md)** | 📦 10 | ⭐ 1.0 | 🔄 100% |  |
 | **[TheRandomLabs/Scoop-Spotify](directory/TheRandomLabs+Scoop-Spotify.md)** | 📦 10 | ⭐ 1.0 | 🔄 90% |  |
@@ -436,20 +437,20 @@ These buckets are fully compatible with Scoop (and Shovel). They contain standar
 | **[kairexo/Scoop-Bucket](directory/kairexo+Scoop-Bucket.md)** | 📦 7 | ⭐ 1.0 | 🔄 100% |  |
 | **[mbl-35/scoop-srsrns](directory/mbl-35+scoop-srsrns.md)** | 📦 10 | ⭐ 1.0 | 🔄 100% |  |
 | **[JamesWoolfenden/scoop](directory/JamesWoolfenden+scoop.md)** | 📦 8 | ⭐ 1.0 | 🔄 0% |  |
-| **[jeangod/scoop-jiepot](directory/jeangod+scoop-jiepot.md)** | 📦 10 | ⭐ 1.0 | 🔄 100% |  |
 | **[nyable/mirai-bucket](directory/nyable+mirai-bucket.md)** | 📦 7 | ⭐ 1.0 | 🔄 71% |  |
+| **[jeangod/scoop-jiepot](directory/jeangod+scoop-jiepot.md)** | 📦 10 | ⭐ 1.0 | 🔄 100% |  |
 | **[pact-foundation/scoop](directory/pact-foundation+scoop.md)** | 📦 7 | ⭐ 1.0 | 🔄 0% |  |
 | **[mattia72/scoop](directory/mattia72+scoop.md)** | 📦 7 | ⭐ 1.0 | 🔄 100% |  |
 | **[back-lacking/personal-scoop](directory/back-lacking+personal-scoop.md)** | 📦 7 | ⭐ 1.0 | 🔄 29% |  |
 | **[mgziminsky/scoop-bucket](directory/mgziminsky+scoop-bucket.md)** | 📦 22 | ⭐ 1.0 | 🔄 100% |  |
 | **[Himalian/custom-bucket](directory/Himalian+custom-bucket.md)** | 📦 8 | ⭐ 1.0 | 🔄 88% |  |
 | **[felixmaker/scoop-felixmaker](directory/felixmaker+scoop-felixmaker.md)** | 📦 9 | ⭐ 1.0 | 🔄 100% |  |
-| **[Deskehs/personalBucket](directory/Deskehs+personalBucket.md)** | 📦 9 | ⭐ 1.0 | 🔄 100% |  |
 | **[muxinxy/scoop-bucket](directory/muxinxy+scoop-bucket.md)** | 📦 9 | ⭐ 1.0 | 🔄 100% |  |
 | **[yzlc/scoop](directory/yzlc+scoop.md)** | 📦 9 | ⭐ 1.0 | 🔄 56% |  |
 | **[Lemon7ProPlus/ScoopBucket](directory/Lemon7ProPlus+ScoopBucket.md)** | 📦 9 | ⭐ 1.0 | 🔄 100% |  |
 | **[porti/scoop-bucket](directory/porti+scoop-bucket.md)** | 📦 9 | ⭐ 1.0 | 🔄 100% |  |
 | **[LifeRoam/sbc](directory/LifeRoam+sbc.md)** | 📦 9 | ⭐ 1.0 | 🔄 100% |  |
+| **[Deskehs/personalBucket](directory/Deskehs+personalBucket.md)** | 📦 9 | ⭐ 1.0 | 🔄 100% |  |
 | **[baaamn/Scoopercalifragilisticexpialidocious](directory/baaamn+Scoopercalifragilisticexpialidocious.md)** | 📦 12 | ⭐ 1.0 | 🔄 100% |  |
 | **[bharatvaj/scoop-based](directory/bharatvaj+scoop-based.md)** | 📦 7 | ⭐ 1.0 | 🔄 100% |  |
 | **[esureos/ScoopBucket](directory/esureos+ScoopBucket.md)** | 📦 7 | ⭐ 1.0 | 🔄 100% |  |
@@ -457,7 +458,6 @@ These buckets are fully compatible with Scoop (and Shovel). They contain standar
 | **[BoringBoredom/scoop-bucket](directory/BoringBoredom+scoop-bucket.md)** | 📦 6 | ⭐ 1.0 | 🔄 100% |  |
 | **[sammary114/self-custom](directory/sammary114+self-custom.md)** | 📦 6 | ⭐ 1.0 | 🔄 83% |  |
 | **[mtpdx/scoop-bucket](directory/mtpdx+scoop-bucket.md)** | 📦 6 | ⭐ 1.0 | 🔄 100% |  |
-| **[wtbxsjy/mattress](directory/wtbxsjy+mattress.md)** | 📦 6 | ⭐ 1.0 | 🔄 100% |  |
 | **[SwingURM/scoop_bucket](directory/SwingURM+scoop_bucket.md)** | 📦 6 | ⭐ 1.0 | 🔄 100% |  |
 | **[alkuzad/scoop-bucket](directory/alkuzad+scoop-bucket.md)** | 📦 6 | ⭐ 1.0 | 🔄 67% |  |
 | **[Juemuren/ScoopBucket](directory/Juemuren+ScoopBucket.md)** | 📦 6 | ⭐ 1.0 | 🔄 100% |  |
@@ -469,7 +469,6 @@ These buckets are fully compatible with Scoop (and Shovel). They contain standar
 | **[Exterminate5573/ScoopBucket](directory/Exterminate5573+ScoopBucket.md)** | 📦 6 | ⭐ 1.0 | 🔄 83% |  |
 | **[tree-s/unity3d](directory/tree-s+unity3d.md)** | 📦 8 | ⭐ 1.0 | 🔄 100% |  |
 | **[urihcim/scoop-urihcim](directory/urihcim+scoop-urihcim.md)** | 📦 8 | ⭐ 1.0 | 🔄 100% |  |
-| **[AureateGarden/Zeo-Apps](directory/AureateGarden+Zeo-Apps.md)** | 📦 8 | ⭐ 1.0 | 🔄 100% |  |
 | **[pl4gue/scoup-bucket](directory/pl4gue+scoup-bucket.md)** | 📦 6 | ⭐ 1.0 | 🔄 100% |  |
 | **[robinovitch61/scoop-bucket](directory/robinovitch61+scoop-bucket.md)** | 📦 6 | ⭐ 1.0 | 🔄 0% |  |
 | **[qwjyh/scoop_bucket](directory/qwjyh+scoop_bucket.md)** | 📦 6 | ⭐ 1.0 | 🔄 100% |  |
@@ -512,6 +511,7 @@ These buckets are fully compatible with Scoop (and Shovel). They contain standar
 | **[NoPlagiarism/noplag](directory/NoPlagiarism+noplag.md)** | 📦 4 | ⭐ 1.0 | 🔄 75% |  |
 | **[NoNameWasDefined/private-scoop-bucket](directory/NoNameWasDefined+private-scoop-bucket.md)** | 📦 4 | ⭐ 1.0 | 🔄 75% |  |
 | **[goreleaser/scoop-bucket](directory/goreleaser+scoop-bucket.md)** | 📦 4 | ⭐ 1.0 | 🔄 0% |  |
+| **[wtbxsjy/mattress](directory/wtbxsjy+mattress.md)** | 📦 6 | ⭐ 1.0 | 🔄 100% |  |
 | **[LetsShareAll/ScoopBucket](directory/LetsShareAll+ScoopBucket.md)** | 📦 6 | ⭐ 1.0 | 🔄 100% |  |
 | **[RemySkye/RemyScoop](directory/RemySkye+RemyScoop.md)** | 📦 7 | ⭐ 1.0 | 🔄 43% |  |
 | **[PhyX-Meow/ScoopBucket](directory/PhyX-Meow+ScoopBucket.md)** | 📦 4 | ⭐ 1.0 | 🔄 100% |  |
@@ -546,8 +546,8 @@ These buckets are fully compatible with Scoop (and Shovel). They contain standar
 | **[alphagocc/lampyridae](directory/alphagocc+lampyridae.md)** | 📦 3 | ⭐ 1.0 | 🔄 33% |  |
 | **[Zalk0/ZalkosBucket](directory/Zalk0+ZalkosBucket.md)** | 📦 3 | ⭐ 1.0 | 🔄 67% |  |
 | **[DemonKingSwarn/flix-cli-bucket](directory/DemonKingSwarn+flix-cli-bucket.md)** | 📦 3 | ⭐ 1.0 | 🔄 33% |  |
-| **[eclecticbouquet/pail](directory/eclecticbouquet+pail.md)** | 📦 3 | ⭐ 1.0 | 🔄 100% |  |
 | **[HeytalePazguato/scoop-bucket](directory/HeytalePazguato+scoop-bucket.md)** | 📦 3 | ⭐ 1.0 | 🔄 0% |  |
+| **[eclecticbouquet/pail](directory/eclecticbouquet+pail.md)** | 📦 3 | ⭐ 1.0 | 🔄 100% |  |
 | **[omardev29/extras-plus](directory/omardev29+extras-plus.md)** | 📦 3 | ⭐ 1.0 | 🔄 100% |  |
 | **[nazo6/scoop-bucket](directory/nazo6+scoop-bucket.md)** | 📦 4 | ⭐ 1.0 | 🔄 75% |  |
 | **[reyamira/scoop-bucket](directory/reyamira+scoop-bucket.md)** | 📦 3 | ⭐ 1.0 | 🔄 0% |  |
@@ -563,9 +563,9 @@ These buckets are fully compatible with Scoop (and Shovel). They contain standar
 | **[CodeTease/scoop-bucket](directory/CodeTease+scoop-bucket.md)** | 📦 3 | ⭐ 1.0 | 🔄 100% |  |
 | **[amreus/bucket](directory/amreus+bucket.md)** | 📦 12 | ⭐ 1.0 | 🔄 75% |  |
 | **[arphox/arphox-scoop-bucket](directory/arphox+arphox-scoop-bucket.md)** | 📦 3 | ⭐ 1.0 | 🔄 67% |  |
-| **[MultionLabs/scoop-wireport](directory/MultionLabs+scoop-wireport.md)** | 📦 7 | ⭐ 1.0 | 🔄 100% |  |
 | **[tiham93/SadistScoop](directory/tiham93+SadistScoop.md)** | 📦 4 | ⭐ 1.0 | 🔄 100% |  |
 | **[arrow2nd/scoop-bucket](directory/arrow2nd+scoop-bucket.md)** | 📦 6 | ⭐ 1.0 | 🔄 0% |  |
+| **[MultionLabs/scoop-wireport](directory/MultionLabs+scoop-wireport.md)** | 📦 7 | ⭐ 1.0 | 🔄 100% |  |
 | **[billybooth/bucket](directory/billybooth+bucket.md)** | 📦 5 | ⭐ 1.0 | 🔄 0% |  |
 | **[DenisionSoft/scoop-box](directory/DenisionSoft+scoop-box.md)** | 📦 5 | ⭐ 1.0 | 🔄 40% |  |
 | **[indra87g/awesome-indonesia-dev](directory/indra87g+awesome-indonesia-dev.md)** | 📦 3 | ⭐ 1.0 | 🔄 100% |  |
@@ -600,8 +600,8 @@ These buckets are fully compatible with Scoop (and Shovel). They contain standar
 | **[itsHardStyl3r/scoop-personal](directory/itsHardStyl3r+scoop-personal.md)** | 📦 4 | ⭐ 1.0 | 🔄 75% |  |
 | **[imaping/bucket](directory/imaping+bucket.md)** | 📦 3 | ⭐ 1.0 | 🔄 0% |  |
 | **[paulhybryant/scoop](directory/paulhybryant+scoop.md)** | 📦 4 | ⭐ 1.0 | 🔄 50% |  |
-| **[TechPro424/scoop-bucket](directory/TechPro424+scoop-bucket.md)** | 📦 2 | ⭐ 1.0 | 🔄 100% |  |
 | **[stknohg/scoop-bucket](directory/stknohg+scoop-bucket.md)** | 📦 2 | ⭐ 1.0 | 🔄 50% |  |
+| **[TechPro424/scoop-bucket](directory/TechPro424+scoop-bucket.md)** | 📦 2 | ⭐ 1.0 | 🔄 100% |  |
 | **[tschroedter/scoop-bucket](directory/tschroedter+scoop-bucket.md)** | 📦 2 | ⭐ 1.0 | 🔄 50% |  |
 | **[hop-top/scoop-bucket](directory/hop-top+scoop-bucket.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
 | **[gfieldGG/bucket](directory/gfieldGG+bucket.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
@@ -621,10 +621,10 @@ These buckets are fully compatible with Scoop (and Shovel). They contain standar
 | **[aik2mlj/scoop-bucket](directory/aik2mlj+scoop-bucket.md)** | 📦 2 | ⭐ 1.0 | 🔄 100% |  |
 | **[sverrirab/scoop-bucket](directory/sverrirab+scoop-bucket.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
 | **[artpar/scoop-bucket](directory/artpar+scoop-bucket.md)** | 📦 2 | ⭐ 1.0 | 🔄 50% |  |
-| **[jbangdev/scoop-bucket](directory/jbangdev+scoop-bucket.md)** | 📦 2 | ⭐ 1.0 | 🔄 100% |  |
 | **[xavidop/scoop-bucket](directory/xavidop+scoop-bucket.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
 | **[kockicica/scoop-bucket](directory/kockicica+scoop-bucket.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
 | **[jiangshen95/my-scoop](directory/jiangshen95+my-scoop.md)** | 📦 2 | ⭐ 1.0 | 🔄 100% |  |
+| **[jbangdev/scoop-bucket](directory/jbangdev+scoop-bucket.md)** | 📦 2 | ⭐ 1.0 | 🔄 100% |  |
 | **[isanych/scoop](directory/isanych+scoop.md)** | 📦 4 | ⭐ 1.0 | 🔄 75% |  |
 | **[HPCesia/scoop-bucket](directory/HPCesia+scoop-bucket.md)** | 📦 4 | ⭐ 1.0 | 🔄 100% |  |
 | **[k0wl0n/scoop-bucket](directory/k0wl0n+scoop-bucket.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
@@ -753,35 +753,35 @@ These buckets are fully compatible with Scoop (and Shovel). They contain standar
 | **[imjustprism/scoop-holdon](directory/imjustprism+scoop-holdon.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[ddanielsantos/dd-bucket](directory/ddanielsantos+dd-bucket.md)** | 📦 2 | ⭐ 1.0 | 🔄 50% |  |
 | **[LengSword/scoop-yls](directory/LengSword+scoop-yls.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
-| **[PIRANY1/dataspammer-bucket](directory/PIRANY1+dataspammer-bucket.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
 | **[mendsley/scoop-bucket](directory/mendsley+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[beeblebrox/scoop-bucket](directory/beeblebrox+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[iaredavid01/scoop-bucket](directory/iaredavid01+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[mcpscanner/scoop-bucket](directory/mcpscanner+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[fredjoseph/scoop-bucket](directory/fredjoseph+scoop-bucket.md)** | 📦 8 | ⭐ 1.0 | 🔄 88% |  |
 | **[Mufi-Lang/mufi-bucket](directory/Mufi-Lang+mufi-bucket.md)** | 📦 2 | ⭐ 1.0 | 🔄 100% |  |
-| **[Gasoid/baker-scoop](directory/Gasoid+baker-scoop.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
+| **[PIRANY1/dataspammer-bucket](directory/PIRANY1+dataspammer-bucket.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
 | **[macleod-ee/scoop](directory/macleod-ee+scoop.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[vocweb/scoop-bucket](directory/vocweb+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[JHXs/MyBucket](directory/JHXs+MyBucket.md)** | 📦 5 | ⭐ 1.0 | 🔄 100% |  |
+| **[Gasoid/baker-scoop](directory/Gasoid+baker-scoop.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[lolminiyt/phenom](directory/lolminiyt+phenom.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[gtn1024/scoop-bucket](directory/gtn1024+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[adamrodger/scoop-bucket](directory/adamrodger+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
-| **[kiloscheffer/scoop-dbxignore](directory/kiloscheffer+scoop-dbxignore.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[Bairea/scoop-bucket](directory/Bairea+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[Overimagine1/Poop](directory/Overimagine1+Poop.md)** | 📦 2 | ⭐ 1.0 | 🔄 100% |  |
 | **[louiss0/the-code-fixer-23-buckets](directory/louiss0+the-code-fixer-23-buckets.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[Margarets00/scoop-mixtape](directory/Margarets00+scoop-mixtape.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[cumulus13/scoop-bucket](directory/cumulus13+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[kiloscheffer/scoop-dbxignore](directory/kiloscheffer+scoop-dbxignore.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[auth0/scoop-auth0-cli](directory/auth0+scoop-auth0-cli.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[xiphux/scoop-bucket](directory/xiphux+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[ionos-cloud/scoop-bucket](directory/ionos-cloud+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[frostming/scoop-frostming](directory/frostming+scoop-frostming.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[devsepnine/scoop-bucket](directory/devsepnine+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[koedame/scoop-bucket](directory/koedame+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
-| **[octavioooooo/bucket](directory/octavioooooo+bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[BenjaminMichaelis/Config](directory/BenjaminMichaelis+Config.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[opaquevault-scoop/scoop-bucket](directory/opaquevault-scoop+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[octavioooooo/bucket](directory/octavioooooo+bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[kikplate/scoop-bucket](directory/kikplate+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[rustledger/scoop-rustledger](directory/rustledger+scoop-rustledger.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[500tpig/scoop-bucket](directory/500tpig+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
@@ -800,9 +800,9 @@ These buckets are fully compatible with Scoop (and Shovel). They contain standar
 | **[sheeki03/scoop-tirith](directory/sheeki03+scoop-tirith.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[zeroclaw-labs/scoop-zeroclaw](directory/zeroclaw-labs+scoop-zeroclaw.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[dev-tonholo/scoop-svg-to-compose](directory/dev-tonholo+scoop-svg-to-compose.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
-| **[fstubner/scoop-bucket](directory/fstubner+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[mthmulders/scoop-mcs](directory/mthmulders+scoop-mcs.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[agentteamland/scoop-bucket](directory/agentteamland+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[fstubner/scoop-bucket](directory/fstubner+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[file-conversor/scoop](directory/file-conversor+scoop.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[lucianm/on-life-support-bucket](directory/lucianm+on-life-support-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[bvarnai/scoop-bucket](directory/bvarnai+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
@@ -859,8 +859,8 @@ These buckets are fully compatible with Scoop (and Shovel). They contain standar
 | **[quanng28/gitwhy-scoop-bucket](directory/quanng28+gitwhy-scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[nasimstg/scoop-bucket](directory/nasimstg+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[JordanCoin/scoop-repomap](directory/JordanCoin+scoop-repomap.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[Tochemey/scoop-bucket](directory/Tochemey+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[rustimate/scoop-bucket](directory/rustimate+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
+| **[Tochemey/scoop-bucket](directory/Tochemey+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[WenSimEHRP/wenmisc-bucket](directory/WenSimEHRP+wenmisc-bucket.md)** | 📦 5 | ⭐ 1.0 | 🔄 20% |  |
 | **[wensimehrp/wenmisc-bucket](directory/wensimehrp+wenmisc-bucket.md)** | 📦 5 | ⭐ 1.0 | 🔄 20% |  |
 | **[rfc3092/scoop](directory/rfc3092+scoop.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
@@ -868,8 +868,8 @@ These buckets are fully compatible with Scoop (and Shovel). They contain standar
 | **[stylebending/scoop-bucket](directory/stylebending+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[s19835/scoop-bucket](directory/s19835+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[caffeine-addictt/scoop-bucket](directory/caffeine-addictt+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[blackcoderx/scoop-falcon](directory/blackcoderx+scoop-falcon.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[UreaLaden/scoop-logsage](directory/UreaLaden+scoop-logsage.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[blackcoderx/scoop-falcon](directory/blackcoderx+scoop-falcon.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[GitHubEtienne/scoop-bucket](directory/GitHubEtienne+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[KemalAbdic/scoop-bucket](directory/KemalAbdic+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[riccardomerenda/scoop-bucket](directory/riccardomerenda+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
@@ -903,7 +903,6 @@ These buckets are fully compatible with Scoop (and Shovel). They contain standar
 | **[Ideademic/bucket](directory/Ideademic+bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[1jehuang/scoop-mmdr](directory/1jehuang+scoop-mmdr.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[nguyenminhphuong/scoop-bucket](directory/nguyenminhphuong+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
-| **[ArmoryNode/PersonalScoopBucket](directory/ArmoryNode+PersonalScoopBucket.md)** | 📦 7 | ⭐ 1.0 | 🔄 100% |  |
 | **[sohamw03/Scoop-Bucket](directory/sohamw03+Scoop-Bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[ypurpl/bucket](directory/ypurpl+bucket.md)** | 📦 2 | ⭐ 1.0 | 🔄 50% |  |
 | **[perryhq/perryhq-scoop](directory/perryhq+perryhq-scoop.md)** | 📦 2 | ⭐ 1.0 | 🔄 100% |  |
@@ -913,6 +912,7 @@ These buckets are fully compatible with Scoop (and Shovel). They contain standar
 | **[metta-systems/scoop-for-ci](directory/metta-systems+scoop-for-ci.md)** | 📦 3 | ⭐ 1.0 | 🔄 100% |  |
 | **[StasysMusial/scoop-bucket](directory/StasysMusial+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[Korosys/ScoopBucket](directory/Korosys+ScoopBucket.md)** | 📦 2 | ⭐ 1.0 | 🔄 100% |  |
+| **[ArmoryNode/PersonalScoopBucket](directory/ArmoryNode+PersonalScoopBucket.md)** | 📦 7 | ⭐ 1.0 | 🔄 100% |  |
 | **[yanghanlin/orihime-first](directory/yanghanlin+orihime-first.md)** | 📦 3 | ⭐ 1.0 | 🔄 67% |  |
 | **[ayoisaiah/scoop-bucket](directory/ayoisaiah+scoop-bucket.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
 | **[supcik/scoop-bucket](directory/supcik+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
@@ -1056,8 +1056,8 @@ These buckets are fully compatible with Scoop (and Shovel). They contain standar
 | **[tree-s/progressquest](directory/tree-s+progressquest.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[wendigo/scoop-bucket](directory/wendigo+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[jonesbusy/scoop-bucket](directory/jonesbusy+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
-| **[lumen-oss/rocks-scoop](directory/lumen-oss+rocks-scoop.md)** | 📦 2 | ⭐ 1.0 | 🔄 50% |  |
 | **[Bennett-Yang/bencket](directory/Bennett-Yang+bencket.md)** | 📦 5 | ⭐ 1.0 | 🔄 100% |  |
+| **[lumen-oss/rocks-scoop](directory/lumen-oss+rocks-scoop.md)** | 📦 2 | ⭐ 1.0 | 🔄 50% |  |
 | **[tree-s/mIRC](directory/tree-s+mIRC.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[Cooperter/scoop-bucket](directory/Cooperter+scoop-bucket.md)** | 📦 4 | ⭐ 1.0 | 🔄 75% |  |
 | **[lwb-2021/ScoopBucket](directory/lwb-2021+ScoopBucket.md)** | 📦 4 | ⭐ 1.0 | 🔄 100% |  |
@@ -1065,8 +1065,8 @@ These buckets are fully compatible with Scoop (and Shovel). They contain standar
 | **[duaka/ScoopBucket](directory/duaka+ScoopBucket.md)** | 📦 10 | ⭐ 1.0 | 🔄 90% |  |
 | **[Elypha/garden](directory/Elypha+garden.md)** | 📦 4 | ⭐ 1.0 | 🔄 100% |  |
 | **[phanirithvij/scop](directory/phanirithvij+scop.md)** | 📦 12 | ⭐ 1.0 | 🔄 75% |  |
-| **[wcmiracle/wuzi_scoop](directory/wcmiracle+wuzi_scoop.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[sumoduduk/scoop-bucket](directory/sumoduduk+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
+| **[wcmiracle/wuzi_scoop](directory/wcmiracle+wuzi_scoop.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[aeswibon/scoop-bucket](directory/aeswibon+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[Bios-Marcel/scoopbucket](directory/Bios-Marcel+scoopbucket.md)** | 📦 4 | ⭐ 1.0 | 🔄 50% |  |
 | **[heroku-miraheze/scoop-bucket](directory/heroku-miraheze+scoop-bucket.md)** | 📦 3 | ⭐ 1.0 | 🔄 67% |  |
@@ -1085,9 +1085,9 @@ These buckets are fully compatible with Scoop (and Shovel). They contain standar
 | **[skyvanfall/skyvanfall_bucket](directory/skyvanfall+skyvanfall_bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[inmare/scoop-bucket](directory/inmare+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[inetcp/scoop-bucket](directory/inetcp+scoop-bucket.md)** | 📦 9 | ⭐ 1.0 | 🔄 44% |  |
-| **[darkliquid/bucket](directory/darkliquid+bucket.md)** | 📦 7 | ⭐ 1.0 | 🔄 86% |  |
 | **[Dreista/scoop-bucket](directory/Dreista+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[mike-macmullin/vm-bucket-old](directory/mike-macmullin+vm-bucket-old.md)** | 📦 4 | ⭐ 1.0 | 🔄 0% |  |
+| **[darkliquid/bucket](directory/darkliquid+bucket.md)** | 📦 7 | ⭐ 1.0 | 🔄 86% |  |
 | **[Daniele-rolli/Beaver-Bucket](directory/Daniele-rolli+Beaver-Bucket.md)** | 📦 2 | ⭐ 1.0 | 🔄 100% |  |
 | **[duaka/ScoopBucketSH](directory/duaka+ScoopBucketSH.md)** | 📦 2 | ⭐ 1.0 | 🔄 100% |  |
 | **[SDshadow/my-bucket](directory/SDshadow+my-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
@@ -1563,10 +1563,10 @@ A combined list of every source discovered in the ecosystem.
 | **[HUMORCE/nuke](directory/HUMORCE+nuke.md)** | 📦 90 | ⭐ 1.0 | 🔄 79% |  |
 | **[WantChane/doge_bucket](directory/WantChane+doge_bucket.md)** | 📦 88 | ⭐ 1.0 | 🔄 99% |  |
 | **[souhaiebtar/scoop-apps](directory/souhaiebtar+scoop-apps.md)** | 📦 86 | ⭐ 1.0 | 🔄 93% |  |
-| **[gregwen/grewen-scoop](directory/gregwen+grewen-scoop.md)** | 📦 86 | ⭐ 1.0 | 🔄 95% |  |
 | **[Scoopforge/Extras-CN](directory/Scoopforge+Extras-CN.md)** | 📦 90 | ⭐ 1.0 | 🔄 97% |  |
 | **[ZhangTianrong/scoop-bucket](directory/ZhangTianrong+scoop-bucket.md)** | 📦 82 | ⭐ 1.0 | 🔄 93% |  |
 | **[echoiron/echo-scoop](directory/echoiron+echo-scoop.md)** | 📦 82 | ⭐ 1.0 | 🔄 0% |  |
+| **[gregwen/grewen-scoop](directory/gregwen+grewen-scoop.md)** | 📦 86 | ⭐ 1.0 | 🔄 95% |  |
 | **[404NetworkError/scoop-bucket](directory/404NetworkError+scoop-bucket.md)** | 📦 81 | ⭐ 1.0 | 🔄 96% |  |
 | **[lewis-yeung/scoop-bucket](directory/lewis-yeung+scoop-bucket.md)** | 📦 85 | ⭐ 1.0 | 🔄 86% |  |
 | **[Donaldduck8/malware-analysis-bucket](directory/Donaldduck8+malware-analysis-bucket.md)** | 📦 80 | ⭐ 1.0 | 🔄 69% |  |
@@ -1580,10 +1580,10 @@ A combined list of every source discovered in the ecosystem.
 | **[niheaven/scoop-sysinternals](directory/niheaven+scoop-sysinternals.md)** | 📦 75 | ⭐ 1.0 | 🔄 100% | ⭐ Known Scoop |
 | **[cc713/ownscoop](directory/cc713+ownscoop.md)** | 📦 76 | ⭐ 1.0 | 🔄 100% |  |
 | **[elisimpson/scoop-bucket](directory/elisimpson+scoop-bucket.md)** | 📦 71 | ⭐ 1.0 | 🔄 94% |  |
+| **[huxiaoning/scoop_bucket](directory/huxiaoning+scoop_bucket.md)** | 📦 70 | ⭐ 1.0 | 🔄 83% |  |
 | **[TheRandomLabs/scoop-nonportable](directory/TheRandomLabs+scoop-nonportable.md)** | 📦 73 | ⭐ 1.0 | 🔄 86% | <br>⭐ Known Shovel |
 | **[cscnk52/cetacea](directory/cscnk52+cetacea.md)** | 📦 73 | ⭐ 1.0 | 🔄 100% |  |
 | **[maqibg/MQBucket](directory/maqibg+MQBucket.md)** | 📦 77 | ⭐ 1.0 | 🔄 100% |  |
-| **[huxiaoning/scoop_bucket](directory/huxiaoning+scoop_bucket.md)** | 📦 70 | ⭐ 1.0 | 🔄 83% |  |
 | **[warexify/scoop-edk2-buildtools](directory/warexify+scoop-edk2-buildtools.md)** | 📦 65 | ⭐ 1.0 | 🔄 75% |  |
 | **[qwerty12/scoop-alts](directory/qwerty12+scoop-alts.md)** | 📦 60 | ⭐ 1.0 | 🔄 78% |  |
 | **[li-ruijie/scoop](directory/li-ruijie+scoop.md)** | 📦 59 | ⭐ 1.0 | 🔄 100% |  |
@@ -1607,7 +1607,6 @@ A combined list of every source discovered in the ecosystem.
 | **[beer-psi/scoop-bucket](directory/beer-psi+scoop-bucket.md)** | 📦 51 | ⭐ 1.0 | 🔄 80% |  |
 | **[specter119/scoop-dsms](directory/specter119+scoop-dsms.md)** | 📦 47 | ⭐ 1.0 | 🔄 98% |  |
 | **[suquiya/suquiya_bucket](directory/suquiya+suquiya_bucket.md)** | 📦 47 | ⭐ 1.0 | 🔄 96% |  |
-| **[apeiraco/scoop-bucket](directory/apeiraco+scoop-bucket.md)** | 📦 46 | ⭐ 1.0 | 🔄 96% |  |
 | **[nateify/scoop-nateify](directory/nateify+scoop-nateify.md)** | 📦 46 | ⭐ 1.0 | 🔄 96% |  |
 | **[Scoopforge/Extras-Plus](directory/Scoopforge+Extras-Plus.md)** | 📦 45 | ⭐ 1.0 | 🔄 100% |  |
 | **[kt-devhub/extra](directory/kt-devhub+extra.md)** | 📦 45 | ⭐ 1.0 | 🔄 89% |  |
@@ -1619,6 +1618,7 @@ A combined list of every source discovered in the ecosystem.
 | **[MMKubicki/ScoopBucket](directory/MMKubicki+ScoopBucket.md)** | 📦 43 | ⭐ 1.0 | 🔄 100% |  |
 | **[Locietta/sniffer](directory/Locietta+sniffer.md)** | 📦 42 | ⭐ 1.0 | 🔄 100% |  |
 | **[wanstarge/scoopx](directory/wanstarge+scoopx.md)** | 📦 42 | ⭐ 1.0 | 🔄 93% |  |
+| **[apeiraco/scoop-bucket](directory/apeiraco+scoop-bucket.md)** | 📦 46 | ⭐ 1.0 | 🔄 96% |  |
 | **[jonz94/scoop-sarasa-nerd-fonts](directory/jonz94+scoop-sarasa-nerd-fonts.md)** | 📦 49 | ⭐ 1.0 | 🔄 100% |  |
 | **[niceEli/Pail](directory/niceEli+Pail.md)** | 📦 41 | ⭐ 1.0 | 🔄 93% |  |
 | **[Spiraster/scoop-bucket](directory/Spiraster+scoop-bucket.md)** | 📦 41 | ⭐ 1.0 | 🔄 93% |  |
@@ -1651,7 +1651,6 @@ A combined list of every source discovered in the ecosystem.
 | **[nicerloop/scoop-nicerloop](directory/nicerloop+scoop-nicerloop.md)** | 📦 32 | ⭐ 1.0 | 🔄 62% |  |
 | **[Zevan770/scoop_zev](directory/Zevan770+scoop_zev.md)** | 📦 32 | ⭐ 1.0 | 🔄 91% |  |
 | **[kkkykin/Personal-Scoop-Bucket](directory/kkkykin+Personal-Scoop-Bucket.md)** | 📦 32 | ⭐ 1.0 | 🔄 100% |  |
-| **[Vinfall/sb](directory/Vinfall+sb.md)** | 📦 32 | ⭐ 1.0 | 🔄 88% |  |
 | **[mslxl/ScoopIt](directory/mslxl+ScoopIt.md)** | 📦 36 | ⭐ 1.0 | 🔄 92% |  |
 | **[asimov-platform/scoop-bucket](directory/asimov-platform+scoop-bucket.md)** | 📦 33 | ⭐ 1.0 | 🔄 100% |  |
 | **[Scoopforge/Main-Plus](directory/Scoopforge+Main-Plus.md)** | 📦 31 | ⭐ 1.0 | 🔄 100% |  |
@@ -1672,6 +1671,7 @@ A combined list of every source discovered in the ecosystem.
 | **[Bergbok/Scoop-Bucket](directory/Bergbok+Scoop-Bucket.md)** | 📦 28 | ⭐ 1.0 | 🔄 68% |  |
 | **[gigberg/localbucket](directory/gigberg+localbucket.md)** | 📦 28 | ⭐ 1.0 | 🔄 75% |  |
 | **[BluYous/ScoopBucket](directory/BluYous+ScoopBucket.md)** | 📦 28 | ⭐ 1.0 | 🔄 100% |  |
+| **[Vinfall/sb](directory/Vinfall+sb.md)** | 📦 32 | ⭐ 1.0 | 🔄 88% |  |
 | **[tac091/scoop-multi](directory/tac091+scoop-multi.md)** | 📦 31 | ⭐ 1.0 | 🔄 87% |  |
 | **[amano41/scoop-bucket](directory/amano41+scoop-bucket.md)** | 📦 27 | ⭐ 1.0 | 🔄 96% |  |
 | **[MetalDevOps/scoop-bucket](directory/MetalDevOps+scoop-bucket.md)** | 📦 27 | ⭐ 1.0 | 🔄 74% |  |
@@ -1692,6 +1692,7 @@ A combined list of every source discovered in the ecosystem.
 | **[ous50/ous50-bucket](directory/ous50+ous50-bucket.md)** | 📦 23 | ⭐ 1.0 | 🔄 96% |  |
 | **[Milo123459/cone](directory/Milo123459+cone.md)** | 📦 23 | ⭐ 1.0 | 🔄 100% |  |
 | **[filip2cz/scoop-retro](directory/filip2cz+scoop-retro.md)** | 📦 47 | ⭐ 1.0 | 🔄 2% |  |
+| **[pasze888/scoop-keepass](directory/pasze888+scoop-keepass.md)** | 📦 26 | ⭐ 1.0 | 🔄 100% |  |
 | **[se35710/scoop-redhat](directory/se35710+scoop-redhat.md)** | 📦 22 | ⭐ 1.0 | 🔄 100% |  |
 | **[artiga033/Armory](directory/artiga033+Armory.md)** | 📦 22 | ⭐ 1.0 | 🔄 86% |  |
 | **[Montia37/ScoopBucket](directory/Montia37+ScoopBucket.md)** | 📦 25 | ⭐ 1.0 | 🔄 76% |  |
@@ -1703,7 +1704,6 @@ A combined list of every source discovered in the ecosystem.
 | **[Ciberbago/ciber-bucket](directory/Ciberbago+ciber-bucket.md)** | 📦 21 | ⭐ 1.0 | 🔄 71% |  |
 | **[strxnge-effects/scoopert](directory/strxnge-effects+scoopert.md)** | 📦 21 | ⭐ 1.0 | 🔄 71% |  |
 | **[maciakl/bucket](directory/maciakl+bucket.md)** | 📦 21 | ⭐ 1.0 | 🔄 100% |  |
-| **[Rinkerbel/scooped](directory/Rinkerbel+scooped.md)** | 📦 20 | ⭐ 1.0 | 🔄 100% |  |
 | **[KO6FCH/scoop-ham](directory/KO6FCH+scoop-ham.md)** | 📦 20 | ⭐ 1.0 | 🔄 100% |  |
 | **[owenvoke/scoop-bucket](directory/owenvoke+scoop-bucket.md)** | 📦 20 | ⭐ 1.0 | 🔄 100% |  |
 | **[yak1ex/scoop-bucket](directory/yak1ex+scoop-bucket.md)** | 📦 20 | ⭐ 1.0 | 🔄 90% |  |
@@ -1716,8 +1716,8 @@ A combined list of every source discovered in the ecosystem.
 | **[zeemanz/my-bucket](directory/zeemanz+my-bucket.md)** | 📦 19 | ⭐ 1.0 | 🔄 100% |  |
 | **[littleli/Scoop-AtariEmulators](directory/littleli+Scoop-AtariEmulators.md)** | 📦 19 | ⭐ 1.0 | 🔄 95% |  |
 | **[sqliuchang/scoop-bucket](directory/sqliuchang+scoop-bucket.md)** | 📦 19 | ⭐ 1.0 | 🔄 95% |  |
-| **[pasze888/scoop-keepass](directory/pasze888+scoop-keepass.md)** | 📦 26 | ⭐ 1.0 | 🔄 100% |  |
 | **[bookyue/scoop-egg](directory/bookyue+scoop-egg.md)** | 📦 22 | ⭐ 1.0 | 🔄 100% |  |
+| **[plutotree/scoop-bucket](directory/plutotree+scoop-bucket.md)** | 📦 18 | ⭐ 1.0 | 🔄 100% |  |
 | **[danalec/scoop-alts](directory/danalec+scoop-alts.md)** | 📦 18 | ⭐ 1.0 | 🔄 89% |  |
 | **[ltguillaume/schep](directory/ltguillaume+schep.md)** | 📦 18 | ⭐ 1.0 | 🔄 100% |  |
 | **[warthurton/scoop-ntwind](directory/warthurton+scoop-ntwind.md)** | 📦 18 | ⭐ 1.0 | 🔄 100% |  |
@@ -1733,6 +1733,7 @@ A combined list of every source discovered in the ecosystem.
 | **[TheCjw/scoop-retools](directory/TheCjw+scoop-retools.md)** | 📦 19 | ⭐ 1.0 | 🔄 79% |  |
 | **[jcwillox/scoop-python](directory/jcwillox+scoop-python.md)** | 📦 17 | ⭐ 1.0 | 🔄 100% |  |
 | **[cainiao1992/scoop-chenxf](directory/cainiao1992+scoop-chenxf.md)** | 📦 17 | ⭐ 1.0 | 🔄 100% |  |
+| **[Rinkerbel/scooped](directory/Rinkerbel+scooped.md)** | 📦 20 | ⭐ 1.0 | 🔄 100% |  |
 | **[bodrick/scoop-bucket](directory/bodrick+scoop-bucket.md)** | 📦 20 | ⭐ 1.0 | 🔄 100% |  |
 | **[bughug/scoop](directory/bughug+scoop.md)** | 📦 16 | ⭐ 1.0 | 🔄 100% |  |
 | **[charmbracelet/scoop-bucket](directory/charmbracelet+scoop-bucket.md)** | 📦 16 | ⭐ 1.0 | 🔄 0% |  |
@@ -1741,6 +1742,7 @@ A combined list of every source discovered in the ecosystem.
 | **[Snowflyt/snowforge](directory/Snowflyt+snowforge.md)** | 📦 15 | ⭐ 1.0 | 🔄 93% |  |
 | **[hmerritt/scoop-bucket](directory/hmerritt+scoop-bucket.md)** | 📦 15 | ⭐ 1.0 | 🔄 93% |  |
 | **[prettycation/margin](directory/prettycation+margin.md)** | 📦 15 | ⭐ 1.0 | 🔄 93% |  |
+| **[LuckyNum/scoop](directory/LuckyNum+scoop.md)** | 📦 15 | ⭐ 1.0 | 🔄 87% |  |
 | **[sliots/ScoopBucket](directory/sliots+ScoopBucket.md)** | 📦 15 | ⭐ 1.0 | 🔄 93% |  |
 | **[ZhWn/ScoopBucket](directory/ZhWn+ScoopBucket.md)** | 📦 15 | ⭐ 1.0 | 🔄 100% |  |
 | **[nikkoura/scoop-bucket-elitedangerous](directory/nikkoura+scoop-bucket-elitedangerous.md)** | 📦 15 | ⭐ 1.0 | 🔄 100% |  |
@@ -1754,7 +1756,6 @@ A combined list of every source discovered in the ecosystem.
 | **[sbklb1/scoop-bucket](directory/sbklb1+scoop-bucket.md)** | 📦 13 | ⭐ 1.0 | 🔄 77% |  |
 | **[Edenwize/scoop-apps](directory/Edenwize+scoop-apps.md)** | 📦 13 | ⭐ 1.0 | 🔄 46% |  |
 | **[Saturnyx/Unheard-Devtools](directory/Saturnyx+Unheard-Devtools.md)** | 📦 13 | ⭐ 1.0 | 🔄 85% |  |
-| **[sh4869221b/scoop-bucket](directory/sh4869221b+scoop-bucket.md)** | 📦 13 | ⭐ 1.0 | 🔄 85% |  |
 | **[petlyh/scoop-bucket](directory/petlyh+scoop-bucket.md)** | 📦 16 | ⭐ 1.0 | 🔄 44% |  |
 | **[pinebright/scoop-bucket](directory/pinebright+scoop-bucket.md)** | 📦 16 | ⭐ 1.0 | 🔄 88% |  |
 | **[kanami09/Scoop-xPack](directory/kanami09+Scoop-xPack.md)** | 📦 14 | ⭐ 1.0 | 🔄 57% |  |
@@ -1762,28 +1763,27 @@ A combined list of every source discovered in the ecosystem.
 | **[RecursiveMaple/scoop](directory/RecursiveMaple+scoop.md)** | 📦 13 | ⭐ 1.0 | 🔄 92% |  |
 | **[ddavness/scoop-roblox](directory/ddavness+scoop-roblox.md)** | 📦 12 | ⭐ 1.0 | 🔄 100% |  |
 | **[guitarrapc/scoop-bucket](directory/guitarrapc+scoop-bucket.md)** | 📦 12 | ⭐ 1.0 | 🔄 100% |  |
-| **[JotmKKmkLTzE/Scoop-apps](directory/JotmKKmkLTzE+Scoop-apps.md)** | 📦 12 | ⭐ 1.0 | 🔄 100% |  |
 | **[Drunk-Dream/drudream](directory/Drunk-Dream+drudream.md)** | 📦 12 | ⭐ 1.0 | 🔄 92% |  |
+| **[jinzhongjia/scoop-bucket](directory/jinzhongjia+scoop-bucket.md)** | 📦 12 | ⭐ 1.0 | 🔄 100% |  |
 | **[szyha/bucket](directory/szyha+bucket.md)** | 📦 12 | ⭐ 1.0 | 🔄 100% |  |
 | **[itsutsu/5coop](directory/itsutsu+5coop.md)** | 📦 12 | ⭐ 1.0 | 🔄 100% |  |
 | **[Vader0pr/scoop-bucket](directory/Vader0pr+scoop-bucket.md)** | 📦 12 | ⭐ 1.0 | 🔄 100% |  |
 | **[kfyangc/scoop-bucket](directory/kfyangc+scoop-bucket.md)** | 📦 12 | ⭐ 1.0 | 🔄 100% |  |
+| **[thekips/scoop-bucket](directory/thekips+scoop-bucket.md)** | 📦 12 | ⭐ 1.0 | 🔄 83% |  |
 | **[Gaweringo/scoop-bucket](directory/Gaweringo+scoop-bucket.md)** | 📦 12 | ⭐ 1.0 | 🔄 83% |  |
 | **[wensimehrp/OpenTTD-bucket](directory/wensimehrp+OpenTTD-bucket.md)** | 📦 12 | ⭐ 1.0 | 🔄 75% |  |
 | **[RuinTD/my-scoop-bucket](directory/RuinTD+my-scoop-bucket.md)** | 📦 12 | ⭐ 1.0 | 🔄 100% |  |
 | **[santarl/scoop_bucket](directory/santarl+scoop_bucket.md)** | 📦 14 | ⭐ 1.0 | 🔄 86% |  |
 | **[ifvlaboratory/ScoopBucket-ifvlab](directory/ifvlaboratory+ScoopBucket-ifvlab.md)** | 📦 12 | ⭐ 1.0 | 🔄 83% |  |
-| **[LuckyNum/scoop](directory/LuckyNum+scoop.md)** | 📦 15 | ⭐ 1.0 | 🔄 87% |  |
 | **[zhihaofans/Milk](directory/zhihaofans+Milk.md)** | 📦 26 | ⭐ 1.0 | 🔄 0% |  |
 | **[WenSimEHRP/OpenTTD-bucket](directory/WenSimEHRP+OpenTTD-bucket.md)** | 📦 12 | ⭐ 1.0 | 🔄 75% |  |
-| **[plutotree/scoop-bucket](directory/plutotree+scoop-bucket.md)** | 📦 18 | ⭐ 1.0 | 🔄 100% |  |
 | **[swxfe/miscbucket](directory/swxfe+miscbucket.md)** | 📦 11 | ⭐ 1.0 | 🔄 100% |  |
 | **[jack-mil/scoop-bucket](directory/jack-mil+scoop-bucket.md)** | 📦 11 | ⭐ 1.0 | 🔄 100% |  |
-| **[Jojo4GH/scoop-JojoIV](directory/Jojo4GH+scoop-JojoIV.md)** | 📦 11 | ⭐ 1.0 | 🔄 91% |  |
 | **[Pengxn/xn](directory/Pengxn+xn.md)** | 📦 11 | ⭐ 1.0 | 🔄 100% |  |
 | **[Cusox/scoop-bucket](directory/Cusox+scoop-bucket.md)** | 📦 11 | ⭐ 1.0 | 🔄 100% |  |
 | **[chenxiaohong/scoop-bucket](directory/chenxiaohong+scoop-bucket.md)** | 📦 14 | ⭐ 1.0 | 🔄 93% |  |
 | **[Witchilich/scoop-witchilich](directory/Witchilich+scoop-witchilich.md)** | 📦 22 | ⭐ 1.0 | 🔄 95% |  |
+| **[EFLKumo/jam](directory/EFLKumo+jam.md)** | 📦 10 | ⭐ 1.0 | 🔄 100% |  |
 | **[nostorg/scoop-nostr](directory/nostorg+scoop-nostr.md)** | 📦 10 | ⭐ 1.0 | 🔄 100% |  |
 | **[pierreteam/scoop-js-engine](directory/pierreteam+scoop-js-engine.md)** | 📦 10 | ⭐ 1.0 | 🔄 100% |  |
 | **[ycrack/scoop-ycrack](directory/ycrack+scoop-ycrack.md)** | 📦 10 | ⭐ 1.0 | 🔄 100% |  |
@@ -1796,6 +1796,7 @@ A combined list of every source discovered in the ecosystem.
 | **[amorphobia/ScoopSources](directory/amorphobia+ScoopSources.md)** | 📦 10 | ⭐ 1.0 | 🔄 100% |  |
 | **[scillidan/scoop-shovel](directory/scillidan+scoop-shovel.md)** | 📦 10 | ⭐ 1.0 | 🔄 100% |  |
 | **[UHDbits/UHDbucket](directory/UHDbits+UHDbucket.md)** | 📦 10 | ⭐ 1.0 | 🔄 100% |  |
+| **[sh4869221b/scoop-bucket](directory/sh4869221b+scoop-bucket.md)** | 📦 13 | ⭐ 1.0 | 🔄 85% |  |
 | **[tkit1994/scoop_bucket](directory/tkit1994+scoop_bucket.md)** | 📦 16 | ⭐ 1.0 | 🔄 100% |  |
 | **[Vodes/Bucket](directory/Vodes+Bucket.md)** | 📦 9 | ⭐ 1.0 | 🔄 100% |  |
 | **[chrismeller/scoop-bucket](directory/chrismeller+scoop-bucket.md)** | 📦 9 | ⭐ 1.0 | 🔄 100% |  |
@@ -1807,9 +1808,8 @@ A combined list of every source discovered in the ecosystem.
 | **[f1a3h/f1bsh](directory/f1a3h+f1bsh.md)** | 📦 9 | ⭐ 1.0 | 🔄 89% |  |
 | **[4x0v7/kube-scoop](directory/4x0v7+kube-scoop.md)** | 📦 9 | ⭐ 1.0 | 🔄 100% |  |
 | **[NECOtype/dip](directory/NECOtype+dip.md)** | 📦 12 | ⭐ 1.0 | 🔄 100% |  |
-| **[jinzhongjia/scoop-bucket](directory/jinzhongjia+scoop-bucket.md)** | 📦 12 | ⭐ 1.0 | 🔄 100% |  |
+| **[JotmKKmkLTzE/Scoop-apps](directory/JotmKKmkLTzE+Scoop-apps.md)** | 📦 12 | ⭐ 1.0 | 🔄 100% |  |
 | **[wsw0108/scoop-bucket](directory/wsw0108+scoop-bucket.md)** | 📦 12 | ⭐ 1.0 | 🔄 67% |  |
-| **[thekips/scoop-bucket](directory/thekips+scoop-bucket.md)** | 📦 12 | ⭐ 1.0 | 🔄 83% |  |
 | **[tetradice/scoop-iyokan-jp](directory/tetradice+scoop-iyokan-jp.md)** | 📦 13 | ⭐ 1.0 | 🔄 100% |  |
 | **[MahdiAkrami01/scoop-bucket](directory/MahdiAkrami01+scoop-bucket.md)** | 📦 9 | ⭐ 1.0 | 🔄 100% |  |
 | **[pynappo/scoop-bucket](directory/pynappo+scoop-bucket.md)** | 📦 9 | ⭐ 1.0 | 🔄 100% |  |
@@ -1821,10 +1821,12 @@ A combined list of every source discovered in the ecosystem.
 | **[kltk/scoop-bucket](directory/kltk+scoop-bucket.md)** | 📦 15 | ⭐ 1.0 | 🔄 100% |  |
 | **[insomnimus/scoop-bucket](directory/insomnimus+scoop-bucket.md)** | 📦 10 | ⭐ 1.0 | 🔄 100% |  |
 | **[wangzq/scoop-bucket](directory/wangzq+scoop-bucket.md)** | 📦 9 | ⭐ 1.0 | 🔄 44% |  |
+| **[Jojo4GH/scoop-JojoIV](directory/Jojo4GH+scoop-JojoIV.md)** | 📦 11 | ⭐ 1.0 | 🔄 91% |  |
 | **[planitaicojp/bucket](directory/planitaicojp+bucket.md)** | 📦 9 | ⭐ 1.0 | 🔄 0% |  |
 | **[AndreiVernon/scoop-cone](directory/AndreiVernon+scoop-cone.md)** | 📦 8 | ⭐ 1.0 | 🔄 100% |  |
 | **[Nevuly/frostbite](directory/Nevuly+frostbite.md)** | 📦 8 | ⭐ 1.0 | 🔄 100% |  |
 | **[henshouse/scoop](directory/henshouse+scoop.md)** | 📦 8 | ⭐ 1.0 | 🔄 88% |  |
+| **[AureateGarden/Zeo-Apps](directory/AureateGarden+Zeo-Apps.md)** | 📦 8 | ⭐ 1.0 | 🔄 100% |  |
 | **[fahim-ahmed05/scoop-bucket](directory/fahim-ahmed05+scoop-bucket.md)** | 📦 8 | ⭐ 1.0 | 🔄 100% |  |
 | **[jonz94/scoop-personal](directory/jonz94+scoop-personal.md)** | 📦 8 | ⭐ 1.0 | 🔄 100% |  |
 | **[BinToss/scoop-bucket](directory/BinToss+scoop-bucket.md)** | 📦 8 | ⭐ 1.0 | 🔄 100% |  |
@@ -1836,7 +1838,6 @@ A combined list of every source discovered in the ecosystem.
 | **[zaevi/scoop-bucket](directory/zaevi+scoop-bucket.md)** | 📦 8 | ⭐ 1.0 | 🔄 100% |  |
 | **[ChenXiangcheng1/cxc-scoop-bucket](directory/ChenXiangcheng1+cxc-scoop-bucket.md)** | 📦 8 | ⭐ 1.0 | 🔄 88% |  |
 | **[YDX-2147483647/scoop-bucket](directory/YDX-2147483647+scoop-bucket.md)** | 📦 8 | ⭐ 1.0 | 🔄 100% |  |
-| **[EFLKumo/jam](directory/EFLKumo+jam.md)** | 📦 10 | ⭐ 1.0 | 🔄 100% |  |
 | **[dyuu7/docket](directory/dyuu7+docket.md)** | 📦 10 | ⭐ 1.0 | 🔄 80% |  |
 | **[lucaspimentel/scoop-bucket](directory/lucaspimentel+scoop-bucket.md)** | 📦 10 | ⭐ 1.0 | 🔄 100% |  |
 | **[TheRandomLabs/Scoop-Spotify](directory/TheRandomLabs+Scoop-Spotify.md)** | 📦 10 | ⭐ 1.0 | 🔄 90% |  |
@@ -1853,8 +1854,8 @@ A combined list of every source discovered in the ecosystem.
 | **[Ash258/GithubActionsBucketForTesting](directory/Ash258+GithubActionsBucketForTesting.md)** | 📦 17 | ⭐ 1.0 | 🔄 82% | <br>👑 Official Shovel |
 | **[mbl-35/scoop-srsrns](directory/mbl-35+scoop-srsrns.md)** | 📦 10 | ⭐ 1.0 | 🔄 100% |  |
 | **[JamesWoolfenden/scoop](directory/JamesWoolfenden+scoop.md)** | 📦 8 | ⭐ 1.0 | 🔄 0% |  |
-| **[jeangod/scoop-jiepot](directory/jeangod+scoop-jiepot.md)** | 📦 10 | ⭐ 1.0 | 🔄 100% |  |
 | **[nyable/mirai-bucket](directory/nyable+mirai-bucket.md)** | 📦 7 | ⭐ 1.0 | 🔄 71% |  |
+| **[jeangod/scoop-jiepot](directory/jeangod+scoop-jiepot.md)** | 📦 10 | ⭐ 1.0 | 🔄 100% |  |
 | **[shovel-org/Windows-Sysinternals-Bucket](directory/shovel-org+Windows-Sysinternals-Bucket.md)** | 📦 74 | ⭐ 1.0 | 🔄 99% | <br>👑 Official Shovel |
 | **[pact-foundation/scoop](directory/pact-foundation+scoop.md)** | 📦 7 | ⭐ 1.0 | 🔄 0% |  |
 | **[mattia72/scoop](directory/mattia72+scoop.md)** | 📦 7 | ⭐ 1.0 | 🔄 100% |  |
@@ -1862,12 +1863,12 @@ A combined list of every source discovered in the ecosystem.
 | **[mgziminsky/scoop-bucket](directory/mgziminsky+scoop-bucket.md)** | 📦 22 | ⭐ 1.0 | 🔄 100% |  |
 | **[Himalian/custom-bucket](directory/Himalian+custom-bucket.md)** | 📦 8 | ⭐ 1.0 | 🔄 88% |  |
 | **[felixmaker/scoop-felixmaker](directory/felixmaker+scoop-felixmaker.md)** | 📦 9 | ⭐ 1.0 | 🔄 100% |  |
-| **[Deskehs/personalBucket](directory/Deskehs+personalBucket.md)** | 📦 9 | ⭐ 1.0 | 🔄 100% |  |
 | **[muxinxy/scoop-bucket](directory/muxinxy+scoop-bucket.md)** | 📦 9 | ⭐ 1.0 | 🔄 100% |  |
 | **[yzlc/scoop](directory/yzlc+scoop.md)** | 📦 9 | ⭐ 1.0 | 🔄 56% |  |
 | **[Lemon7ProPlus/ScoopBucket](directory/Lemon7ProPlus+ScoopBucket.md)** | 📦 9 | ⭐ 1.0 | 🔄 100% |  |
 | **[porti/scoop-bucket](directory/porti+scoop-bucket.md)** | 📦 9 | ⭐ 1.0 | 🔄 100% |  |
 | **[LifeRoam/sbc](directory/LifeRoam+sbc.md)** | 📦 9 | ⭐ 1.0 | 🔄 100% |  |
+| **[Deskehs/personalBucket](directory/Deskehs+personalBucket.md)** | 📦 9 | ⭐ 1.0 | 🔄 100% |  |
 | **[baaamn/Scoopercalifragilisticexpialidocious](directory/baaamn+Scoopercalifragilisticexpialidocious.md)** | 📦 12 | ⭐ 1.0 | 🔄 100% |  |
 | **[bharatvaj/scoop-based](directory/bharatvaj+scoop-based.md)** | 📦 7 | ⭐ 1.0 | 🔄 100% |  |
 | **[esureos/ScoopBucket](directory/esureos+ScoopBucket.md)** | 📦 7 | ⭐ 1.0 | 🔄 100% |  |
@@ -1875,7 +1876,6 @@ A combined list of every source discovered in the ecosystem.
 | **[BoringBoredom/scoop-bucket](directory/BoringBoredom+scoop-bucket.md)** | 📦 6 | ⭐ 1.0 | 🔄 100% |  |
 | **[sammary114/self-custom](directory/sammary114+self-custom.md)** | 📦 6 | ⭐ 1.0 | 🔄 83% |  |
 | **[mtpdx/scoop-bucket](directory/mtpdx+scoop-bucket.md)** | 📦 6 | ⭐ 1.0 | 🔄 100% |  |
-| **[wtbxsjy/mattress](directory/wtbxsjy+mattress.md)** | 📦 6 | ⭐ 1.0 | 🔄 100% |  |
 | **[SwingURM/scoop_bucket](directory/SwingURM+scoop_bucket.md)** | 📦 6 | ⭐ 1.0 | 🔄 100% |  |
 | **[alkuzad/scoop-bucket](directory/alkuzad+scoop-bucket.md)** | 📦 6 | ⭐ 1.0 | 🔄 67% |  |
 | **[Juemuren/ScoopBucket](directory/Juemuren+ScoopBucket.md)** | 📦 6 | ⭐ 1.0 | 🔄 100% |  |
@@ -1888,7 +1888,6 @@ A combined list of every source discovered in the ecosystem.
 | **[Exterminate5573/ScoopBucket](directory/Exterminate5573+ScoopBucket.md)** | 📦 6 | ⭐ 1.0 | 🔄 83% |  |
 | **[tree-s/unity3d](directory/tree-s+unity3d.md)** | 📦 8 | ⭐ 1.0 | 🔄 100% |  |
 | **[urihcim/scoop-urihcim](directory/urihcim+scoop-urihcim.md)** | 📦 8 | ⭐ 1.0 | 🔄 100% |  |
-| **[AureateGarden/Zeo-Apps](directory/AureateGarden+Zeo-Apps.md)** | 📦 8 | ⭐ 1.0 | 🔄 100% |  |
 | **[pl4gue/scoup-bucket](directory/pl4gue+scoup-bucket.md)** | 📦 6 | ⭐ 1.0 | 🔄 100% |  |
 | **[robinovitch61/scoop-bucket](directory/robinovitch61+scoop-bucket.md)** | 📦 6 | ⭐ 1.0 | 🔄 0% |  |
 | **[Siphalor/scoop-bucket](directory/Siphalor+scoop-bucket.md)** | 📦 14 | ⭐ 1.0 | 🔄 100% |  |
@@ -1932,6 +1931,7 @@ A combined list of every source discovered in the ecosystem.
 | **[NoPlagiarism/noplag](directory/NoPlagiarism+noplag.md)** | 📦 4 | ⭐ 1.0 | 🔄 75% |  |
 | **[NoNameWasDefined/private-scoop-bucket](directory/NoNameWasDefined+private-scoop-bucket.md)** | 📦 4 | ⭐ 1.0 | 🔄 75% |  |
 | **[goreleaser/scoop-bucket](directory/goreleaser+scoop-bucket.md)** | 📦 4 | ⭐ 1.0 | 🔄 0% |  |
+| **[wtbxsjy/mattress](directory/wtbxsjy+mattress.md)** | 📦 6 | ⭐ 1.0 | 🔄 100% |  |
 | **[LetsShareAll/ScoopBucket](directory/LetsShareAll+ScoopBucket.md)** | 📦 6 | ⭐ 1.0 | 🔄 100% |  |
 | **[RemySkye/RemyScoop](directory/RemySkye+RemyScoop.md)** | 📦 7 | ⭐ 1.0 | 🔄 43% |  |
 | **[PhyX-Meow/ScoopBucket](directory/PhyX-Meow+ScoopBucket.md)** | 📦 4 | ⭐ 1.0 | 🔄 100% |  |
@@ -1966,8 +1966,8 @@ A combined list of every source discovered in the ecosystem.
 | **[alphagocc/lampyridae](directory/alphagocc+lampyridae.md)** | 📦 3 | ⭐ 1.0 | 🔄 33% |  |
 | **[Zalk0/ZalkosBucket](directory/Zalk0+ZalkosBucket.md)** | 📦 3 | ⭐ 1.0 | 🔄 67% |  |
 | **[DemonKingSwarn/flix-cli-bucket](directory/DemonKingSwarn+flix-cli-bucket.md)** | 📦 3 | ⭐ 1.0 | 🔄 33% |  |
-| **[eclecticbouquet/pail](directory/eclecticbouquet+pail.md)** | 📦 3 | ⭐ 1.0 | 🔄 100% |  |
 | **[HeytalePazguato/scoop-bucket](directory/HeytalePazguato+scoop-bucket.md)** | 📦 3 | ⭐ 1.0 | 🔄 0% |  |
+| **[eclecticbouquet/pail](directory/eclecticbouquet+pail.md)** | 📦 3 | ⭐ 1.0 | 🔄 100% |  |
 | **[omardev29/extras-plus](directory/omardev29+extras-plus.md)** | 📦 3 | ⭐ 1.0 | 🔄 100% |  |
 | **[nazo6/scoop-bucket](directory/nazo6+scoop-bucket.md)** | 📦 4 | ⭐ 1.0 | 🔄 75% |  |
 | **[reyamira/scoop-bucket](directory/reyamira+scoop-bucket.md)** | 📦 3 | ⭐ 1.0 | 🔄 0% |  |
@@ -1983,9 +1983,9 @@ A combined list of every source discovered in the ecosystem.
 | **[CodeTease/scoop-bucket](directory/CodeTease+scoop-bucket.md)** | 📦 3 | ⭐ 1.0 | 🔄 100% |  |
 | **[amreus/bucket](directory/amreus+bucket.md)** | 📦 12 | ⭐ 1.0 | 🔄 75% |  |
 | **[arphox/arphox-scoop-bucket](directory/arphox+arphox-scoop-bucket.md)** | 📦 3 | ⭐ 1.0 | 🔄 67% |  |
-| **[MultionLabs/scoop-wireport](directory/MultionLabs+scoop-wireport.md)** | 📦 7 | ⭐ 1.0 | 🔄 100% |  |
 | **[tiham93/SadistScoop](directory/tiham93+SadistScoop.md)** | 📦 4 | ⭐ 1.0 | 🔄 100% |  |
 | **[arrow2nd/scoop-bucket](directory/arrow2nd+scoop-bucket.md)** | 📦 6 | ⭐ 1.0 | 🔄 0% |  |
+| **[MultionLabs/scoop-wireport](directory/MultionLabs+scoop-wireport.md)** | 📦 7 | ⭐ 1.0 | 🔄 100% |  |
 | **[billybooth/bucket](directory/billybooth+bucket.md)** | 📦 5 | ⭐ 1.0 | 🔄 0% |  |
 | **[DenisionSoft/scoop-box](directory/DenisionSoft+scoop-box.md)** | 📦 5 | ⭐ 1.0 | 🔄 40% |  |
 | **[indra87g/awesome-indonesia-dev](directory/indra87g+awesome-indonesia-dev.md)** | 📦 3 | ⭐ 1.0 | 🔄 100% |  |
@@ -2020,8 +2020,8 @@ A combined list of every source discovered in the ecosystem.
 | **[itsHardStyl3r/scoop-personal](directory/itsHardStyl3r+scoop-personal.md)** | 📦 4 | ⭐ 1.0 | 🔄 75% |  |
 | **[imaping/bucket](directory/imaping+bucket.md)** | 📦 3 | ⭐ 1.0 | 🔄 0% |  |
 | **[paulhybryant/scoop](directory/paulhybryant+scoop.md)** | 📦 4 | ⭐ 1.0 | 🔄 50% |  |
-| **[TechPro424/scoop-bucket](directory/TechPro424+scoop-bucket.md)** | 📦 2 | ⭐ 1.0 | 🔄 100% |  |
 | **[stknohg/scoop-bucket](directory/stknohg+scoop-bucket.md)** | 📦 2 | ⭐ 1.0 | 🔄 50% |  |
+| **[TechPro424/scoop-bucket](directory/TechPro424+scoop-bucket.md)** | 📦 2 | ⭐ 1.0 | 🔄 100% |  |
 | **[tschroedter/scoop-bucket](directory/tschroedter+scoop-bucket.md)** | 📦 2 | ⭐ 1.0 | 🔄 50% |  |
 | **[hop-top/scoop-bucket](directory/hop-top+scoop-bucket.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
 | **[gfieldGG/bucket](directory/gfieldGG+bucket.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
@@ -2041,10 +2041,10 @@ A combined list of every source discovered in the ecosystem.
 | **[aik2mlj/scoop-bucket](directory/aik2mlj+scoop-bucket.md)** | 📦 2 | ⭐ 1.0 | 🔄 100% |  |
 | **[sverrirab/scoop-bucket](directory/sverrirab+scoop-bucket.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
 | **[artpar/scoop-bucket](directory/artpar+scoop-bucket.md)** | 📦 2 | ⭐ 1.0 | 🔄 50% |  |
-| **[jbangdev/scoop-bucket](directory/jbangdev+scoop-bucket.md)** | 📦 2 | ⭐ 1.0 | 🔄 100% |  |
 | **[xavidop/scoop-bucket](directory/xavidop+scoop-bucket.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
 | **[kockicica/scoop-bucket](directory/kockicica+scoop-bucket.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
 | **[jiangshen95/my-scoop](directory/jiangshen95+my-scoop.md)** | 📦 2 | ⭐ 1.0 | 🔄 100% |  |
+| **[jbangdev/scoop-bucket](directory/jbangdev+scoop-bucket.md)** | 📦 2 | ⭐ 1.0 | 🔄 100% |  |
 | **[isanych/scoop](directory/isanych+scoop.md)** | 📦 4 | ⭐ 1.0 | 🔄 75% |  |
 | **[HPCesia/scoop-bucket](directory/HPCesia+scoop-bucket.md)** | 📦 4 | ⭐ 1.0 | 🔄 100% |  |
 | **[k0wl0n/scoop-bucket](directory/k0wl0n+scoop-bucket.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
@@ -2173,35 +2173,35 @@ A combined list of every source discovered in the ecosystem.
 | **[imjustprism/scoop-holdon](directory/imjustprism+scoop-holdon.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[ddanielsantos/dd-bucket](directory/ddanielsantos+dd-bucket.md)** | 📦 2 | ⭐ 1.0 | 🔄 50% |  |
 | **[LengSword/scoop-yls](directory/LengSword+scoop-yls.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
-| **[PIRANY1/dataspammer-bucket](directory/PIRANY1+dataspammer-bucket.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
 | **[mendsley/scoop-bucket](directory/mendsley+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[beeblebrox/scoop-bucket](directory/beeblebrox+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[iaredavid01/scoop-bucket](directory/iaredavid01+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[mcpscanner/scoop-bucket](directory/mcpscanner+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[fredjoseph/scoop-bucket](directory/fredjoseph+scoop-bucket.md)** | 📦 8 | ⭐ 1.0 | 🔄 88% |  |
 | **[Mufi-Lang/mufi-bucket](directory/Mufi-Lang+mufi-bucket.md)** | 📦 2 | ⭐ 1.0 | 🔄 100% |  |
-| **[Gasoid/baker-scoop](directory/Gasoid+baker-scoop.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
+| **[PIRANY1/dataspammer-bucket](directory/PIRANY1+dataspammer-bucket.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
 | **[macleod-ee/scoop](directory/macleod-ee+scoop.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[vocweb/scoop-bucket](directory/vocweb+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[JHXs/MyBucket](directory/JHXs+MyBucket.md)** | 📦 5 | ⭐ 1.0 | 🔄 100% |  |
+| **[Gasoid/baker-scoop](directory/Gasoid+baker-scoop.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[lolminiyt/phenom](directory/lolminiyt+phenom.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[gtn1024/scoop-bucket](directory/gtn1024+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[adamrodger/scoop-bucket](directory/adamrodger+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
-| **[kiloscheffer/scoop-dbxignore](directory/kiloscheffer+scoop-dbxignore.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[Bairea/scoop-bucket](directory/Bairea+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[Overimagine1/Poop](directory/Overimagine1+Poop.md)** | 📦 2 | ⭐ 1.0 | 🔄 100% |  |
 | **[louiss0/the-code-fixer-23-buckets](directory/louiss0+the-code-fixer-23-buckets.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[Margarets00/scoop-mixtape](directory/Margarets00+scoop-mixtape.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[cumulus13/scoop-bucket](directory/cumulus13+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[kiloscheffer/scoop-dbxignore](directory/kiloscheffer+scoop-dbxignore.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[auth0/scoop-auth0-cli](directory/auth0+scoop-auth0-cli.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[xiphux/scoop-bucket](directory/xiphux+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[ionos-cloud/scoop-bucket](directory/ionos-cloud+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[frostming/scoop-frostming](directory/frostming+scoop-frostming.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[devsepnine/scoop-bucket](directory/devsepnine+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[koedame/scoop-bucket](directory/koedame+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
-| **[octavioooooo/bucket](directory/octavioooooo+bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[BenjaminMichaelis/Config](directory/BenjaminMichaelis+Config.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[opaquevault-scoop/scoop-bucket](directory/opaquevault-scoop+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[octavioooooo/bucket](directory/octavioooooo+bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[kikplate/scoop-bucket](directory/kikplate+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[rustledger/scoop-rustledger](directory/rustledger+scoop-rustledger.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[500tpig/scoop-bucket](directory/500tpig+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
@@ -2220,9 +2220,9 @@ A combined list of every source discovered in the ecosystem.
 | **[sheeki03/scoop-tirith](directory/sheeki03+scoop-tirith.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[zeroclaw-labs/scoop-zeroclaw](directory/zeroclaw-labs+scoop-zeroclaw.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[dev-tonholo/scoop-svg-to-compose](directory/dev-tonholo+scoop-svg-to-compose.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
-| **[fstubner/scoop-bucket](directory/fstubner+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[mthmulders/scoop-mcs](directory/mthmulders+scoop-mcs.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[agentteamland/scoop-bucket](directory/agentteamland+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[fstubner/scoop-bucket](directory/fstubner+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[file-conversor/scoop](directory/file-conversor+scoop.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[lucianm/on-life-support-bucket](directory/lucianm+on-life-support-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[bvarnai/scoop-bucket](directory/bvarnai+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
@@ -2279,8 +2279,8 @@ A combined list of every source discovered in the ecosystem.
 | **[quanng28/gitwhy-scoop-bucket](directory/quanng28+gitwhy-scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[nasimstg/scoop-bucket](directory/nasimstg+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[JordanCoin/scoop-repomap](directory/JordanCoin+scoop-repomap.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[Tochemey/scoop-bucket](directory/Tochemey+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[rustimate/scoop-bucket](directory/rustimate+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
+| **[Tochemey/scoop-bucket](directory/Tochemey+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[WenSimEHRP/wenmisc-bucket](directory/WenSimEHRP+wenmisc-bucket.md)** | 📦 5 | ⭐ 1.0 | 🔄 20% |  |
 | **[wensimehrp/wenmisc-bucket](directory/wensimehrp+wenmisc-bucket.md)** | 📦 5 | ⭐ 1.0 | 🔄 20% |  |
 | **[rfc3092/scoop](directory/rfc3092+scoop.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
@@ -2288,8 +2288,8 @@ A combined list of every source discovered in the ecosystem.
 | **[stylebending/scoop-bucket](directory/stylebending+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[s19835/scoop-bucket](directory/s19835+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[caffeine-addictt/scoop-bucket](directory/caffeine-addictt+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[blackcoderx/scoop-falcon](directory/blackcoderx+scoop-falcon.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[UreaLaden/scoop-logsage](directory/UreaLaden+scoop-logsage.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[blackcoderx/scoop-falcon](directory/blackcoderx+scoop-falcon.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[GitHubEtienne/scoop-bucket](directory/GitHubEtienne+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[KemalAbdic/scoop-bucket](directory/KemalAbdic+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[riccardomerenda/scoop-bucket](directory/riccardomerenda+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
@@ -2324,7 +2324,6 @@ A combined list of every source discovered in the ecosystem.
 | **[Ideademic/bucket](directory/Ideademic+bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[1jehuang/scoop-mmdr](directory/1jehuang+scoop-mmdr.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[nguyenminhphuong/scoop-bucket](directory/nguyenminhphuong+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
-| **[ArmoryNode/PersonalScoopBucket](directory/ArmoryNode+PersonalScoopBucket.md)** | 📦 7 | ⭐ 1.0 | 🔄 100% |  |
 | **[sohamw03/Scoop-Bucket](directory/sohamw03+Scoop-Bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[ypurpl/bucket](directory/ypurpl+bucket.md)** | 📦 2 | ⭐ 1.0 | 🔄 50% |  |
 | **[perryhq/perryhq-scoop](directory/perryhq+perryhq-scoop.md)** | 📦 2 | ⭐ 1.0 | 🔄 100% |  |
@@ -2334,6 +2333,7 @@ A combined list of every source discovered in the ecosystem.
 | **[metta-systems/scoop-for-ci](directory/metta-systems+scoop-for-ci.md)** | 📦 3 | ⭐ 1.0 | 🔄 100% |  |
 | **[StasysMusial/scoop-bucket](directory/StasysMusial+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[Korosys/ScoopBucket](directory/Korosys+ScoopBucket.md)** | 📦 2 | ⭐ 1.0 | 🔄 100% |  |
+| **[ArmoryNode/PersonalScoopBucket](directory/ArmoryNode+PersonalScoopBucket.md)** | 📦 7 | ⭐ 1.0 | 🔄 100% |  |
 | **[yanghanlin/orihime-first](directory/yanghanlin+orihime-first.md)** | 📦 3 | ⭐ 1.0 | 🔄 67% |  |
 | **[ayoisaiah/scoop-bucket](directory/ayoisaiah+scoop-bucket.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
 | **[supcik/scoop-bucket](directory/supcik+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
@@ -2447,8 +2447,8 @@ A combined list of every source discovered in the ecosystem.
 | **[rich1e/kit](directory/rich1e+kit.md)** | 📦 7 | ⭐ 1.0 | 🔄 57% |  |
 | **[Orphoros/scoop-bucket](directory/Orphoros+scoop-bucket.md)** | 📦 2 | ⭐ 1.0 | 🔄 100% |  |
 | **[terrehbyte/scoop-bucket](directory/terrehbyte+scoop-bucket.md)** | 📦 3 | ⭐ 1.0 | 🔄 100% |  |
-| **[w00tzenheimer/scoop-appz](directory/w00tzenheimer+scoop-appz.md)** | 📦 5 | ⭐ 1.0 | 🔄 100% |  |
 | **[lawrencegripper/scoop-bucket](directory/lawrencegripper+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[w00tzenheimer/scoop-appz](directory/w00tzenheimer+scoop-appz.md)** | 📦 5 | ⭐ 1.0 | 🔄 100% |  |
 | **[Alien-hide/scoop-bucket](directory/Alien-hide+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[lisonge/scoop-ls](directory/lisonge+scoop-ls.md)** | 📦 2 | ⭐ 1.0 | 🔄 100% |  |
 | **[sh3yee/scoop-bucket](directory/sh3yee+scoop-bucket.md)** | 📦 5 | ⭐ 1.0 | 🔄 100% |  |
@@ -2479,8 +2479,8 @@ A combined list of every source discovered in the ecosystem.
 | **[tree-s/progressquest](directory/tree-s+progressquest.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[wendigo/scoop-bucket](directory/wendigo+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[jonesbusy/scoop-bucket](directory/jonesbusy+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
-| **[lumen-oss/rocks-scoop](directory/lumen-oss+rocks-scoop.md)** | 📦 2 | ⭐ 1.0 | 🔄 50% |  |
 | **[Bennett-Yang/bencket](directory/Bennett-Yang+bencket.md)** | 📦 5 | ⭐ 1.0 | 🔄 100% |  |
+| **[lumen-oss/rocks-scoop](directory/lumen-oss+rocks-scoop.md)** | 📦 2 | ⭐ 1.0 | 🔄 50% |  |
 | **[tree-s/mIRC](directory/tree-s+mIRC.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[Cooperter/scoop-bucket](directory/Cooperter+scoop-bucket.md)** | 📦 4 | ⭐ 1.0 | 🔄 75% |  |
 | **[lwb-2021/ScoopBucket](directory/lwb-2021+ScoopBucket.md)** | 📦 4 | ⭐ 1.0 | 🔄 100% |  |
@@ -2488,8 +2488,8 @@ A combined list of every source discovered in the ecosystem.
 | **[duaka/ScoopBucket](directory/duaka+ScoopBucket.md)** | 📦 10 | ⭐ 1.0 | 🔄 90% |  |
 | **[Elypha/garden](directory/Elypha+garden.md)** | 📦 4 | ⭐ 1.0 | 🔄 100% |  |
 | **[phanirithvij/scop](directory/phanirithvij+scop.md)** | 📦 12 | ⭐ 1.0 | 🔄 75% |  |
-| **[wcmiracle/wuzi_scoop](directory/wcmiracle+wuzi_scoop.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[sumoduduk/scoop-bucket](directory/sumoduduk+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
+| **[wcmiracle/wuzi_scoop](directory/wcmiracle+wuzi_scoop.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[aeswibon/scoop-bucket](directory/aeswibon+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[Bios-Marcel/scoopbucket](directory/Bios-Marcel+scoopbucket.md)** | 📦 4 | ⭐ 1.0 | 🔄 50% |  |
 | **[heroku-miraheze/scoop-bucket](directory/heroku-miraheze+scoop-bucket.md)** | 📦 3 | ⭐ 1.0 | 🔄 67% |  |
@@ -2508,9 +2508,9 @@ A combined list of every source discovered in the ecosystem.
 | **[skyvanfall/skyvanfall_bucket](directory/skyvanfall+skyvanfall_bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[inmare/scoop-bucket](directory/inmare+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[inetcp/scoop-bucket](directory/inetcp+scoop-bucket.md)** | 📦 9 | ⭐ 1.0 | 🔄 44% |  |
-| **[darkliquid/bucket](directory/darkliquid+bucket.md)** | 📦 7 | ⭐ 1.0 | 🔄 86% |  |
 | **[Dreista/scoop-bucket](directory/Dreista+scoop-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[mike-macmullin/vm-bucket-old](directory/mike-macmullin+vm-bucket-old.md)** | 📦 4 | ⭐ 1.0 | 🔄 0% |  |
+| **[darkliquid/bucket](directory/darkliquid+bucket.md)** | 📦 7 | ⭐ 1.0 | 🔄 86% |  |
 | **[Daniele-rolli/Beaver-Bucket](directory/Daniele-rolli+Beaver-Bucket.md)** | 📦 2 | ⭐ 1.0 | 🔄 100% |  |
 | **[duaka/ScoopBucketSH](directory/duaka+ScoopBucketSH.md)** | 📦 2 | ⭐ 1.0 | 🔄 100% |  |
 | **[SDshadow/my-bucket](directory/SDshadow+my-bucket.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
@@ -2880,8 +2880,8 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 1041
-* **Total Repo Updates**: 65644
+* **Total Crawler Runs**: 1042
+* **Total Repo Updates**: 65705
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
@@ -2889,6 +2889,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 0
 * **Cache Size**: 💾 9.68 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 0.12s
-  * 📥 Update: 123.92s
-* **Cumulative Compute Time**: 2642.7 minutes
+  * 🔍 Discovery: 0.82s
+  * 📥 Update: 170.08s
+* **Cumulative Compute Time**: 2645.6 minutes
