@@ -8,8 +8,8 @@
 
 
 ## 📦 Recipes (5)
-* [QQScreenShot.json](https://github.com/JHXs/MyBucket/blob/master/bucket/QQScreenShot.json)
-* [natpierce.json](https://github.com/JHXs/MyBucket/blob/master/bucket/natpierce.json)
 * [easytier.json](https://github.com/JHXs/MyBucket/blob/master/bucket/easytier.json)
 * [qianji.json](https://github.com/JHXs/MyBucket/blob/master/bucket/qianji.json)
+* [QQScreenShot.json](https://github.com/JHXs/MyBucket/blob/master/bucket/QQScreenShot.json)
+* [natpierce.json](https://github.com/JHXs/MyBucket/blob/master/bucket/natpierce.json)
 * [qqmusic.json](https://github.com/JHXs/MyBucket/blob/master/bucket/qqmusic.json)
