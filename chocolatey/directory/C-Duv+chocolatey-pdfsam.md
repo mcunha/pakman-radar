@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [pdfsam.nuspec](https://github.com/C-Duv/chocolatey-pdfsam/blob/master/pdfsam/pdfsam.nuspec)
 * [pdfsam.install.nuspec](https://github.com/C-Duv/chocolatey-pdfsam/blob/master/pdfsam.install/pdfsam.install.nuspec)
+* [pdfsam.nuspec](https://github.com/C-Duv/chocolatey-pdfsam/blob/master/pdfsam/pdfsam.nuspec)

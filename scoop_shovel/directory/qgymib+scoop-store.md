@@ -8,6 +8,6 @@
 
 
 ## 📦 Recipes (3)
+* [mylifeorganized.json](https://github.com/qgymib/scoop-store/blob/main/bucket/mylifeorganized.json)
 * [syncthingtray.json](https://github.com/qgymib/scoop-store/blob/main/bucket/syncthingtray.json)
 * [drmemory.json](https://github.com/qgymib/scoop-store/blob/main/bucket/drmemory.json)
-* [mylifeorganized.json](https://github.com/qgymib/scoop-store/blob/main/bucket/mylifeorganized.json)

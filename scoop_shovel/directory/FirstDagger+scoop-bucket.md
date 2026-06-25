@@ -8,13 +8,13 @@
 
 
 ## 📦 Recipes (10)
+* [thumbsviewer.json](https://github.com/FirstDagger/scoop-bucket/blob/master/bucket/thumbsviewer.json)
 * [mikumikudance.json](https://github.com/FirstDagger/scoop-bucket/blob/master/bucket/mikumikudance.json)
+* [ldview.json](https://github.com/FirstDagger/scoop-bucket/blob/master/bucket/ldview.json)
+* [plantronics-hub.json](https://github.com/FirstDagger/scoop-bucket/blob/master/bucket/plantronics-hub.json)
 * [usbtreeview.json](https://github.com/FirstDagger/scoop-bucket/blob/master/bucket/usbtreeview.json)
 * [noesis.json](https://github.com/FirstDagger/scoop-bucket/blob/master/bucket/noesis.json)
-* [mediathekview.json](https://github.com/FirstDagger/scoop-bucket/blob/master/bucket/mediathekview.json)
 * [waifu2x-snowshell.json](https://github.com/FirstDagger/scoop-bucket/blob/master/bucket/waifu2x-snowshell.json)
-* [plantronics-hub.json](https://github.com/FirstDagger/scoop-bucket/blob/master/bucket/plantronics-hub.json)
 * [sjisunzip.json](https://github.com/FirstDagger/scoop-bucket/blob/master/bucket/sjisunzip.json)
-* [ldview.json](https://github.com/FirstDagger/scoop-bucket/blob/master/bucket/ldview.json)
 * [leocad.json](https://github.com/FirstDagger/scoop-bucket/blob/master/bucket/leocad.json)
-* [thumbsviewer.json](https://github.com/FirstDagger/scoop-bucket/blob/master/bucket/thumbsviewer.json)
+* [mediathekview.json](https://github.com/FirstDagger/scoop-bucket/blob/master/bucket/mediathekview.json)
