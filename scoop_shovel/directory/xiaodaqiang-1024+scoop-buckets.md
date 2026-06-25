@@ -8,7 +8,7 @@
 
 
 ## 📦 Recipes (4)
-* [finalshell.json](https://github.com/xiaodaqiang-1024/scoop-buckets/blob/main/bucket/finalshell.json)
+* [fastgithub.json](https://github.com/xiaodaqiang-1024/scoop-buckets/blob/main/bucket/fastgithub.json)
 * [v2rayn-core.json](https://github.com/xiaodaqiang-1024/scoop-buckets/blob/main/bucket/v2rayn-core.json)
 * [BookXNotePro.json](https://github.com/xiaodaqiang-1024/scoop-buckets/blob/main/bucket/BookXNotePro.json)
-* [fastgithub.json](https://github.com/xiaodaqiang-1024/scoop-buckets/blob/main/bucket/fastgithub.json)
+* [finalshell.json](https://github.com/xiaodaqiang-1024/scoop-buckets/blob/main/bucket/finalshell.json)
