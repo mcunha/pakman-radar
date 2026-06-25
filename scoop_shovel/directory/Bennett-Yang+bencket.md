@@ -9,7 +9,7 @@
 
 ## 📦 Recipes (5)
 * [image2latex.json](https://github.com/Bennett-Yang/bencket/blob/master/bucket/image2latex.json)
-* [officetoolplus.json](https://github.com/Bennett-Yang/bencket/blob/master/bucket/officetoolplus.json)
+* [cherrystudio.json](https://github.com/Bennett-Yang/bencket/blob/master/bucket/cherrystudio.json)
 * [antdownloadmanager.json](https://github.com/Bennett-Yang/bencket/blob/master/bucket/antdownloadmanager.json)
 * [quicker.json](https://github.com/Bennett-Yang/bencket/blob/master/bucket/quicker.json)
-* [cherrystudio.json](https://github.com/Bennett-Yang/bencket/blob/master/bucket/cherrystudio.json)
+* [officetoolplus.json](https://github.com/Bennett-Yang/bencket/blob/master/bucket/officetoolplus.json)

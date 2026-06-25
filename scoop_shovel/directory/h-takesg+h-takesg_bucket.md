@@ -8,8 +8,8 @@
 
 
 ## 📦 Recipes (5)
-* [quickroute.json](https://github.com/h-takesg/h-takesg_bucket/blob/master/bucket/quickroute.json)
-* [open-orienteering-mapper.json](https://github.com/h-takesg/h-takesg_bucket/blob/master/bucket/open-orienteering-mapper.json)
 * [voicevox-gpu.json](https://github.com/h-takesg/h-takesg_bucket/blob/master/bucket/voicevox-gpu.json)
 * [poppler-with-data.json](https://github.com/h-takesg/h-takesg_bucket/blob/master/bucket/poppler-with-data.json)
 * [purplepen.json](https://github.com/h-takesg/h-takesg_bucket/blob/master/bucket/purplepen.json)
+* [open-orienteering-mapper.json](https://github.com/h-takesg/h-takesg_bucket/blob/master/bucket/open-orienteering-mapper.json)
+* [quickroute.json](https://github.com/h-takesg/h-takesg_bucket/blob/master/bucket/quickroute.json)

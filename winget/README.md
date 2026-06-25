@@ -6,10 +6,10 @@ A data-driven, automated discovery and ranking engine for the Winget package man
 ![Update Package Managers Radar](https://github.com/mcunha/scoop-radar/actions/workflows/update.yml/badge.svg)
 
 # 📊 Ecosystem Health
-* **Total Unique Recipes**: 1837
+* **Total Unique Recipes**: 1873
 * **Ecosystem Auto-Update Health**: 0.0%
 * **Ecosystem Reliability**: 100.0% (Sampled URL Health)
-* **Official vs. Community**: 4965 Official / 1271 Community
+* **Official vs. Community**: 4970 Official / 1335 Community
 
 * **Stale/Abandoned Sources (> 1 Year)**: 🪦 2
 
@@ -41,6 +41,7 @@ These repositories are actively maintained and feature a high percentage of **un
 | Repository | Unique Recipes | Total Recipes | Score | Auto-Update |
 | :--- | :---: | :---: | :---: | :---: |
 | **[pl4nty/winget-pkgs-selfhost](directory/pl4nty+winget-pkgs-selfhost.md)** | 💎 41 (95.3%) | 📦 43 | ⭐ 1.0 | 🔄 0% |
+| **[pl4nty/winget-extras](directory/pl4nty+winget-extras.md)** | 💎 64 (92.8%) | 📦 69 | ⭐ 1.0 | 🔄 0% |
 
 
 
@@ -54,13 +55,14 @@ These repositories are actively maintained and feature a high percentage of **un
 A combined list of every source discovered in the ecosystem.
 
 <details>
-<summary><b>Click to expand all 9 discovered sources</b></summary>
+<summary><b>Click to expand all 10 discovered sources</b></summary>
 
 | Repository | Recipes | Score | Auto-Update | Badges |
 | :--- | :---: | :---: | :---: | :--- |
 | **[microsoft/winget-pkgs-submission-test](directory/microsoft+winget-pkgs-submission-test.md)** | 📦 4867 | ⭐ 1.0 | 🔄 0% | 👑 Official |
 | **[eliaor/winget-pkgs](directory/eliaor+winget-pkgs.md)** | 📦 972 | ⭐ 1.0 | 🔄 0% |  |
 | **[vedantmgoyal9/winget-pkgs-automation](directory/vedantmgoyal9+winget-pkgs-automation.md)** | 📦 342 | ⭐ 1.0 | 🔄 0% |  |
+| **[pl4nty/winget-extras](directory/pl4nty+winget-extras.md)** | 📦 69 | ⭐ 1.0 | 🔄 0% |  |
 | **[pl4nty/winget-pkgs-selfhost](directory/pl4nty+winget-pkgs-selfhost.md)** | 📦 43 | ⭐ 1.0 | 🔄 0% |  |
 | **[picguard/winget-updater](directory/picguard+winget-updater.md)** | 📦 4 | ⭐ 1.0 | 🔄 0% |  |
 | **[voicemeet/winget-updater](directory/voicemeet+winget-updater.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
@@ -71,15 +73,15 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 1123
-* **Total Repo Updates**: 37555
+* **Total Crawler Runs**: 1124
+* **Total Repo Updates**: 37617
 * **Ecosystem Growth (Since Last Run)**:
-  * 🪣 +0 Repositories
-  * 📦 +0 Recipes
+  * 🪣 +1 Repositories
+  * 📦 +69 Recipes
 * **Eviction Count**: 🗑️ 19
 * **API Rate Limit Retries**: ⏳ 0
 * **Cache Size**: 💾 0.77 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 0.25s
-  * 📥 Update: 17.45s
-* **Cumulative Compute Time**: 327.9 minutes
+  * 🔍 Discovery: 4.12s
+  * 📥 Update: 17.17s
+* **Cumulative Compute Time**: 328.3 minutes

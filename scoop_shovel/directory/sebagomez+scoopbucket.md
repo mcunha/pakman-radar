@@ -8,6 +8,6 @@
 
 
 ## 📦 Recipes (3)
-* [env.json](https://github.com/sebagomez/scoopbucket/blob/master/bucket/env.json)
-* [unset.json](https://github.com/sebagomez/scoopbucket/blob/master/bucket/unset.json)
 * [export.json](https://github.com/sebagomez/scoopbucket/blob/master/bucket/export.json)
+* [unset.json](https://github.com/sebagomez/scoopbucket/blob/master/bucket/unset.json)
+* [env.json](https://github.com/sebagomez/scoopbucket/blob/master/bucket/env.json)

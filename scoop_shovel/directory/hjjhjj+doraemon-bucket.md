@@ -8,6 +8,6 @@
 
 
 ## 📦 Recipes (3)
-* [SMPlayer.json](https://github.com/hjjhjj/doraemon-bucket/blob/master/bucket/SMPlayer.json)
 * [iperf3.json](https://github.com/hjjhjj/doraemon-bucket/blob/master/bucket/iperf3.json)
+* [SMPlayer.json](https://github.com/hjjhjj/doraemon-bucket/blob/master/bucket/SMPlayer.json)
 * [MadEdit-Mod.json](https://github.com/hjjhjj/doraemon-bucket/blob/master/bucket/MadEdit-Mod.json)

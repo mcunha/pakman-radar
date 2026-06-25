@@ -8,6 +8,6 @@
 
 
 ## 📦 Recipes (3)
-* [pxlcon.json](https://github.com/lptstr/lptstr-scoop/blob/master/bucket/pxlcon.json)
-* [winfetch.json](https://github.com/lptstr/lptstr-scoop/blob/master/bucket/winfetch.json)
 * [sultan.json](https://github.com/lptstr/lptstr-scoop/blob/master/bucket/sultan.json)
+* [winfetch.json](https://github.com/lptstr/lptstr-scoop/blob/master/bucket/winfetch.json)
+* [pxlcon.json](https://github.com/lptstr/lptstr-scoop/blob/master/bucket/pxlcon.json)

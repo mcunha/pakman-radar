@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [kitty.nuspec](https://github.com/Moredread/chocolatey-packages/blob/master/kitty/kitty.nuspec)
 * [kitty.portable.nuspec](https://github.com/Moredread/chocolatey-packages/blob/master/kitty.portable/kitty.portable.nuspec)
+* [kitty.nuspec](https://github.com/Moredread/chocolatey-packages/blob/master/kitty/kitty.nuspec)

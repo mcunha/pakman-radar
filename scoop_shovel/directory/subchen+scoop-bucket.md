@@ -9,7 +9,7 @@
 
 ## 📦 Recipes (5)
 * [sogouinput.json](https://github.com/subchen/scoop-bucket/blob/master/bucket/sogouinput.json)
-* [mouseinc.json](https://github.com/subchen/scoop-bucket/blob/master/bucket/mouseinc.json)
 * [evernote.json](https://github.com/subchen/scoop-bucket/blob/master/bucket/evernote.json)
-* [dev-sidecar.json](https://github.com/subchen/scoop-bucket/blob/master/bucket/dev-sidecar.json)
 * [pixpin.json](https://github.com/subchen/scoop-bucket/blob/master/bucket/pixpin.json)
+* [dev-sidecar.json](https://github.com/subchen/scoop-bucket/blob/master/bucket/dev-sidecar.json)
+* [mouseinc.json](https://github.com/subchen/scoop-bucket/blob/master/bucket/mouseinc.json)

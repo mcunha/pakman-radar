@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [amulet.json](https://github.com/flvinny/scoop-bucket/blob/master/bucket/amulet.json)
 * [superpowers-app.json](https://github.com/flvinny/scoop-bucket/blob/master/bucket/superpowers-app.json)
+* [amulet.json](https://github.com/flvinny/scoop-bucket/blob/master/bucket/amulet.json)

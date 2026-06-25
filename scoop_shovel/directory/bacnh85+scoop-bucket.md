@@ -8,6 +8,6 @@
 
 
 ## 📦 Recipes (3)
+* [usbtreeviewer.json](https://github.com/bacnh85/scoop-bucket/blob/master/bucket/usbtreeviewer.json)
 * [jabradirect.json](https://github.com/bacnh85/scoop-bucket/blob/master/bucket/jabradirect.json)
 * [unikey.json](https://github.com/bacnh85/scoop-bucket/blob/master/bucket/unikey.json)
-* [usbtreeviewer.json](https://github.com/bacnh85/scoop-bucket/blob/master/bucket/usbtreeviewer.json)
