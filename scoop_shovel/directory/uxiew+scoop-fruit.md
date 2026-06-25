@@ -8,10 +8,10 @@
 
 
 ## 📦 Recipes (7)
-* [neteasemusic.json](https://github.com/uxiew/scoop-fruit/blob/master/bucket/neteasemusic.json)
 * [utools.json](https://github.com/uxiew/scoop-fruit/blob/master/bucket/utools.json)
-* [virgo.json](https://github.com/uxiew/scoop-fruit/blob/master/bucket/virgo.json)
-* [MyChrome.json](https://github.com/uxiew/scoop-fruit/blob/master/bucket/MyChrome.json)
 * [figma.json](https://github.com/uxiew/scoop-fruit/blob/master/bucket/figma.json)
-* [hbuilderx.json](https://github.com/uxiew/scoop-fruit/blob/master/bucket/hbuilderx.json)
+* [MyChrome.json](https://github.com/uxiew/scoop-fruit/blob/master/bucket/MyChrome.json)
 * [scoop-completion.json](https://github.com/uxiew/scoop-fruit/blob/master/bucket/scoop-completion.json)
+* [virgo.json](https://github.com/uxiew/scoop-fruit/blob/master/bucket/virgo.json)
+* [neteasemusic.json](https://github.com/uxiew/scoop-fruit/blob/master/bucket/neteasemusic.json)
+* [hbuilderx.json](https://github.com/uxiew/scoop-fruit/blob/master/bucket/hbuilderx.json)
