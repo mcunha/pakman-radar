@@ -75,23 +75,27 @@
     {
       "full_name": "nimbus-agent/scoop-bucket",
       "evicted_at": "2026-06-23T21:53:51Z"
+    },
+    {
+      "full_name": "perryhq/perryhq-scoop",
+      "evicted_at": "2026-06-25T23:50:54Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-25T22:59:40Z",
-    "count": 19,
+    "generated_at": "2026-06-25T23:51:29Z",
+    "count": 20,
     "global_metrics": {
-      "total_runs": 1133,
-      "total_run_time_seconds": 19858.435378313065,
-      "total_repo_updates": 37925,
+      "total_runs": 1134,
+      "total_run_time_seconds": 19877.173775196075,
+      "total_repo_updates": 37959,
       "previous_total_buckets": 10,
       "previous_total_recipes": 6305,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
-      "total_evictions": 19,
+      "total_evictions": 20,
       "total_api_retries": 0,
-      "last_run_discover_time": 0.21660947799682617,
-      "last_run_update_time": 13.475247859954834,
+      "last_run_discover_time": 0.8765525817871094,
+      "last_run_update_time": 17.844059228897095,
       "ecosystem_reliability": 100.0,
       "cache_size_mb": 0.7756338119506836,
       "total_unique_recipes": 1873,

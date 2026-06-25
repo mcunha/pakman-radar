@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [zigmod.json](https://github.com/Villadelfia/pandora/blob/master/bucket/zigmod.json)
 * [zls-dev.json](https://github.com/Villadelfia/pandora/blob/master/bucket/zls-dev.json)
+* [zigmod.json](https://github.com/Villadelfia/pandora/blob/master/bucket/zigmod.json)

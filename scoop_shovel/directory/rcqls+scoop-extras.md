@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [miktex.json](https://github.com/rcqls/scoop-extras/blob/master/miktex.json)
 * [pandoc.json](https://github.com/rcqls/scoop-extras/blob/master/pandoc.json)
+* [miktex.json](https://github.com/rcqls/scoop-extras/blob/master/miktex.json)

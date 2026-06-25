@@ -71,32 +71,36 @@
     {
       "full_name": "nimbus-agent/scoop-bucket",
       "evicted_at": "2026-06-23T21:53:51Z"
+    },
+    {
+      "full_name": "perryhq/perryhq-scoop",
+      "evicted_at": "2026-06-25T23:50:54Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-25T22:59:24Z",
-    "count": 18,
+    "generated_at": "2026-06-25T23:51:05Z",
+    "count": 19,
     "global_metrics": {
-      "total_runs": 1133,
-      "total_run_time_seconds": 180764.70296120644,
-      "total_repo_updates": 72053,
-      "previous_total_buckets": 1385,
-      "previous_total_recipes": 128134,
-      "bucket_velocity": 0,
-      "recipe_velocity": 0,
-      "total_evictions": 18,
+      "total_runs": 1134,
+      "total_run_time_seconds": 180796.91398239136,
+      "total_repo_updates": 72135,
+      "previous_total_buckets": 1384,
+      "previous_total_recipes": 128132,
+      "bucket_velocity": -1,
+      "recipe_velocity": -2,
+      "total_evictions": 19,
       "total_api_retries": 0,
-      "last_run_discover_time": 3.7326016426086426,
-      "last_run_update_time": 375.06510829925537,
-      "ecosystem_reliability": 88.4,
-      "cache_size_mb": 9.688241004943848,
-      "total_unique_recipes": 31231,
+      "last_run_discover_time": 3.283588171005249,
+      "last_run_update_time": 28.158377170562744,
+      "ecosystem_reliability": 88.1,
+      "cache_size_mb": 9.68774127960205,
+      "total_unique_recipes": 31230,
       "auto_update_percentage": 85.33,
       "official_recipes": 48506,
-      "community_recipes": 79628,
+      "community_recipes": 79626,
       "stale_buckets": 465,
       "shovel_buckets": 25,
-      "scoop_buckets": 1360
+      "scoop_buckets": 1359
     }
   }
 }
