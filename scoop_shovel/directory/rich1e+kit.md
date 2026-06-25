@@ -8,10 +8,10 @@
 
 
 ## 📦 Recipes (7)
-* [zotero.json](https://github.com/rich1e/kit/blob/master/bucket/zotero.json)
-* [BeyondCompare4.json](https://github.com/rich1e/kit/blob/master/bucket/BeyondCompare4.json)
-* [PasteEx.json](https://github.com/rich1e/kit/blob/master/bucket/PasteEx.json)
 * [CapsLockIndicator.json](https://github.com/rich1e/kit/blob/master/bucket/CapsLockIndicator.json)
+* [zotero.json](https://github.com/rich1e/kit/blob/master/bucket/zotero.json)
+* [launchy.json](https://github.com/rich1e/kit/blob/master/bucket/launchy.json)
 * [unlocker.json](https://github.com/rich1e/kit/blob/master/bucket/unlocker.json)
 * [WinCaffeine.json](https://github.com/rich1e/kit/blob/master/bucket/WinCaffeine.json)
-* [launchy.json](https://github.com/rich1e/kit/blob/master/bucket/launchy.json)
+* [BeyondCompare4.json](https://github.com/rich1e/kit/blob/master/bucket/BeyondCompare4.json)
+* [PasteEx.json](https://github.com/rich1e/kit/blob/master/bucket/PasteEx.json)

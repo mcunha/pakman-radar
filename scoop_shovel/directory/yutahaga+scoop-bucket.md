@@ -8,9 +8,9 @@
 
 
 ## 📦 Recipes (6)
-* [nyagos.json](https://github.com/yutahaga/scoop-bucket/blob/master/bucket/nyagos.json)
-* [nexusfont.json](https://github.com/yutahaga/scoop-bucket/blob/master/bucket/nexusfont.json)
 * [pngquant.json](https://github.com/yutahaga/scoop-bucket/blob/master/bucket/pngquant.json)
-* [vscode-insiders.json](https://github.com/yutahaga/scoop-bucket/blob/master/bucket/vscode-insiders.json)
 * [guetzli.json](https://github.com/yutahaga/scoop-bucket/blob/master/bucket/guetzli.json)
 * [cmder.json](https://github.com/yutahaga/scoop-bucket/blob/master/bucket/cmder.json)
+* [vscode-insiders.json](https://github.com/yutahaga/scoop-bucket/blob/master/bucket/vscode-insiders.json)
+* [nyagos.json](https://github.com/yutahaga/scoop-bucket/blob/master/bucket/nyagos.json)
+* [nexusfont.json](https://github.com/yutahaga/scoop-bucket/blob/master/bucket/nexusfont.json)

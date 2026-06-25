@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [glab.json](https://github.com/profclems/scoop-bucket/blob/master/bucket/glab.json)
 * [tfa.json](https://github.com/profclems/scoop-bucket/blob/master/bucket/tfa.json)
+* [glab.json](https://github.com/profclems/scoop-bucket/blob/master/bucket/glab.json)

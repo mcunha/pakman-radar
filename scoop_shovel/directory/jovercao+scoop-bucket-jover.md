@@ -9,6 +9,6 @@
 
 ## 📦 Recipes (4)
 * [naotu.json](https://github.com/jovercao/scoop-bucket-jover/blob/master/bucket/naotu.json)
-* [utools.json](https://github.com/jovercao/scoop-bucket-jover/blob/master/bucket/utools.json)
 * [sqlpackage.json](https://github.com/jovercao/scoop-bucket-jover/blob/master/bucket/sqlpackage.json)
+* [utools.json](https://github.com/jovercao/scoop-bucket-jover/blob/master/bucket/utools.json)
 * [dvm.json](https://github.com/jovercao/scoop-bucket-jover/blob/master/bucket/dvm.json)

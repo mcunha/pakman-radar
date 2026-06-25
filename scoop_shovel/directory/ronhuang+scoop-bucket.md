@@ -8,6 +8,6 @@
 
 
 ## 📦 Recipes (3)
-* [rpg-cli.json](https://github.com/ronhuang/scoop-bucket/blob/main/bucket/rpg-cli.json)
 * [chrysalis.json](https://github.com/ronhuang/scoop-bucket/blob/main/bucket/chrysalis.json)
+* [rpg-cli.json](https://github.com/ronhuang/scoop-bucket/blob/main/bucket/rpg-cli.json)
 * [acpica.json](https://github.com/ronhuang/scoop-bucket/blob/main/bucket/acpica.json)
