@@ -7454,7 +7454,7 @@
         "user32dll",
         "window"
       ],
-      "last_checked": "2026-05-26T19:11:19Z",
+      "last_checked": "2026-06-25T20:04:53Z",
       "pushed_at": "2025-02-17T15:21:57Z",
       "archived": false,
       "disabled": false,
@@ -7494,7 +7494,7 @@
         "powershell",
         "user32dll"
       ],
-      "last_checked": "2026-05-26T19:11:19Z",
+      "last_checked": "2026-06-25T20:04:53Z",
       "pushed_at": "2025-02-17T15:20:03Z",
       "archived": false,
       "disabled": false,
@@ -7534,7 +7534,7 @@
         "send-keys",
         "user32dll"
       ],
-      "last_checked": "2026-05-26T19:11:19Z",
+      "last_checked": "2026-06-25T20:04:53Z",
       "pushed_at": "2025-02-17T15:15:28Z",
       "archived": false,
       "disabled": false,
@@ -8341,7 +8341,7 @@
       "unique_count": 37,
       "uniqueness_ratio": 1.0,
       "auto_update_percentage": 0.0,
-      "final_score": -36.77343145223952,
+      "final_score": -37.01766889531484,
       "current_rank": 137,
       "rank_velocity": 0,
       "previous_rank": 137,
@@ -9178,7 +9178,7 @@
       "unique_count": 1,
       "uniqueness_ratio": 1.0,
       "auto_update_percentage": 0.0,
-      "final_score": -65.32398724477024,
+      "final_score": -65.39722806401478,
       "current_rank": 157,
       "rank_velocity": 0,
       "previous_rank": 157,
@@ -9254,7 +9254,7 @@
       "auto_update_percentage": 100.0,
       "final_score": -75.57770193900592,
       "current_rank": 159,
-      "rank_velocity": 1,
+      "rank_velocity": 0,
       "previous_rank": 159,
       "is_scoop_official": false,
       "is_scoop_known": false,
@@ -9297,7 +9297,7 @@
       "auto_update_percentage": 0.0,
       "final_score": -75.64826991193522,
       "current_rank": 160,
-      "rank_velocity": -1,
+      "rank_velocity": 0,
       "previous_rank": 160,
       "is_scoop_official": false,
       "is_scoop_known": false,
@@ -9461,13 +9461,13 @@
         "chocolatey",
         "chocolatey-packages"
       ],
-      "last_checked": "2026-05-26T19:11:19Z",
+      "last_checked": "2026-06-25T20:04:53Z",
       "pushed_at": "2022-08-10T17:59:29Z",
       "archived": false,
       "disabled": false,
       "entries": [
-        "wol/wol.nuspec",
-        "hash/hash.nuspec"
+        "hash/hash.nuspec",
+        "wol/wol.nuspec"
       ],
       "checkver_count": 0,
       "consecutive_failures": 0,
@@ -9653,7 +9653,7 @@
         "chocolatey-automatic",
         "packages"
       ],
-      "last_checked": "2026-05-26T19:11:19Z",
+      "last_checked": "2026-06-25T20:04:53Z",
       "pushed_at": "2022-12-29T00:54:27Z",
       "archived": false,
       "disabled": false,
@@ -9861,7 +9861,7 @@
       "unique_count": 1,
       "uniqueness_ratio": 1.0,
       "auto_update_percentage": 0.0,
-      "final_score": -114.9812626925688,
+      "final_score": -115.05450351181334,
       "current_rank": 175,
       "rank_velocity": 0,
       "previous_rank": 175,
@@ -9993,7 +9993,7 @@
         "ide",
         "liteide"
       ],
-      "last_checked": "2026-05-26T19:11:18Z",
+      "last_checked": "2026-06-25T20:04:53Z",
       "pushed_at": "2020-11-05T21:46:51Z",
       "archived": false,
       "disabled": false,
@@ -10196,7 +10196,7 @@
       "unique_count": 1,
       "uniqueness_ratio": 1.0,
       "auto_update_percentage": 0.0,
-      "final_score": -133.87739405766027,
+      "final_score": -133.95063487690481,
       "current_rank": 184,
       "rank_velocity": 0,
       "previous_rank": 184,
@@ -10324,7 +10324,7 @@
         "chocolatey-packages",
         "taiga"
       ],
-      "last_checked": "2026-05-26T19:11:19Z",
+      "last_checked": "2026-06-25T20:04:53Z",
       "pushed_at": "2020-03-14T11:36:45Z",
       "archived": false,
       "disabled": false,
@@ -10985,7 +10985,7 @@
         "chocolatey-packages",
         "powershell"
       ],
-      "last_checked": "2026-05-26T19:11:19Z",
+      "last_checked": "2026-06-25T20:04:53Z",
       "pushed_at": "2018-09-05T22:45:26Z",
       "archived": false,
       "disabled": false,
@@ -11019,13 +11019,13 @@
       "topics": [
         "chocolatey-packages"
       ],
-      "last_checked": "2026-05-26T19:11:19Z",
+      "last_checked": "2026-06-25T20:04:53Z",
       "pushed_at": "2019-12-04T11:04:58Z",
       "archived": true,
       "disabled": false,
       "entries": [
-        "reactotron-package/reactotron.nuspec",
-        "jaime-package/jaime.nuspec"
+        "jaime-package/jaime.nuspec",
+        "reactotron-package/reactotron.nuspec"
       ],
       "checkver_count": 0,
       "consecutive_failures": 0,
@@ -11345,7 +11345,7 @@
       "topics": [
         "chocolatey-packages"
       ],
-      "last_checked": "2026-05-26T19:11:19Z",
+      "last_checked": "2026-06-25T20:04:53Z",
       "pushed_at": "2017-05-12T01:39:33Z",
       "archived": false,
       "disabled": false,
@@ -11801,20 +11801,20 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-25T19:05:12Z",
+    "generated_at": "2026-06-25T20:04:53Z",
     "count": 227,
     "global_metrics": {
-      "total_runs": 1129,
-      "total_run_time_seconds": 3833.4015080928802,
-      "total_repo_updates": 68005,
+      "total_runs": 1130,
+      "total_run_time_seconds": 3836.3723793029785,
+      "total_repo_updates": 68074,
       "previous_total_buckets": 227,
       "previous_total_recipes": 3329,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
       "total_evictions": 19,
       "total_api_retries": 0,
-      "last_run_discover_time": 0.29135799407958984,
-      "last_run_update_time": 1.8866169452667236,
+      "last_run_discover_time": 0.5596106052398682,
+      "last_run_update_time": 2.3811752796173096,
       "ecosystem_reliability": 100.0,
       "cache_size_mb": 0.8163299560546875,
       "total_unique_recipes": 2931,

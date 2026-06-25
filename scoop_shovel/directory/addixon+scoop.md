@@ -9,7 +9,7 @@
 
 ## 📦 Recipes (5)
 * [pixlet.json](https://github.com/addixon/scoop/blob/main/bucket/pixlet.json)
-* [jabradirect.json](https://github.com/addixon/scoop/blob/main/bucket/jabradirect.json)
+* [muteme.json](https://github.com/addixon/scoop/blob/main/bucket/muteme.json)
 * [xrmtoolbox-sql4cds.json](https://github.com/addixon/scoop/blob/main/bucket/xrmtoolbox-sql4cds.json)
 * [powerplatformcli.json](https://github.com/addixon/scoop/blob/main/bucket/powerplatformcli.json)
-* [muteme.json](https://github.com/addixon/scoop/blob/main/bucket/muteme.json)
+* [jabradirect.json](https://github.com/addixon/scoop/blob/main/bucket/jabradirect.json)

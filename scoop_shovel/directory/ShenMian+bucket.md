@@ -8,8 +8,8 @@
 
 
 ## 📦 Recipes (5)
-* [sokoban-cpp.json](https://github.com/ShenMian/bucket/blob/master/bucket/sokoban-cpp.json)
-* [tracker.json](https://github.com/ShenMian/bucket/blob/master/bucket/tracker.json)
-* [gomoku.json](https://github.com/ShenMian/bucket/blob/master/bucket/gomoku.json)
-* [blender.json](https://github.com/ShenMian/bucket/blob/master/bucket/blender.json)
 * [sokoban.json](https://github.com/ShenMian/bucket/blob/master/bucket/sokoban.json)
+* [blender.json](https://github.com/ShenMian/bucket/blob/master/bucket/blender.json)
+* [tracker.json](https://github.com/ShenMian/bucket/blob/master/bucket/tracker.json)
+* [sokoban-cpp.json](https://github.com/ShenMian/bucket/blob/master/bucket/sokoban-cpp.json)
+* [gomoku.json](https://github.com/ShenMian/bucket/blob/master/bucket/gomoku.json)

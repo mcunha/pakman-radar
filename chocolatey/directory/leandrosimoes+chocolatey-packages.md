@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [reactotron.nuspec](https://github.com/leandrosimoes/chocolatey-packages/blob/master/reactotron-package/reactotron.nuspec)
 * [jaime.nuspec](https://github.com/leandrosimoes/chocolatey-packages/blob/master/jaime-package/jaime.nuspec)
+* [reactotron.nuspec](https://github.com/leandrosimoes/chocolatey-packages/blob/master/reactotron-package/reactotron.nuspec)

@@ -8,6 +8,6 @@
 
 
 ## 📦 Recipes (3)
-* [rectanglewin.json](https://github.com/thesobercoder/scoop/blob/main/rectanglewin.json)
 * [moon.json](https://github.com/thesobercoder/scoop/blob/main/moon.json)
 * [diag.json](https://github.com/thesobercoder/scoop/blob/main/diag.json)
+* [rectanglewin.json](https://github.com/thesobercoder/scoop/blob/main/rectanglewin.json)
