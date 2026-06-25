@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [lx-music.json](https://github.com/tony-sung/ScoopPersonalBucket/blob/main/bucket/lx-music.json)
 * [qq.nt.json](https://github.com/tony-sung/ScoopPersonalBucket/blob/main/bucket/qq.nt.json)
+* [lx-music.json](https://github.com/tony-sung/ScoopPersonalBucket/blob/main/bucket/lx-music.json)

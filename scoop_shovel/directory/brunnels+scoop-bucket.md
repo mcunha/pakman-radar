@@ -9,6 +9,6 @@
 
 ## 📦 Recipes (4)
 * [docker-cli.json](https://github.com/brunnels/scoop-bucket/blob/master/bucket/docker-cli.json)
-* [winscp-fossies.json](https://github.com/brunnels/scoop-bucket/blob/master/bucket/winscp-fossies.json)
 * [vcxsrv-wsl-patch.json](https://github.com/brunnels/scoop-bucket/blob/master/bucket/vcxsrv-wsl-patch.json)
 * [curl-github.json](https://github.com/brunnels/scoop-bucket/blob/master/bucket/curl-github.json)
+* [winscp-fossies.json](https://github.com/brunnels/scoop-bucket/blob/master/bucket/winscp-fossies.json)
