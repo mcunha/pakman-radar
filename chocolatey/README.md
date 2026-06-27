@@ -112,8 +112,8 @@ A combined list of every source discovered in the ecosystem.
 | **[welpo/chocolatey-packages](directory/welpo+chocolatey-packages.md)** | 📦 3 | ⭐ 1.0 | 🔄 0% |  |
 | **[philiparola/chocolatey-packages](directory/philiparola+chocolatey-packages.md)** | 📦 3 | ⭐ 1.0 | 🔄 0% |  |
 | **[streamlink/streamlink-twitch-gui-chocolatey](directory/streamlink+streamlink-twitch-gui-chocolatey.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
-| **[Takmg/chocolatey](directory/Takmg+chocolatey.md)** | 📦 4 | ⭐ 1.0 | 🔄 50% |  |
 | **[robertZaufall/ChocolateStoreCore](directory/robertZaufall+ChocolateStoreCore.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
+| **[Takmg/chocolatey](directory/Takmg+chocolatey.md)** | 📦 4 | ⭐ 1.0 | 🔄 50% |  |
 | **[rstudio/tinytex-releases](directory/rstudio+tinytex-releases.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[jufab/jenkins-x-chocolatey](directory/jufab+jenkins-x-chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[brogers5/chocolatey-package-controlmymonitor](directory/brogers5+chocolatey-package-controlmymonitor.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
@@ -298,8 +298,8 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 1165
-* **Total Repo Updates**: 70155
+* **Total Crawler Runs**: 1166
+* **Total Repo Updates**: 70215
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
@@ -307,6 +307,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 0
 * **Cache Size**: 💾 0.82 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 0.20s
-  * 📥 Update: 1.40s
-* **Cumulative Compute Time**: 66.1 minutes
+  * 🔍 Discovery: 2.81s
+  * 📥 Update: 1.53s
+* **Cumulative Compute Time**: 66.2 minutes
