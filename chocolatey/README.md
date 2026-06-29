@@ -11,7 +11,7 @@ A data-driven, automated discovery and ranking engine for the Chocolatey package
 * **Ecosystem Reliability**: 100.0% (Sampled URL Health)
 * **Official vs. Community**: 481 Official / 2848 Community
 
-* **Stale/Abandoned Sources (> 1 Year)**: 🪦 122
+* **Stale/Abandoned Sources (> 1 Year)**: 🪦 123
 
 ### Ecosystem Growth (All Recipes)
 <picture>
@@ -218,11 +218,11 @@ A combined list of every source discovered in the ecosystem.
 | **[pocki/chocolateypackages](directory/pocki+chocolateypackages.md)** | 📦 12 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.adobe-acrobat-reader-dc](directory/open-circle-ltd+chocolatey.adobe-acrobat-reader-dc.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[skadogg/ghostwriter-portable](directory/skadogg+ghostwriter-portable.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[open-circle-ltd/chocolatey.jabra-direct](directory/open-circle-ltd+chocolatey.jabra-direct.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.rsa-secureid-software-token](directory/open-circle-ltd+chocolatey.rsa-secureid-software-token.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[open-circle-ltd/chocolatey.adobe-creative-cloud](directory/open-circle-ltd+chocolatey.adobe-creative-cloud.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[open-circle-ltd/chocolatey.jabra-direct](directory/open-circle-ltd+chocolatey.jabra-direct.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.lenovo-thinkpad-usb-c-driver](directory/open-circle-ltd+chocolatey.lenovo-thinkpad-usb-c-driver.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.isl-light-client](directory/open-circle-ltd+chocolatey.isl-light-client.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[open-circle-ltd/chocolatey.adobe-creative-cloud](directory/open-circle-ltd+chocolatey.adobe-creative-cloud.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[TheClonker/rednotebook-chocolatey](directory/TheClonker+rednotebook-chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[jgod/my-choco-packages](directory/jgod+my-choco-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[DustinVenegas/au-packages](directory/DustinVenegas+au-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
@@ -298,8 +298,8 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 1193
-* **Total Repo Updates**: 71819
+* **Total Crawler Runs**: 1194
+* **Total Repo Updates**: 71878
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
@@ -307,6 +307,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 0
 * **Cache Size**: 💾 0.82 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 0.20s
-  * 📥 Update: 1.45s
-* **Cumulative Compute Time**: 67.9 minutes
+  * 🔍 Discovery: 0.65s
+  * 📥 Update: 2.26s
+* **Cumulative Compute Time**: 68.0 minutes
