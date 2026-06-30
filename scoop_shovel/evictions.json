@@ -75,32 +75,36 @@
     {
       "full_name": "perryhq/perryhq-scoop",
       "evicted_at": "2026-06-25T23:50:54Z"
+    },
+    {
+      "full_name": "baiyuking/scoop_bucket",
+      "evicted_at": "2026-06-30T19:02:17Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-30T18:08:10Z",
-    "count": 19,
+    "generated_at": "2026-06-30T19:02:24Z",
+    "count": 20,
     "global_metrics": {
-      "total_runs": 1223,
-      "total_run_time_seconds": 198330.55205059052,
-      "total_repo_updates": 77686,
-      "previous_total_buckets": 1393,
-      "previous_total_recipes": 128151,
-      "bucket_velocity": 0,
-      "recipe_velocity": 0,
-      "total_evictions": 19,
+      "total_runs": 1224,
+      "total_run_time_seconds": 198354.96113348007,
+      "total_repo_updates": 77752,
+      "previous_total_buckets": 1392,
+      "previous_total_recipes": 128150,
+      "bucket_velocity": -1,
+      "recipe_velocity": -1,
+      "total_evictions": 20,
       "total_api_retries": 0,
-      "last_run_discover_time": 2.943666458129883,
-      "last_run_update_time": 310.9990437030792,
-      "ecosystem_reliability": 87.9,
-      "cache_size_mb": 9.698080062866211,
+      "last_run_discover_time": 3.2871673107147217,
+      "last_run_update_time": 20.55841898918152,
+      "ecosystem_reliability": 88.2,
+      "cache_size_mb": 9.697687149047852,
       "total_unique_recipes": 31244,
       "auto_update_percentage": 85.33,
       "official_recipes": 48508,
-      "community_recipes": 79643,
+      "community_recipes": 79642,
       "stale_buckets": 464,
       "shovel_buckets": 25,
-      "scoop_buckets": 1368
+      "scoop_buckets": 1367
     }
   }
 }
