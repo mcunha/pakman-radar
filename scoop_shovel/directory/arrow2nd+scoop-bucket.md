@@ -9,8 +9,8 @@
 
 ## 📦 Recipes (6)
 * [nekome.json](https://github.com/arrow2nd/scoop-bucket/blob/main/bucket/nekome.json)
-* [gomi-rename.json](https://github.com/arrow2nd/scoop-bucket/blob/main/bucket/gomi-rename.json)
-* [anct.json](https://github.com/arrow2nd/scoop-bucket/blob/main/bucket/anct.json)
 * [nimotsu.json](https://github.com/arrow2nd/scoop-bucket/blob/main/bucket/nimotsu.json)
 * [jisyo.json](https://github.com/arrow2nd/scoop-bucket/blob/main/bucket/jisyo.json)
+* [anct.json](https://github.com/arrow2nd/scoop-bucket/blob/main/bucket/anct.json)
+* [gomi-rename.json](https://github.com/arrow2nd/scoop-bucket/blob/main/bucket/gomi-rename.json)
 * [twnyan.json](https://github.com/arrow2nd/scoop-bucket/blob/main/bucket/twnyan.json)
