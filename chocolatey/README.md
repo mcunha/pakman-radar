@@ -194,8 +194,8 @@ A combined list of every source discovered in the ecosystem.
 | **[zarethrex/chocolatey-stuntrally](directory/zarethrex+chocolatey-stuntrally.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[belidzs/chocolatey-duplicacy](directory/belidzs+chocolatey-duplicacy.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[ark0f/choco-ryujinx](directory/ark0f+choco-ryujinx.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
-| **[zarethrex/cookiecutter-chocolatey-package](directory/zarethrex+cookiecutter-chocolatey-package.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[zarethrex/chocolatey-padloc-tauri](directory/zarethrex+chocolatey-padloc-tauri.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[zarethrex/cookiecutter-chocolatey-package](directory/zarethrex+cookiecutter-chocolatey-package.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[giseongeom/chocolatey-packages](directory/giseongeom+chocolatey-packages.md)** | 📦 13 | ⭐ 1.0 | 🔄 0% |  |
 | **[echizenryoma/Chocolatey-Package](directory/echizenryoma+Chocolatey-Package.md)** | 📦 3 | ⭐ 1.0 | 🔄 100% |  |
 | **[simeononsecurity/chocolateypackages](directory/simeononsecurity+chocolateypackages.md)** | 📦 9 | ⭐ 1.0 | 🔄 22% |  |
@@ -298,8 +298,8 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 1256
-* **Total Repo Updates**: 75569
+* **Total Crawler Runs**: 1257
+* **Total Repo Updates**: 75628
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
@@ -307,6 +307,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 0
 * **Cache Size**: 💾 0.82 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 0.30s
-  * 📥 Update: 2.07s
+  * 🔍 Discovery: 0.27s
+  * 📥 Update: 1.86s
 * **Cumulative Compute Time**: 72.2 minutes
