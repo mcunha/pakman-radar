@@ -187,8 +187,8 @@ A combined list of every source discovered in the ecosystem.
 | **[foundata/chocolatey-sendkeys.extension](directory/foundata+chocolatey-sendkeys.extension.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[brianary/chocolatey-packages](directory/brianary+chocolatey-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[samuel-lucas6/Kryptor-Chocolatey](directory/samuel-lucas6+Kryptor-Chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[midrare/choco-packages](directory/midrare+choco-packages.md)** | 📦 5 | ⭐ 1.0 | 🔄 100% |  |
 | **[agabrys/chocolatey-packages](directory/agabrys+chocolatey-packages.md)** | 📦 13 | ⭐ 1.0 | 🔄 0% |  |
+| **[midrare/choco-packages](directory/midrare+choco-packages.md)** | 📦 5 | ⭐ 1.0 | 🔄 100% |  |
 | **[atiq-cs/choco](directory/atiq-cs+choco.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[Adrianogba/jmeter-chocolatey](directory/Adrianogba+jmeter-chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[zarethrex/chocolatey-stuntrally](directory/zarethrex+chocolatey-stuntrally.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
@@ -218,9 +218,9 @@ A combined list of every source discovered in the ecosystem.
 | **[pocki/chocolateypackages](directory/pocki+chocolateypackages.md)** | 📦 12 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.adobe-acrobat-reader-dc](directory/open-circle-ltd+chocolatey.adobe-acrobat-reader-dc.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[skadogg/ghostwriter-portable](directory/skadogg+ghostwriter-portable.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[open-circle-ltd/chocolatey.rsa-secureid-software-token](directory/open-circle-ltd+chocolatey.rsa-secureid-software-token.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.adobe-creative-cloud](directory/open-circle-ltd+chocolatey.adobe-creative-cloud.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.jabra-direct](directory/open-circle-ltd+chocolatey.jabra-direct.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[open-circle-ltd/chocolatey.rsa-secureid-software-token](directory/open-circle-ltd+chocolatey.rsa-secureid-software-token.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.lenovo-thinkpad-usb-c-driver](directory/open-circle-ltd+chocolatey.lenovo-thinkpad-usb-c-driver.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.isl-light-client](directory/open-circle-ltd+chocolatey.isl-light-client.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[TheClonker/rednotebook-chocolatey](directory/TheClonker+rednotebook-chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
@@ -298,8 +298,8 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 1258
-* **Total Repo Updates**: 75687
+* **Total Crawler Runs**: 1259
+* **Total Repo Updates**: 75746
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
@@ -307,6 +307,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 0
 * **Cache Size**: 💾 0.82 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 3.04s
-  * 📥 Update: 2.08s
-* **Cumulative Compute Time**: 72.3 minutes
+  * 🔍 Discovery: 3.66s
+  * 📥 Update: 1.47s
+* **Cumulative Compute Time**: 72.4 minutes
