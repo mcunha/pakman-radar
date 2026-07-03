@@ -54,6 +54,14 @@ These repositories are actively maintained and feature a high percentage of **un
 
 
 
+## 🔥 Trending
+These active repositories are rapidly climbing the ranks due to recent, high-quality updates and growing recipe counts!
+
+| Repository | Rank Change | Current Rank | Recipes | Score | Auto-Update |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **[pact-foundation/choco](directory/pact-foundation+choco.md)** | 📈 +1 | 🏆 #30 | 📦 7 | ⭐ 1.0 | 🔄 0% |
+
+
 
 
 
@@ -96,8 +104,8 @@ A combined list of every source discovered in the ecosystem.
 | **[HealisticEngineer/chocolatey-packages](directory/HealisticEngineer+chocolatey-packages.md)** | 📦 8 | ⭐ 1.0 | 🔄 100% |  |
 | **[kwilliams1987/chocolatey-packages](directory/kwilliams1987+chocolatey-packages.md)** | 📦 7 | ⭐ 1.0 | 🔄 0% |  |
 | **[erwinkersten/chocolatey-packages](directory/erwinkersten+chocolatey-packages.md)** | 📦 7 | ⭐ 1.0 | 🔄 100% |  |
-| **[kai2nenobu/chocolatey-packages](directory/kai2nenobu+chocolatey-packages.md)** | 📦 7 | ⭐ 1.0 | 🔄 100% |  |
 | **[pact-foundation/choco](directory/pact-foundation+choco.md)** | 📦 7 | ⭐ 1.0 | 🔄 0% |  |
+| **[kai2nenobu/chocolatey-packages](directory/kai2nenobu+chocolatey-packages.md)** | 📦 7 | ⭐ 1.0 | 🔄 100% |  |
 | **[michidk/choco](directory/michidk+choco.md)** | 📦 6 | ⭐ 1.0 | 🔄 100% |  |
 | **[w0/au-packages](directory/w0+au-packages.md)** | 📦 6 | ⭐ 1.0 | 🔄 100% |  |
 | **[robertZaufall/chocolatey-packages](directory/robertZaufall+chocolatey-packages.md)** | 📦 5 | ⭐ 1.0 | 🔄 60% |  |
@@ -150,8 +158,8 @@ A combined list of every source discovered in the ecosystem.
 | **[brogers5/chocolatey-package-ps-remote-play](directory/brogers5+chocolatey-package-ps-remote-play.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[chocolatey-community/chocolatey-hooks](directory/chocolatey-community+chocolatey-hooks.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% | 👑 Official |
 | **[brogers5/chocolatey-package-sandisk-dashboard](directory/brogers5+chocolatey-package-sandisk-dashboard.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
-| **[brogers5/chocolatey-package-green-tunnel-gui](directory/brogers5+chocolatey-package-green-tunnel-gui.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-green-tunnel-cli](directory/brogers5+chocolatey-package-green-tunnel-cli.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
+| **[brogers5/chocolatey-package-green-tunnel-gui](directory/brogers5+chocolatey-package-green-tunnel-gui.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[terraform-docs/chocolatey-package](directory/terraform-docs+chocolatey-package.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[brogers5/chocolatey-package-livesplit](directory/brogers5+chocolatey-package-livesplit.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-goldwave](directory/brogers5+chocolatey-package-goldwave.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
@@ -298,8 +306,8 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 1259
-* **Total Repo Updates**: 75746
+* **Total Crawler Runs**: 1260
+* **Total Repo Updates**: 75805
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
@@ -307,6 +315,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 0
 * **Cache Size**: 💾 0.82 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 3.66s
-  * 📥 Update: 1.47s
-* **Cumulative Compute Time**: 72.4 minutes
+  * 🔍 Discovery: 2.69s
+  * 📥 Update: 1.57s
+* **Cumulative Compute Time**: 72.5 minutes
