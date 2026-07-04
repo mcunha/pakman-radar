@@ -118,7 +118,6 @@ A combined list of every source discovered in the ecosystem.
 | **[tailscale/tailscale-chocolatey](directory/tailscale+tailscale-chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[jufab/jenkins-x-chocolatey](directory/jufab+jenkins-x-chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[streamlink/streamlink-chocolatey](directory/streamlink+streamlink-chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[brogers5/chocolatey-package-controlmymonitor](directory/brogers5+chocolatey-package-controlmymonitor.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-openrgb](directory/brogers5+chocolatey-package-openrgb.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[adamrushuk/velero-choco](directory/adamrushuk+velero-choco.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[brogers5/chocolatey-package-openrgb.install](directory/brogers5+chocolatey-package-openrgb.install.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
@@ -128,6 +127,7 @@ A combined list of every source discovered in the ecosystem.
 | **[brogers5/chocolatey-package-openrgb.portable](directory/brogers5+chocolatey-package-openrgb.portable.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[voicemeet/chocolatey-packages](directory/voicemeet+chocolatey-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[ggarns-gh/chocolatey-packages](directory/ggarns-gh+chocolatey-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[brogers5/chocolatey-package-controlmymonitor](directory/brogers5+chocolatey-package-controlmymonitor.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[OpenChrom/OpenChromChocolateyPackage](directory/OpenChrom+OpenChromChocolateyPackage.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.wwphone-cti](directory/open-circle-ltd+chocolatey.wwphone-cti.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.wwphone](directory/open-circle-ltd+chocolatey.wwphone.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
@@ -298,8 +298,8 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 1275
-* **Total Repo Updates**: 76699
+* **Total Crawler Runs**: 1276
+* **Total Repo Updates**: 76758
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
@@ -307,6 +307,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 0
 * **Cache Size**: 💾 0.82 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 2.97s
-  * 📥 Update: 2.08s
-* **Cumulative Compute Time**: 73.3 minutes
+  * 🔍 Discovery: 3.39s
+  * 📥 Update: 1.39s
+* **Cumulative Compute Time**: 73.4 minutes
