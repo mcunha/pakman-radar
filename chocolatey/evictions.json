@@ -83,23 +83,27 @@
     {
       "full_name": "baiyuking/scoop_bucket",
       "evicted_at": "2026-06-30T19:02:17Z"
+    },
+    {
+      "full_name": "Arama0517/scoop-bucket-x",
+      "evicted_at": "2026-07-05T18:28:54Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-07-05T16:31:30Z",
-    "count": 21,
+    "generated_at": "2026-07-05T18:28:58Z",
+    "count": 22,
     "global_metrics": {
-      "total_runs": 1285,
-      "total_run_time_seconds": 4434.436209440231,
-      "total_repo_updates": 77299,
+      "total_runs": 1286,
+      "total_run_time_seconds": 4437.397349596024,
+      "total_repo_updates": 77359,
       "previous_total_buckets": 227,
       "previous_total_recipes": 3329,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
-      "total_evictions": 21,
+      "total_evictions": 22,
       "total_api_retries": 0,
-      "last_run_discover_time": 0.26613688468933105,
-      "last_run_update_time": 2.2423465251922607,
+      "last_run_discover_time": 0.6659078598022461,
+      "last_run_update_time": 2.264174222946167,
       "ecosystem_reliability": 100.0,
       "cache_size_mb": 0.8196287155151367,
       "total_unique_recipes": 2931,

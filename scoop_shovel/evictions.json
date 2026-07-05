@@ -79,32 +79,36 @@
     {
       "full_name": "baiyuking/scoop_bucket",
       "evicted_at": "2026-06-30T19:02:17Z"
+    },
+    {
+      "full_name": "Arama0517/scoop-bucket-x",
+      "evicted_at": "2026-07-05T18:28:54Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-07-05T16:31:27Z",
-    "count": 20,
+    "generated_at": "2026-07-05T18:28:55Z",
+    "count": 21,
     "global_metrics": {
-      "total_runs": 1285,
-      "total_run_time_seconds": 210982.8783903122,
-      "total_repo_updates": 81665,
-      "previous_total_buckets": 1403,
-      "previous_total_recipes": 134695,
-      "bucket_velocity": 0,
-      "recipe_velocity": 0,
-      "total_evictions": 20,
+      "total_runs": 1286,
+      "total_run_time_seconds": 211579.529184103,
+      "total_repo_updates": 81730,
+      "previous_total_buckets": 1404,
+      "previous_total_recipes": 134704,
+      "bucket_velocity": 1,
+      "recipe_velocity": 9,
+      "total_evictions": 21,
       "total_api_retries": 0,
-      "last_run_discover_time": 2.540257692337036,
-      "last_run_update_time": 37.94539785385132,
+      "last_run_discover_time": 2.542285203933716,
+      "last_run_update_time": 593.193112373352,
       "ecosystem_reliability": 88.4,
-      "cache_size_mb": 10.128411293029785,
-      "total_unique_recipes": 31386,
+      "cache_size_mb": 10.128883361816406,
+      "total_unique_recipes": 31388,
       "auto_update_percentage": 85.34,
       "official_recipes": 53950,
-      "community_recipes": 80745,
+      "community_recipes": 80754,
       "stale_buckets": 467,
       "shovel_buckets": 25,
-      "scoop_buckets": 1378
+      "scoop_buckets": 1379
     }
   }
 }
