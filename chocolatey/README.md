@@ -215,8 +215,8 @@ A combined list of every source discovered in the ecosystem.
 | **[Mahagon/chocolatey-packages](directory/Mahagon+chocolatey-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[HaxeFoundation/haxe-choco](directory/HaxeFoundation+haxe-choco.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
 | **[joaoopereira/chocolatey-packages](directory/joaoopereira+chocolatey-packages.md)** | 📦 4 | ⭐ 1.0 | 🔄 100% |  |
-| **[open-circle-ltd/chocolatey.adobe-acrobat-reader-dc](directory/open-circle-ltd+chocolatey.adobe-acrobat-reader-dc.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[pocki/chocolateypackages](directory/pocki+chocolateypackages.md)** | 📦 12 | ⭐ 1.0 | 🔄 0% |  |
+| **[open-circle-ltd/chocolatey.adobe-acrobat-reader-dc](directory/open-circle-ltd+chocolatey.adobe-acrobat-reader-dc.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[skadogg/ghostwriter-portable](directory/skadogg+ghostwriter-portable.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.adobe-creative-cloud](directory/open-circle-ltd+chocolatey.adobe-creative-cloud.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.jabra-direct](directory/open-circle-ltd+chocolatey.jabra-direct.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
@@ -227,8 +227,8 @@ A combined list of every source discovered in the ecosystem.
 | **[jgod/my-choco-packages](directory/jgod+my-choco-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[DustinVenegas/au-packages](directory/DustinVenegas+au-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[BenjaminMichaelis/Chocolatey-Packages](directory/BenjaminMichaelis+Chocolatey-Packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
-| **[dittodhole/chocolatey-superorca](directory/dittodhole+chocolatey-superorca.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[dariusz-wozniak/Chocolatey-Packages](directory/dariusz-wozniak+Chocolatey-Packages.md)** | 📦 9 | ⭐ 1.0 | 🔄 0% |  |
+| **[dittodhole/chocolatey-superorca](directory/dittodhole+chocolatey-superorca.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[pamendez/Range-Kata-Choco](directory/pamendez+Range-Kata-Choco.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[mosesdd/chocolatey.zoiper](directory/mosesdd+chocolatey.zoiper.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[ynlamy/chocolatey-packages](directory/ynlamy+chocolatey-packages.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
@@ -298,8 +298,8 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 1299
-* **Total Repo Updates**: 78137
+* **Total Crawler Runs**: 1300
+* **Total Repo Updates**: 78197
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
@@ -307,6 +307,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 0
 * **Cache Size**: 💾 0.82 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 0.21s
-  * 📥 Update: 1.56s
-* **Cumulative Compute Time**: 74.6 minutes
+  * 🔍 Discovery: 0.60s
+  * 📥 Update: 1.64s
+* **Cumulative Compute Time**: 74.7 minutes
