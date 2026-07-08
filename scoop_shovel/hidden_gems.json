@@ -513,7 +513,7 @@
       "topics": [
         "shovel-bucket"
       ],
-      "last_checked": "2026-07-07T01:10:38Z",
+      "last_checked": "2026-07-08T12:00:23Z",
       "pushed_at": "2026-06-29T02:28:53Z",
       "archived": false,
       "disabled": false,
@@ -567,7 +567,7 @@
         "bucket/rotz.yml"
       ],
       "checkver_count": 46,
-      "consecutive_failures": 190,
+      "consecutive_failures": 191,
       "probe_success_rate": 1.0,
       "valid_probes": 3,
       "total_probes": 3,
@@ -1020,22 +1020,22 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-07-08T10:01:44Z",
+    "generated_at": "2026-07-08T12:00:50Z",
     "count": 10,
     "global_metrics": {
-      "total_runs": 1309,
-      "total_run_time_seconds": 215951.44684672356,
-      "total_repo_updates": 83277,
+      "total_runs": 1310,
+      "total_run_time_seconds": 215989.02351880074,
+      "total_repo_updates": 83348,
       "previous_total_buckets": 1413,
       "previous_total_recipes": 134840,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
       "total_evictions": 21,
       "total_api_retries": 0,
-      "last_run_discover_time": 3.074545383453369,
-      "last_run_update_time": 325.7306504249573,
+      "last_run_discover_time": 3.30707049369812,
+      "last_run_update_time": 33.29098653793335,
       "ecosystem_reliability": 87.6,
-      "cache_size_mb": 10.145488739013672,
+      "cache_size_mb": 10.145071029663086,
       "total_unique_recipes": 31401,
       "auto_update_percentage": 85.35,
       "official_recipes": 53960,
