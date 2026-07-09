@@ -129,9 +129,9 @@ A combined list of every source discovered in the ecosystem.
 | **[ggarns-gh/chocolatey-packages](directory/ggarns-gh+chocolatey-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[brogers5/chocolatey-package-xsplit-broadcaster](directory/brogers5+chocolatey-package-xsplit-broadcaster.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-controlmymonitor](directory/brogers5+chocolatey-package-controlmymonitor.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
-| **[open-circle-ltd/chocolatey.wwphone](directory/open-circle-ltd+chocolatey.wwphone.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[OpenChrom/OpenChromChocolateyPackage](directory/OpenChrom+OpenChromChocolateyPackage.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.wwphone-cti](directory/open-circle-ltd+chocolatey.wwphone-cti.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[open-circle-ltd/chocolatey.wwphone](directory/open-circle-ltd+chocolatey.wwphone.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[brogers5/chocolatey-package-imazing](directory/brogers5+chocolatey-package-imazing.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[open-circle-ltd/chocolatey.microsoft-office-deployment](directory/open-circle-ltd+chocolatey.microsoft-office-deployment.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[zarethrex/chocolatey-openbve](directory/zarethrex+chocolatey-openbve.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
@@ -298,8 +298,8 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 1320
-* **Total Repo Updates**: 79390
+* **Total Crawler Runs**: 1321
+* **Total Repo Updates**: 79449
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
@@ -307,6 +307,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 0
 * **Cache Size**: 💾 0.82 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 0.92s
-  * 📥 Update: 2.75s
+  * 🔍 Discovery: 0.26s
+  * 📥 Update: 1.55s
 * **Cumulative Compute Time**: 76.2 minutes
