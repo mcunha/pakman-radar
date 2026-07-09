@@ -249,8 +249,8 @@ A combined list of every source discovered in the ecosystem.
 | **[marcinbojko/forticlient](directory/marcinbojko+forticlient.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[jgeorgeson/chocolatey-packages](directory/jgeorgeson+chocolatey-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[itigoag/chocolatey.crealogix-paymaker-office](directory/itigoag+chocolatey.crealogix-paymaker-office.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[sbaerlocher/chocolatey.mountain-duck](directory/sbaerlocher+chocolatey.mountain-duck.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[iyato/chocolatey-packages](directory/iyato+chocolatey-packages.md)** | 📦 7 | ⭐ 1.0 | 🔄 100% |  |
+| **[sbaerlocher/chocolatey.mountain-duck](directory/sbaerlocher+chocolatey.mountain-duck.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[h0ek/chocolatey-packages](directory/h0ek+chocolatey-packages.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
 | **[simonewebdesign/chocolatey-packages](directory/simonewebdesign+chocolatey-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[astra-midnight/chocolatey-pkgs](directory/astra-midnight+chocolatey-pkgs.md)** | 📦 3 | ⭐ 1.0 | 🔄 100% |  |
@@ -298,8 +298,8 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 1322
-* **Total Repo Updates**: 79508
+* **Total Crawler Runs**: 1323
+* **Total Repo Updates**: 79567
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
@@ -307,6 +307,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 0
 * **Cache Size**: 💾 0.82 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 3.62s
-  * 📥 Update: 2.05s
-* **Cumulative Compute Time**: 76.3 minutes
+  * 🔍 Discovery: 0.33s
+  * 📥 Update: 1.89s
+* **Cumulative Compute Time**: 76.4 minutes
