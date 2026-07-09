@@ -91,25 +91,29 @@
     {
       "full_name": "sageil/scoop-bucket",
       "evicted_at": "2026-07-09T07:55:36Z"
+    },
+    {
+      "full_name": "carryon-dev/scoop-bucket",
+      "evicted_at": "2026-07-09T22:45:27Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-07-09T21:03:13Z",
-    "count": 23,
+    "generated_at": "2026-07-09T22:45:35Z",
+    "count": 24,
     "global_metrics": {
-      "total_runs": 1323,
-      "total_run_time_seconds": 4582.059738636017,
-      "total_repo_updates": 79567,
+      "total_runs": 1324,
+      "total_run_time_seconds": 4584.143976211548,
+      "total_repo_updates": 79626,
       "previous_total_buckets": 227,
       "previous_total_recipes": 3329,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
-      "total_evictions": 23,
+      "total_evictions": 24,
       "total_api_retries": 0,
-      "last_run_discover_time": 0.3283960819244385,
-      "last_run_update_time": 1.894486904144287,
+      "last_run_discover_time": 0.25763726234436035,
+      "last_run_update_time": 1.7953355312347412,
       "ecosystem_reliability": 100.0,
-      "cache_size_mb": 0.8210210800170898,
+      "cache_size_mb": 0.8210182189941406,
       "total_unique_recipes": 2931,
       "auto_update_percentage": 35.99,
       "official_recipes": 481,
