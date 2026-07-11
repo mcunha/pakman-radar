@@ -200,8 +200,8 @@ A combined list of every source discovered in the ecosystem.
 | **[giseongeom/chocolatey-packages](directory/giseongeom+chocolatey-packages.md)** | 📦 13 | ⭐ 1.0 | 🔄 0% |  |
 | **[bramanda48/chocolatey-packages](directory/bramanda48+chocolatey-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[simeononsecurity/chocolateypackages](directory/simeononsecurity+chocolateypackages.md)** | 📦 9 | ⭐ 1.0 | 🔄 22% |  |
-| **[open-circle-ltd/chocolatey.Win32-OpenSSH](directory/open-circle-ltd+chocolatey.Win32-OpenSSH.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[forwardcomputers/chocolatey-packages](directory/forwardcomputers+chocolatey-packages.md)** | 📦 2 | ⭐ 1.0 | 🔄 100% |  |
+| **[open-circle-ltd/chocolatey.Win32-OpenSSH](directory/open-circle-ltd+chocolatey.Win32-OpenSSH.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[JourneyOver/chocolatey-packages](directory/JourneyOver+chocolatey-packages.md)** | 📦 34 | ⭐ 1.0 | 🔄 0% |  |
 | **[brogers5/chocolatey-package-rweverything.portable](directory/brogers5+chocolatey-package-rweverything.portable.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-crushee](directory/brogers5+chocolatey-package-crushee.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
@@ -251,8 +251,8 @@ A combined list of every source discovered in the ecosystem.
 | **[itigoag/chocolatey.crealogix-paymaker-office](directory/itigoag+chocolatey.crealogix-paymaker-office.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[sbaerlocher/chocolatey.mountain-duck](directory/sbaerlocher+chocolatey.mountain-duck.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[iyato/chocolatey-packages](directory/iyato+chocolatey-packages.md)** | 📦 7 | ⭐ 1.0 | 🔄 100% |  |
-| **[h0ek/chocolatey-packages](directory/h0ek+chocolatey-packages.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
 | **[simonewebdesign/chocolatey-packages](directory/simonewebdesign+chocolatey-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[h0ek/chocolatey-packages](directory/h0ek+chocolatey-packages.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
 | **[astra-midnight/chocolatey-pkgs](directory/astra-midnight+chocolatey-pkgs.md)** | 📦 3 | ⭐ 1.0 | 🔄 100% |  |
 | **[sorashi/taiga-chocolatey-package](directory/sorashi+taiga-chocolatey-package.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[virtualex-itv/choco-marcs-updater](directory/virtualex-itv+choco-marcs-updater.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
@@ -298,8 +298,8 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 1337
-* **Total Repo Updates**: 80407
+* **Total Crawler Runs**: 1338
+* **Total Repo Updates**: 80466
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
@@ -307,6 +307,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 0
 * **Cache Size**: 💾 0.82 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 0.25s
-  * 📥 Update: 1.84s
-* **Cumulative Compute Time**: 77.0 minutes
+  * 🔍 Discovery: 2.20s
+  * 📥 Update: 1.32s
+* **Cumulative Compute Time**: 77.1 minutes
