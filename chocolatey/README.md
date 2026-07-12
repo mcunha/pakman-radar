@@ -161,8 +161,8 @@ A combined list of every source discovered in the ecosystem.
 | **[unsolaci/noinstall.extension](directory/unsolaci+noinstall.extension.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[brogers5/chocolatey-package-twinkle-tray](directory/brogers5+chocolatey-package-twinkle-tray.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[open-circle-ltd/chocolatey.archi](directory/open-circle-ltd+chocolatey.archi.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[open-circle-ltd/chocolatey.airtame](directory/open-circle-ltd+chocolatey.airtame.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.epson-iprojection](directory/open-circle-ltd+chocolatey.epson-iprojection.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[open-circle-ltd/chocolatey.airtame](directory/open-circle-ltd+chocolatey.airtame.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.lexmark-universal-driver-pcl-xl](directory/open-circle-ltd+chocolatey.lexmark-universal-driver-pcl-xl.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[brogers5/chocolatey-package-wd-kitfox](directory/brogers5+chocolatey-package-wd-kitfox.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[chocolatey-community/chocolatey-packages-template](directory/chocolatey-community+chocolatey-packages-template.md)** | 📦 2 | ⭐ 1.0 | 🔄 100% | 👑 Official |
@@ -298,8 +298,8 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 1353
-* **Total Repo Updates**: 81356
+* **Total Crawler Runs**: 1354
+* **Total Repo Updates**: 81416
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
@@ -307,6 +307,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 0
 * **Cache Size**: 💾 0.82 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 0.21s
-  * 📥 Update: 1.54s
+  * 🔍 Discovery: 0.55s
+  * 📥 Update: 1.77s
 * **Cumulative Compute Time**: 78.1 minutes
