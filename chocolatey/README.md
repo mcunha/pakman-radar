@@ -103,9 +103,9 @@ A combined list of every source discovered in the ecosystem.
 | **[robertZaufall/chocolatey-packages](directory/robertZaufall+chocolatey-packages.md)** | 📦 5 | ⭐ 1.0 | 🔄 60% |  |
 | **[swissgrc/chocolatey-packages](directory/swissgrc+chocolatey-packages.md)** | 📦 4 | ⭐ 1.0 | 🔄 100% |  |
 | **[darinegan/chocolatey-packages](directory/darinegan+chocolatey-packages.md)** | 📦 4 | ⭐ 1.0 | 🔄 100% |  |
-| **[scowalt/chocolatey-packages](directory/scowalt+chocolatey-packages.md)** | 📦 4 | ⭐ 1.0 | 🔄 25% |  |
 | **[AJDurant/choco-packages](directory/AJDurant+choco-packages.md)** | 📦 3 | ⭐ 1.0 | 🔄 100% |  |
 | **[qiazo/chocolatey-packages](directory/qiazo+chocolatey-packages.md)** | 📦 3 | ⭐ 1.0 | 🔄 100% |  |
+| **[scowalt/chocolatey-packages](directory/scowalt+chocolatey-packages.md)** | 📦 4 | ⭐ 1.0 | 🔄 25% |  |
 | **[DrFaust92/chocolatey-packages](directory/DrFaust92+chocolatey-packages.md)** | 📦 3 | ⭐ 1.0 | 🔄 0% |  |
 | **[mlt/chocolatey-packages](directory/mlt+chocolatey-packages.md)** | 📦 3 | ⭐ 1.0 | 🔄 100% |  |
 | **[streamlink/streamlink-twitch-gui-chocolatey](directory/streamlink+streamlink-twitch-gui-chocolatey.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
@@ -212,8 +212,8 @@ A combined list of every source discovered in the ecosystem.
 | **[brogers5/chocolatey-package-paraffin](directory/brogers5+chocolatey-package-paraffin.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-vcam.ai](directory/brogers5+chocolatey-package-vcam.ai.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[Mahagon/chocolatey-packages](directory/Mahagon+chocolatey-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[Kristinita/SashaChocolatey](directory/Kristinita+SashaChocolatey.md)** | 📦 37 | ⭐ 1.0 | 🔄 0% |  |
 | **[HaxeFoundation/haxe-choco](directory/HaxeFoundation+haxe-choco.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
+| **[Kristinita/SashaChocolatey](directory/Kristinita+SashaChocolatey.md)** | 📦 37 | ⭐ 1.0 | 🔄 0% |  |
 | **[joaoopereira/chocolatey-packages](directory/joaoopereira+chocolatey-packages.md)** | 📦 4 | ⭐ 1.0 | 🔄 100% |  |
 | **[open-circle-ltd/chocolatey.adobe-acrobat-reader-dc](directory/open-circle-ltd+chocolatey.adobe-acrobat-reader-dc.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[pocki/chocolateypackages](directory/pocki+chocolateypackages.md)** | 📦 12 | ⭐ 1.0 | 🔄 0% |  |
@@ -298,8 +298,8 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 1370
-* **Total Repo Updates**: 82366
+* **Total Crawler Runs**: 1371
+* **Total Repo Updates**: 82425
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
@@ -307,6 +307,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 0
 * **Cache Size**: 💾 0.82 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 2.50s
-  * 📥 Update: 1.43s
+  * 🔍 Discovery: 0.24s
+  * 📥 Update: 1.56s
 * **Cumulative Compute Time**: 78.9 minutes
