@@ -54,14 +54,6 @@ These repositories are actively maintained and feature a high percentage of **un
 
 
 
-## 🔥 Trending
-These active repositories are rapidly climbing the ranks due to recent, high-quality updates and growing recipe counts!
-
-| Repository | Rank Change | Current Rank | Recipes | Score | Auto-Update |
-| :--- | :---: | :---: | :---: | :---: | :---: |
-| **[C4illin/Choco-Packages](directory/C4illin+Choco-Packages.md)** | 📈 +1 | 🏆 #25 | 📦 9 | ⭐ 1.0 | 🔄 89% |
-
-
 
 
 
@@ -259,8 +251,8 @@ A combined list of every source discovered in the ecosystem.
 | **[itigoag/chocolatey.crealogix-paymaker-office](directory/itigoag+chocolatey.crealogix-paymaker-office.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[sbaerlocher/chocolatey.mountain-duck](directory/sbaerlocher+chocolatey.mountain-duck.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[iyato/chocolatey-packages](directory/iyato+chocolatey-packages.md)** | 📦 7 | ⭐ 1.0 | 🔄 100% |  |
-| **[h0ek/chocolatey-packages](directory/h0ek+chocolatey-packages.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
 | **[simonewebdesign/chocolatey-packages](directory/simonewebdesign+chocolatey-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[h0ek/chocolatey-packages](directory/h0ek+chocolatey-packages.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
 | **[astra-midnight/chocolatey-pkgs](directory/astra-midnight+chocolatey-pkgs.md)** | 📦 3 | ⭐ 1.0 | 🔄 100% |  |
 | **[sorashi/taiga-chocolatey-package](directory/sorashi+taiga-chocolatey-package.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[virtualex-itv/choco-marcs-updater](directory/virtualex-itv+choco-marcs-updater.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
@@ -306,8 +298,8 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 1376
-* **Total Repo Updates**: 82720
+* **Total Crawler Runs**: 1377
+* **Total Repo Updates**: 82779
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
@@ -315,6 +307,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 0
 * **Cache Size**: 💾 0.82 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 3.66s
-  * 📥 Update: 1.82s
-* **Cumulative Compute Time**: 79.3 minutes
+  * 🔍 Discovery: 4.35s
+  * 📥 Update: 2.05s
+* **Cumulative Compute Time**: 79.4 minutes
