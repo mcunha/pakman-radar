@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [aws-vault.json](https://github.com/stknohg/scoop-bucket/blob/main/bucket/aws-vault.json)
 * [ec2rdp.json](https://github.com/stknohg/scoop-bucket/blob/main/bucket/ec2rdp.json)
+* [aws-vault.json](https://github.com/stknohg/scoop-bucket/blob/main/bucket/aws-vault.json)
