@@ -8,12 +8,12 @@
 
 
 ## 📦 Recipes (9)
-* [xxHash.json](https://github.com/LifeRoam/sbc/blob/master/bucket/xxHash.json)
-* [dotnet-runtime.json](https://github.com/LifeRoam/sbc/blob/master/bucket/dotnet-runtime.json)
-* [qqnt.json](https://github.com/LifeRoam/sbc/blob/master/bucket/qqnt.json)
-* [jarkviewer.json](https://github.com/LifeRoam/sbc/blob/master/bucket/jarkviewer.json)
-* [unigetui.json](https://github.com/LifeRoam/sbc/blob/master/bucket/unigetui.json)
-* [notepad4.json](https://github.com/LifeRoam/sbc/blob/master/bucket/notepad4.json)
 * [tiny-rdm.json](https://github.com/LifeRoam/sbc/blob/master/bucket/tiny-rdm.json)
+* [notepad4.json](https://github.com/LifeRoam/sbc/blob/master/bucket/notepad4.json)
 * [feishu.json](https://github.com/LifeRoam/sbc/blob/master/bucket/feishu.json)
+* [xxHash.json](https://github.com/LifeRoam/sbc/blob/master/bucket/xxHash.json)
+* [unigetui.json](https://github.com/LifeRoam/sbc/blob/master/bucket/unigetui.json)
 * [neteasemusic.json](https://github.com/LifeRoam/sbc/blob/master/bucket/neteasemusic.json)
+* [dotnet-runtime.json](https://github.com/LifeRoam/sbc/blob/master/bucket/dotnet-runtime.json)
+* [jarkviewer.json](https://github.com/LifeRoam/sbc/blob/master/bucket/jarkviewer.json)
+* [qqnt.json](https://github.com/LifeRoam/sbc/blob/master/bucket/qqnt.json)

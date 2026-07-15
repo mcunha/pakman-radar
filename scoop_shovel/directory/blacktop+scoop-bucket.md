@@ -8,8 +8,8 @@
 
 
 ## 📦 Recipes (5)
-* [ipsw.json](https://github.com/blacktop/scoop-bucket/blob/main/bucket/ipsw.json)
-* [apfs.json](https://github.com/blacktop/scoop-bucket/blob/main/bucket/apfs.json)
 * [go-apfs.json](https://github.com/blacktop/scoop-bucket/blob/main/bucket/go-apfs.json)
-* [ida-mcp.json](https://github.com/blacktop/scoop-bucket/blob/main/bucket/ida-mcp.json)
 * [ipswd.json](https://github.com/blacktop/scoop-bucket/blob/main/bucket/ipswd.json)
+* [ida-mcp.json](https://github.com/blacktop/scoop-bucket/blob/main/bucket/ida-mcp.json)
+* [apfs.json](https://github.com/blacktop/scoop-bucket/blob/main/bucket/apfs.json)
+* [ipsw.json](https://github.com/blacktop/scoop-bucket/blob/main/bucket/ipsw.json)
