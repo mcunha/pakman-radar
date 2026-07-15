@@ -8,9 +8,9 @@
 
 
 ## 📦 Recipes (6)
-* [CS-Demo-Manager.json](https://github.com/sammary114/self-custom/blob/master/bucket/CS-Demo-Manager.json)
+* [throne.json](https://github.com/sammary114/self-custom/blob/master/bucket/throne.json)
 * [gui-for-singbox.json](https://github.com/sammary114/self-custom/blob/master/bucket/gui-for-singbox.json)
 * [docker-desktop.json](https://github.com/sammary114/self-custom/blob/master/bucket/docker-desktop.json)
-* [clipboard-online.json](https://github.com/sammary114/self-custom/blob/master/bucket/clipboard-online.json)
-* [throne.json](https://github.com/sammary114/self-custom/blob/master/bucket/throne.json)
+* [CS-Demo-Manager.json](https://github.com/sammary114/self-custom/blob/master/bucket/CS-Demo-Manager.json)
 * [SYSTools.json](https://github.com/sammary114/self-custom/blob/master/bucket/SYSTools.json)
+* [clipboard-online.json](https://github.com/sammary114/self-custom/blob/master/bucket/clipboard-online.json)
