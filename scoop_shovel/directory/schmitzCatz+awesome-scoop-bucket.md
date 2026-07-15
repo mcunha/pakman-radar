@@ -8,9 +8,9 @@
 
 
 ## 📦 Recipes (6)
-* [gdx-liftoff.json](https://github.com/schmitzCatz/awesome-scoop-bucket/blob/master/bucket/gdx-liftoff.json)
-* [sdrpp.json](https://github.com/schmitzCatz/awesome-scoop-bucket/blob/master/bucket/sdrpp.json)
-* [contextmenumanager.json](https://github.com/schmitzCatz/awesome-scoop-bucket/blob/master/bucket/contextmenumanager.json)
-* [flipper-animation-manager.json](https://github.com/schmitzCatz/awesome-scoop-bucket/blob/master/bucket/flipper-animation-manager.json)
 * [asus-profiler.json](https://github.com/schmitzCatz/awesome-scoop-bucket/blob/master/bucket/asus-profiler.json)
+* [contextmenumanager.json](https://github.com/schmitzCatz/awesome-scoop-bucket/blob/master/bucket/contextmenumanager.json)
+* [gdx-liftoff.json](https://github.com/schmitzCatz/awesome-scoop-bucket/blob/master/bucket/gdx-liftoff.json)
+* [flipper-animation-manager.json](https://github.com/schmitzCatz/awesome-scoop-bucket/blob/master/bucket/flipper-animation-manager.json)
 * [orca-slicer.json](https://github.com/schmitzCatz/awesome-scoop-bucket/blob/master/bucket/orca-slicer.json)
+* [sdrpp.json](https://github.com/schmitzCatz/awesome-scoop-bucket/blob/master/bucket/sdrpp.json)
