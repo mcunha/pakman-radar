@@ -9,8 +9,8 @@
 
 ## 📦 Recipes (6)
 * [Textify.json](https://github.com/AGNAGAN/AGNScoop/blob/master/bucket/Textify.json)
-* [ncmdump.json](https://github.com/AGNAGAN/AGNScoop/blob/master/bucket/ncmdump.json)
 * [ContextMenuMgr.json](https://github.com/AGNAGAN/AGNScoop/blob/master/bucket/ContextMenuMgr.json)
+* [GitHubStarsManager.json](https://github.com/AGNAGAN/AGNScoop/blob/master/bucket/GitHubStarsManager.json)
 * [steamcommunity-302.json](https://github.com/AGNAGAN/AGNScoop/blob/master/bucket/steamcommunity-302.json)
 * [FreeFileSync.json](https://github.com/AGNAGAN/AGNScoop/blob/master/bucket/FreeFileSync.json)
-* [GitHubStarsManager.json](https://github.com/AGNAGAN/AGNScoop/blob/master/bucket/GitHubStarsManager.json)
+* [ncmdump.json](https://github.com/AGNAGAN/AGNScoop/blob/master/bucket/ncmdump.json)
