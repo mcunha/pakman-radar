@@ -8,10 +8,10 @@
 
 
 ## 📦 Recipes (7)
-* [cherry-studio.json](https://github.com/kairexo/Scoop-Bucket/blob/master/bucket/cherry-studio.json)
 * [stelliberty.json](https://github.com/kairexo/Scoop-Bucket/blob/master/bucket/stelliberty.json)
+* [chromium-clang-avx2.json](https://github.com/kairexo/Scoop-Bucket/blob/master/bucket/chromium-clang-avx2.json)
 * [sparkle.json](https://github.com/kairexo/Scoop-Bucket/blob/master/bucket/sparkle.json)
+* [cherry-studio.json](https://github.com/kairexo/Scoop-Bucket/blob/master/bucket/cherry-studio.json)
 * [motrix-next.json](https://github.com/kairexo/Scoop-Bucket/blob/master/bucket/motrix-next.json)
 * [so-novel.json](https://github.com/kairexo/Scoop-Bucket/blob/master/bucket/so-novel.json)
 * [chromium-clang-avx512.json](https://github.com/kairexo/Scoop-Bucket/blob/master/bucket/chromium-clang-avx512.json)
-* [chromium-clang-avx2.json](https://github.com/kairexo/Scoop-Bucket/blob/master/bucket/chromium-clang-avx2.json)
