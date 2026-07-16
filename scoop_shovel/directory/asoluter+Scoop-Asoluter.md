@@ -9,7 +9,7 @@
 
 ## 📦 Recipes (5)
 * [notepadplusplus.json](https://github.com/asoluter/Scoop-Asoluter/blob/main/bucket/notepadplusplus.json)
+* [libreoffice.json](https://github.com/asoluter/Scoop-Asoluter/blob/main/bucket/libreoffice.json)
 * [gitextensions.json](https://github.com/asoluter/Scoop-Asoluter/blob/main/bucket/gitextensions.json)
 * [oh-my-posh.json](https://github.com/asoluter/Scoop-Asoluter/blob/main/bucket/oh-my-posh.json)
 * [7zip.json](https://github.com/asoluter/Scoop-Asoluter/blob/main/bucket/7zip.json)
-* [libreoffice.json](https://github.com/asoluter/Scoop-Asoluter/blob/main/bucket/libreoffice.json)
