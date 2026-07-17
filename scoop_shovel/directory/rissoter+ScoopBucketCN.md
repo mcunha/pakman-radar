@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [git.json](https://github.com/rissoter/ScoopBucketCN/blob/main/bucket/git.json)
 * [windowtabs.json](https://github.com/rissoter/ScoopBucketCN/blob/main/bucket/windowtabs.json)
+* [git.json](https://github.com/rissoter/ScoopBucketCN/blob/main/bucket/git.json)
