@@ -8,11 +8,11 @@
 
 
 ## 📦 Recipes (8)
-* [amwin-rp.json](https://github.com/Himalian/custom-bucket/blob/master/bucket/amwin-rp.json)
-* [librime.json](https://github.com/Himalian/custom-bucket/blob/master/bucket/librime.json)
-* [zyperwinpp.json](https://github.com/Himalian/custom-bucket/blob/master/bucket/zyperwinpp.json)
 * [easytier.json](https://github.com/Himalian/custom-bucket/blob/master/bucket/easytier.json)
 * [moonbit.json](https://github.com/Himalian/custom-bucket/blob/master/bucket/moonbit.json)
-* [cmcl.json](https://github.com/Himalian/custom-bucket/blob/master/bucket/cmcl.json)
 * [pano-scrobber.json](https://github.com/Himalian/custom-bucket/blob/master/bucket/pano-scrobber.json)
+* [amwin-rp.json](https://github.com/Himalian/custom-bucket/blob/master/bucket/amwin-rp.json)
 * [tedit.json](https://github.com/Himalian/custom-bucket/blob/master/bucket/tedit.json)
+* [librime.json](https://github.com/Himalian/custom-bucket/blob/master/bucket/librime.json)
+* [cmcl.json](https://github.com/Himalian/custom-bucket/blob/master/bucket/cmcl.json)
+* [zyperwinpp.json](https://github.com/Himalian/custom-bucket/blob/master/bucket/zyperwinpp.json)
