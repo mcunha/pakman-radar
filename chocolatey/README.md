@@ -131,8 +131,8 @@ A combined list of every source discovered in the ecosystem.
 | **[brogers5/chocolatey-package-openrgb.install](directory/brogers5+chocolatey-package-openrgb.install.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-openrgb.portable](directory/brogers5+chocolatey-package-openrgb.portable.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[ggarns-gh/chocolatey-packages](directory/ggarns-gh+chocolatey-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[adamrushuk/velero-choco](directory/adamrushuk+velero-choco.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[jufab/skaffold-chocolatey](directory/jufab+skaffold-chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[adamrushuk/velero-choco](directory/adamrushuk+velero-choco.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[brogers5/chocolatey-package-controlmymonitor](directory/brogers5+chocolatey-package-controlmymonitor.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[OpenChrom/OpenChromChocolateyPackage](directory/OpenChrom+OpenChromChocolateyPackage.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.wwphone-cti](directory/open-circle-ltd+chocolatey.wwphone-cti.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
@@ -187,8 +187,8 @@ A combined list of every source discovered in the ecosystem.
 | **[foundata/chocolatey-sendkeys.extension](directory/foundata+chocolatey-sendkeys.extension.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[brianary/chocolatey-packages](directory/brianary+chocolatey-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[samuel-lucas6/Kryptor-Chocolatey](directory/samuel-lucas6+Kryptor-Chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[atiq-cs/choco](directory/atiq-cs+choco.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[midrare/choco-packages](directory/midrare+choco-packages.md)** | 📦 5 | ⭐ 1.0 | 🔄 100% |  |
+| **[atiq-cs/choco](directory/atiq-cs+choco.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[Adrianogba/jmeter-chocolatey](directory/Adrianogba+jmeter-chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[agabrys/chocolatey-packages](directory/agabrys+chocolatey-packages.md)** | 📦 13 | ⭐ 1.0 | 🔄 0% |  |
 | **[zarethrex/chocolatey-stuntrally](directory/zarethrex+chocolatey-stuntrally.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
@@ -298,8 +298,8 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 1418
-* **Total Repo Updates**: 85213
+* **Total Crawler Runs**: 1419
+* **Total Repo Updates**: 85273
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
@@ -307,6 +307,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 0
 * **Cache Size**: 💾 0.82 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 0.18s
-  * 📥 Update: 1.41s
-* **Cumulative Compute Time**: 82.0 minutes
+  * 🔍 Discovery: 3.57s
+  * 📥 Update: 1.52s
+* **Cumulative Compute Time**: 82.1 minutes
