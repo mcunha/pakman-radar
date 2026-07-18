@@ -1275,7 +1275,7 @@
         "hacktoberfest"
       ],
       "last_checked": "2026-04-28T19:19:09Z",
-      "pushed_at": "2026-07-16T00:22:47Z",
+      "pushed_at": "2026-07-18T00:21:08Z",
       "archived": false,
       "disabled": false,
       "entries": [
@@ -1551,7 +1551,7 @@
         "powershell"
       ],
       "last_checked": "2026-04-27T23:39:52Z",
-      "pushed_at": "2026-07-16T12:00:32Z",
+      "pushed_at": "2026-07-17T17:30:15Z",
       "archived": false,
       "disabled": false,
       "entries": [
@@ -1769,7 +1769,7 @@
         "chocolatey-packages"
       ],
       "last_checked": "2026-04-29T02:14:59Z",
-      "pushed_at": "2026-07-15T06:03:25Z",
+      "pushed_at": "2026-07-17T06:03:29Z",
       "archived": false,
       "disabled": false,
       "entries": [
@@ -2015,22 +2015,22 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-07-18T00:13:08Z",
+    "generated_at": "2026-07-18T03:39:04Z",
     "count": 10,
     "global_metrics": {
-      "total_runs": 1423,
-      "total_run_time_seconds": 4936.718265295029,
-      "total_repo_updates": 85509,
+      "total_runs": 1424,
+      "total_run_time_seconds": 4941.65615940094,
+      "total_repo_updates": 85568,
       "previous_total_buckets": 227,
       "previous_total_recipes": 3329,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
       "total_evictions": 26,
       "total_api_retries": 0,
-      "last_run_discover_time": 0.16772913932800293,
-      "last_run_update_time": 1.238694667816162,
+      "last_run_discover_time": 3.1635100841522217,
+      "last_run_update_time": 1.7411985397338867,
       "ecosystem_reliability": 100.0,
-      "cache_size_mb": 0.822209358215332,
+      "cache_size_mb": 0.8222112655639648,
       "total_unique_recipes": 2931,
       "auto_update_percentage": 35.99,
       "official_recipes": 481,
