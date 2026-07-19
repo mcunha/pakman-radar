@@ -1275,7 +1275,7 @@
         "hacktoberfest"
       ],
       "last_checked": "2026-04-28T19:19:09Z",
-      "pushed_at": "2026-07-18T00:21:08Z",
+      "pushed_at": "2026-07-19T00:20:21Z",
       "archived": false,
       "disabled": false,
       "entries": [
@@ -2015,22 +2015,22 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-07-19T00:14:31Z",
+    "generated_at": "2026-07-19T04:00:28Z",
     "count": 10,
     "global_metrics": {
-      "total_runs": 1439,
-      "total_run_time_seconds": 4977.910355806351,
-      "total_repo_updates": 86461,
+      "total_runs": 1440,
+      "total_run_time_seconds": 4982.632751464844,
+      "total_repo_updates": 86520,
       "previous_total_buckets": 227,
       "previous_total_recipes": 3329,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
       "total_evictions": 26,
       "total_api_retries": 0,
-      "last_run_discover_time": 0.1646416187286377,
-      "last_run_update_time": 1.2334396839141846,
+      "last_run_discover_time": 3.080394983291626,
+      "last_run_update_time": 1.615253210067749,
       "ecosystem_reliability": 100.0,
-      "cache_size_mb": 0.8222112655639648,
+      "cache_size_mb": 0.8222246170043945,
       "total_unique_recipes": 2931,
       "auto_update_percentage": 35.99,
       "official_recipes": 481,
