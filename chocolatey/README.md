@@ -54,15 +54,6 @@ These repositories are actively maintained and feature a high percentage of **un
 
 
 
-## 🔥 Trending
-These active repositories are rapidly climbing the ranks due to recent, high-quality updates and growing recipe counts!
-
-| Repository | Rank Change | Current Rank | Recipes | Score | Auto-Update |
-| :--- | :---: | :---: | :---: | :---: | :---: |
-| **[C4illin/Choco-Packages](directory/C4illin+Choco-Packages.md)** | 📈 +1 | 🏆 #24 | 📦 9 | ⭐ 1.0 | 🔄 89% |
-| **[ITS-Unibas/chocolatey-community-packages](directory/ITS-Unibas+chocolatey-community-packages.md)** | 📈 +1 | 🏆 #25 | 📦 9 | ⭐ 1.0 | 🔄 89% |
-
-
 
 
 
@@ -161,8 +152,8 @@ A combined list of every source discovered in the ecosystem.
 | **[brogers5/chocolatey-package-ps-remote-play](directory/brogers5+chocolatey-package-ps-remote-play.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[chocolatey-community/chocolatey-hooks](directory/chocolatey-community+chocolatey-hooks.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% | 👑 Official |
 | **[brogers5/chocolatey-package-sandisk-dashboard](directory/brogers5+chocolatey-package-sandisk-dashboard.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
-| **[brogers5/chocolatey-package-green-tunnel-gui](directory/brogers5+chocolatey-package-green-tunnel-gui.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-green-tunnel-cli](directory/brogers5+chocolatey-package-green-tunnel-cli.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
+| **[brogers5/chocolatey-package-green-tunnel-gui](directory/brogers5+chocolatey-package-green-tunnel-gui.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[terraform-docs/chocolatey-package](directory/terraform-docs+chocolatey-package.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[brogers5/chocolatey-package-livesplit](directory/brogers5+chocolatey-package-livesplit.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-goldwave](directory/brogers5+chocolatey-package-goldwave.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
@@ -307,8 +298,8 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 1466
-* **Total Repo Updates**: 88065
+* **Total Crawler Runs**: 1467
+* **Total Repo Updates**: 88124
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
@@ -316,6 +307,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 0
 * **Cache Size**: 💾 0.82 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 0.59s
-  * 📥 Update: 1.39s
-* **Cumulative Compute Time**: 84.7 minutes
+  * 🔍 Discovery: 0.15s
+  * 📥 Update: 1.38s
+* **Cumulative Compute Time**: 84.8 minutes
