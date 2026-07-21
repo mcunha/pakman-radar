@@ -8,7 +8,7 @@
 
 
 ## 📦 Recipes (4)
-* [vapoursynth-python.json](https://github.com/PhyX-Meow/ScoopBucket/blob/main/bucket/vapoursynth-python.json)
+* [xysubfilter-with-libass.json](https://github.com/PhyX-Meow/ScoopBucket/blob/main/bucket/xysubfilter-with-libass.json)
 * [DDNS.json](https://github.com/PhyX-Meow/ScoopBucket/blob/main/bucket/DDNS.json)
 * [livego.json](https://github.com/PhyX-Meow/ScoopBucket/blob/main/bucket/livego.json)
-* [xysubfilter-with-libass.json](https://github.com/PhyX-Meow/ScoopBucket/blob/main/bucket/xysubfilter-with-libass.json)
+* [vapoursynth-python.json](https://github.com/PhyX-Meow/ScoopBucket/blob/main/bucket/vapoursynth-python.json)
