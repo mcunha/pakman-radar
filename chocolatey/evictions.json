@@ -103,25 +103,29 @@
     {
       "full_name": "Arama0517/scoop-proxy-cn",
       "evicted_at": "2026-07-11T10:36:34Z"
+    },
+    {
+      "full_name": "nebinfra/scoop-bucket",
+      "evicted_at": "2026-07-21T22:14:01Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-07-21T20:42:40Z",
-    "count": 26,
+    "generated_at": "2026-07-21T22:14:12Z",
+    "count": 27,
     "global_metrics": {
-      "total_runs": 1473,
-      "total_run_time_seconds": 5099.6578850746155,
-      "total_repo_updates": 88481,
+      "total_runs": 1474,
+      "total_run_time_seconds": 5103.983856678009,
+      "total_repo_updates": 88540,
       "previous_total_buckets": 227,
       "previous_total_recipes": 3329,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
-      "total_evictions": 26,
+      "total_evictions": 27,
       "total_api_retries": 0,
-      "last_run_discover_time": 0.19035601615905762,
-      "last_run_update_time": 1.4915719032287598,
+      "last_run_discover_time": 2.8780791759490967,
+      "last_run_update_time": 1.4154012203216553,
       "ecosystem_reliability": 100.0,
-      "cache_size_mb": 0.8227920532226562,
+      "cache_size_mb": 0.8226747512817383,
       "total_unique_recipes": 2931,
       "auto_update_percentage": 35.99,
       "official_recipes": 481,
