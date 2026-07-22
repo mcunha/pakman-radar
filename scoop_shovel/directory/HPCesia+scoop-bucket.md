@@ -9,6 +9,6 @@
 
 ## 📦 Recipes (4)
 * [piclist.json](https://github.com/HPCesia/scoop-bucket/blob/master/bucket/piclist.json)
-* [ModOrganizer.json](https://github.com/HPCesia/scoop-bucket/blob/master/bucket/ModOrganizer.json)
 * [yas.json](https://github.com/HPCesia/scoop-bucket/blob/master/bucket/yas.json)
+* [ModOrganizer.json](https://github.com/HPCesia/scoop-bucket/blob/master/bucket/ModOrganizer.json)
 * [starward.json](https://github.com/HPCesia/scoop-bucket/blob/master/bucket/starward.json)
