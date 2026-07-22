@@ -8,11 +8,11 @@
 
 
 ## 📦 Recipes (8)
-* [caam.json](https://github.com/Dicklesworthstone/scoop-bucket/blob/main/bucket/caam.json)
-* [xf.json](https://github.com/Dicklesworthstone/scoop-bucket/blob/main/bucket/xf.json)
-* [slb.json](https://github.com/Dicklesworthstone/scoop-bucket/blob/main/bucket/slb.json)
-* [dcg.json](https://github.com/Dicklesworthstone/scoop-bucket/blob/main/bucket/dcg.json)
 * [cm.json](https://github.com/Dicklesworthstone/scoop-bucket/blob/main/bucket/cm.json)
 * [ntm.json](https://github.com/Dicklesworthstone/scoop-bucket/blob/main/bucket/ntm.json)
-* [bv.json](https://github.com/Dicklesworthstone/scoop-bucket/blob/main/bucket/bv.json)
+* [xf.json](https://github.com/Dicklesworthstone/scoop-bucket/blob/main/bucket/xf.json)
 * [tru.json](https://github.com/Dicklesworthstone/scoop-bucket/blob/main/bucket/tru.json)
+* [caam.json](https://github.com/Dicklesworthstone/scoop-bucket/blob/main/bucket/caam.json)
+* [bv.json](https://github.com/Dicklesworthstone/scoop-bucket/blob/main/bucket/bv.json)
+* [slb.json](https://github.com/Dicklesworthstone/scoop-bucket/blob/main/bucket/slb.json)
+* [dcg.json](https://github.com/Dicklesworthstone/scoop-bucket/blob/main/bucket/dcg.json)
