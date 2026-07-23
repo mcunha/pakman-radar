@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [focus.json](https://github.com/ayoisaiah/scoop-bucket/blob/master/bucket/focus.json)
 * [f2.json](https://github.com/ayoisaiah/scoop-bucket/blob/master/bucket/f2.json)
+* [focus.json](https://github.com/ayoisaiah/scoop-bucket/blob/master/bucket/focus.json)
