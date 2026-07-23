@@ -10,5 +10,5 @@
 ## 📦 Recipes (4)
 * [jadx-gui.json](https://github.com/sunfkny/scoop-bucket/blob/master/bucket/jadx-gui.json)
 * [tcping.json](https://github.com/sunfkny/scoop-bucket/blob/master/bucket/tcping.json)
-* [everything-cli.json](https://github.com/sunfkny/scoop-bucket/blob/master/bucket/everything-cli.json)
 * [vscode185.json](https://github.com/sunfkny/scoop-bucket/blob/master/bucket/vscode185.json)
+* [everything-cli.json](https://github.com/sunfkny/scoop-bucket/blob/master/bucket/everything-cli.json)

@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [lv.json](https://github.com/gildas/scoop-bucket/blob/master/bucket/lv.json)
 * [bitbucket-cli.json](https://github.com/gildas/scoop-bucket/blob/master/bucket/bitbucket-cli.json)
+* [lv.json](https://github.com/gildas/scoop-bucket/blob/master/bucket/lv.json)
