@@ -8,13 +8,13 @@
 
 
 ## 📦 Recipes (10)
-* [bobcat.json](https://github.com/choonyoong/scoop-bucket/blob/master/bucket/bobcat.json)
-* [rio-nightly.json](https://github.com/choonyoong/scoop-bucket/blob/master/bucket/rio-nightly.json)
-* [jjui.json](https://github.com/choonyoong/scoop-bucket/blob/master/bucket/jjui.json)
 * [blazingjj.json](https://github.com/choonyoong/scoop-bucket/blob/master/bucket/blazingjj.json)
+* [vizjj.json](https://github.com/choonyoong/scoop-bucket/blob/master/bucket/vizjj.json)
+* [bobcat.json](https://github.com/choonyoong/scoop-bucket/blob/master/bucket/bobcat.json)
 * [yaak.json](https://github.com/choonyoong/scoop-bucket/blob/master/bucket/yaak.json)
+* [rio-nightly.json](https://github.com/choonyoong/scoop-bucket/blob/master/bucket/rio-nightly.json)
+* [alacritty-graphics.json](https://github.com/choonyoong/scoop-bucket/blob/master/bucket/alacritty-graphics.json)
 * [openapi-tui.json](https://github.com/choonyoong/scoop-bucket/blob/master/bucket/openapi-tui.json)
 * [aishell.json](https://github.com/choonyoong/scoop-bucket/blob/master/bucket/aishell.json)
-* [vizjj.json](https://github.com/choonyoong/scoop-bucket/blob/master/bucket/vizjj.json)
 * [mcat.json](https://github.com/choonyoong/scoop-bucket/blob/master/bucket/mcat.json)
-* [alacritty-graphics.json](https://github.com/choonyoong/scoop-bucket/blob/master/bucket/alacritty-graphics.json)
+* [jjui.json](https://github.com/choonyoong/scoop-bucket/blob/master/bucket/jjui.json)
