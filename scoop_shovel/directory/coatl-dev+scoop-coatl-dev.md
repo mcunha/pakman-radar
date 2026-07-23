@@ -8,10 +8,10 @@
 
 
 ## 📦 Recipes (7)
-* [python312.json](https://github.com/coatl-dev/scoop-coatl-dev/blob/coatl/bucket/python312.json)
-* [ignition.json](https://github.com/coatl-dev/scoop-coatl-dev/blob/coatl/bucket/ignition.json)
 * [jython.json](https://github.com/coatl-dev/scoop-coatl-dev/blob/coatl/bucket/jython.json)
-* [ignition81.json](https://github.com/coatl-dev/scoop-coatl-dev/blob/coatl/bucket/ignition81.json)
+* [python312.json](https://github.com/coatl-dev/scoop-coatl-dev/blob/coatl/bucket/python312.json)
 * [python27.json](https://github.com/coatl-dev/scoop-coatl-dev/blob/coatl/bucket/python27.json)
+* [ignition81.json](https://github.com/coatl-dev/scoop-coatl-dev/blob/coatl/bucket/ignition81.json)
 * [python313.json](https://github.com/coatl-dev/scoop-coatl-dev/blob/coatl/bucket/python313.json)
+* [ignition.json](https://github.com/coatl-dev/scoop-coatl-dev/blob/coatl/bucket/ignition.json)
 * [python314.json](https://github.com/coatl-dev/scoop-coatl-dev/blob/coatl/bucket/python314.json)
