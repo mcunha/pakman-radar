@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [snyk.json](https://github.com/snyk/scoop-snyk/blob/master/snyk.json)
 * [snyk-iac-rules.json](https://github.com/snyk/scoop-snyk/blob/master/snyk-iac-rules.json)
+* [snyk.json](https://github.com/snyk/scoop-snyk/blob/master/snyk.json)
