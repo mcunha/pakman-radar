@@ -8,8 +8,8 @@
 
 
 ## 📦 Recipes (5)
-* [im-select.json](https://github.com/sotvokun/basket/blob/main/im-select.json)
-* [chezscheme.json](https://github.com/sotvokun/basket/blob/main/chezscheme.json)
 * [atlas.json](https://github.com/sotvokun/basket/blob/main/atlas.json)
+* [im-select.json](https://github.com/sotvokun/basket/blob/main/im-select.json)
 * [degit.json](https://github.com/sotvokun/basket/blob/main/degit.json)
 * [double-entry-generator.json](https://github.com/sotvokun/basket/blob/main/double-entry-generator.json)
+* [chezscheme.json](https://github.com/sotvokun/basket/blob/main/chezscheme.json)
