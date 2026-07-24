@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [xpdf.json](https://github.com/ba230t/scoop-bucket/blob/master/bucket/xpdf.json)
 * [tad.json](https://github.com/ba230t/scoop-bucket/blob/master/bucket/tad.json)
+* [xpdf.json](https://github.com/ba230t/scoop-bucket/blob/master/bucket/xpdf.json)

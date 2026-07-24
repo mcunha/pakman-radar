@@ -8,13 +8,13 @@
 
 
 ## 📦 Recipes (10)
-* [boost.json](https://github.com/amorphobia/ScoopSources/blob/master/bucket/boost.json)
-* [libpsl.json](https://github.com/amorphobia/ScoopSources/blob/master/bucket/libpsl.json)
+* [libuv.json](https://github.com/amorphobia/ScoopSources/blob/master/bucket/libuv.json)
 * [libgit2.json](https://github.com/amorphobia/ScoopSources/blob/master/bucket/libgit2.json)
 * [pdcurses.json](https://github.com/amorphobia/ScoopSources/blob/master/bucket/pdcurses.json)
-* [libuv.json](https://github.com/amorphobia/ScoopSources/blob/master/bucket/libuv.json)
-* [extra-cmake-modules.json](https://github.com/amorphobia/ScoopSources/blob/master/bucket/extra-cmake-modules.json)
 * [less.json](https://github.com/amorphobia/ScoopSources/blob/master/bucket/less.json)
+* [emule-community-zh-cn-lang.json](https://github.com/amorphobia/ScoopSources/blob/master/bucket/emule-community-zh-cn-lang.json)
+* [libpsl.json](https://github.com/amorphobia/ScoopSources/blob/master/bucket/libpsl.json)
+* [extra-cmake-modules.json](https://github.com/amorphobia/ScoopSources/blob/master/bucket/extra-cmake-modules.json)
+* [boost.json](https://github.com/amorphobia/ScoopSources/blob/master/bucket/boost.json)
 * [flac.json](https://github.com/amorphobia/ScoopSources/blob/master/bucket/flac.json)
 * [liblz4.json](https://github.com/amorphobia/ScoopSources/blob/master/bucket/liblz4.json)
-* [emule-community-zh-cn-lang.json](https://github.com/amorphobia/ScoopSources/blob/master/bucket/emule-community-zh-cn-lang.json)

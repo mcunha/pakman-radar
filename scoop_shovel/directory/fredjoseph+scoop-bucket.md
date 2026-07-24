@@ -8,11 +8,11 @@
 
 
 ## 📦 Recipes (8)
-* [subsync.json](https://github.com/fredjoseph/scoop-bucket/blob/master/bucket/subsync.json)
-* [PenguinSubtitlePlayer.json](https://github.com/fredjoseph/scoop-bucket/blob/master/bucket/PenguinSubtitlePlayer.json)
-* [my-wsltty.json](https://github.com/fredjoseph/scoop-bucket/blob/master/bucket/my-wsltty.json)
-* [pre-commit.json](https://github.com/fredjoseph/scoop-bucket/blob/master/bucket/pre-commit.json)
+* [NZBGet.json](https://github.com/fredjoseph/scoop-bucket/blob/master/bucket/NZBGet.json)
 * [my-keepass.json](https://github.com/fredjoseph/scoop-bucket/blob/master/bucket/my-keepass.json)
 * [Hozz.json](https://github.com/fredjoseph/scoop-bucket/blob/master/bucket/Hozz.json)
-* [NZBGet.json](https://github.com/fredjoseph/scoop-bucket/blob/master/bucket/NZBGet.json)
+* [my-wsltty.json](https://github.com/fredjoseph/scoop-bucket/blob/master/bucket/my-wsltty.json)
+* [subsync.json](https://github.com/fredjoseph/scoop-bucket/blob/master/bucket/subsync.json)
 * [my-xdman.json](https://github.com/fredjoseph/scoop-bucket/blob/master/bucket/my-xdman.json)
+* [PenguinSubtitlePlayer.json](https://github.com/fredjoseph/scoop-bucket/blob/master/bucket/PenguinSubtitlePlayer.json)
+* [pre-commit.json](https://github.com/fredjoseph/scoop-bucket/blob/master/bucket/pre-commit.json)
