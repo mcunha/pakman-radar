@@ -9,6 +9,6 @@
 
 ## 📦 Recipes (4)
 * [docker-legacy.json](https://github.com/silverkorn/scoop-bucket/blob/master/bucket/docker-legacy.json)
-* [docker-machine.json](https://github.com/silverkorn/scoop-bucket/blob/master/bucket/docker-machine.json)
-* [azure-cli-archived.json](https://github.com/silverkorn/scoop-bucket/blob/master/bucket/azure-cli-archived.json)
 * [docker-compose-legacy.json](https://github.com/silverkorn/scoop-bucket/blob/master/bucket/docker-compose-legacy.json)
+* [azure-cli-archived.json](https://github.com/silverkorn/scoop-bucket/blob/master/bucket/azure-cli-archived.json)
+* [docker-machine.json](https://github.com/silverkorn/scoop-bucket/blob/master/bucket/docker-machine.json)

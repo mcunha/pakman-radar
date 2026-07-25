@@ -9,6 +9,6 @@
 
 ## 📦 Recipes (4)
 * [mssqldef.json](https://github.com/mirror-kt/ScoopBucket/blob/main/bucket/mssqldef.json)
-* [sqlite3def.json](https://github.com/mirror-kt/ScoopBucket/blob/main/bucket/sqlite3def.json)
 * [mysqldef.json](https://github.com/mirror-kt/ScoopBucket/blob/main/bucket/mysqldef.json)
 * [psqldef.json](https://github.com/mirror-kt/ScoopBucket/blob/main/bucket/psqldef.json)
+* [sqlite3def.json](https://github.com/mirror-kt/ScoopBucket/blob/main/bucket/sqlite3def.json)

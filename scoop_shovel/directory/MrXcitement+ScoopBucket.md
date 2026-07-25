@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [pipx.json](https://github.com/MrXcitement/ScoopBucket/blob/master/bucket/pipx.json)
 * [johns-background-switcher.json](https://github.com/MrXcitement/ScoopBucket/blob/master/bucket/johns-background-switcher.json)
+* [pipx.json](https://github.com/MrXcitement/ScoopBucket/blob/master/bucket/pipx.json)
