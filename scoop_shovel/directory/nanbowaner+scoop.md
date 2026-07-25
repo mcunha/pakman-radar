@@ -8,10 +8,10 @@
 
 
 ## 📦 Recipes (7)
-* [geph-cli.json](https://github.com/nanbowaner/scoop/blob/master/bucket/geph-cli.json)
+* [kiwix.json](https://github.com/nanbowaner/scoop/blob/master/bucket/kiwix.json)
+* [sandboxie-plus.json](https://github.com/nanbowaner/scoop/blob/master/bucket/sandboxie-plus.json)
 * [filecentipede.json](https://github.com/nanbowaner/scoop/blob/master/bucket/filecentipede.json)
 * [BaiduPCS-Go.json](https://github.com/nanbowaner/scoop/blob/master/bucket/BaiduPCS-Go.json)
-* [quicker.json](https://github.com/nanbowaner/scoop/blob/master/bucket/quicker.json)
 * [idm-trial-reset.json](https://github.com/nanbowaner/scoop/blob/master/bucket/idm-trial-reset.json)
-* [sandboxie-plus.json](https://github.com/nanbowaner/scoop/blob/master/bucket/sandboxie-plus.json)
-* [kiwix.json](https://github.com/nanbowaner/scoop/blob/master/bucket/kiwix.json)
+* [quicker.json](https://github.com/nanbowaner/scoop/blob/master/bucket/quicker.json)
+* [geph-cli.json](https://github.com/nanbowaner/scoop/blob/master/bucket/geph-cli.json)

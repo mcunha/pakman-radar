@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [chuckfmt.json](https://github.com/aik2mlj/scoop-bucket/blob/master/bucket/chuckfmt.json)
 * [canvas-downloader.json](https://github.com/aik2mlj/scoop-bucket/blob/master/bucket/canvas-downloader.json)
+* [chuckfmt.json](https://github.com/aik2mlj/scoop-bucket/blob/master/bucket/chuckfmt.json)

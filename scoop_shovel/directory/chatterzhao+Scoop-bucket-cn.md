@@ -8,12 +8,12 @@
 
 
 ## 📦 Recipes (9)
-* [docker.json](https://github.com/chatterzhao/Scoop-bucket-cn/blob/master/bucket/docker.json)
 * [besttrace.json](https://github.com/chatterzhao/Scoop-bucket-cn/blob/master/bucket/besttrace.json)
-* [firefox.json](https://github.com/chatterzhao/Scoop-bucket-cn/blob/master/bucket/firefox.json)
-* [chrome.json](https://github.com/chatterzhao/Scoop-bucket-cn/blob/master/bucket/chrome.json)
 * [centbrowser.json](https://github.com/chatterzhao/Scoop-bucket-cn/blob/master/bucket/centbrowser.json)
+* [firefox.json](https://github.com/chatterzhao/Scoop-bucket-cn/blob/master/bucket/firefox.json)
+* [docker.json](https://github.com/chatterzhao/Scoop-bucket-cn/blob/master/bucket/docker.json)
 * [pandownload.json](https://github.com/chatterzhao/Scoop-bucket-cn/blob/master/bucket/pandownload.json)
-* [neteasemusic.json](https://github.com/chatterzhao/Scoop-bucket-cn/blob/master/bucket/neteasemusic.json)
+* [chrome.json](https://github.com/chatterzhao/Scoop-bucket-cn/blob/master/bucket/chrome.json)
 * [qq.json](https://github.com/chatterzhao/Scoop-bucket-cn/blob/master/bucket/qq.json)
+* [neteasemusic.json](https://github.com/chatterzhao/Scoop-bucket-cn/blob/master/bucket/neteasemusic.json)
 * [wechat.json](https://github.com/chatterzhao/Scoop-bucket-cn/blob/master/bucket/wechat.json)
