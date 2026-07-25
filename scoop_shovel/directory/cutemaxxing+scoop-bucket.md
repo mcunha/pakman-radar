@@ -8,7 +8,7 @@
 
 
 ## 📦 Recipes (4)
-* [spotify-player.json](https://github.com/cutemaxxing/scoop-bucket/blob/main/bucket/spotify-player.json)
 * [crystaldiskinfoshizuku.json](https://github.com/cutemaxxing/scoop-bucket/blob/main/bucket/crystaldiskinfoshizuku.json)
-* [crystaldiskmarkshizuku.json](https://github.com/cutemaxxing/scoop-bucket/blob/main/bucket/crystaldiskmarkshizuku.json)
 * [spotify-tui.json](https://github.com/cutemaxxing/scoop-bucket/blob/main/bucket/spotify-tui.json)
+* [spotify-player.json](https://github.com/cutemaxxing/scoop-bucket/blob/main/bucket/spotify-player.json)
+* [crystaldiskmarkshizuku.json](https://github.com/cutemaxxing/scoop-bucket/blob/main/bucket/crystaldiskmarkshizuku.json)

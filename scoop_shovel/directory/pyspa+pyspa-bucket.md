@@ -8,12 +8,12 @@
 
 
 ## 📦 Recipes (9)
-* [buildifier.json](https://github.com/pyspa/pyspa-bucket/blob/master/bucket/buildifier.json)
-* [goemon.json](https://github.com/pyspa/pyspa-bucket/blob/master/bucket/goemon.json)
 * [delta.json](https://github.com/pyspa/pyspa-bucket/blob/master/bucket/delta.json)
-* [buildozer.json](https://github.com/pyspa/pyspa-bucket/blob/master/bucket/buildozer.json)
-* [sops.json](https://github.com/pyspa/pyspa-bucket/blob/master/bucket/sops.json)
-* [speedtest.json](https://github.com/pyspa/pyspa-bucket/blob/master/bucket/speedtest.json)
-* [mkcert.json](https://github.com/pyspa/pyspa-bucket/blob/master/bucket/mkcert.json)
 * [goreman.json](https://github.com/pyspa/pyspa-bucket/blob/master/bucket/goreman.json)
+* [sops.json](https://github.com/pyspa/pyspa-bucket/blob/master/bucket/sops.json)
+* [goemon.json](https://github.com/pyspa/pyspa-bucket/blob/master/bucket/goemon.json)
+* [buildifier.json](https://github.com/pyspa/pyspa-bucket/blob/master/bucket/buildifier.json)
+* [speedtest.json](https://github.com/pyspa/pyspa-bucket/blob/master/bucket/speedtest.json)
 * [hey.json](https://github.com/pyspa/pyspa-bucket/blob/master/bucket/hey.json)
+* [buildozer.json](https://github.com/pyspa/pyspa-bucket/blob/master/bucket/buildozer.json)
+* [mkcert.json](https://github.com/pyspa/pyspa-bucket/blob/master/bucket/mkcert.json)

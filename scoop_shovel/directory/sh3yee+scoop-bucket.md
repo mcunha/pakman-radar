@@ -8,8 +8,8 @@
 
 
 ## 📦 Recipes (5)
-* [git.json](https://github.com/sh3yee/scoop-bucket/blob/main/bucket/git.json)
-* [maple-mono.json](https://github.com/sh3yee/scoop-bucket/blob/main/bucket/maple-mono.json)
-* [vscode.json](https://github.com/sh3yee/scoop-bucket/blob/main/bucket/vscode.json)
-* [curl.json](https://github.com/sh3yee/scoop-bucket/blob/main/bucket/curl.json)
 * [nvm.json](https://github.com/sh3yee/scoop-bucket/blob/main/bucket/nvm.json)
+* [maple-mono.json](https://github.com/sh3yee/scoop-bucket/blob/main/bucket/maple-mono.json)
+* [curl.json](https://github.com/sh3yee/scoop-bucket/blob/main/bucket/curl.json)
+* [git.json](https://github.com/sh3yee/scoop-bucket/blob/main/bucket/git.json)
+* [vscode.json](https://github.com/sh3yee/scoop-bucket/blob/main/bucket/vscode.json)

@@ -8,9 +8,9 @@
 
 
 ## 📦 Recipes (6)
+* [hledger.json](https://github.com/robewald/scoop-bucket/blob/main/bucket/hledger.json)
 * [dotnet-sdk-lts.json](https://github.com/robewald/scoop-bucket/blob/main/bucket/dotnet-sdk-lts.json)
 * [dotnetrdf-toolkit.json](https://github.com/robewald/scoop-bucket/blob/main/bucket/dotnetrdf-toolkit.json)
-* [openmodelica.json](https://github.com/robewald/scoop-bucket/blob/main/bucket/openmodelica.json)
-* [hledger.json](https://github.com/robewald/scoop-bucket/blob/main/bucket/hledger.json)
-* [git-roew.json](https://github.com/robewald/scoop-bucket/blob/main/bucket/git-roew.json)
 * [freecad-pre.json](https://github.com/robewald/scoop-bucket/blob/main/bucket/freecad-pre.json)
+* [git-roew.json](https://github.com/robewald/scoop-bucket/blob/main/bucket/git-roew.json)
+* [openmodelica.json](https://github.com/robewald/scoop-bucket/blob/main/bucket/openmodelica.json)
