@@ -8,10 +8,10 @@
 
 
 ## 📦 Recipes (7)
-* [search-ripgrep-ui.json](https://github.com/mattia72/scoop/blob/main/bucket/search-ripgrep-ui.json)
-* [flicflac.json](https://github.com/mattia72/scoop/blob/main/bucket/flicflac.json)
-* [ns-runasdate.json](https://github.com/mattia72/scoop/blob/main/bucket/ns-runasdate.json)
 * [graniteditor.json](https://github.com/mattia72/scoop/blob/main/bucket/graniteditor.json)
 * [mousewithoutborders.json](https://github.com/mattia72/scoop/blob/main/bucket/mousewithoutborders.json)
-* [graniteditor-pre.json](https://github.com/mattia72/scoop/blob/main/bucket/graniteditor-pre.json)
 * [autohotkey-portable.json](https://github.com/mattia72/scoop/blob/main/bucket/autohotkey-portable.json)
+* [flicflac.json](https://github.com/mattia72/scoop/blob/main/bucket/flicflac.json)
+* [ns-runasdate.json](https://github.com/mattia72/scoop/blob/main/bucket/ns-runasdate.json)
+* [search-ripgrep-ui.json](https://github.com/mattia72/scoop/blob/main/bucket/search-ripgrep-ui.json)
+* [graniteditor-pre.json](https://github.com/mattia72/scoop/blob/main/bucket/graniteditor-pre.json)
