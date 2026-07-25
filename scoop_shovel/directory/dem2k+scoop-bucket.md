@@ -9,8 +9,8 @@
 
 ## 📦 Recipes (6)
 * [binance-fund-bot.json](https://github.com/dem2k/scoop-bucket/blob/master/bucket/binance-fund-bot.json)
-* [dasviewer.json](https://github.com/dem2k/scoop-bucket/blob/master/bucket/dasviewer.json)
 * [view64.json](https://github.com/dem2k/scoop-bucket/blob/master/bucket/view64.json)
-* [binance-pump-checker.json](https://github.com/dem2k/scoop-bucket/blob/master/bucket/binance-pump-checker.json)
 * [binance-excel-report.json](https://github.com/dem2k/scoop-bucket/blob/master/bucket/binance-excel-report.json)
 * [rzf-functions.json](https://github.com/dem2k/scoop-bucket/blob/master/bucket/rzf-functions.json)
+* [binance-pump-checker.json](https://github.com/dem2k/scoop-bucket/blob/master/bucket/binance-pump-checker.json)
+* [dasviewer.json](https://github.com/dem2k/scoop-bucket/blob/master/bucket/dasviewer.json)

@@ -8,9 +8,9 @@
 
 
 ## 📦 Recipes (6)
-* [evkey.json](https://github.com/KhoiCanDev/scoop-vietnamese-softwares-bucket/blob/main/bucket/evkey.json)
-* [imageglass.json](https://github.com/KhoiCanDev/scoop-vietnamese-softwares-bucket/blob/main/bucket/imageglass.json)
-* [vinatext.json](https://github.com/KhoiCanDev/scoop-vietnamese-softwares-bucket/blob/main/bucket/vinatext.json)
 * [pencil.json](https://github.com/KhoiCanDev/scoop-vietnamese-softwares-bucket/blob/main/bucket/pencil.json)
+* [evkey.json](https://github.com/KhoiCanDev/scoop-vietnamese-softwares-bucket/blob/main/bucket/evkey.json)
 * [openkey.json](https://github.com/KhoiCanDev/scoop-vietnamese-softwares-bucket/blob/main/bucket/openkey.json)
+* [vinatext.json](https://github.com/KhoiCanDev/scoop-vietnamese-softwares-bucket/blob/main/bucket/vinatext.json)
 * [unikey.json](https://github.com/KhoiCanDev/scoop-vietnamese-softwares-bucket/blob/main/bucket/unikey.json)
+* [imageglass.json](https://github.com/KhoiCanDev/scoop-vietnamese-softwares-bucket/blob/main/bucket/imageglass.json)

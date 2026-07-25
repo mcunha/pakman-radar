@@ -9,5 +9,5 @@
 
 ## 📦 Recipes (3)
 * [lux.nuspec](https://github.com/astra-midnight/chocolatey-pkgs/blob/master/lux/lux.nuspec)
-* [lf.nuspec](https://github.com/astra-midnight/chocolatey-pkgs/blob/master/lf/lf.nuspec)
 * [epr.nuspec](https://github.com/astra-midnight/chocolatey-pkgs/blob/master/epr/epr.nuspec)
+* [lf.nuspec](https://github.com/astra-midnight/chocolatey-pkgs/blob/master/lf/lf.nuspec)
