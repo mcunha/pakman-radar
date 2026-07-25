@@ -8,7 +8,7 @@
 
 
 ## 📦 Recipes (4)
-* [faithtype.json](https://github.com/Kyure-A/ksb/blob/master/bucket/faithtype.json)
 * [noMeiryoUi.json](https://github.com/Kyure-A/ksb/blob/master/bucket/noMeiryoUi.json)
 * [stealth.json](https://github.com/Kyure-A/ksb/blob/master/bucket/stealth.json)
 * [keyhac.json](https://github.com/Kyure-A/ksb/blob/master/bucket/keyhac.json)
+* [faithtype.json](https://github.com/Kyure-A/ksb/blob/master/bucket/faithtype.json)

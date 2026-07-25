@@ -8,6 +8,6 @@
 
 
 ## 📦 Recipes (3)
-* [php-apcu.json](https://github.com/daekma/scoop-bucket/blob/main/bucket/php-apcu.json)
 * [php-imagick.json](https://github.com/daekma/scoop-bucket/blob/main/bucket/php-imagick.json)
+* [php-apcu.json](https://github.com/daekma/scoop-bucket/blob/main/bucket/php-apcu.json)
 * [php-redis.json](https://github.com/daekma/scoop-bucket/blob/main/bucket/php-redis.json)

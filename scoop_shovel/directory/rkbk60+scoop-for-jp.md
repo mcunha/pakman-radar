@@ -9,9 +9,9 @@
 
 ## 📦 Recipes (7)
 * [cica.json](https://github.com/rkbk60/scoop-for-jp/blob/master/cica.json)
-* [source-han-code-jp.json](https://github.com/rkbk60/scoop-for-jp/blob/master/source-han-code-jp.json)
 * [ricty-diminished.json](https://github.com/rkbk60/scoop-for-jp/blob/master/ricty-diminished.json)
-* [emacs-nt.json](https://github.com/rkbk60/scoop-for-jp/blob/master/emacs-nt.json)
 * [myrica-m.json](https://github.com/rkbk60/scoop-for-jp/blob/master/myrica-m.json)
-* [myrica.json](https://github.com/rkbk60/scoop-for-jp/blob/master/myrica.json)
+* [source-han-code-jp.json](https://github.com/rkbk60/scoop-for-jp/blob/master/source-han-code-jp.json)
 * [nyagos.json](https://github.com/rkbk60/scoop-for-jp/blob/master/nyagos.json)
+* [emacs-nt.json](https://github.com/rkbk60/scoop-for-jp/blob/master/emacs-nt.json)
+* [myrica.json](https://github.com/rkbk60/scoop-for-jp/blob/master/myrica.json)

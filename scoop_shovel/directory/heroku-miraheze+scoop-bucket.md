@@ -9,5 +9,5 @@
 
 ## 📦 Recipes (3)
 * [qBittorrent.json](https://github.com/heroku-miraheze/scoop-bucket/blob/master/bucket/qBittorrent.json)
-* [Jackett.json](https://github.com/heroku-miraheze/scoop-bucket/blob/master/bucket/Jackett.json)
 * [JDownloader.json](https://github.com/heroku-miraheze/scoop-bucket/blob/master/bucket/JDownloader.json)
+* [Jackett.json](https://github.com/heroku-miraheze/scoop-bucket/blob/master/bucket/Jackett.json)

@@ -8,12 +8,12 @@
 
 
 ## 📦 Recipes (9)
-* [nsfimport.json](https://github.com/skellygore/scoop-bucket/blob/master/bucket/nsfimport.json)
-* [utagoe.json](https://github.com/skellygore/scoop-bucket/blob/master/bucket/utagoe.json)
-* [bmx2wav-old.json](https://github.com/skellygore/scoop-bucket/blob/master/bucket/bmx2wav-old.json)
 * [vgm2mid.json](https://github.com/skellygore/scoop-bucket/blob/master/bucket/vgm2mid.json)
+* [vgmtool.json](https://github.com/skellygore/scoop-bucket/blob/master/bucket/vgmtool.json)
+* [utagoe.json](https://github.com/skellygore/scoop-bucket/blob/master/bucket/utagoe.json)
+* [towave.json](https://github.com/skellygore/scoop-bucket/blob/master/bucket/towave.json)
+* [bmx2wav-old.json](https://github.com/skellygore/scoop-bucket/blob/master/bucket/bmx2wav-old.json)
 * [vgm2pre.json](https://github.com/skellygore/scoop-bucket/blob/master/bucket/vgm2pre.json)
+* [nsfimport.json](https://github.com/skellygore/scoop-bucket/blob/master/bucket/nsfimport.json)
 * [0cc-famitracker.json](https://github.com/skellygore/scoop-bucket/blob/master/bucket/0cc-famitracker.json)
 * [multidumper.json](https://github.com/skellygore/scoop-bucket/blob/master/bucket/multidumper.json)
-* [vgmtool.json](https://github.com/skellygore/scoop-bucket/blob/master/bucket/vgmtool.json)
-* [towave.json](https://github.com/skellygore/scoop-bucket/blob/master/bucket/towave.json)

@@ -8,6 +8,6 @@
 
 
 ## 📦 Recipes (3)
-* [saz-tools.json](https://github.com/prantlf/scoop-bucket/blob/master/bucket/saz-tools.json)
-* [shortpwd.json](https://github.com/prantlf/scoop-bucket/blob/master/bucket/shortpwd.json)
 * [cutmidel.json](https://github.com/prantlf/scoop-bucket/blob/master/bucket/cutmidel.json)
+* [shortpwd.json](https://github.com/prantlf/scoop-bucket/blob/master/bucket/shortpwd.json)
+* [saz-tools.json](https://github.com/prantlf/scoop-bucket/blob/master/bucket/saz-tools.json)

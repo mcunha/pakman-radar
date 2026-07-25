@@ -8,6 +8,6 @@
 
 
 ## 📦 Recipes (3)
-* [au.nuspec](https://github.com/majkinetor/au/blob/master/chocolatey/au.nuspec)
 * [test_package.nuspec](https://github.com/majkinetor/au/blob/master/tests/test_package/test_package.nuspec)
 * [test_package_with_streams.nuspec](https://github.com/majkinetor/au/blob/master/tests/test_package_with_streams/test_package_with_streams.nuspec)
+* [au.nuspec](https://github.com/majkinetor/au/blob/master/chocolatey/au.nuspec)

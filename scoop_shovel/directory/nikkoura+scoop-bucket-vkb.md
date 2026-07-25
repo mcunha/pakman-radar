@@ -8,9 +8,9 @@
 
 
 ## 📦 Recipes (6)
-* [vkb-joytester.json](https://github.com/nikkoura/scoop-bucket-vkb/blob/master/bucket/vkb-joytester.json)
-* [vkb-buttontester.json](https://github.com/nikkoura/scoop-bucket-vkb/blob/master/bucket/vkb-buttontester.json)
-* [vkb-devcfg.json](https://github.com/nikkoura/scoop-bucket-vkb/blob/master/bucket/vkb-devcfg.json)
+* [vkb-zbootloader2.json](https://github.com/nikkoura/scoop-bucket-vkb/blob/master/bucket/vkb-zbootloader2.json)
 * [vkb-firmware.json](https://github.com/nikkoura/scoop-bucket-vkb/blob/master/bucket/vkb-firmware.json)
 * [vkb-devcfg-userguide.json](https://github.com/nikkoura/scoop-bucket-vkb/blob/master/bucket/vkb-devcfg-userguide.json)
-* [vkb-zbootloader2.json](https://github.com/nikkoura/scoop-bucket-vkb/blob/master/bucket/vkb-zbootloader2.json)
+* [vkb-buttontester.json](https://github.com/nikkoura/scoop-bucket-vkb/blob/master/bucket/vkb-buttontester.json)
+* [vkb-devcfg.json](https://github.com/nikkoura/scoop-bucket-vkb/blob/master/bucket/vkb-devcfg.json)
+* [vkb-joytester.json](https://github.com/nikkoura/scoop-bucket-vkb/blob/master/bucket/vkb-joytester.json)

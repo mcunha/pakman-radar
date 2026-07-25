@@ -8,10 +8,10 @@
 
 
 ## 📦 Recipes (7)
-* [lemmeknow.json](https://github.com/wind-mask/scoop-bucket-repository/blob/master/bucket/lemmeknow.json)
 * [vivid.json](https://github.com/wind-mask/scoop-bucket-repository/blob/master/bucket/vivid.json)
-* [mpv-lazy.json](https://github.com/wind-mask/scoop-bucket-repository/blob/master/bucket/mpv-lazy.json)
 * [jnv.json](https://github.com/wind-mask/scoop-bucket-repository/blob/master/bucket/jnv.json)
 * [marktext-specialedition.json](https://github.com/wind-mask/scoop-bucket-repository/blob/master/bucket/marktext-specialedition.json)
-* [halp.json](https://github.com/wind-mask/scoop-bucket-repository/blob/master/bucket/halp.json)
 * [bandwhich.json](https://github.com/wind-mask/scoop-bucket-repository/blob/master/bucket/bandwhich.json)
+* [lemmeknow.json](https://github.com/wind-mask/scoop-bucket-repository/blob/master/bucket/lemmeknow.json)
+* [halp.json](https://github.com/wind-mask/scoop-bucket-repository/blob/master/bucket/halp.json)
+* [mpv-lazy.json](https://github.com/wind-mask/scoop-bucket-repository/blob/master/bucket/mpv-lazy.json)

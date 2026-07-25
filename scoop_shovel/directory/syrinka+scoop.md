@@ -8,8 +8,8 @@
 
 
 ## 📦 Recipes (5)
-* [cygwin-alter.json](https://github.com/syrinka/scoop/blob/master/bucket/cygwin-alter.json)
-* [spot.json](https://github.com/syrinka/scoop/blob/master/bucket/spot.json)
-* [minify.json](https://github.com/syrinka/scoop/blob/master/bucket/minify.json)
-* [rimsort.json](https://github.com/syrinka/scoop/blob/master/bucket/rimsort.json)
 * [opal.json](https://github.com/syrinka/scoop/blob/master/bucket/opal.json)
+* [spot.json](https://github.com/syrinka/scoop/blob/master/bucket/spot.json)
+* [cygwin-alter.json](https://github.com/syrinka/scoop/blob/master/bucket/cygwin-alter.json)
+* [rimsort.json](https://github.com/syrinka/scoop/blob/master/bucket/rimsort.json)
+* [minify.json](https://github.com/syrinka/scoop/blob/master/bucket/minify.json)

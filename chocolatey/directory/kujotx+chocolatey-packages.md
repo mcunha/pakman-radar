@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [wireshark.nuspec](https://github.com/kujotx/chocolatey-packages/blob/master/automatic/wireshark/wireshark.nuspec)
 * [clipx.nuspec](https://github.com/kujotx/chocolatey-packages/blob/master/automatic/clipx/clipx.nuspec)
+* [wireshark.nuspec](https://github.com/kujotx/chocolatey-packages/blob/master/automatic/wireshark/wireshark.nuspec)

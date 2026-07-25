@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [lua51.json](https://github.com/lumen-oss/rocks-scoop/blob/master/bucket/lua51.json)
 * [luarocks.json](https://github.com/lumen-oss/rocks-scoop/blob/master/bucket/luarocks.json)
+* [lua51.json](https://github.com/lumen-oss/rocks-scoop/blob/master/bucket/lua51.json)

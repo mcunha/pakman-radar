@@ -9,6 +9,6 @@
 
 ## 📦 Recipes (4)
 * [zls.json](https://github.com/enndubyu/scoop-zig/blob/master/bucket/zls.json)
-* [zig-mach.json](https://github.com/enndubyu/scoop-zig/blob/master/bucket/zig-mach.json)
 * [zig.json](https://github.com/enndubyu/scoop-zig/blob/master/bucket/zig.json)
+* [zig-mach.json](https://github.com/enndubyu/scoop-zig/blob/master/bucket/zig-mach.json)
 * [zig-dev.json](https://github.com/enndubyu/scoop-zig/blob/master/bucket/zig-dev.json)

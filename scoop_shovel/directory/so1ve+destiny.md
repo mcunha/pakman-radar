@@ -8,11 +8,11 @@
 
 
 ## 📦 Recipes (8)
-* [oraclejdk8.json](https://github.com/so1ve/destiny/blob/master/bucket/oraclejdk8.json)
-* [powershell-preview.json](https://github.com/so1ve/destiny/blob/master/bucket/powershell-preview.json)
-* [yazi.json](https://github.com/so1ve/destiny/blob/master/bucket/yazi.json)
-* [powershell.json](https://github.com/so1ve/destiny/blob/master/bucket/powershell.json)
 * [oraclejdk17.json](https://github.com/so1ve/destiny/blob/master/bucket/oraclejdk17.json)
-* [dvm.json](https://github.com/so1ve/destiny/blob/master/bucket/dvm.json)
-* [oraclejdk11.json](https://github.com/so1ve/destiny/blob/master/bucket/oraclejdk11.json)
 * [yarr.json](https://github.com/so1ve/destiny/blob/master/bucket/yarr.json)
+* [dvm.json](https://github.com/so1ve/destiny/blob/master/bucket/dvm.json)
+* [powershell-preview.json](https://github.com/so1ve/destiny/blob/master/bucket/powershell-preview.json)
+* [oraclejdk11.json](https://github.com/so1ve/destiny/blob/master/bucket/oraclejdk11.json)
+* [oraclejdk8.json](https://github.com/so1ve/destiny/blob/master/bucket/oraclejdk8.json)
+* [powershell.json](https://github.com/so1ve/destiny/blob/master/bucket/powershell.json)
+* [yazi.json](https://github.com/so1ve/destiny/blob/master/bucket/yazi.json)
