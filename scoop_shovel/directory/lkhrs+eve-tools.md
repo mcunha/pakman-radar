@@ -8,10 +8,10 @@
 
 
 ## 📦 Recipes (7)
-* [eve-o-preview.json](https://github.com/lkhrs/eve-tools/blob/master/bucket/eve-o-preview.json)
 * [jeveassets.json](https://github.com/lkhrs/eve-tools/blob/master/bucket/jeveassets.json)
-* [evemon.json](https://github.com/lkhrs/eve-tools/blob/master/bucket/evemon.json)
-* [pyevelivedps.json](https://github.com/lkhrs/eve-tools/blob/master/bucket/pyevelivedps.json)
 * [eve-iph.json](https://github.com/lkhrs/eve-tools/blob/master/bucket/eve-iph.json)
 * [pyfa.json](https://github.com/lkhrs/eve-tools/blob/master/bucket/pyfa.json)
+* [evemon.json](https://github.com/lkhrs/eve-tools/blob/master/bucket/evemon.json)
+* [pyevelivedps.json](https://github.com/lkhrs/eve-tools/blob/master/bucket/pyevelivedps.json)
 * [eve-settings-manager.json](https://github.com/lkhrs/eve-tools/blob/master/bucket/eve-settings-manager.json)
+* [eve-o-preview.json](https://github.com/lkhrs/eve-tools/blob/master/bucket/eve-o-preview.json)

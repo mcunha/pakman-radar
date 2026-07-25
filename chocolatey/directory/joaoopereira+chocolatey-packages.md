@@ -9,6 +9,6 @@
 
 ## 📦 Recipes (4)
 * [ssh-manager.nuspec](https://github.com/joaoopereira/chocolatey-packages/blob/development/ssh-manager/ssh-manager.nuspec)
-* [podman-cli.nuspec](https://github.com/joaoopereira/chocolatey-packages/blob/development/podman-cli/podman-cli.nuspec)
 * [devpod.nuspec](https://github.com/joaoopereira/chocolatey-packages/blob/development/devpod/devpod.nuspec)
 * [qlcplus.nuspec](https://github.com/joaoopereira/chocolatey-packages/blob/development/qlcplus/qlcplus.nuspec)
+* [podman-cli.nuspec](https://github.com/joaoopereira/chocolatey-packages/blob/development/podman-cli/podman-cli.nuspec)

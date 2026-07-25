@@ -8,11 +8,11 @@
 
 
 ## 📦 Recipes (8)
-* [clash-for-windows.json](https://github.com/Apocalypsor/My-Scoop-Bucket/blob/master/bucket/clash-for-windows.json)
-* [nvidia-profile-inspector.json](https://github.com/Apocalypsor/My-Scoop-Bucket/blob/master/bucket/nvidia-profile-inspector.json)
-* [dnslookup.json](https://github.com/Apocalypsor/My-Scoop-Bucket/blob/master/bucket/dnslookup.json)
-* [winscp.json](https://github.com/Apocalypsor/My-Scoop-Bucket/blob/master/bucket/winscp.json)
-* [netch.json](https://github.com/Apocalypsor/My-Scoop-Bucket/blob/master/bucket/netch.json)
-* [nali.json](https://github.com/Apocalypsor/My-Scoop-Bucket/blob/master/bucket/nali.json)
-* [doggo.json](https://github.com/Apocalypsor/My-Scoop-Bucket/blob/master/bucket/doggo.json)
 * [context-menu-manager.json](https://github.com/Apocalypsor/My-Scoop-Bucket/blob/master/bucket/context-menu-manager.json)
+* [nvidia-profile-inspector.json](https://github.com/Apocalypsor/My-Scoop-Bucket/blob/master/bucket/nvidia-profile-inspector.json)
+* [nali.json](https://github.com/Apocalypsor/My-Scoop-Bucket/blob/master/bucket/nali.json)
+* [clash-for-windows.json](https://github.com/Apocalypsor/My-Scoop-Bucket/blob/master/bucket/clash-for-windows.json)
+* [dnslookup.json](https://github.com/Apocalypsor/My-Scoop-Bucket/blob/master/bucket/dnslookup.json)
+* [netch.json](https://github.com/Apocalypsor/My-Scoop-Bucket/blob/master/bucket/netch.json)
+* [doggo.json](https://github.com/Apocalypsor/My-Scoop-Bucket/blob/master/bucket/doggo.json)
+* [winscp.json](https://github.com/Apocalypsor/My-Scoop-Bucket/blob/master/bucket/winscp.json)

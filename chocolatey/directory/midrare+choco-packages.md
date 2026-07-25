@@ -9,7 +9,7 @@
 
 ## 📦 Recipes (5)
 * [treesheets.portable.nuspec](https://github.com/midrare/choco-packages/blob/master/treesheets.portable/treesheets.portable.nuspec)
-* [painttoolsai2.portable.nuspec](https://github.com/midrare/choco-packages/blob/master/painttoolsai2.portable/painttoolsai2.portable.nuspec)
-* [scapple.install.nuspec](https://github.com/midrare/choco-packages/blob/master/scapple.install/scapple.install.nuspec)
 * [treesheets.install.nuspec](https://github.com/midrare/choco-packages/blob/master/treesheets.install/treesheets.install.nuspec)
+* [scapple.install.nuspec](https://github.com/midrare/choco-packages/blob/master/scapple.install/scapple.install.nuspec)
 * [vue.install.nuspec](https://github.com/midrare/choco-packages/blob/master/vue.install/vue.install.nuspec)
+* [painttoolsai2.portable.nuspec](https://github.com/midrare/choco-packages/blob/master/painttoolsai2.portable/painttoolsai2.portable.nuspec)

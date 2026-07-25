@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [typora.nuspec](https://github.com/h0ek/chocolatey-packages/blob/main/self-contained/typora/typora.nuspec)
 * [gtkhash.nuspec](https://github.com/h0ek/chocolatey-packages/blob/main/self-contained/gtkhash/gtkhash.nuspec)
+* [typora.nuspec](https://github.com/h0ek/chocolatey-packages/blob/main/self-contained/typora/typora.nuspec)
