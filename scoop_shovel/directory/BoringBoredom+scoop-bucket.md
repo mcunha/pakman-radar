@@ -8,9 +8,9 @@
 
 
 ## 📦 Recipes (6)
-* [icat.json](https://github.com/BoringBoredom/scoop-bucket/blob/master/bucket/icat.json)
-* [usbtreeview.json](https://github.com/BoringBoredom/scoop-bucket/blob/master/bucket/usbtreeview.json)
 * [windows-multitool.json](https://github.com/BoringBoredom/scoop-bucket/blob/master/bucket/windows-multitool.json)
 * [smoothfrog.json](https://github.com/BoringBoredom/scoop-bucket/blob/master/bucket/smoothfrog.json)
-* [frameview.json](https://github.com/BoringBoredom/scoop-bucket/blob/master/bucket/frameview.json)
 * [scoop-status-inspect.json](https://github.com/BoringBoredom/scoop-bucket/blob/master/bucket/scoop-status-inspect.json)
+* [usbtreeview.json](https://github.com/BoringBoredom/scoop-bucket/blob/master/bucket/usbtreeview.json)
+* [frameview.json](https://github.com/BoringBoredom/scoop-bucket/blob/master/bucket/frameview.json)
+* [icat.json](https://github.com/BoringBoredom/scoop-bucket/blob/master/bucket/icat.json)
