@@ -9,6 +9,6 @@
 
 ## 📦 Recipes (4)
 * [eac3to.json](https://github.com/emotion3459/Bucket/blob/main/bucket/eac3to.json)
-* [wobbly.json](https://github.com/emotion3459/Bucket/blob/main/bucket/wobbly.json)
 * [dgdemux.json](https://github.com/emotion3459/Bucket/blob/main/bucket/dgdemux.json)
+* [wobbly.json](https://github.com/emotion3459/Bucket/blob/main/bucket/wobbly.json)
 * [special-k.json](https://github.com/emotion3459/Bucket/blob/main/bucket/special-k.json)
