@@ -8,7 +8,7 @@
 
 
 ## 📦 Recipes (4)
-* [wsl-usb-manager.json](https://github.com/nazo6/scoop-bucket/blob/master/bucket/wsl-usb-manager.json)
 * [massigra.json](https://github.com/nazo6/scoop-bucket/blob/master/bucket/massigra.json)
+* [wsl-usb-manager.json](https://github.com/nazo6/scoop-bucket/blob/master/bucket/wsl-usb-manager.json)
 * [bob.json](https://github.com/nazo6/scoop-bucket/blob/master/bucket/bob.json)
 * [ule4jis.json](https://github.com/nazo6/scoop-bucket/blob/master/bucket/ule4jis.json)
