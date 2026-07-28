@@ -8,6 +8,6 @@
 
 
 ## 📦 Recipes (3)
+* [shuku.nuspec](https://github.com/welpo/chocolatey-packages/blob/main/shuku/shuku.nuspec)
 * [git-sumi.nuspec](https://github.com/welpo/chocolatey-packages/blob/main/git-sumi/git-sumi.nuspec)
 * [zola.nuspec](https://github.com/welpo/chocolatey-packages/blob/main/zola/zola.nuspec)
-* [shuku.nuspec](https://github.com/welpo/chocolatey-packages/blob/main/shuku/shuku.nuspec)
