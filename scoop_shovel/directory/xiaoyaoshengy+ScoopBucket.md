@@ -9,8 +9,8 @@
 
 ## 📦 Recipes (6)
 * [simple-mindmap.json](https://github.com/xiaoyaoshengy/ScoopBucket/blob/master/bucket/simple-mindmap.json)
-* [clickexpert.json](https://github.com/xiaoyaoshengy/ScoopBucket/blob/master/bucket/clickexpert.json)
-* [reader.json](https://github.com/xiaoyaoshengy/ScoopBucket/blob/master/bucket/reader.json)
-* [pixzip-lite.json](https://github.com/xiaoyaoshengy/ScoopBucket/blob/master/bucket/pixzip-lite.json)
-* [inputtip.json](https://github.com/xiaoyaoshengy/ScoopBucket/blob/master/bucket/inputtip.json)
 * [picacomic.json](https://github.com/xiaoyaoshengy/ScoopBucket/blob/master/bucket/picacomic.json)
+* [inputtip.json](https://github.com/xiaoyaoshengy/ScoopBucket/blob/master/bucket/inputtip.json)
+* [reader.json](https://github.com/xiaoyaoshengy/ScoopBucket/blob/master/bucket/reader.json)
+* [clickexpert.json](https://github.com/xiaoyaoshengy/ScoopBucket/blob/master/bucket/clickexpert.json)
+* [pixzip-lite.json](https://github.com/xiaoyaoshengy/ScoopBucket/blob/master/bucket/pixzip-lite.json)
