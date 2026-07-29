@@ -115,32 +115,36 @@
     {
       "full_name": "mcornick/scoop-bucket",
       "evicted_at": "2026-07-25T23:17:30Z"
+    },
+    {
+      "full_name": "Zalk0/ZalkosBucket",
+      "evicted_at": "2026-07-29T21:15:30Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-07-29T19:48:09Z",
-    "count": 29,
+    "generated_at": "2026-07-29T21:36:05Z",
+    "count": 30,
     "global_metrics": {
-      "total_runs": 1564,
-      "total_run_time_seconds": 253623.2543671131,
-      "total_repo_updates": 100721,
-      "previous_total_buckets": 1469,
-      "previous_total_recipes": 135026,
-      "bucket_velocity": 2,
-      "recipe_velocity": 8,
-      "total_evictions": 29,
+      "total_runs": 1565,
+      "total_run_time_seconds": 254888.25741624832,
+      "total_repo_updates": 100785,
+      "previous_total_buckets": 1468,
+      "previous_total_recipes": 135023,
+      "bucket_velocity": -1,
+      "recipe_velocity": -3,
+      "total_evictions": 30,
       "total_api_retries": 0,
-      "last_run_discover_time": 2.872549057006836,
-      "last_run_update_time": 18.287604570388794,
-      "ecosystem_reliability": 87.3,
-      "cache_size_mb": 10.200063705444336,
+      "last_run_discover_time": 2.675549268722534,
+      "last_run_update_time": 313.1461615562439,
+      "ecosystem_reliability": 87.5,
+      "cache_size_mb": 10.202917098999023,
       "total_unique_recipes": 31475,
       "auto_update_percentage": 85.36,
-      "official_recipes": 54026,
-      "community_recipes": 81000,
+      "official_recipes": 54025,
+      "community_recipes": 80998,
       "stale_buckets": 476,
       "shovel_buckets": 25,
-      "scoop_buckets": 1444
+      "scoop_buckets": 1443
     }
   }
 }
