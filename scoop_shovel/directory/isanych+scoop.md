@@ -9,6 +9,6 @@
 
 ## 📦 Recipes (4)
 * [beyondcompare.json](https://github.com/isanych/scoop/blob/main/bucket/beyondcompare.json)
-* [sleep.json](https://github.com/isanych/scoop/blob/main/bucket/sleep.json)
 * [cinebench.json](https://github.com/isanych/scoop/blob/main/bucket/cinebench.json)
+* [sleep.json](https://github.com/isanych/scoop/blob/main/bucket/sleep.json)
 * [timemem.json](https://github.com/isanych/scoop/blob/main/bucket/timemem.json)
