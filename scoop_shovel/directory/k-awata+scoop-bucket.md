@@ -8,9 +8,9 @@
 
 
 ## 📦 Recipes (6)
-* [dbbuilder.json](https://github.com/k-awata/scoop-bucket/blob/main/bucket/dbbuilder.json)
-* [rvmbuilder.json](https://github.com/k-awata/scoop-bucket/blob/main/bucket/rvmbuilder.json)
 * [acadbp.json](https://github.com/k-awata/scoop-bucket/blob/main/bucket/acadbp.json)
-* [pjma.json](https://github.com/k-awata/scoop-bucket/blob/main/bucket/pjma.json)
+* [rvmbuilder.json](https://github.com/k-awata/scoop-bucket/blob/main/bucket/rvmbuilder.json)
 * [dxfcriber.json](https://github.com/k-awata/scoop-bucket/blob/main/bucket/dxfcriber.json)
 * [schtab.json](https://github.com/k-awata/scoop-bucket/blob/main/bucket/schtab.json)
+* [pjma.json](https://github.com/k-awata/scoop-bucket/blob/main/bucket/pjma.json)
+* [dbbuilder.json](https://github.com/k-awata/scoop-bucket/blob/main/bucket/dbbuilder.json)
