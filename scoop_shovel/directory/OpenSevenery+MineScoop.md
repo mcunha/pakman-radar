@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [genp.json](https://github.com/OpenSevenery/MineScoop/blob/main/bucket/genp.json)
 * [pixpin.json](https://github.com/OpenSevenery/MineScoop/blob/main/bucket/pixpin.json)
+* [genp.json](https://github.com/OpenSevenery/MineScoop/blob/main/bucket/genp.json)

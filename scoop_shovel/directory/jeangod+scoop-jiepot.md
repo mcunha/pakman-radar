@@ -8,13 +8,13 @@
 
 
 ## 📦 Recipes (10)
-* [winscp.json](https://github.com/jeangod/scoop-jiepot/blob/master/bucket/winscp.json)
 * [dbeaver-ue.json](https://github.com/jeangod/scoop-jiepot/blob/master/bucket/dbeaver-ue.json)
+* [xdown.json](https://github.com/jeangod/scoop-jiepot/blob/master/bucket/xdown.json)
+* [pixpin.json](https://github.com/jeangod/scoop-jiepot/blob/master/bucket/pixpin.json)
 * [flymd.json](https://github.com/jeangod/scoop-jiepot/blob/master/bucket/flymd.json)
 * [thunder-professional.json](https://github.com/jeangod/scoop-jiepot/blob/master/bucket/thunder-professional.json)
 * [q-dir.json](https://github.com/jeangod/scoop-jiepot/blob/master/bucket/q-dir.json)
+* [flclash.json](https://github.com/jeangod/scoop-jiepot/blob/master/bucket/flclash.json)
 * [es-king.json](https://github.com/jeangod/scoop-jiepot/blob/master/bucket/es-king.json)
 * [lx-music.json](https://github.com/jeangod/scoop-jiepot/blob/master/bucket/lx-music.json)
-* [flclash.json](https://github.com/jeangod/scoop-jiepot/blob/master/bucket/flclash.json)
-* [pixpin.json](https://github.com/jeangod/scoop-jiepot/blob/master/bucket/pixpin.json)
-* [xdown.json](https://github.com/jeangod/scoop-jiepot/blob/master/bucket/xdown.json)
+* [winscp.json](https://github.com/jeangod/scoop-jiepot/blob/master/bucket/winscp.json)

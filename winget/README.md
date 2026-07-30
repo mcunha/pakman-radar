@@ -65,23 +65,23 @@ A combined list of every source discovered in the ecosystem.
 | **[pl4nty/winget-extras](directory/pl4nty+winget-extras.md)** | 📦 69 | ⭐ 1.0 | 🔄 0% |  |
 | **[pl4nty/winget-pkgs-selfhost](directory/pl4nty+winget-pkgs-selfhost.md)** | 📦 43 | ⭐ 1.0 | 🔄 0% |  |
 | **[picguard/winget-updater](directory/picguard+winget-updater.md)** | 📦 4 | ⭐ 1.0 | 🔄 0% |  |
-| **[voicemeet/winget-updater](directory/voicemeet+winget-updater.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
 | **[223n/winget-usacloud](directory/223n+winget-usacloud.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
+| **[voicemeet/winget-updater](directory/voicemeet+winget-updater.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
 | **[cloudflightio/winget-pkgs](directory/cloudflightio+winget-pkgs.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[RadikaRules/scripts](directory/RadikaRules+scripts.md)** | 📦 3 | ⭐ 1.0 | 🔄 0% |  |
 
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 1570
-* **Total Repo Updates**: 52485
+* **Total Crawler Runs**: 1571
+* **Total Repo Updates**: 52518
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
-* **Eviction Count**: 🗑️ 32
+* **Eviction Count**: 🗑️ 33
 * **API Rate Limit Retries**: ⏳ 0
 * **Cache Size**: 💾 0.80 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 0.23s
-  * 📥 Update: 15.10s
-* **Cumulative Compute Time**: 462.1 minutes
+  * 🔍 Discovery: 0.55s
+  * 📥 Update: 17.59s
+* **Cumulative Compute Time**: 462.4 minutes

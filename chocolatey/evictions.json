@@ -119,25 +119,29 @@
     {
       "full_name": "Zalk0/ZalkosBucket",
       "evicted_at": "2026-07-29T21:15:30Z"
+    },
+    {
+      "full_name": "ShihaoShen-Bot/ScoopBucket",
+      "evicted_at": "2026-07-30T09:46:15Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-07-30T06:47:49Z",
-    "count": 30,
+    "generated_at": "2026-07-30T09:46:19Z",
+    "count": 31,
     "global_metrics": {
-      "total_runs": 1570,
-      "total_run_time_seconds": 5478.477371454239,
-      "total_repo_updates": 94400,
+      "total_runs": 1571,
+      "total_run_time_seconds": 5480.726655960083,
+      "total_repo_updates": 94459,
       "previous_total_buckets": 227,
       "previous_total_recipes": 3329,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
-      "total_evictions": 31,
+      "total_evictions": 32,
       "total_api_retries": 0,
-      "last_run_discover_time": 0.39520788192749023,
-      "last_run_update_time": 2.26993989944458,
+      "last_run_discover_time": 0.2261362075805664,
+      "last_run_update_time": 1.9903912544250488,
       "ecosystem_reliability": 100.0,
-      "cache_size_mb": 0.8266963958740234,
+      "cache_size_mb": 0.8266878128051758,
       "total_unique_recipes": 2931,
       "auto_update_percentage": 35.99,
       "official_recipes": 481,

@@ -119,32 +119,36 @@
     {
       "full_name": "Zalk0/ZalkosBucket",
       "evicted_at": "2026-07-29T21:15:30Z"
+    },
+    {
+      "full_name": "ShihaoShen-Bot/ScoopBucket",
+      "evicted_at": "2026-07-30T09:46:15Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-07-30T06:47:46Z",
-    "count": 30,
+    "generated_at": "2026-07-30T09:46:17Z",
+    "count": 31,
     "global_metrics": {
-      "total_runs": 1570,
-      "total_run_time_seconds": 255321.80523109436,
-      "total_repo_updates": 101119,
-      "previous_total_buckets": 1472,
-      "previous_total_recipes": 135030,
-      "bucket_velocity": 0,
-      "recipe_velocity": 0,
-      "total_evictions": 30,
+      "total_runs": 1571,
+      "total_run_time_seconds": 255347.61789488792,
+      "total_repo_updates": 101187,
+      "previous_total_buckets": 1471,
+      "previous_total_recipes": 135024,
+      "bucket_velocity": -1,
+      "recipe_velocity": -6,
+      "total_evictions": 31,
       "total_api_retries": 0,
-      "last_run_discover_time": 1.1047794818878174,
-      "last_run_update_time": 161.13899970054626,
-      "ecosystem_reliability": 87.6,
-      "cache_size_mb": 10.203303337097168,
-      "total_unique_recipes": 31482,
+      "last_run_discover_time": 0.37373781204223633,
+      "last_run_update_time": 24.350024700164795,
+      "ecosystem_reliability": 87.8,
+      "cache_size_mb": 10.20224666595459,
+      "total_unique_recipes": 31479,
       "auto_update_percentage": 85.36,
       "official_recipes": 54025,
-      "community_recipes": 81005,
+      "community_recipes": 80999,
       "stale_buckets": 476,
       "shovel_buckets": 25,
-      "scoop_buckets": 1447
+      "scoop_buckets": 1446
     }
   }
 }
