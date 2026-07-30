@@ -40,7 +40,6 @@ These repositories are actively maintained and feature a high percentage of **un
 
 | Repository | Unique Recipes | Total Recipes | Score | Auto-Update |
 | :--- | :---: | :---: | :---: | :---: |
-| **[bcurran3/ChocolateyPackages](directory/bcurran3+ChocolateyPackages.md)** | 💎 597 (100.0%) | 📦 597 | ⭐ 1.0 | 🔄 1% |
 | **[mandiant/VM-Packages](directory/mandiant+VM-Packages.md)** | 💎 295 (100.0%) | 📦 295 | ⭐ 1.0 | 🔄 0% |
 | **[teknowledgist/Chocolatey-packages](directory/teknowledgist+Chocolatey-packages.md)** | 💎 266 (100.0%) | 📦 266 | ⭐ 1.0 | 🔄 63% |
 | **[flcdrg/au-packages](directory/flcdrg+au-packages.md)** | 💎 103 (100.0%) | 📦 103 | ⭐ 1.0 | 🔄 56% |
@@ -50,6 +49,7 @@ These repositories are actively maintained and feature a high percentage of **un
 | **[joachimschmidt557/chocolatey-packages-manual-automatic](directory/joachimschmidt557+chocolatey-packages-manual-automatic.md)** | 💎 59 (100.0%) | 📦 59 | ⭐ 1.0 | 🔄 61% |
 | **[EpicMorg/chocolatey](directory/EpicMorg+chocolatey.md)** | 💎 57 (100.0%) | 📦 57 | ⭐ 1.0 | 🔄 0% |
 | **[Thilas/chocolatey-packages](directory/Thilas+chocolatey-packages.md)** | 💎 32 (100.0%) | 📦 32 | ⭐ 1.0 | 🔄 97% |
+| **[strausmann/ChocolateyPackages](directory/strausmann+ChocolateyPackages.md)** | 💎 32 (100.0%) | 📦 32 | ⭐ 1.0 | 🔄 50% |
 
 
 
@@ -256,8 +256,8 @@ A combined list of every source discovered in the ecosystem.
 | **[astra-midnight/chocolatey-pkgs](directory/astra-midnight+chocolatey-pkgs.md)** | 📦 3 | ⭐ 1.0 | 🔄 100% |  |
 | **[sorashi/taiga-chocolatey-package](directory/sorashi+taiga-chocolatey-package.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[virtualex-itv/choco-marcs-updater](directory/virtualex-itv+choco-marcs-updater.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[danielskowronski/choco-hashi-ui](directory/danielskowronski+choco-hashi-ui.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[Cossey/chocopackages](directory/Cossey+chocopackages.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[danielskowronski/choco-hashi-ui](directory/danielskowronski+choco-hashi-ui.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[itigoag/chocolatey.bria](directory/itigoag+chocolatey.bria.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[belidzs/chocolatey-flyway](directory/belidzs+chocolatey-flyway.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[belidzs/chocolatey-log4view](directory/belidzs+chocolatey-log4view.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
@@ -298,8 +298,8 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 1574
-* **Total Repo Updates**: 94638
+* **Total Crawler Runs**: 1575
+* **Total Repo Updates**: 94697
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
@@ -307,6 +307,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 0
 * **Cache Size**: 💾 0.83 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 2.58s
-  * 📥 Update: 1.43s
-* **Cumulative Compute Time**: 91.5 minutes
+  * 🔍 Discovery: 0.21s
+  * 📥 Update: 1.83s
+* **Cumulative Compute Time**: 91.6 minutes
