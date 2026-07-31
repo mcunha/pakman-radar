@@ -126,29 +126,29 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-07-31T00:23:31Z",
+    "generated_at": "2026-07-31T03:54:36Z",
     "count": 31,
     "global_metrics": {
-      "total_runs": 1578,
-      "total_run_time_seconds": 257083.05873656273,
-      "total_repo_updates": 101666,
-      "previous_total_buckets": 1475,
-      "previous_total_recipes": 135038,
-      "bucket_velocity": 2,
-      "recipe_velocity": 4,
+      "total_runs": 1579,
+      "total_run_time_seconds": 257107.4107656479,
+      "total_repo_updates": 101740,
+      "previous_total_buckets": 1476,
+      "previous_total_recipes": 135039,
+      "bucket_velocity": 1,
+      "recipe_velocity": 1,
       "total_evictions": 31,
       "total_api_retries": 0,
-      "last_run_discover_time": 2.777801036834717,
-      "last_run_update_time": 160.6110155582428,
-      "ecosystem_reliability": 88.4,
-      "cache_size_mb": 10.20487117767334,
-      "total_unique_recipes": 31486,
+      "last_run_discover_time": 1.8100247383117676,
+      "last_run_update_time": 21.735392808914185,
+      "ecosystem_reliability": 88.2,
+      "cache_size_mb": 10.208606719970703,
+      "total_unique_recipes": 31487,
       "auto_update_percentage": 85.35,
       "official_recipes": 54025,
-      "community_recipes": 81013,
+      "community_recipes": 81014,
       "stale_buckets": 475,
       "shovel_buckets": 25,
-      "scoop_buckets": 1450
+      "scoop_buckets": 1451
     }
   }
 }
