@@ -123,32 +123,36 @@
     {
       "full_name": "ShihaoShen-Bot/ScoopBucket",
       "evicted_at": "2026-07-30T09:46:15Z"
+    },
+    {
+      "full_name": "ShihaoShenDev/ScoopBucket",
+      "evicted_at": "2026-07-31T07:18:17Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-07-31T03:54:36Z",
-    "count": 31,
+    "generated_at": "2026-07-31T07:23:06Z",
+    "count": 32,
     "global_metrics": {
-      "total_runs": 1579,
-      "total_run_time_seconds": 257107.4107656479,
-      "total_repo_updates": 101740,
-      "previous_total_buckets": 1476,
-      "previous_total_recipes": 135039,
-      "bucket_velocity": 1,
-      "recipe_velocity": 1,
-      "total_evictions": 31,
+      "total_runs": 1580,
+      "total_run_time_seconds": 257428.2086532116,
+      "total_repo_updates": 101811,
+      "previous_total_buckets": 1475,
+      "previous_total_recipes": 135035,
+      "bucket_velocity": -1,
+      "recipe_velocity": -4,
+      "total_evictions": 32,
       "total_api_retries": 0,
-      "last_run_discover_time": 1.8100247383117676,
-      "last_run_update_time": 21.735392808914185,
-      "ecosystem_reliability": 88.2,
-      "cache_size_mb": 10.208606719970703,
+      "last_run_discover_time": 0.3833584785461426,
+      "last_run_update_time": 319.3138749599457,
+      "ecosystem_reliability": 88.1,
+      "cache_size_mb": 10.207846641540527,
       "total_unique_recipes": 31487,
       "auto_update_percentage": 85.35,
-      "official_recipes": 54025,
-      "community_recipes": 81014,
+      "official_recipes": 54023,
+      "community_recipes": 81012,
       "stale_buckets": 475,
       "shovel_buckets": 25,
-      "scoop_buckets": 1451
+      "scoop_buckets": 1450
     }
   }
 }

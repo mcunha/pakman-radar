@@ -123,23 +123,27 @@
     {
       "full_name": "ShihaoShen-Bot/ScoopBucket",
       "evicted_at": "2026-07-30T09:46:15Z"
+    },
+    {
+      "full_name": "ShihaoShenDev/ScoopBucket",
+      "evicted_at": "2026-07-31T07:18:17Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-07-31T03:54:42Z",
-    "count": 31,
+    "generated_at": "2026-07-31T07:23:12Z",
+    "count": 32,
     "global_metrics": {
-      "total_runs": 1579,
-      "total_run_time_seconds": 5514.929754734039,
-      "total_repo_updates": 94935,
+      "total_runs": 1580,
+      "total_run_time_seconds": 5521.50221657753,
+      "total_repo_updates": 94995,
       "previous_total_buckets": 227,
       "previous_total_recipes": 3329,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
-      "total_evictions": 32,
+      "total_evictions": 33,
       "total_api_retries": 0,
-      "last_run_discover_time": 3.9504876136779785,
-      "last_run_update_time": 1.5280964374542236,
+      "last_run_discover_time": 4.059957027435303,
+      "last_run_update_time": 2.4814093112945557,
       "ecosystem_reliability": 100.0,
       "cache_size_mb": 0.8272180557250977,
       "total_unique_recipes": 2931,
