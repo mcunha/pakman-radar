@@ -9,5 +9,5 @@
 
 ## 📦 Recipes (3)
 * [angryip.json](https://github.com/blemli/blemli-bucket/blob/main/bucket/angryip.json)
-* [edge-blocker.json](https://github.com/blemli/blemli-bucket/blob/main/bucket/edge-blocker.json)
 * [ope.json](https://github.com/blemli/blemli-bucket/blob/main/bucket/ope.json)
+* [edge-blocker.json](https://github.com/blemli/blemli-bucket/blob/main/bucket/edge-blocker.json)
