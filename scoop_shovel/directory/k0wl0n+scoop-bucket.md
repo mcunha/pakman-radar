@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [steam-autoshutdown.json](https://github.com/k0wl0n/scoop-bucket/blob/main/bucket/steam-autoshutdown.json)
 * [gctx.json](https://github.com/k0wl0n/scoop-bucket/blob/main/bucket/gctx.json)
+* [steam-autoshutdown.json](https://github.com/k0wl0n/scoop-bucket/blob/main/bucket/steam-autoshutdown.json)
