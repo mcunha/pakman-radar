@@ -8,8 +8,8 @@
 
 
 ## 📦 Recipes (5)
-* [nvidia-profile-inspector-revamped.json](https://github.com/Arama0517/scoop-bucket-x-generator/blob/main/bucket/nvidia-profile-inspector-revamped.json)
-* [thrm.json](https://github.com/Arama0517/scoop-bucket-x-generator/blob/main/bucket/thrm.json)
+* [g-helper-experimental.json](https://github.com/Arama0517/scoop-bucket-x-generator/blob/main/bucket/g-helper-experimental.json)
 * [g-helper-experimental-pawnio.json](https://github.com/Arama0517/scoop-bucket-x-generator/blob/main/bucket/g-helper-experimental-pawnio.json)
 * [nvidia-dlss-glom.json](https://github.com/Arama0517/scoop-bucket-x-generator/blob/main/bucket/nvidia-dlss-glom.json)
-* [g-helper-experimental.json](https://github.com/Arama0517/scoop-bucket-x-generator/blob/main/bucket/g-helper-experimental.json)
+* [thrm.json](https://github.com/Arama0517/scoop-bucket-x-generator/blob/main/bucket/thrm.json)
+* [nvidia-profile-inspector-revamped.json](https://github.com/Arama0517/scoop-bucket-x-generator/blob/main/bucket/nvidia-profile-inspector-revamped.json)
