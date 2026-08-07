@@ -8,7 +8,7 @@
 
 
 ## 📦 Recipes (4)
+* [spotiflac.json](https://github.com/TXG0Fk3/Asterism/blob/main/bucket/spotiflac.json)
 * [yukari.json](https://github.com/TXG0Fk3/Asterism/blob/main/bucket/yukari.json)
 * [equibop.json](https://github.com/TXG0Fk3/Asterism/blob/main/bucket/equibop.json)
-* [spotiflac.json](https://github.com/TXG0Fk3/Asterism/blob/main/bucket/spotiflac.json)
 * [yt-downloader.json](https://github.com/TXG0Fk3/Asterism/blob/main/bucket/yt-downloader.json)
