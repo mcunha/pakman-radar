@@ -8,12 +8,12 @@
 
 
 ## 📦 Recipes (9)
-* [bin.json](https://github.com/Virakal/ScoopBucket/blob/master/bucket/bin.json)
+* [DLSS-Swapper.json](https://github.com/Virakal/ScoopBucket/blob/master/bucket/DLSS-Swapper.json)
 * [GoBorderless.json](https://github.com/Virakal/ScoopBucket/blob/master/bucket/GoBorderless.json)
+* [GP-Save-Converter.json](https://github.com/Virakal/ScoopBucket/blob/master/bucket/GP-Save-Converter.json)
 * [SimulationCraft.json](https://github.com/Virakal/ScoopBucket/blob/master/bucket/SimulationCraft.json)
 * [AITrack.json](https://github.com/Virakal/ScoopBucket/blob/master/bucket/AITrack.json)
-* [ss.json](https://github.com/Virakal/ScoopBucket/blob/master/bucket/ss.json)
 * [JackboxUtility.json](https://github.com/Virakal/ScoopBucket/blob/master/bucket/JackboxUtility.json)
-* [GP-Save-Converter.json](https://github.com/Virakal/ScoopBucket/blob/master/bucket/GP-Save-Converter.json)
-* [DLSS-Swapper.json](https://github.com/Virakal/ScoopBucket/blob/master/bucket/DLSS-Swapper.json)
+* [bin.json](https://github.com/Virakal/ScoopBucket/blob/master/bucket/bin.json)
+* [ss.json](https://github.com/Virakal/ScoopBucket/blob/master/bucket/ss.json)
 * [Zen-Desktop.json](https://github.com/Virakal/ScoopBucket/blob/master/bucket/Zen-Desktop.json)
