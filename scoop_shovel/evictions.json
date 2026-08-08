@@ -131,32 +131,36 @@
     {
       "full_name": "Zevan770/scoop_zev",
       "evicted_at": "2026-08-04T18:58:58Z"
+    },
+    {
+      "full_name": "frontseat-dev/scoop-bucket",
+      "evicted_at": "2026-08-08T10:54:20Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-08-08T09:57:16Z",
-    "count": 33,
+    "generated_at": "2026-08-08T10:57:20Z",
+    "count": 34,
     "global_metrics": {
-      "total_runs": 1675,
-      "total_run_time_seconds": 267846.7259864807,
-      "total_repo_updates": 108092,
-      "previous_total_buckets": 1500,
-      "previous_total_recipes": 135062,
-      "bucket_velocity": 0,
-      "recipe_velocity": 0,
-      "total_evictions": 33,
+      "total_runs": 1676,
+      "total_run_time_seconds": 268070.4762451649,
+      "total_repo_updates": 108155,
+      "previous_total_buckets": 1499,
+      "previous_total_recipes": 135061,
+      "bucket_velocity": -1,
+      "recipe_velocity": -1,
+      "total_evictions": 34,
       "total_api_retries": 0,
-      "last_run_discover_time": 1.736969232559204,
-      "last_run_update_time": 18.54689049720764,
+      "last_run_discover_time": 0.17517781257629395,
+      "last_run_update_time": 223.09186792373657,
       "ecosystem_reliability": 88.2,
-      "cache_size_mb": 10.226521492004395,
-      "total_unique_recipes": 31504,
+      "cache_size_mb": 10.225512504577637,
+      "total_unique_recipes": 31503,
       "auto_update_percentage": 85.35,
       "official_recipes": 54021,
-      "community_recipes": 81041,
+      "community_recipes": 81040,
       "stale_buckets": 477,
       "shovel_buckets": 25,
-      "scoop_buckets": 1475
+      "scoop_buckets": 1474
     }
   }
 }
