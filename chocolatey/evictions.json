@@ -1,10 +1,6 @@
 {
   "evictions": [
     {
-      "full_name": "openwong2kim/scoop-wmux",
-      "evicted_at": "2026-05-11T21:50:24Z"
-    },
-    {
       "full_name": "wwvo/Adler",
       "evicted_at": "2026-05-14T16:06:53Z"
     },
@@ -138,22 +134,22 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-08-09T20:55:54Z",
-    "count": 34,
+    "generated_at": "2026-08-09T21:52:15Z",
+    "count": 33,
     "global_metrics": {
-      "total_runs": 1707,
-      "total_run_time_seconds": 5967.766853094101,
-      "total_repo_updates": 102536,
+      "total_runs": 1708,
+      "total_run_time_seconds": 5970.024290084839,
+      "total_repo_updates": 102596,
       "previous_total_buckets": 227,
       "previous_total_recipes": 3329,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
       "total_evictions": 35,
       "total_api_retries": 0,
-      "last_run_discover_time": 0.1965196132659912,
-      "last_run_update_time": 1.6083705425262451,
+      "last_run_discover_time": 0.40025877952575684,
+      "last_run_update_time": 1.8299195766448975,
       "ecosystem_reliability": 100.0,
-      "cache_size_mb": 0.8316631317138672,
+      "cache_size_mb": 0.8316717147827148,
       "total_unique_recipes": 2931,
       "auto_update_percentage": 35.99,
       "official_recipes": 481,
