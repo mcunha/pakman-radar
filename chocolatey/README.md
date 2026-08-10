@@ -130,8 +130,8 @@ A combined list of every source discovered in the ecosystem.
 | **[brogers5/chocolatey-package-foxitreader](directory/brogers5+chocolatey-package-foxitreader.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[LogtalkDotOrg/chocolatey-packages](directory/LogtalkDotOrg+chocolatey-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[brogers5/chocolatey-package-twinkle-tray](directory/brogers5+chocolatey-package-twinkle-tray.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
-| **[open-circle-ltd/chocolatey.microsoft-office-deployment](directory/open-circle-ltd+chocolatey.microsoft-office-deployment.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[christosgalano/bicep-docs-choco](directory/christosgalano+bicep-docs-choco.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[open-circle-ltd/chocolatey.microsoft-office-deployment](directory/open-circle-ltd+chocolatey.microsoft-office-deployment.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.archi](directory/open-circle-ltd+chocolatey.archi.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[willjasen/chocolatey-duo-auth-proxy](directory/willjasen+chocolatey-duo-auth-proxy.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[voicemeet/chocolatey-packages](directory/voicemeet+chocolatey-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
@@ -143,9 +143,9 @@ A combined list of every source discovered in the ecosystem.
 | **[ggarns-gh/chocolatey-packages](directory/ggarns-gh+chocolatey-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[adamrushuk/velero-choco](directory/adamrushuk+velero-choco.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[brogers5/chocolatey-package-controlmymonitor](directory/brogers5+chocolatey-package-controlmymonitor.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
+| **[OpenChrom/OpenChromChocolateyPackage](directory/OpenChrom+OpenChromChocolateyPackage.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.wwphone-cti](directory/open-circle-ltd+chocolatey.wwphone-cti.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.wwphone](directory/open-circle-ltd+chocolatey.wwphone.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[OpenChrom/OpenChromChocolateyPackage](directory/OpenChrom+OpenChromChocolateyPackage.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[Takmg/chocolatey](directory/Takmg+chocolatey.md)** | 📦 4 | ⭐ 1.0 | 🔄 50% |  |
 | **[blaiz2023/Blaiz-Tools](directory/blaiz2023+Blaiz-Tools.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[leejongyoung/egovframe-chocolatey](directory/leejongyoung+egovframe-chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
@@ -298,8 +298,8 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 1717
-* **Total Repo Updates**: 103133
+* **Total Crawler Runs**: 1718
+* **Total Repo Updates**: 103193
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
@@ -307,6 +307,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 0
 * **Cache Size**: 💾 0.83 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 3.94s
-  * 📥 Update: 1.44s
-* **Cumulative Compute Time**: 100.1 minutes
+  * 🔍 Discovery: 4.02s
+  * 📥 Update: 2.46s
+* **Cumulative Compute Time**: 100.2 minutes
