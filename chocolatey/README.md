@@ -54,14 +54,6 @@ These repositories are actively maintained and feature a high percentage of **un
 
 
 
-## 🔥 Trending
-These active repositories are rapidly climbing the ranks due to recent, high-quality updates and growing recipe counts!
-
-| Repository | Rank Change | Current Rank | Recipes | Score | Auto-Update |
-| :--- | :---: | :---: | :---: | :---: | :---: |
-| **[hoanganhduc/chocolatey](directory/hoanganhduc+chocolatey.md)** | 📈 +1 | 🏆 #21 | 📦 12 | ⭐ 1.0 | 🔄 0% |
-
-
 
 
 
@@ -306,8 +298,8 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 1714
-* **Total Repo Updates**: 102956
+* **Total Crawler Runs**: 1715
+* **Total Repo Updates**: 103015
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
@@ -315,6 +307,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 0
 * **Cache Size**: 💾 0.83 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 2.58s
-  * 📥 Update: 2.12s
-* **Cumulative Compute Time**: 99.8 minutes
+  * 🔍 Discovery: 3.47s
+  * 📥 Update: 1.78s
+* **Cumulative Compute Time**: 99.9 minutes
