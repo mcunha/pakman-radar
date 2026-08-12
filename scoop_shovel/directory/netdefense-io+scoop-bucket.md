@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [ndcli.json](https://github.com/netdefense-io/scoop-bucket/blob/main/bucket/ndcli.json)
 * [ndcli-dev.json](https://github.com/netdefense-io/scoop-bucket/blob/main/bucket/ndcli-dev.json)
+* [ndcli.json](https://github.com/netdefense-io/scoop-bucket/blob/main/bucket/ndcli.json)

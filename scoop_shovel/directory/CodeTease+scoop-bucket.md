@@ -8,6 +8,6 @@
 
 
 ## 📦 Recipes (3)
-* [cli-dummy.json](https://github.com/CodeTease/scoop-bucket/blob/main/bucket/cli-dummy.json)
 * [bwd.json](https://github.com/CodeTease/scoop-bucket/blob/main/bucket/bwd.json)
 * [p.json](https://github.com/CodeTease/scoop-bucket/blob/main/bucket/p.json)
+* [cli-dummy.json](https://github.com/CodeTease/scoop-bucket/blob/main/bucket/cli-dummy.json)
