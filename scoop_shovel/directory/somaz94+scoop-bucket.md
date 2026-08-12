@@ -9,5 +9,5 @@
 
 ## 📦 Recipes (3)
 * [kube-diff.json](https://github.com/somaz94/scoop-bucket/blob/main/bucket/kube-diff.json)
-* [bash-pilot.json](https://github.com/somaz94/scoop-bucket/blob/main/bucket/bash-pilot.json)
 * [kube-events.json](https://github.com/somaz94/scoop-bucket/blob/main/bucket/kube-events.json)
+* [bash-pilot.json](https://github.com/somaz94/scoop-bucket/blob/main/bucket/bash-pilot.json)

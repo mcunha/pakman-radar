@@ -8,6 +8,6 @@
 
 
 ## 📦 Recipes (3)
-* [froststrap.json](https://github.com/br4ndol/scoop/blob/master/bucket/froststrap.json)
 * [g-helper.json](https://github.com/br4ndol/scoop/blob/master/bucket/g-helper.json)
+* [froststrap.json](https://github.com/br4ndol/scoop/blob/master/bucket/froststrap.json)
 * [winscript.json](https://github.com/br4ndol/scoop/blob/master/bucket/winscript.json)
