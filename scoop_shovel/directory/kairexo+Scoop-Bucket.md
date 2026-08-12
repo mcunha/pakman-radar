@@ -8,10 +8,10 @@
 
 
 ## 📦 Recipes (7)
-* [stelliberty.json](https://github.com/kairexo/Scoop-Bucket/blob/master/bucket/stelliberty.json)
-* [motrix-next.json](https://github.com/kairexo/Scoop-Bucket/blob/master/bucket/motrix-next.json)
-* [chromium-clang-avx512.json](https://github.com/kairexo/Scoop-Bucket/blob/master/bucket/chromium-clang-avx512.json)
 * [sparkle.json](https://github.com/kairexo/Scoop-Bucket/blob/master/bucket/sparkle.json)
+* [chromium-clang-avx512.json](https://github.com/kairexo/Scoop-Bucket/blob/master/bucket/chromium-clang-avx512.json)
+* [stelliberty.json](https://github.com/kairexo/Scoop-Bucket/blob/master/bucket/stelliberty.json)
+* [so-novel.json](https://github.com/kairexo/Scoop-Bucket/blob/master/bucket/so-novel.json)
+* [motrix-next.json](https://github.com/kairexo/Scoop-Bucket/blob/master/bucket/motrix-next.json)
 * [cherry-studio.json](https://github.com/kairexo/Scoop-Bucket/blob/master/bucket/cherry-studio.json)
 * [chromium-clang-avx2.json](https://github.com/kairexo/Scoop-Bucket/blob/master/bucket/chromium-clang-avx2.json)
-* [so-novel.json](https://github.com/kairexo/Scoop-Bucket/blob/master/bucket/so-novel.json)
