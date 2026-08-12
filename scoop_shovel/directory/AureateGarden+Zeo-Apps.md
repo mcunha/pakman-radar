@@ -8,11 +8,11 @@
 
 
 ## 📦 Recipes (8)
-* [ok-star-resonance.json](https://github.com/AureateGarden/Zeo-Apps/blob/main/bucket/ok-star-resonance.json)
-* [paint-tool-sai-v2.json](https://github.com/AureateGarden/Zeo-Apps/blob/main/bucket/paint-tool-sai-v2.json)
-* [unityhub.json](https://github.com/AureateGarden/Zeo-Apps/blob/main/bucket/unityhub.json)
-* [xianniujiasuqi.json](https://github.com/AureateGarden/Zeo-Apps/blob/main/bucket/xianniujiasuqi.json)
-* [paint-tool-sai-v1.json](https://github.com/AureateGarden/Zeo-Apps/blob/main/bucket/paint-tool-sai-v1.json)
-* [hmcl.json](https://github.com/AureateGarden/Zeo-Apps/blob/main/bucket/hmcl.json)
-* [star-resonance-auto-mod.json](https://github.com/AureateGarden/Zeo-Apps/blob/main/bucket/star-resonance-auto-mod.json)
 * [iobit-driver-booster.json](https://github.com/AureateGarden/Zeo-Apps/blob/main/bucket/iobit-driver-booster.json)
+* [xianniujiasuqi.json](https://github.com/AureateGarden/Zeo-Apps/blob/main/bucket/xianniujiasuqi.json)
+* [star-resonance-auto-mod.json](https://github.com/AureateGarden/Zeo-Apps/blob/main/bucket/star-resonance-auto-mod.json)
+* [paint-tool-sai-v2.json](https://github.com/AureateGarden/Zeo-Apps/blob/main/bucket/paint-tool-sai-v2.json)
+* [ok-star-resonance.json](https://github.com/AureateGarden/Zeo-Apps/blob/main/bucket/ok-star-resonance.json)
+* [hmcl.json](https://github.com/AureateGarden/Zeo-Apps/blob/main/bucket/hmcl.json)
+* [paint-tool-sai-v1.json](https://github.com/AureateGarden/Zeo-Apps/blob/main/bucket/paint-tool-sai-v1.json)
+* [unityhub.json](https://github.com/AureateGarden/Zeo-Apps/blob/main/bucket/unityhub.json)

@@ -8,12 +8,12 @@
 
 
 ## 📦 Recipes (9)
-* [pixpin-beta.json](https://github.com/coldmoon6261/panda/blob/master/bucket/pixpin-beta.json)
-* [pixpin.json](https://github.com/coldmoon6261/panda/blob/master/bucket/pixpin.json)
-* [zed.json](https://github.com/coldmoon6261/panda/blob/master/bucket/zed.json)
 * [openlist.json](https://github.com/coldmoon6261/panda/blob/master/bucket/openlist.json)
-* [wush.json](https://github.com/coldmoon6261/panda/blob/master/bucket/wush.json)
-* [clash-nyanpasu-nightly.json](https://github.com/coldmoon6261/panda/blob/master/bucket/clash-nyanpasu-nightly.json)
+* [zed.json](https://github.com/coldmoon6261/panda/blob/master/bucket/zed.json)
+* [pixpin.json](https://github.com/coldmoon6261/panda/blob/master/bucket/pixpin.json)
 * [lmstudio.json](https://github.com/coldmoon6261/panda/blob/master/bucket/lmstudio.json)
-* [alisthelper.json](https://github.com/coldmoon6261/panda/blob/master/bucket/alisthelper.json)
+* [clash-nyanpasu-nightly.json](https://github.com/coldmoon6261/panda/blob/master/bucket/clash-nyanpasu-nightly.json)
 * [googlechrome.json](https://github.com/coldmoon6261/panda/blob/master/bucket/googlechrome.json)
+* [alisthelper.json](https://github.com/coldmoon6261/panda/blob/master/bucket/alisthelper.json)
+* [wush.json](https://github.com/coldmoon6261/panda/blob/master/bucket/wush.json)
+* [pixpin-beta.json](https://github.com/coldmoon6261/panda/blob/master/bucket/pixpin-beta.json)
