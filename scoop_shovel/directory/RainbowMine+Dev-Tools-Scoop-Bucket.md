@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [open-design.json](https://github.com/RainbowMine/Dev-Tools-Scoop-Bucket/blob/main/bucket/open-design.json)
 * [orca.json](https://github.com/RainbowMine/Dev-Tools-Scoop-Bucket/blob/main/bucket/orca.json)
+* [open-design.json](https://github.com/RainbowMine/Dev-Tools-Scoop-Bucket/blob/main/bucket/open-design.json)
