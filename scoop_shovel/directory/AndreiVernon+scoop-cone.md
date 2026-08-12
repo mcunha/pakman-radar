@@ -8,11 +8,11 @@
 
 
 ## 📦 Recipes (8)
-* [eac3to.json](https://github.com/AndreiVernon/scoop-cone/blob/master/bucket/eac3to.json)
-* [fiji.json](https://github.com/AndreiVernon/scoop-cone/blob/master/bucket/fiji.json)
 * [shadps4.json](https://github.com/AndreiVernon/scoop-cone/blob/master/bucket/shadps4.json)
+* [eac3to.json](https://github.com/AndreiVernon/scoop-cone/blob/master/bucket/eac3to.json)
+* [ProcessLasso.json](https://github.com/AndreiVernon/scoop-cone/blob/master/bucket/ProcessLasso.json)
+* [fiji.json](https://github.com/AndreiVernon/scoop-cone/blob/master/bucket/fiji.json)
+* [dgdemux.json](https://github.com/AndreiVernon/scoop-cone/blob/master/bucket/dgdemux.json)
 * [shadps4-nightly.json](https://github.com/AndreiVernon/scoop-cone/blob/master/bucket/shadps4-nightly.json)
 * [BypassPaywallsClean.json](https://github.com/AndreiVernon/scoop-cone/blob/master/bucket/BypassPaywallsClean.json)
-* [dgdemux.json](https://github.com/AndreiVernon/scoop-cone/blob/master/bucket/dgdemux.json)
 * [dovi_tool.json](https://github.com/AndreiVernon/scoop-cone/blob/master/bucket/dovi_tool.json)
-* [ProcessLasso.json](https://github.com/AndreiVernon/scoop-cone/blob/master/bucket/ProcessLasso.json)

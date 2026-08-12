@@ -8,13 +8,13 @@
 
 
 ## 📦 Recipes (10)
+* [fastfetch.json](https://github.com/xfoxolx/ScoopBucket/blob/master/bucket/fastfetch.json)
+* [clash-verge-rev.json](https://github.com/xfoxolx/ScoopBucket/blob/master/bucket/clash-verge-rev.json)
 * [lceda-pro.json](https://github.com/xfoxolx/ScoopBucket/blob/master/bucket/lceda-pro.json)
 * [zen-browser.json](https://github.com/xfoxolx/ScoopBucket/blob/master/bucket/zen-browser.json)
 * [glazewm.json](https://github.com/xfoxolx/ScoopBucket/blob/master/bucket/glazewm.json)
-* [yasb.json](https://github.com/xfoxolx/ScoopBucket/blob/master/bucket/yasb.json)
-* [clash-verge-rev.json](https://github.com/xfoxolx/ScoopBucket/blob/master/bucket/clash-verge-rev.json)
 * [dingtalk.json](https://github.com/xfoxolx/ScoopBucket/blob/master/bucket/dingtalk.json)
-* [oh-my-posh.json](https://github.com/xfoxolx/ScoopBucket/blob/master/bucket/oh-my-posh.json)
-* [flow-launcher.json](https://github.com/xfoxolx/ScoopBucket/blob/master/bucket/flow-launcher.json)
 * [cava.json](https://github.com/xfoxolx/ScoopBucket/blob/master/bucket/cava.json)
-* [fastfetch.json](https://github.com/xfoxolx/ScoopBucket/blob/master/bucket/fastfetch.json)
+* [flow-launcher.json](https://github.com/xfoxolx/ScoopBucket/blob/master/bucket/flow-launcher.json)
+* [yasb.json](https://github.com/xfoxolx/ScoopBucket/blob/master/bucket/yasb.json)
+* [oh-my-posh.json](https://github.com/xfoxolx/ScoopBucket/blob/master/bucket/oh-my-posh.json)
