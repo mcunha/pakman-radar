@@ -8,10 +8,10 @@
 
 
 ## 📦 Recipes (7)
-* [keepassxc.json](https://github.com/juliomaranhao/scoop-bucket/blob/master/bucket/keepassxc.json)
-* [keepass.json](https://github.com/juliomaranhao/scoop-bucket/blob/master/bucket/keepass.json)
-* [jpegview-fork.json](https://github.com/juliomaranhao/scoop-bucket/blob/master/bucket/jpegview-fork.json)
-* [rclone.json](https://github.com/juliomaranhao/scoop-bucket/blob/master/bucket/rclone.json)
-* [emacs.json](https://github.com/juliomaranhao/scoop-bucket/blob/master/bucket/emacs.json)
-* [gnupg.json](https://github.com/juliomaranhao/scoop-bucket/blob/master/bucket/gnupg.json)
 * [keepass-plugin-keeagent.json](https://github.com/juliomaranhao/scoop-bucket/blob/master/bucket/keepass-plugin-keeagent.json)
+* [gnupg.json](https://github.com/juliomaranhao/scoop-bucket/blob/master/bucket/gnupg.json)
+* [rclone.json](https://github.com/juliomaranhao/scoop-bucket/blob/master/bucket/rclone.json)
+* [jpegview-fork.json](https://github.com/juliomaranhao/scoop-bucket/blob/master/bucket/jpegview-fork.json)
+* [keepass.json](https://github.com/juliomaranhao/scoop-bucket/blob/master/bucket/keepass.json)
+* [keepassxc.json](https://github.com/juliomaranhao/scoop-bucket/blob/master/bucket/keepassxc.json)
+* [emacs.json](https://github.com/juliomaranhao/scoop-bucket/blob/master/bucket/emacs.json)
