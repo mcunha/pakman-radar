@@ -8,11 +8,11 @@
 
 
 ## 📦 Recipes (8)
+* [opencode.json](https://github.com/Pagliacii/pagliacii-bucket/blob/main/bucket/opencode.json)
+* [kazumi.json](https://github.com/Pagliacii/pagliacii-bucket/blob/main/bucket/kazumi.json)
 * [bob.json](https://github.com/Pagliacii/pagliacii-bucket/blob/main/bucket/bob.json)
 * [bob-openssl.json](https://github.com/Pagliacii/pagliacii-bucket/blob/main/bucket/bob-openssl.json)
-* [neovim-nightly.json](https://github.com/Pagliacii/pagliacii-bucket/blob/main/bucket/neovim-nightly.json)
-* [opencode.json](https://github.com/Pagliacii/pagliacii-bucket/blob/main/bucket/opencode.json)
 * [cyme.json](https://github.com/Pagliacii/pagliacii-bucket/blob/main/bucket/cyme.json)
-* [kazumi.json](https://github.com/Pagliacii/pagliacii-bucket/blob/main/bucket/kazumi.json)
+* [neovim-nightly.json](https://github.com/Pagliacii/pagliacii-bucket/blob/main/bucket/neovim-nightly.json)
 * [chatwise.json](https://github.com/Pagliacii/pagliacii-bucket/blob/main/bucket/chatwise.json)
 * [iaito.json](https://github.com/Pagliacii/pagliacii-bucket/blob/main/bucket/iaito.json)
