@@ -8,8 +8,8 @@
 
 
 ## 📦 Recipes (5)
-* [clipjump.json](https://github.com/Nirose/node/blob/main/bucket/clipjump.json)
-* [stremio.json](https://github.com/Nirose/node/blob/main/bucket/stremio.json)
 * [unchromium.json](https://github.com/Nirose/node/blob/main/bucket/unchromium.json)
 * [popcorn-time.json](https://github.com/Nirose/node/blob/main/bucket/popcorn-time.json)
+* [stremio.json](https://github.com/Nirose/node/blob/main/bucket/stremio.json)
+* [clipjump.json](https://github.com/Nirose/node/blob/main/bucket/clipjump.json)
 * [pydebloatx.json](https://github.com/Nirose/node/blob/main/bucket/pydebloatx.json)
