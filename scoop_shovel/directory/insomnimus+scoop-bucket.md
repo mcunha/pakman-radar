@@ -8,13 +8,13 @@
 
 
 ## 📦 Recipes (10)
-* [wh.json](https://github.com/insomnimus/scoop-bucket/blob/main/bucket/wh.json)
+* [mtag.json](https://github.com/insomnimus/scoop-bucket/blob/main/bucket/mtag.json)
 * [wol.json](https://github.com/insomnimus/scoop-bucket/blob/main/bucket/wol.json)
 * [ps-rust-docs.json](https://github.com/insomnimus/scoop-bucket/blob/main/bucket/ps-rust-docs.json)
-* [ps-mpd.json](https://github.com/insomnimus/scoop-bucket/blob/main/bucket/ps-mpd.json)
+* [wh.json](https://github.com/insomnimus/scoop-bucket/blob/main/bucket/wh.json)
 * [ps-dotenv.json](https://github.com/insomnimus/scoop-bucket/blob/main/bucket/ps-dotenv.json)
-* [midnote.json](https://github.com/insomnimus/scoop-bucket/blob/main/bucket/midnote.json)
-* [plmidi.json](https://github.com/insomnimus/scoop-bucket/blob/main/bucket/plmidi.json)
-* [mtag.json](https://github.com/insomnimus/scoop-bucket/blob/main/bucket/mtag.json)
 * [gofumpt.json](https://github.com/insomnimus/scoop-bucket/blob/main/bucket/gofumpt.json)
+* [plmidi.json](https://github.com/insomnimus/scoop-bucket/blob/main/bucket/plmidi.json)
 * [wink.json](https://github.com/insomnimus/scoop-bucket/blob/main/bucket/wink.json)
+* [midnote.json](https://github.com/insomnimus/scoop-bucket/blob/main/bucket/midnote.json)
+* [ps-mpd.json](https://github.com/insomnimus/scoop-bucket/blob/main/bucket/ps-mpd.json)
