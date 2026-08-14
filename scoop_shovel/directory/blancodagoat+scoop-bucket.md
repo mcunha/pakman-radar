@@ -8,7 +8,7 @@
 
 
 ## 📦 Recipes (4)
-* [triumvirate.json](https://github.com/blancodagoat/scoop-bucket/blob/master/bucket/triumvirate.json)
 * [recite.json](https://github.com/blancodagoat/scoop-bucket/blob/master/bucket/recite.json)
-* [memento.json](https://github.com/blancodagoat/scoop-bucket/blob/master/bucket/memento.json)
+* [triumvirate.json](https://github.com/blancodagoat/scoop-bucket/blob/master/bucket/triumvirate.json)
 * [dejavu.json](https://github.com/blancodagoat/scoop-bucket/blob/master/bucket/dejavu.json)
+* [memento.json](https://github.com/blancodagoat/scoop-bucket/blob/master/bucket/memento.json)
