@@ -8,6 +8,6 @@
 
 
 ## 📦 Recipes (3)
-* [freefilesync.json](https://github.com/Deaquay/scoop-bucket/blob/main/bucket/freefilesync.json)
 * [PasteIntoFile.json](https://github.com/Deaquay/scoop-bucket/blob/main/bucket/PasteIntoFile.json)
+* [freefilesync.json](https://github.com/Deaquay/scoop-bucket/blob/main/bucket/freefilesync.json)
 * [steamedit.json](https://github.com/Deaquay/scoop-bucket/blob/main/bucket/steamedit.json)
