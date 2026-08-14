@@ -1,10 +1,6 @@
 {
   "evictions": [
     {
-      "full_name": "itzzGero/scoop-sampler",
-      "evicted_at": "2026-05-16T18:41:26Z"
-    },
-    {
       "full_name": "mismas125-9818/ScoopBucket",
       "evicted_at": "2026-05-20T05:47:50Z"
     },
@@ -138,22 +134,22 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-08-14T18:10:05Z",
-    "count": 34,
+    "generated_at": "2026-08-14T19:18:36Z",
+    "count": 33,
     "global_metrics": {
-      "total_runs": 1789,
-      "total_run_time_seconds": 282849.069054842,
-      "total_repo_updates": 115450,
+      "total_runs": 1790,
+      "total_run_time_seconds": 282873.01202750206,
+      "total_repo_updates": 115513,
       "previous_total_buckets": 1524,
       "previous_total_recipes": 135164,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
       "total_evictions": 37,
       "total_api_retries": 0,
-      "last_run_discover_time": 2.666348695755005,
-      "last_run_update_time": 33.030513525009155,
+      "last_run_discover_time": 3.0461273193359375,
+      "last_run_update_time": 19.820114612579346,
       "ecosystem_reliability": 88.3,
-      "cache_size_mb": 10.251582145690918,
+      "cache_size_mb": 10.252259254455566,
       "total_unique_recipes": 31535,
       "auto_update_percentage": 85.35,
       "official_recipes": 54031,
