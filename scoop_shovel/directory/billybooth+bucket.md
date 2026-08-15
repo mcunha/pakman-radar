@@ -8,8 +8,8 @@
 
 
 ## 📦 Recipes (5)
-* [essbase.json](https://github.com/billybooth/bucket/blob/master/bucket/essbase.json)
-* [tomcat-wrapper.json](https://github.com/billybooth/bucket/blob/master/bucket/tomcat-wrapper.json)
 * [dodeca.json](https://github.com/billybooth/bucket/blob/master/bucket/dodeca.json)
-* [dodeca-essbase.json](https://github.com/billybooth/bucket/blob/master/bucket/dodeca-essbase.json)
+* [tomcat-wrapper.json](https://github.com/billybooth/bucket/blob/master/bucket/tomcat-wrapper.json)
+* [essbase.json](https://github.com/billybooth/bucket/blob/master/bucket/essbase.json)
 * [asmspy.json](https://github.com/billybooth/bucket/blob/master/bucket/asmspy.json)
+* [dodeca-essbase.json](https://github.com/billybooth/bucket/blob/master/bucket/dodeca-essbase.json)
