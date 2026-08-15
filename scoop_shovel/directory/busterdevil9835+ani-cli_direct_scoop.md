@@ -8,10 +8,10 @@
 
 
 ## 📦 Recipes (7)
-* [ffmpeg.json](https://github.com/busterdevil9835/ani-cli_direct_scoop/blob/main/bucket/ffmpeg.json)
+* [fzf.json](https://github.com/busterdevil9835/ani-cli_direct_scoop/blob/main/bucket/fzf.json)
 * [mpv.json](https://github.com/busterdevil9835/ani-cli_direct_scoop/blob/main/bucket/mpv.json)
+* [sed.json](https://github.com/busterdevil9835/ani-cli_direct_scoop/blob/main/bucket/sed.json)
 * [ani-cli.json](https://github.com/busterdevil9835/ani-cli_direct_scoop/blob/main/bucket/ani-cli.json)
 * [curl.json](https://github.com/busterdevil9835/ani-cli_direct_scoop/blob/main/bucket/curl.json)
-* [sed.json](https://github.com/busterdevil9835/ani-cli_direct_scoop/blob/main/bucket/sed.json)
-* [fzf.json](https://github.com/busterdevil9835/ani-cli_direct_scoop/blob/main/bucket/fzf.json)
 * [grep.json](https://github.com/busterdevil9835/ani-cli_direct_scoop/blob/main/bucket/grep.json)
+* [ffmpeg.json](https://github.com/busterdevil9835/ani-cli_direct_scoop/blob/main/bucket/ffmpeg.json)
