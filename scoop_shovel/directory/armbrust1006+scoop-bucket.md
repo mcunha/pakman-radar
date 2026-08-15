@@ -8,7 +8,7 @@
 
 
 ## 📦 Recipes (4)
-* [gradle-8.14.4-bin.json](https://github.com/armbrust1006/scoop-bucket/blob/main/bucket/gradle-8.14.4-bin.json)
+* [gradle8-bin.json](https://github.com/armbrust1006/scoop-bucket/blob/main/bucket/gradle8-bin.json)
 * [gradle-8.14.3-bin.json](https://github.com/armbrust1006/scoop-bucket/blob/main/bucket/gradle-8.14.3-bin.json)
 * [gradle-8.14.5-bin.json](https://github.com/armbrust1006/scoop-bucket/blob/main/bucket/gradle-8.14.5-bin.json)
-* [gradle8-bin.json](https://github.com/armbrust1006/scoop-bucket/blob/main/bucket/gradle8-bin.json)
+* [gradle-8.14.4-bin.json](https://github.com/armbrust1006/scoop-bucket/blob/main/bucket/gradle-8.14.4-bin.json)
