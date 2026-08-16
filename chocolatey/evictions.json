@@ -131,25 +131,29 @@
     {
       "full_name": "rishabh-fern/scoop-bucket",
       "evicted_at": "2026-08-13T17:16:29Z"
+    },
+    {
+      "full_name": "richardkng/ScoopBucket",
+      "evicted_at": "2026-08-16T13:04:18Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-08-16T11:39:25Z",
-    "count": 33,
+    "generated_at": "2026-08-16T13:04:55Z",
+    "count": 34,
     "global_metrics": {
-      "total_runs": 1829,
-      "total_run_time_seconds": 6398.8682198524475,
-      "total_repo_updates": 109775,
+      "total_runs": 1830,
+      "total_run_time_seconds": 6401.297573566437,
+      "total_repo_updates": 109834,
       "previous_total_buckets": 227,
       "previous_total_recipes": 3329,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
-      "total_evictions": 38,
+      "total_evictions": 39,
       "total_api_retries": 0,
-      "last_run_discover_time": 0.17823123931884766,
-      "last_run_update_time": 1.3280749320983887,
+      "last_run_discover_time": 0.5256617069244385,
+      "last_run_update_time": 1.8704712390899658,
       "ecosystem_reliability": 100.0,
-      "cache_size_mb": 0.832524299621582,
+      "cache_size_mb": 0.8325271606445312,
       "total_unique_recipes": 2931,
       "auto_update_percentage": 35.99,
       "official_recipes": 481,

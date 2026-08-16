@@ -131,32 +131,36 @@
     {
       "full_name": "rishabh-fern/scoop-bucket",
       "evicted_at": "2026-08-13T17:16:29Z"
+    },
+    {
+      "full_name": "richardkng/ScoopBucket",
+      "evicted_at": "2026-08-16T13:04:18Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-08-16T11:39:23Z",
-    "count": 33,
+    "generated_at": "2026-08-16T13:04:52Z",
+    "count": 34,
     "global_metrics": {
-      "total_runs": 1829,
-      "total_run_time_seconds": 289791.7135038376,
-      "total_repo_updates": 118023,
-      "previous_total_buckets": 1527,
-      "previous_total_recipes": 135169,
-      "bucket_velocity": 0,
-      "recipe_velocity": 0,
-      "total_evictions": 37,
+      "total_runs": 1830,
+      "total_run_time_seconds": 289838.8276004791,
+      "total_repo_updates": 118087,
+      "previous_total_buckets": 1526,
+      "previous_total_recipes": 135117,
+      "bucket_velocity": -1,
+      "recipe_velocity": -52,
+      "total_evictions": 38,
       "total_api_retries": 0,
-      "last_run_discover_time": 2.0324673652648926,
-      "last_run_update_time": 22.465287685394287,
-      "ecosystem_reliability": 88.9,
-      "cache_size_mb": 10.256380081176758,
+      "last_run_discover_time": 2.2602663040161133,
+      "last_run_update_time": 44.029752254486084,
+      "ecosystem_reliability": 88.6,
+      "cache_size_mb": 10.253836631774902,
       "total_unique_recipes": 31540,
       "auto_update_percentage": 85.35,
-      "official_recipes": 54031,
-      "community_recipes": 81138,
+      "official_recipes": 53981,
+      "community_recipes": 81136,
       "stale_buckets": 483,
       "shovel_buckets": 25,
-      "scoop_buckets": 1502
+      "scoop_buckets": 1501
     }
   }
 }
