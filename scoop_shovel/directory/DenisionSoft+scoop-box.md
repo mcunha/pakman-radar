@@ -8,8 +8,8 @@
 
 
 ## 📦 Recipes (5)
-* [roundedtb-canary.json](https://github.com/DenisionSoft/scoop-box/blob/master/bucket/roundedtb-canary.json)
-* [powermode.json](https://github.com/DenisionSoft/scoop-box/blob/master/bucket/powermode.json)
-* [temurin8u312.json](https://github.com/DenisionSoft/scoop-box/blob/master/bucket/temurin8u312.json)
 * [snp.json](https://github.com/DenisionSoft/scoop-box/blob/master/bucket/snp.json)
+* [temurin8u312.json](https://github.com/DenisionSoft/scoop-box/blob/master/bucket/temurin8u312.json)
 * [xcbr.json](https://github.com/DenisionSoft/scoop-box/blob/master/bucket/xcbr.json)
+* [powermode.json](https://github.com/DenisionSoft/scoop-box/blob/master/bucket/powermode.json)
+* [roundedtb-canary.json](https://github.com/DenisionSoft/scoop-box/blob/master/bucket/roundedtb-canary.json)
