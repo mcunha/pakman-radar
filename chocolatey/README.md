@@ -106,8 +106,8 @@ A combined list of every source discovered in the ecosystem.
 | **[qiazo/chocolatey-packages](directory/qiazo+chocolatey-packages.md)** | 📦 3 | ⭐ 1.0 | 🔄 100% |  |
 | **[mlt/chocolatey-packages](directory/mlt+chocolatey-packages.md)** | 📦 3 | ⭐ 1.0 | 🔄 100% |  |
 | **[welpo/chocolatey-packages](directory/welpo+chocolatey-packages.md)** | 📦 3 | ⭐ 1.0 | 🔄 0% |  |
-| **[scowalt/chocolatey-packages](directory/scowalt+chocolatey-packages.md)** | 📦 4 | ⭐ 1.0 | 🔄 25% |  |
 | **[AJDurant/choco-packages](directory/AJDurant+choco-packages.md)** | 📦 3 | ⭐ 1.0 | 🔄 100% |  |
+| **[scowalt/chocolatey-packages](directory/scowalt+chocolatey-packages.md)** | 📦 4 | ⭐ 1.0 | 🔄 25% |  |
 | **[DrFaust92/chocolatey-packages](directory/DrFaust92+chocolatey-packages.md)** | 📦 3 | ⭐ 1.0 | 🔄 0% |  |
 | **[streamlink/streamlink-twitch-gui-chocolatey](directory/streamlink+streamlink-twitch-gui-chocolatey.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
 | **[tricktux/choco-neovim](directory/tricktux+choco-neovim.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
@@ -216,8 +216,8 @@ A combined list of every source discovered in the ecosystem.
 | **[Kristinita/SashaChocolatey](directory/Kristinita+SashaChocolatey.md)** | 📦 37 | ⭐ 1.0 | 🔄 0% |  |
 | **[joaoopereira/chocolatey-packages](directory/joaoopereira+chocolatey-packages.md)** | 📦 4 | ⭐ 1.0 | 🔄 100% |  |
 | **[open-circle-ltd/chocolatey.adobe-acrobat-reader-dc](directory/open-circle-ltd+chocolatey.adobe-acrobat-reader-dc.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
-| **[pocki/chocolateypackages](directory/pocki+chocolateypackages.md)** | 📦 12 | ⭐ 1.0 | 🔄 0% |  |
 | **[skadogg/ghostwriter-portable](directory/skadogg+ghostwriter-portable.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[pocki/chocolateypackages](directory/pocki+chocolateypackages.md)** | 📦 12 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.adobe-creative-cloud](directory/open-circle-ltd+chocolatey.adobe-creative-cloud.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.jabra-direct](directory/open-circle-ltd+chocolatey.jabra-direct.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.rsa-secureid-software-token](directory/open-circle-ltd+chocolatey.rsa-secureid-software-token.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
@@ -298,8 +298,8 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 1860
-* **Total Repo Updates**: 111608
+* **Total Crawler Runs**: 1861
+* **Total Repo Updates**: 111668
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
@@ -307,6 +307,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 2
 * **Cache Size**: 💾 0.83 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 0.29s
-  * 📥 Update: 2.09s
+  * 🔍 Discovery: 2.97s
+  * 📥 Update: 1.42s
 * **Cumulative Compute Time**: 109.1 minutes
