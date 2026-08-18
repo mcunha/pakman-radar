@@ -8,10 +8,10 @@
 
 
 ## 📦 Recipes (7)
-* [git-credential-keepassxc.nuspec](https://github.com/kai2nenobu/chocolatey-packages/blob/master/git-credential-keepassxc/git-credential-keepassxc.nuspec)
-* [actionlint.nuspec](https://github.com/kai2nenobu/chocolatey-packages/blob/master/actionlint/actionlint.nuspec)
+* [font-firge.nuspec](https://github.com/kai2nenobu/chocolatey-packages/blob/master/font-firge/font-firge.nuspec)
 * [pet.nuspec](https://github.com/kai2nenobu/chocolatey-packages/blob/master/pet/pet.nuspec)
 * [navi.nuspec](https://github.com/kai2nenobu/chocolatey-packages/blob/master/navi/navi.nuspec)
-* [font-firge.nuspec](https://github.com/kai2nenobu/chocolatey-packages/blob/master/font-firge/font-firge.nuspec)
-* [mape.nuspec](https://github.com/kai2nenobu/chocolatey-packages/blob/master/mape/mape.nuspec)
+* [git-credential-keepassxc.nuspec](https://github.com/kai2nenobu/chocolatey-packages/blob/master/git-credential-keepassxc/git-credential-keepassxc.nuspec)
 * [font-hackgen.nuspec](https://github.com/kai2nenobu/chocolatey-packages/blob/master/font-hackgen/font-hackgen.nuspec)
+* [actionlint.nuspec](https://github.com/kai2nenobu/chocolatey-packages/blob/master/actionlint/actionlint.nuspec)
+* [mape.nuspec](https://github.com/kai2nenobu/chocolatey-packages/blob/master/mape/mape.nuspec)
