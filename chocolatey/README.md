@@ -54,14 +54,6 @@ These repositories are actively maintained and feature a high percentage of **un
 
 
 
-## 🔥 Trending
-These active repositories are rapidly climbing the ranks due to recent, high-quality updates and growing recipe counts!
-
-| Repository | Rank Change | Current Rank | Recipes | Score | Auto-Update |
-| :--- | :---: | :---: | :---: | :---: | :---: |
-| **[chocolatey/choco](directory/chocolatey+choco.md)** | 📈 +1 | 🏆 #6 | 📦 113 | ⭐ 1.0 | 🔄 0% |
-
-
 
 
 
@@ -306,8 +298,8 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 1884
-* **Total Repo Updates**: 113028
+* **Total Crawler Runs**: 1885
+* **Total Repo Updates**: 113087
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
@@ -315,6 +307,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 2
 * **Cache Size**: 💾 0.83 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 2.42s
-  * 📥 Update: 1.55s
-* **Cumulative Compute Time**: 110.2 minutes
+  * 🔍 Discovery: 2.86s
+  * 📥 Update: 1.61s
+* **Cumulative Compute Time**: 110.3 minutes
