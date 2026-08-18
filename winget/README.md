@@ -82,6 +82,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 2
 * **Cache Size**: 💾 0.82 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 3.39s
-  * 📥 Update: 15.57s
-* **Cumulative Compute Time**: 554.6 minutes
+  * 🔍 Discovery: 2.51s
+  * 📥 Update: 11.19s
+* **Cumulative Compute Time**: 554.5 minutes
