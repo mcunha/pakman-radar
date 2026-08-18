@@ -8,6 +8,6 @@
 
 
 ## 📦 Recipes (3)
-* [timer-doctor.json](https://github.com/HeytalePazguato/scoop-bucket/blob/main/bucket/timer-doctor.json)
 * [cron-doctor.json](https://github.com/HeytalePazguato/scoop-bucket/blob/main/bucket/cron-doctor.json)
 * [plc-gitignore.json](https://github.com/HeytalePazguato/scoop-bucket/blob/main/bucket/plc-gitignore.json)
+* [timer-doctor.json](https://github.com/HeytalePazguato/scoop-bucket/blob/main/bucket/timer-doctor.json)
