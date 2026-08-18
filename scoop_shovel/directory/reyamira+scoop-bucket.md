@@ -8,6 +8,6 @@
 
 
 ## 📦 Recipes (3)
-* [pass-cli.json](https://github.com/reyamira/scoop-bucket/blob/main/bucket/pass-cli.json)
-* [aic.json](https://github.com/reyamira/scoop-bucket/blob/main/bucket/aic.json)
 * [models.json](https://github.com/reyamira/scoop-bucket/blob/main/bucket/models.json)
+* [aic.json](https://github.com/reyamira/scoop-bucket/blob/main/bucket/aic.json)
+* [pass-cli.json](https://github.com/reyamira/scoop-bucket/blob/main/bucket/pass-cli.json)
