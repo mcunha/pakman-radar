@@ -146,11 +146,11 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-08-19T05:02:35Z",
+    "generated_at": "2026-08-19T06:12:07Z",
     "count": 36,
     "global_metrics": {
       "total_runs": 1890,
-      "total_run_time_seconds": 33528.75824856758,
+      "total_run_time_seconds": 33527.97218418121,
       "total_repo_updates": 63048,
       "previous_total_buckets": 10,
       "previous_total_recipes": 6305,
@@ -158,8 +158,8 @@
       "recipe_velocity": 0,
       "total_evictions": 42,
       "total_api_retries": 2,
-      "last_run_discover_time": 0.4526488780975342,
-      "last_run_update_time": 18.155837297439575,
+      "last_run_discover_time": 0.28728294372558594,
+      "last_run_update_time": 17.534263134002686,
       "ecosystem_reliability": 100.0,
       "cache_size_mb": 0.815826416015625,
       "total_unique_recipes": 1873,
