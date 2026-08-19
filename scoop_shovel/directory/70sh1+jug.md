@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [eddy.json](https://github.com/70sh1/jug/blob/master/bucket/eddy.json)
 * [sum.json](https://github.com/70sh1/jug/blob/master/bucket/sum.json)
+* [eddy.json](https://github.com/70sh1/jug/blob/master/bucket/eddy.json)
