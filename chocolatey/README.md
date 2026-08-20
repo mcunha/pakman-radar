@@ -106,8 +106,8 @@ A combined list of every source discovered in the ecosystem.
 | **[qiazo/chocolatey-packages](directory/qiazo+chocolatey-packages.md)** | 📦 3 | ⭐ 1.0 | 🔄 100% |  |
 | **[mlt/chocolatey-packages](directory/mlt+chocolatey-packages.md)** | 📦 3 | ⭐ 1.0 | 🔄 100% |  |
 | **[welpo/chocolatey-packages](directory/welpo+chocolatey-packages.md)** | 📦 3 | ⭐ 1.0 | 🔄 0% |  |
-| **[scowalt/chocolatey-packages](directory/scowalt+chocolatey-packages.md)** | 📦 4 | ⭐ 1.0 | 🔄 25% |  |
 | **[AJDurant/choco-packages](directory/AJDurant+choco-packages.md)** | 📦 3 | ⭐ 1.0 | 🔄 100% |  |
+| **[scowalt/chocolatey-packages](directory/scowalt+chocolatey-packages.md)** | 📦 4 | ⭐ 1.0 | 🔄 25% |  |
 | **[DrFaust92/chocolatey-packages](directory/DrFaust92+chocolatey-packages.md)** | 📦 3 | ⭐ 1.0 | 🔄 0% |  |
 | **[streamlink/streamlink-twitch-gui-chocolatey](directory/streamlink+streamlink-twitch-gui-chocolatey.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
 | **[tricktux/choco-neovim](directory/tricktux+choco-neovim.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
@@ -132,8 +132,8 @@ A combined list of every source discovered in the ecosystem.
 | **[brogers5/chocolatey-package-imazing](directory/brogers5+chocolatey-package-imazing.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-green-tunnel-gui](directory/brogers5+chocolatey-package-green-tunnel-gui.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-green-tunnel-cli](directory/brogers5+chocolatey-package-green-tunnel-cli.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
-| **[jufab/skaffold-chocolatey](directory/jufab+skaffold-chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[LogtalkDotOrg/chocolatey-packages](directory/LogtalkDotOrg+chocolatey-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[jufab/skaffold-chocolatey](directory/jufab+skaffold-chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[christosgalano/bicep-docs-choco](directory/christosgalano+bicep-docs-choco.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.archi](directory/open-circle-ltd+chocolatey.archi.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[willjasen/chocolatey-duo-auth-proxy](directory/willjasen+chocolatey-duo-auth-proxy.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
@@ -298,8 +298,8 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 1928
-* **Total Repo Updates**: 115630
+* **Total Crawler Runs**: 1929
+* **Total Repo Updates**: 115689
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
@@ -307,6 +307,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 2
 * **Cache Size**: 💾 0.83 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 0.19s
-  * 📥 Update: 1.54s
-* **Cumulative Compute Time**: 112.8 minutes
+  * 🔍 Discovery: 2.81s
+  * 📥 Update: 1.51s
+* **Cumulative Compute Time**: 112.9 minutes
