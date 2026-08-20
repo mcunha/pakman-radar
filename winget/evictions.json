@@ -1,10 +1,6 @@
 {
   "evictions": [
     {
-      "full_name": "iGAP-Code/roblox-dev-toolkit",
-      "evicted_at": "2026-05-22T17:06:55Z"
-    },
-    {
       "full_name": "YOUIMARK/scoop-bucket",
       "evicted_at": "2026-05-27T22:10:24Z"
     },
@@ -146,20 +142,20 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-08-20T16:55:04Z",
-    "count": 36,
+    "generated_at": "2026-08-20T17:49:30Z",
+    "count": 35,
     "global_metrics": {
-      "total_runs": 1924,
-      "total_run_time_seconds": 34098.92680668831,
-      "total_repo_updates": 64170,
+      "total_runs": 1925,
+      "total_run_time_seconds": 34117.10499572754,
+      "total_repo_updates": 64203,
       "previous_total_buckets": 10,
       "previous_total_recipes": 6305,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
       "total_evictions": 42,
       "total_api_retries": 2,
-      "last_run_discover_time": 0.26737189292907715,
-      "last_run_update_time": 17.812389373779297,
+      "last_run_discover_time": 1.0317909717559814,
+      "last_run_update_time": 17.12756371498108,
       "ecosystem_reliability": 100.0,
       "cache_size_mb": 0.8170289993286133,
       "total_unique_recipes": 1873,
