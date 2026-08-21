@@ -90,7 +90,7 @@
         "winget-repo"
       ],
       "last_checked": "2026-06-26T22:49:02Z",
-      "pushed_at": "2026-08-20T07:34:30Z",
+      "pushed_at": "2026-08-21T09:28:38Z",
       "archived": false,
       "disabled": false,
       "entries": [
@@ -183,20 +183,20 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-08-21T09:05:28Z",
+    "generated_at": "2026-08-21T09:55:17Z",
     "count": 2,
     "global_metrics": {
-      "total_runs": 1939,
-      "total_run_time_seconds": 34357.48644042015,
-      "total_repo_updates": 64665,
+      "total_runs": 1940,
+      "total_run_time_seconds": 34381.42147040367,
+      "total_repo_updates": 64698,
       "previous_total_buckets": 10,
       "previous_total_recipes": 6305,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
       "total_evictions": 43,
       "total_api_retries": 2,
-      "last_run_discover_time": 0.2513740062713623,
-      "last_run_update_time": 16.69569206237793,
+      "last_run_discover_time": 2.661454200744629,
+      "last_run_update_time": 21.250393390655518,
       "ecosystem_reliability": 100.0,
       "cache_size_mb": 0.8174066543579102,
       "total_unique_recipes": 1873,
