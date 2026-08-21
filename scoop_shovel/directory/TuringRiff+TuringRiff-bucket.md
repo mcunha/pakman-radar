@@ -1,0 +1,46 @@
+# TuringRiff/TuringRiff-bucket
+
+* **Repository:** [https://github.com/TuringRiff/TuringRiff-bucket](https://github.com/TuringRiff/TuringRiff-bucket)
+* **Score:** 1.0
+* **Auto-Update:** 97%
+
+
+
+
+## 📦 Recipes (36)
+* [bili23-downloader.json](https://github.com/TuringRiff/TuringRiff-bucket/blob/master/bucket/bili23-downloader.json)
+* [helium-portable.json](https://github.com/TuringRiff/TuringRiff-bucket/blob/master/bucket/helium-portable.json)
+* [recordly.json](https://github.com/TuringRiff/TuringRiff-bucket/blob/master/bucket/recordly.json)
+* [postman-cn.json](https://github.com/TuringRiff/TuringRiff-bucket/blob/master/bucket/postman-cn.json)
+* [sparkle.json](https://github.com/TuringRiff/TuringRiff-bucket/blob/master/bucket/sparkle.json)
+* [fluentcleaner-classic.json](https://github.com/TuringRiff/TuringRiff-bucket/blob/master/bucket/fluentcleaner-classic.json)
+* [runningcheesezen.json](https://github.com/TuringRiff/TuringRiff-bucket/blob/master/bucket/runningcheesezen.json)
+* [pixpin.json](https://github.com/TuringRiff/TuringRiff-bucket/blob/master/bucket/pixpin.json)
+* [typora-plugin.json](https://github.com/TuringRiff/TuringRiff-bucket/blob/master/bucket/typora-plugin.json)
+* [runningcheesefirefox.json](https://github.com/TuringRiff/TuringRiff-bucket/blob/master/bucket/runningcheesefirefox.json)
+* [fluentcleaner.json](https://github.com/TuringRiff/TuringRiff-bucket/blob/master/bucket/fluentcleaner.json)
+* [misans.json](https://github.com/TuringRiff/TuringRiff-bucket/blob/master/bucket/misans.json)
+* [mpv-lazy.json](https://github.com/TuringRiff/TuringRiff-bucket/blob/master/bucket/mpv-lazy.json)
+* [postman.json](https://github.com/TuringRiff/TuringRiff-bucket/blob/master/bucket/postman.json)
+* [sumatrapdf-plus.json](https://github.com/TuringRiff/TuringRiff-bucket/blob/master/bucket/sumatrapdf-plus.json)
+* [zedg.json](https://github.com/TuringRiff/TuringRiff-bucket/blob/master/bucket/zedg.json)
+* [cockpit-tools.json](https://github.com/TuringRiff/TuringRiff-bucket/blob/master/bucket/cockpit-tools.json)
+* [dashplayer.json](https://github.com/TuringRiff/TuringRiff-bucket/blob/master/bucket/dashplayer.json)
+* [readest.json](https://github.com/TuringRiff/TuringRiff-bucket/blob/master/bucket/readest.json)
+* [antigravity-manager.json](https://github.com/TuringRiff/TuringRiff-bucket/blob/master/bucket/antigravity-manager.json)
+* [bettbox.json](https://github.com/TuringRiff/TuringRiff-bucket/blob/master/bucket/bettbox.json)
+* [ccx.json](https://github.com/TuringRiff/TuringRiff-bucket/blob/master/bucket/ccx.json)
+* [fluxdo.json](https://github.com/TuringRiff/TuringRiff-bucket/blob/master/bucket/fluxdo.json)
+* [flix.json](https://github.com/TuringRiff/TuringRiff-bucket/blob/master/bucket/flix.json)
+* [lx-music-desktop.json](https://github.com/TuringRiff/TuringRiff-bucket/blob/master/bucket/lx-music-desktop.json)
+* [listary-beta.json](https://github.com/TuringRiff/TuringRiff-bucket/blob/master/bucket/listary-beta.json)
+* [motrix-next.json](https://github.com/TuringRiff/TuringRiff-bucket/blob/master/bucket/motrix-next.json)
+* [stranslate.json](https://github.com/TuringRiff/TuringRiff-bucket/blob/master/bucket/stranslate.json)
+* [runningcheesechrome.json](https://github.com/TuringRiff/TuringRiff-bucket/blob/master/bucket/runningcheesechrome.json)
+* [litemonitor.json](https://github.com/TuringRiff/TuringRiff-bucket/blob/master/bucket/litemonitor.json)
+* [catime.json](https://github.com/TuringRiff/TuringRiff-bucket/blob/master/bucket/catime.json)
+* [codex-plus-plus.json](https://github.com/TuringRiff/TuringRiff-bucket/blob/master/bucket/codex-plus-plus.json)
+* [chatwise.json](https://github.com/TuringRiff/TuringRiff-bucket/blob/master/bucket/chatwise.json)
+* [drop-icons.json](https://github.com/TuringRiff/TuringRiff-bucket/blob/master/bucket/drop-icons.json)
+* [lertaro.json](https://github.com/TuringRiff/TuringRiff-bucket/blob/master/bucket/lertaro.json)
+* [pilinara.json](https://github.com/TuringRiff/TuringRiff-bucket/blob/master/bucket/pilinara.json)
