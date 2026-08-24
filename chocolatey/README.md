@@ -6,12 +6,12 @@ A data-driven, automated discovery and ranking engine for the Chocolatey package
 ![Update Package Managers Radar](https://github.com/mcunha/scoop-radar/actions/workflows/update.yml/badge.svg)
 
 # 📊 Ecosystem Health
-* **Total Unique Recipes**: 2931
-* **Ecosystem Auto-Update Health**: 35.99%
+* **Total Unique Recipes**: 2930
+* **Ecosystem Auto-Update Health**: 36.01%
 * **Ecosystem Reliability**: 100.0% (Sampled URL Health)
-* **Official vs. Community**: 481 Official / 2848 Community
+* **Official vs. Community**: 481 Official / 2846 Community
 
-* **Stale/Abandoned Sources (> 1 Year)**: 🪦 124
+* **Stale/Abandoned Sources (> 1 Year)**: 🪦 123
 
 ### Ecosystem Growth (All Recipes)
 <picture>
@@ -54,14 +54,6 @@ These repositories are actively maintained and feature a high percentage of **un
 
 
 
-## 🔥 Trending
-These active repositories are rapidly climbing the ranks due to recent, high-quality updates and growing recipe counts!
-
-| Repository | Rank Change | Current Rank | Recipes | Score | Auto-Update |
-| :--- | :---: | :---: | :---: | :---: | :---: |
-| **[naveen521kk/au-packages](directory/naveen521kk+au-packages.md)** | 📈 +1 | 🏆 #21 | 📦 12 | ⭐ 1.0 | 🔄 83% |
-
-
 
 
 
@@ -71,7 +63,7 @@ These active repositories are rapidly climbing the ranks due to recent, high-qua
 A combined list of every source discovered in the ecosystem.
 
 <details>
-<summary><b>Click to expand all 227 discovered sources</b></summary>
+<summary><b>Click to expand all 226 discovered sources</b></summary>
 
 | Repository | Recipes | Score | Auto-Update | Badges |
 | :--- | :---: | :---: | :---: | :--- |
@@ -272,7 +264,6 @@ A combined list of every source discovered in the ecosystem.
 | **[andyli/ethminer-choco](directory/andyli+ethminer-choco.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[devkitspaces/boxstarter-workspace](directory/devkitspaces+boxstarter-workspace.md)** | 📦 4 | ⭐ 1.0 | 🔄 0% |  |
 | **[itigoag/chocolatey.lenovo-performance-tuner](directory/itigoag+chocolatey.lenovo-performance-tuner.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[kujotx/chocolatey-packages](directory/kujotx+chocolatey-packages.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
 | **[jhipster/chocolatey-package](directory/jhipster+chocolatey-package.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[adriens/chocolatey-netbeans-11](directory/adriens+chocolatey-netbeans-11.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[belidzs/chocolatey-flacsquisher](directory/belidzs+chocolatey-flacsquisher.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
@@ -306,15 +297,15 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 2013
-* **Total Repo Updates**: 120650
+* **Total Crawler Runs**: 2014
+* **Total Repo Updates**: 120786
 * **Ecosystem Growth (Since Last Run)**:
-  * 🪣 +0 Repositories
-  * 📦 +0 Recipes
-* **Eviction Count**: 🗑️ 43
+  * 🪣 -1 Repositories
+  * 📦 -2 Recipes
+* **Eviction Count**: 🗑️ 45
 * **API Rate Limit Retries**: ⏳ 2
 * **Cache Size**: 💾 0.83 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 0.19s
-  * 📥 Update: 1.67s
-* **Cumulative Compute Time**: 117.0 minutes
+  * 🔍 Discovery: 0.44s
+  * 📥 Update: 8.34s
+* **Cumulative Compute Time**: 117.1 minutes

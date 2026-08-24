@@ -9,9 +9,9 @@
 
 ## 📦 Recipes (7)
 * [freecad-linkbranch-daily.json](https://github.com/foosel/scoop-bucket/blob/main/bucket/freecad-linkbranch-daily.json)
-* [scoop-tray.json](https://github.com/foosel/scoop-bucket/blob/main/bucket/scoop-tray.json)
 * [freecad-linkbranch-stable.json](https://github.com/foosel/scoop-bucket/blob/main/bucket/freecad-linkbranch-stable.json)
-* [little-big-mouse-np.json](https://github.com/foosel/scoop-bucket/blob/main/bucket/little-big-mouse-np.json)
+* [scoop-tray.json](https://github.com/foosel/scoop-bucket/blob/main/bucket/scoop-tray.json)
 * [freecad-weekly.json](https://github.com/foosel/scoop-bucket/blob/main/bucket/freecad-weekly.json)
 * [cq-editor.json](https://github.com/foosel/scoop-bucket/blob/main/bucket/cq-editor.json)
 * [windows-terminal-preview.json](https://github.com/foosel/scoop-bucket/blob/main/bucket/windows-terminal-preview.json)
+* [little-big-mouse-np.json](https://github.com/foosel/scoop-bucket/blob/main/bucket/little-big-mouse-np.json)

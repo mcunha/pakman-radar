@@ -8,11 +8,11 @@
 
 
 ## 📦 Recipes (8)
-* [jdk17.json](https://github.com/jihuayu/jscoop/blob/main/bucket/jdk17.json)
 * [jdk.json](https://github.com/jihuayu/jscoop/blob/main/bucket/jdk.json)
+* [jdk17.json](https://github.com/jihuayu/jscoop/blob/main/bucket/jdk17.json)
 * [snipaste.json](https://github.com/jihuayu/jscoop/blob/main/bucket/snipaste.json)
-* [maa.json](https://github.com/jihuayu/jscoop/blob/main/bucket/maa.json)
-* [jdk8.json](https://github.com/jihuayu/jscoop/blob/main/bucket/jdk8.json)
+* [graalvm.json](https://github.com/jihuayu/jscoop/blob/main/bucket/graalvm.json)
 * [jdk11.json](https://github.com/jihuayu/jscoop/blob/main/bucket/jdk11.json)
 * [nodejs14.json](https://github.com/jihuayu/jscoop/blob/main/bucket/nodejs14.json)
-* [graalvm.json](https://github.com/jihuayu/jscoop/blob/main/bucket/graalvm.json)
+* [jdk8.json](https://github.com/jihuayu/jscoop/blob/main/bucket/jdk8.json)
+* [maa.json](https://github.com/jihuayu/jscoop/blob/main/bucket/maa.json)

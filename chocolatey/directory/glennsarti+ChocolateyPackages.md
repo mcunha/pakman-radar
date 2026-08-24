@@ -9,5 +9,5 @@
 
 ## 📦 Recipes (3)
 * [hashicorp-sentinel.nuspec](https://github.com/glennsarti/ChocolateyPackages/blob/main/automatic/hashicorp-sentinel/hashicorp-sentinel.nuspec)
-* [gitsign.nuspec](https://github.com/glennsarti/ChocolateyPackages/blob/main/automatic/gitsign/gitsign.nuspec)
 * [golangci-lint.nuspec](https://github.com/glennsarti/ChocolateyPackages/blob/main/automatic/golangci-lint/golangci-lint.nuspec)
+* [gitsign.nuspec](https://github.com/glennsarti/ChocolateyPackages/blob/main/automatic/gitsign/gitsign.nuspec)

@@ -8,9 +8,9 @@
 
 
 ## 📦 Recipes (6)
-* [mercury-avx2.json](https://github.com/loustact/locket/blob/master/bucket/mercury-avx2.json)
 * [zen-browser.json](https://github.com/loustact/locket/blob/master/bucket/zen-browser.json)
 * [mercury-avx.json](https://github.com/loustact/locket/blob/master/bucket/mercury-avx.json)
 * [thorium.json](https://github.com/loustact/locket/blob/master/bucket/thorium.json)
+* [mercury-avx2.json](https://github.com/loustact/locket/blob/master/bucket/mercury-avx2.json)
 * [thorium-avx2.json](https://github.com/loustact/locket/blob/master/bucket/thorium-avx2.json)
 * [mercury.json](https://github.com/loustact/locket/blob/master/bucket/mercury.json)

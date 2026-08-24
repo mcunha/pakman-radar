@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [winbareos.install.nuspec](https://github.com/C-Duv/chocolatey-winbareos/blob/develop/winbareos.install/winbareos.install.nuspec)
 * [winbareos.nuspec](https://github.com/C-Duv/chocolatey-winbareos/blob/develop/winbareos/winbareos.nuspec)
+* [winbareos.install.nuspec](https://github.com/C-Duv/chocolatey-winbareos/blob/develop/winbareos.install/winbareos.install.nuspec)

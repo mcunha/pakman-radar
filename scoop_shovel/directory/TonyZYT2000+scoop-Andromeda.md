@@ -8,9 +8,9 @@
 
 
 ## 📦 Recipes (6)
-* [siril.json](https://github.com/TonyZYT2000/scoop-Andromeda/blob/master/bucket/siril.json)
-* [fritzchess.json](https://github.com/TonyZYT2000/scoop-Andromeda/blob/master/bucket/fritzchess.json)
 * [monikai.json](https://github.com/TonyZYT2000/scoop-Andromeda/blob/master/bucket/monikai.json)
+* [siril.json](https://github.com/TonyZYT2000/scoop-Andromeda/blob/master/bucket/siril.json)
+* [tev.json](https://github.com/TonyZYT2000/scoop-Andromeda/blob/master/bucket/tev.json)
+* [fritzchess.json](https://github.com/TonyZYT2000/scoop-Andromeda/blob/master/bucket/fritzchess.json)
 * [dss.json](https://github.com/TonyZYT2000/scoop-Andromeda/blob/master/bucket/dss.json)
 * [codelite.json](https://github.com/TonyZYT2000/scoop-Andromeda/blob/master/bucket/codelite.json)
-* [tev.json](https://github.com/TonyZYT2000/scoop-Andromeda/blob/master/bucket/tev.json)

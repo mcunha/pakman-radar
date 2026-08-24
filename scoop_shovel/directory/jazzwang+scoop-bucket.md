@@ -8,12 +8,12 @@
 
 
 ## 📦 Recipes (9)
-* [hadoop.json](https://github.com/jazzwang/scoop-bucket/blob/master/bucket/hadoop.json)
-* [terraform-0.14.7.json](https://github.com/jazzwang/scoop-bucket/blob/master/bucket/terraform-0.14.7.json)
-* [git-extras.json](https://github.com/jazzwang/scoop-bucket/blob/master/bucket/git-extras.json)
 * [cwrsync.json](https://github.com/jazzwang/scoop-bucket/blob/master/bucket/cwrsync.json)
+* [python-embed.json](https://github.com/jazzwang/scoop-bucket/blob/master/bucket/python-embed.json)
+* [liquibase.json](https://github.com/jazzwang/scoop-bucket/blob/master/bucket/liquibase.json)
+* [terraform-0.14.7.json](https://github.com/jazzwang/scoop-bucket/blob/master/bucket/terraform-0.14.7.json)
+* [hadoop.json](https://github.com/jazzwang/scoop-bucket/blob/master/bucket/hadoop.json)
+* [git-extras.json](https://github.com/jazzwang/scoop-bucket/blob/master/bucket/git-extras.json)
+* [visualvm.json](https://github.com/jazzwang/scoop-bucket/blob/master/bucket/visualvm.json)
 * [lftp.json](https://github.com/jazzwang/scoop-bucket/blob/master/bucket/lftp.json)
 * [webcamoid-portable.json](https://github.com/jazzwang/scoop-bucket/blob/master/bucket/webcamoid-portable.json)
-* [visualvm.json](https://github.com/jazzwang/scoop-bucket/blob/master/bucket/visualvm.json)
-* [liquibase.json](https://github.com/jazzwang/scoop-bucket/blob/master/bucket/liquibase.json)
-* [python-embed.json](https://github.com/jazzwang/scoop-bucket/blob/master/bucket/python-embed.json)

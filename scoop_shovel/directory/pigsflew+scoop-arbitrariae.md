@@ -8,8 +8,8 @@
 
 
 ## 📦 Recipes (5)
-* [fontbase.json](https://github.com/pigsflew/scoop-arbitrariae/blob/main/bucket/fontbase.json)
-* [x-mouse-button-control.json](https://github.com/pigsflew/scoop-arbitrariae/blob/main/bucket/x-mouse-button-control.json)
-* [ffxivquicklauncher.json](https://github.com/pigsflew/scoop-arbitrariae/blob/main/bucket/ffxivquicklauncher.json)
 * [fluidsynth.json](https://github.com/pigsflew/scoop-arbitrariae/blob/main/bucket/fluidsynth.json)
 * [advanced-combat-tracker.json](https://github.com/pigsflew/scoop-arbitrariae/blob/main/bucket/advanced-combat-tracker.json)
+* [fontbase.json](https://github.com/pigsflew/scoop-arbitrariae/blob/main/bucket/fontbase.json)
+* [ffxivquicklauncher.json](https://github.com/pigsflew/scoop-arbitrariae/blob/main/bucket/ffxivquicklauncher.json)
+* [x-mouse-button-control.json](https://github.com/pigsflew/scoop-arbitrariae/blob/main/bucket/x-mouse-button-control.json)

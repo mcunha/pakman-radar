@@ -8,7 +8,7 @@
 
 
 ## 📦 Recipes (4)
-* [byond-beta.json](https://github.com/Absolucy/scoop-lucy/blob/main/bucket/byond-beta.json)
-* [byond.json](https://github.com/Absolucy/scoop-lucy/blob/main/bucket/byond.json)
-* [gitoxide.json](https://github.com/Absolucy/scoop-lucy/blob/main/bucket/gitoxide.json)
 * [spacemandmm.json](https://github.com/Absolucy/scoop-lucy/blob/main/bucket/spacemandmm.json)
+* [byond.json](https://github.com/Absolucy/scoop-lucy/blob/main/bucket/byond.json)
+* [byond-beta.json](https://github.com/Absolucy/scoop-lucy/blob/main/bucket/byond-beta.json)
+* [gitoxide.json](https://github.com/Absolucy/scoop-lucy/blob/main/bucket/gitoxide.json)

@@ -8,8 +8,8 @@
 
 
 ## 📦 Recipes (5)
+* [drun.json](https://github.com/brad-jones/scoop-bucket/blob/master/bucket/drun.json)
+* [hashdir.json](https://github.com/brad-jones/scoop-bucket/blob/master/bucket/hashdir.json)
+* [gomake.json](https://github.com/brad-jones/scoop-bucket/blob/master/bucket/gomake.json)
 * [winsudo.json](https://github.com/brad-jones/scoop-bucket/blob/master/bucket/winsudo.json)
 * [ssh_add_with_pass.json](https://github.com/brad-jones/scoop-bucket/blob/master/bucket/ssh_add_with_pass.json)
-* [drun.json](https://github.com/brad-jones/scoop-bucket/blob/master/bucket/drun.json)
-* [gomake.json](https://github.com/brad-jones/scoop-bucket/blob/master/bucket/gomake.json)
-* [hashdir.json](https://github.com/brad-jones/scoop-bucket/blob/master/bucket/hashdir.json)
