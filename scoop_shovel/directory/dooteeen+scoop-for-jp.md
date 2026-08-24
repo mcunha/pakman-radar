@@ -8,10 +8,10 @@
 
 
 ## 📦 Recipes (7)
-* [cica.json](https://github.com/dooteeen/scoop-for-jp/blob/master/cica.json)
-* [myrica-m.json](https://github.com/dooteeen/scoop-for-jp/blob/master/myrica-m.json)
 * [winmerge-jp.json](https://github.com/dooteeen/scoop-for-jp/blob/master/winmerge-jp.json)
-* [source-han-code-jp.json](https://github.com/dooteeen/scoop-for-jp/blob/master/source-han-code-jp.json)
+* [myrica-m.json](https://github.com/dooteeen/scoop-for-jp/blob/master/myrica-m.json)
 * [emacs-nt.json](https://github.com/dooteeen/scoop-for-jp/blob/master/emacs-nt.json)
-* [nkf.json](https://github.com/dooteeen/scoop-for-jp/blob/master/nkf.json)
+* [cica.json](https://github.com/dooteeen/scoop-for-jp/blob/master/cica.json)
+* [source-han-code-jp.json](https://github.com/dooteeen/scoop-for-jp/blob/master/source-han-code-jp.json)
 * [myrica.json](https://github.com/dooteeen/scoop-for-jp/blob/master/myrica.json)
+* [nkf.json](https://github.com/dooteeen/scoop-for-jp/blob/master/nkf.json)
