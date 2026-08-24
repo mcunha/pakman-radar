@@ -8,9 +8,9 @@
 
 
 ## 📦 Recipes (6)
-* [xivbackup.json](https://github.com/Lomeli12/ScoopBucket/blob/master/xivbackup.json)
-* [pulseaudio.json](https://github.com/Lomeli12/ScoopBucket/blob/master/pulseaudio.json)
-* [wxMEdit.json](https://github.com/Lomeli12/ScoopBucket/blob/master/wxMEdit.json)
-* [deadman-switch-launcher.json](https://github.com/Lomeli12/ScoopBucket/blob/master/deadman-switch-launcher.json)
 * [launchyqt.json](https://github.com/Lomeli12/ScoopBucket/blob/master/launchyqt.json)
 * [ffmt.json](https://github.com/Lomeli12/ScoopBucket/blob/master/ffmt.json)
+* [pulseaudio.json](https://github.com/Lomeli12/ScoopBucket/blob/master/pulseaudio.json)
+* [deadman-switch-launcher.json](https://github.com/Lomeli12/ScoopBucket/blob/master/deadman-switch-launcher.json)
+* [wxMEdit.json](https://github.com/Lomeli12/ScoopBucket/blob/master/wxMEdit.json)
+* [xivbackup.json](https://github.com/Lomeli12/ScoopBucket/blob/master/xivbackup.json)

@@ -10,5 +10,5 @@
 ## 📦 Recipes (4)
 * [tigervnc-client.json](https://github.com/egelja/scoop-bucket/blob/master/bucket/tigervnc-client.json)
 * [console-rsvg-convert.json](https://github.com/egelja/scoop-bucket/blob/master/bucket/console-rsvg-convert.json)
-* [eza.json](https://github.com/egelja/scoop-bucket/blob/master/bucket/eza.json)
 * [notify-send.json](https://github.com/egelja/scoop-bucket/blob/master/bucket/notify-send.json)
+* [eza.json](https://github.com/egelja/scoop-bucket/blob/master/bucket/eza.json)

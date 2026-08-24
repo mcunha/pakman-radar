@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [coeiroink-cpu.json](https://github.com/ciffelia/ScoopBucket/blob/main/bucket/coeiroink-cpu.json)
 * [coeiroink-gpu.json](https://github.com/ciffelia/ScoopBucket/blob/main/bucket/coeiroink-gpu.json)
+* [coeiroink-cpu.json](https://github.com/ciffelia/ScoopBucket/blob/main/bucket/coeiroink-cpu.json)

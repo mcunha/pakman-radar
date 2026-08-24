@@ -8,8 +8,8 @@
 
 
 ## 📦 Recipes (5)
-* [ghz.json](https://github.com/sdfwds4/ScoopBucket/blob/master/bucket/ghz.json)
-* [mongodb7.json](https://github.com/sdfwds4/ScoopBucket/blob/master/bucket/mongodb7.json)
-* [xampp7.json](https://github.com/sdfwds4/ScoopBucket/blob/master/bucket/xampp7.json)
 * [redis5.json](https://github.com/sdfwds4/ScoopBucket/blob/master/bucket/redis5.json)
+* [xampp7.json](https://github.com/sdfwds4/ScoopBucket/blob/master/bucket/xampp7.json)
+* [ghz.json](https://github.com/sdfwds4/ScoopBucket/blob/master/bucket/ghz.json)
 * [emeditor20.json](https://github.com/sdfwds4/ScoopBucket/blob/master/bucket/emeditor20.json)
+* [mongodb7.json](https://github.com/sdfwds4/ScoopBucket/blob/master/bucket/mongodb7.json)
