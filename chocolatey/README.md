@@ -54,6 +54,14 @@ These repositories are actively maintained and feature a high percentage of **un
 
 
 
+## 🔥 Trending
+These active repositories are rapidly climbing the ranks due to recent, high-quality updates and growing recipe counts!
+
+| Repository | Rank Change | Current Rank | Recipes | Score | Auto-Update |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **[naveen521kk/au-packages](directory/naveen521kk+au-packages.md)** | 📈 +1 | 🏆 #21 | 📦 12 | ⭐ 1.0 | 🔄 83% |
+
+
 
 
 
@@ -87,8 +95,8 @@ A combined list of every source discovered in the ecosystem.
 | **[piraces/chocolatey-packages](directory/piraces+chocolatey-packages.md)** | 📦 18 | ⭐ 1.0 | 🔄 100% |  |
 | **[bbtsoftware/chocolatey-packages](directory/bbtsoftware+chocolatey-packages.md)** | 📦 18 | ⭐ 1.0 | 🔄 89% |  |
 | **[pascalberger/chocolatey-packages](directory/pascalberger+chocolatey-packages.md)** | 📦 15 | ⭐ 1.0 | 🔄 87% |  |
-| **[hoanganhduc/chocolatey](directory/hoanganhduc+chocolatey.md)** | 📦 12 | ⭐ 1.0 | 🔄 0% |  |
 | **[naveen521kk/au-packages](directory/naveen521kk+au-packages.md)** | 📦 12 | ⭐ 1.0 | 🔄 83% |  |
+| **[hoanganhduc/chocolatey](directory/hoanganhduc+chocolatey.md)** | 📦 12 | ⭐ 1.0 | 🔄 0% |  |
 | **[kai2nenobu/my-chocolatey-packages](directory/kai2nenobu+my-chocolatey-packages.md)** | 📦 10 | ⭐ 1.0 | 🔄 50% |  |
 | **[ITS-Unibas/chocolatey-community-packages](directory/ITS-Unibas+chocolatey-community-packages.md)** | 📦 9 | ⭐ 1.0 | 🔄 89% |  |
 | **[C4illin/Choco-Packages](directory/C4illin+Choco-Packages.md)** | 📦 9 | ⭐ 1.0 | 🔄 89% |  |
@@ -298,8 +306,8 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 2012
-* **Total Repo Updates**: 120591
+* **Total Crawler Runs**: 2013
+* **Total Repo Updates**: 120650
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
@@ -307,6 +315,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 2
 * **Cache Size**: 💾 0.83 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 0.27s
-  * 📥 Update: 1.74s
-* **Cumulative Compute Time**: 116.9 minutes
+  * 🔍 Discovery: 0.19s
+  * 📥 Update: 1.67s
+* **Cumulative Compute Time**: 117.0 minutes
