@@ -147,32 +147,36 @@
     {
       "full_name": "Logiase/scoop-embedded",
       "evicted_at": "2026-08-24T15:59:44Z"
+    },
+    {
+      "full_name": "voicemeet/scoop-bucket",
+      "evicted_at": "2026-08-24T19:48:09Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-08-24T19:10:26Z",
-    "count": 37,
+    "generated_at": "2026-08-24T19:48:25Z",
+    "count": 38,
     "global_metrics": {
-      "total_runs": 2017,
-      "total_run_time_seconds": 313890.9152007103,
-      "total_repo_updates": 130280,
-      "previous_total_buckets": 1549,
-      "previous_total_recipes": 135306,
-      "bucket_velocity": 0,
-      "recipe_velocity": 0,
-      "total_evictions": 43,
+      "total_runs": 2018,
+      "total_run_time_seconds": 313910.7721686363,
+      "total_repo_updates": 130343,
+      "previous_total_buckets": 1548,
+      "previous_total_recipes": 135305,
+      "bucket_velocity": -1,
+      "recipe_velocity": -1,
+      "total_evictions": 44,
       "total_api_retries": 2,
-      "last_run_discover_time": 0.35808348655700684,
-      "last_run_update_time": 435.613596200943,
-      "ecosystem_reliability": 88.3,
-      "cache_size_mb": 10.28326416015625,
-      "total_unique_recipes": 31653,
+      "last_run_discover_time": 1.0218069553375244,
+      "last_run_update_time": 17.949930906295776,
+      "ecosystem_reliability": 88.4,
+      "cache_size_mb": 10.283008575439453,
+      "total_unique_recipes": 31652,
       "auto_update_percentage": 85.36,
       "official_recipes": 53994,
-      "community_recipes": 81312,
+      "community_recipes": 81311,
       "stale_buckets": 484,
       "shovel_buckets": 25,
-      "scoop_buckets": 1524
+      "scoop_buckets": 1523
     }
   }
 }
