@@ -2661,7 +2661,7 @@
         "powershell"
       ],
       "last_checked": "2026-04-27T23:39:52Z",
-      "pushed_at": "2026-08-23T17:40:58Z",
+      "pushed_at": "2026-08-24T17:50:10Z",
       "archived": false,
       "disabled": false,
       "entries": [
@@ -3215,7 +3215,7 @@
         "chocolatey-packages"
       ],
       "last_checked": "2026-04-27T15:14:20Z",
-      "pushed_at": "2026-08-22T21:43:58Z",
+      "pushed_at": "2026-08-24T10:21:12Z",
       "archived": false,
       "disabled": false,
       "entries": [
@@ -3646,7 +3646,7 @@
         "chocolatey-packages"
       ],
       "last_checked": "2026-04-27T01:20:54Z",
-      "pushed_at": "2026-08-24T09:06:57Z",
+      "pushed_at": "2026-08-24T17:49:30Z",
       "archived": false,
       "disabled": false,
       "entries": [
@@ -5034,7 +5034,7 @@
       "unique_count": 1,
       "uniqueness_ratio": 1.0,
       "auto_update_percentage": 0.0,
-      "final_score": 32.842413187851236,
+      "final_score": 32.78761866730329,
       "current_rank": 57,
       "rank_velocity": 0,
       "previous_rank": 57,
@@ -6457,7 +6457,7 @@
         "chocolatey-packages",
         "powershell"
       ],
-      "last_checked": "2026-08-07T23:51:05Z",
+      "last_checked": "2026-08-24T17:50:52Z",
       "pushed_at": "2026-03-10T10:45:40Z",
       "archived": false,
       "disabled": false,
@@ -6605,7 +6605,7 @@
       "unique_count": 1,
       "uniqueness_ratio": 1.0,
       "auto_update_percentage": 100.0,
-      "final_score": 22.648999239307905,
+      "final_score": 22.52096389951542,
       "current_rank": 95,
       "rank_velocity": 0,
       "previous_rank": 95,
@@ -7111,7 +7111,7 @@
         "software-management",
         "windows"
       ],
-      "last_checked": "2026-07-25T17:19:17Z",
+      "last_checked": "2026-08-24T17:50:51Z",
       "pushed_at": "2025-07-08T01:29:18Z",
       "archived": false,
       "disabled": false,
@@ -7319,7 +7319,7 @@
         "chocolatey-packages",
         "therion"
       ],
-      "last_checked": "2026-07-25T17:19:17Z",
+      "last_checked": "2026-08-24T17:50:51Z",
       "pushed_at": "2025-02-24T21:09:30Z",
       "archived": false,
       "disabled": false,
@@ -7906,7 +7906,7 @@
         "cookiecutter-chocolatey",
         "cookiecutter-template"
       ],
-      "last_checked": "2026-07-25T17:19:17Z",
+      "last_checked": "2026-08-24T17:50:51Z",
       "pushed_at": "2024-07-18T22:28:43Z",
       "archived": false,
       "disabled": false,
@@ -8016,7 +8016,7 @@
         "chocolatey",
         "chocolatey-packages"
       ],
-      "last_checked": "2026-07-25T17:19:17Z",
+      "last_checked": "2026-08-24T17:50:52Z",
       "pushed_at": "2024-05-05T16:00:15Z",
       "archived": true,
       "disabled": false,
@@ -8178,7 +8178,7 @@
         "chocolatey",
         "chocolatey-packages"
       ],
-      "last_checked": "2026-07-25T17:19:17Z",
+      "last_checked": "2026-08-24T17:50:51Z",
       "pushed_at": "2024-05-09T13:37:38Z",
       "archived": false,
       "disabled": false,
@@ -8461,7 +8461,7 @@
         "software-management",
         "windows"
       ],
-      "last_checked": "2026-07-25T17:19:17Z",
+      "last_checked": "2026-08-24T17:50:51Z",
       "pushed_at": "2024-01-30T23:14:10Z",
       "archived": false,
       "disabled": false,
@@ -8510,7 +8510,7 @@
         "wix",
         "wix-toolset"
       ],
-      "last_checked": "2026-07-25T17:19:17Z",
+      "last_checked": "2026-08-24T17:50:51Z",
       "pushed_at": "2024-01-30T23:13:34Z",
       "archived": false,
       "disabled": false,
@@ -8560,7 +8560,7 @@
         "windows",
         "xsplit"
       ],
-      "last_checked": "2026-07-25T17:19:17Z",
+      "last_checked": "2026-08-24T17:50:51Z",
       "pushed_at": "2024-01-30T23:18:55Z",
       "archived": false,
       "disabled": false,
@@ -8726,7 +8726,7 @@
       "unique_count": 34,
       "uniqueness_ratio": 1.0,
       "auto_update_percentage": 0.0,
-      "final_score": -47.3118729727872,
+      "final_score": -47.55077423535093,
       "current_rank": 146,
       "rank_velocity": 0,
       "previous_rank": 146,
@@ -9127,7 +9127,7 @@
         "isl-light",
         "remote-access"
       ],
-      "last_checked": "2026-07-25T17:19:17Z",
+      "last_checked": "2026-08-24T17:50:52Z",
       "pushed_at": "2023-02-10T01:03:05Z",
       "archived": false,
       "disabled": false,
@@ -9199,7 +9199,7 @@
         "chocolatey-packages",
         "package-management"
       ],
-      "last_checked": "2026-07-25T17:19:17Z",
+      "last_checked": "2026-08-24T17:50:52Z",
       "pushed_at": "2022-11-15T08:46:20Z",
       "archived": false,
       "disabled": false,
@@ -9237,7 +9237,7 @@
         "package-management",
         "windows"
       ],
-      "last_checked": "2026-07-25T17:19:17Z",
+      "last_checked": "2026-08-24T17:50:51Z",
       "pushed_at": "2022-09-06T04:57:07Z",
       "archived": true,
       "disabled": false,
@@ -9272,7 +9272,7 @@
         "chocolatey",
         "chocolatey-packages"
       ],
-      "last_checked": "2026-07-25T17:19:17Z",
+      "last_checked": "2026-08-24T17:50:51Z",
       "pushed_at": "2022-08-30T21:07:36Z",
       "archived": false,
       "disabled": false,
@@ -9426,7 +9426,7 @@
         "chocolatey-packages",
         "zoiper"
       ],
-      "last_checked": "2026-07-25T17:19:17Z",
+      "last_checked": "2026-08-24T17:50:51Z",
       "pushed_at": "2022-06-24T08:42:19Z",
       "archived": false,
       "disabled": false,
@@ -9575,7 +9575,7 @@
         "chocolatey-packages",
         "sauce-connect"
       ],
-      "last_checked": "2026-07-25T17:19:17Z",
+      "last_checked": "2026-08-24T17:50:51Z",
       "pushed_at": "2021-11-21T08:53:43Z",
       "archived": false,
       "disabled": false,
@@ -9730,7 +9730,7 @@
         "chocolatey-packages",
         "pendulums"
       ],
-      "last_checked": "2026-07-25T17:19:17Z",
+      "last_checked": "2026-08-24T17:50:51Z",
       "pushed_at": "2021-09-18T22:50:05Z",
       "archived": false,
       "disabled": false,
@@ -9809,7 +9809,7 @@
         "chocolatey-packages",
         "rss-reader"
       ],
-      "last_checked": "2026-07-25T17:19:17Z",
+      "last_checked": "2026-08-24T17:50:51Z",
       "pushed_at": "2021-05-29T17:40:35Z",
       "archived": false,
       "disabled": false,
@@ -9824,7 +9824,7 @@
       "unique_count": 1,
       "uniqueness_ratio": 1.0,
       "auto_update_percentage": 0.0,
-      "final_score": -113.95589122314523,
+      "final_score": -114.02913204238978,
       "current_rank": 174,
       "rank_velocity": 0,
       "previous_rank": 174,
@@ -9955,13 +9955,13 @@
         "chocolatey",
         "chocolatey-packages"
       ],
-      "last_checked": "2026-07-25T17:19:17Z",
+      "last_checked": "2026-08-24T17:50:51Z",
       "pushed_at": "2021-10-09T18:53:11Z",
       "archived": false,
       "disabled": false,
       "entries": [
-        "packages/minibin/6.6.0.0/minibin.nuspec",
-        "packages/sqlbench/1.1.0.0/sqlbench.nuspec"
+        "packages/sqlbench/1.1.0.0/sqlbench.nuspec",
+        "packages/minibin/6.6.0.0/minibin.nuspec"
       ],
       "checkver_count": 0,
       "consecutive_failures": 0,
@@ -10102,7 +10102,7 @@
         "crealogix-paymaker-office",
         "paymaker-office"
       ],
-      "last_checked": "2026-07-25T17:19:17Z",
+      "last_checked": "2026-08-24T17:50:51Z",
       "pushed_at": "2020-07-07T17:56:59Z",
       "archived": false,
       "disabled": false,
@@ -10244,18 +10244,18 @@
         "chocolatey",
         "chocolatey-packages"
       ],
-      "last_checked": "2026-07-25T17:19:17Z",
+      "last_checked": "2026-08-24T17:50:51Z",
       "pushed_at": "2022-08-26T13:10:47Z",
       "archived": true,
       "disabled": false,
       "entries": [
-        "openhashtab/openhashtab.nuspec",
-        "ventoy/ventoy.nuspec",
-        "clash-for-windows/clash-for-windows.nuspec",
         "picgo/picgo.nuspec",
         "office-tool/office-tool.nuspec",
+        "openhashtab/openhashtab.nuspec",
+        "qbittorrent-enhanced/qbittorrent-enhanced.nuspec",
         "traffic-monitor/traffic-monitor.nuspec",
-        "qbittorrent-enhanced/qbittorrent-enhanced.nuspec"
+        "ventoy/ventoy.nuspec",
+        "clash-for-windows/clash-for-windows.nuspec"
       ],
       "checkver_count": 7,
       "consecutive_failures": 0,
@@ -10287,13 +10287,13 @@
         "chocolatey-automatic",
         "chocolatey-packages"
       ],
-      "last_checked": "2026-07-25T17:19:17Z",
+      "last_checked": "2026-08-24T17:50:51Z",
       "pushed_at": "2021-10-22T00:05:41Z",
       "archived": false,
       "disabled": false,
       "entries": [
-        "lux/lux.nuspec",
         "epr/epr.nuspec",
+        "lux/lux.nuspec",
         "lf/lf.nuspec"
       ],
       "checkver_count": 3,
@@ -10412,7 +10412,7 @@
       "auto_update_percentage": 0.0,
       "final_score": -148.45231708732388,
       "current_rank": 190,
-      "rank_velocity": 1,
+      "rank_velocity": 0,
       "previous_rank": 190,
       "is_scoop_official": false,
       "is_scoop_known": false,
@@ -10449,7 +10449,7 @@
       "auto_update_percentage": 0.0,
       "final_score": -148.45231708732388,
       "current_rank": 191,
-      "rank_velocity": -1,
+      "rank_velocity": 0,
       "previous_rank": 191,
       "is_scoop_official": false,
       "is_scoop_known": false,
@@ -10575,7 +10575,7 @@
         "chocolatey-packages",
         "ethereum"
       ],
-      "last_checked": "2026-07-25T17:19:17Z",
+      "last_checked": "2026-08-24T17:50:51Z",
       "pushed_at": "2019-08-24T02:44:12Z",
       "archived": false,
       "disabled": false,
@@ -10670,7 +10670,7 @@
       "unique_count": 1,
       "uniqueness_ratio": 1.0,
       "auto_update_percentage": 0.0,
-      "final_score": -161.78214618983029,
+      "final_score": -161.8553870090748,
       "current_rank": 197,
       "rank_velocity": 0,
       "previous_rank": 197,
@@ -10839,7 +10839,7 @@
         "chocolatey-packages",
         "thumbnail-generator"
       ],
-      "last_checked": "2026-07-25T17:19:17Z",
+      "last_checked": "2026-08-24T17:50:51Z",
       "pushed_at": "2019-02-27T11:55:42Z",
       "archived": false,
       "disabled": false,
@@ -10875,7 +10875,7 @@
         "chocolatey-packages",
         "ultradmm"
       ],
-      "last_checked": "2026-07-25T17:19:17Z",
+      "last_checked": "2026-08-24T17:50:51Z",
       "pushed_at": "2019-02-27T11:36:16Z",
       "archived": false,
       "disabled": false,
@@ -11129,7 +11129,7 @@
         "chocolatey-packages",
         "npcap"
       ],
-      "last_checked": "2026-07-25T17:19:17Z",
+      "last_checked": "2026-08-24T17:50:52Z",
       "pushed_at": "2017-06-01T00:34:37Z",
       "archived": false,
       "disabled": false,
@@ -11520,7 +11520,7 @@
         "chocolatey",
         "chocolatey-packages"
       ],
-      "last_checked": "2026-07-25T17:19:17Z",
+      "last_checked": "2026-08-24T17:50:52Z",
       "pushed_at": "2017-02-18T22:52:46Z",
       "archived": true,
       "disabled": false,
@@ -11761,22 +11761,22 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-08-24T16:57:56Z",
+    "generated_at": "2026-08-24T17:50:52Z",
     "count": 226,
     "global_metrics": {
-      "total_runs": 2015,
-      "total_run_time_seconds": 7027.321325540543,
-      "total_repo_updates": 120845,
+      "total_runs": 2016,
+      "total_run_time_seconds": 7031.921207666397,
+      "total_repo_updates": 120930,
       "previous_total_buckets": 226,
       "previous_total_recipes": 3327,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
       "total_evictions": 45,
       "total_api_retries": 2,
-      "last_run_discover_time": 0.15804147720336914,
-      "last_run_update_time": 1.3108646869659424,
+      "last_run_discover_time": 1.9398486614227295,
+      "last_run_update_time": 2.624088764190674,
       "ecosystem_reliability": 100.0,
-      "cache_size_mb": 0.8338708877563477,
+      "cache_size_mb": 0.8338623046875,
       "total_unique_recipes": 2930,
       "auto_update_percentage": 36.01,
       "official_recipes": 481,

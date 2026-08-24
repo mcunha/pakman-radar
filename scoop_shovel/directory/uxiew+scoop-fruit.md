@@ -8,10 +8,10 @@
 
 
 ## 📦 Recipes (7)
+* [MyChrome.json](https://github.com/uxiew/scoop-fruit/blob/master/bucket/MyChrome.json)
+* [neteasemusic.json](https://github.com/uxiew/scoop-fruit/blob/master/bucket/neteasemusic.json)
+* [utools.json](https://github.com/uxiew/scoop-fruit/blob/master/bucket/utools.json)
+* [figma.json](https://github.com/uxiew/scoop-fruit/blob/master/bucket/figma.json)
+* [scoop-completion.json](https://github.com/uxiew/scoop-fruit/blob/master/bucket/scoop-completion.json)
 * [hbuilderx.json](https://github.com/uxiew/scoop-fruit/blob/master/bucket/hbuilderx.json)
 * [virgo.json](https://github.com/uxiew/scoop-fruit/blob/master/bucket/virgo.json)
-* [figma.json](https://github.com/uxiew/scoop-fruit/blob/master/bucket/figma.json)
-* [MyChrome.json](https://github.com/uxiew/scoop-fruit/blob/master/bucket/MyChrome.json)
-* [utools.json](https://github.com/uxiew/scoop-fruit/blob/master/bucket/utools.json)
-* [neteasemusic.json](https://github.com/uxiew/scoop-fruit/blob/master/bucket/neteasemusic.json)
-* [scoop-completion.json](https://github.com/uxiew/scoop-fruit/blob/master/bucket/scoop-completion.json)

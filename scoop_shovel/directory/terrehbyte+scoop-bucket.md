@@ -8,6 +8,6 @@
 
 
 ## 📦 Recipes (3)
-* [qmk_toolbox.json](https://github.com/terrehbyte/scoop-bucket/blob/master/bucket/qmk_toolbox.json)
-* [superpaper.json](https://github.com/terrehbyte/scoop-bucket/blob/master/bucket/superpaper.json)
 * [onetagger.json](https://github.com/terrehbyte/scoop-bucket/blob/master/bucket/onetagger.json)
+* [superpaper.json](https://github.com/terrehbyte/scoop-bucket/blob/master/bucket/superpaper.json)
+* [qmk_toolbox.json](https://github.com/terrehbyte/scoop-bucket/blob/master/bucket/qmk_toolbox.json)

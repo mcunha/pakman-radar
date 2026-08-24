@@ -8,10 +8,10 @@
 
 
 ## 📦 Recipes (7)
-* [stern.json](https://github.com/filippobuletto/pot-pourri/blob/master/bucket/stern.json)
-* [popeye.json](https://github.com/filippobuletto/pot-pourri/blob/master/bucket/popeye.json)
 * [rakkess.json](https://github.com/filippobuletto/pot-pourri/blob/master/bucket/rakkess.json)
-* [cinebench-r23.json](https://github.com/filippobuletto/pot-pourri/blob/master/bucket/cinebench-r23.json)
+* [popeye.json](https://github.com/filippobuletto/pot-pourri/blob/master/bucket/popeye.json)
 * [explorerplusplus.json](https://github.com/filippobuletto/pot-pourri/blob/master/bucket/explorerplusplus.json)
-* [dnsagent.json](https://github.com/filippobuletto/pot-pourri/blob/master/bucket/dnsagent.json)
 * [cinebench-r20.json](https://github.com/filippobuletto/pot-pourri/blob/master/bucket/cinebench-r20.json)
+* [cinebench-r23.json](https://github.com/filippobuletto/pot-pourri/blob/master/bucket/cinebench-r23.json)
+* [stern.json](https://github.com/filippobuletto/pot-pourri/blob/master/bucket/stern.json)
+* [dnsagent.json](https://github.com/filippobuletto/pot-pourri/blob/master/bucket/dnsagent.json)
