@@ -8,7 +8,7 @@
 
 
 ## 📦 Recipes (4)
-* [emacs.json](https://github.com/CoolDove/scoop-dove/blob/master/bucket/emacs.json)
-* [cody.json](https://github.com/CoolDove/scoop-dove/blob/master/bucket/cody.json)
 * [rudy.json](https://github.com/CoolDove/scoop-dove/blob/master/bucket/rudy.json)
 * [rnm.json](https://github.com/CoolDove/scoop-dove/blob/master/bucket/rnm.json)
+* [cody.json](https://github.com/CoolDove/scoop-dove/blob/master/bucket/cody.json)
+* [emacs.json](https://github.com/CoolDove/scoop-dove/blob/master/bucket/emacs.json)

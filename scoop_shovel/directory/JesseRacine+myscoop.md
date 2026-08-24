@@ -8,10 +8,10 @@
 
 
 ## 📦 Recipes (7)
-* [lintalist.json](https://github.com/JesseRacine/myscoop/blob/main/bucket/lintalist.json)
-* [pencilprojectportable.json](https://github.com/JesseRacine/myscoop/blob/main/bucket/pencilprojectportable.json)
-* [UltimateWindowsTweaker.json](https://github.com/JesseRacine/myscoop/blob/main/bucket/UltimateWindowsTweaker.json)
+* [SlickRun.json](https://github.com/JesseRacine/myscoop/blob/main/bucket/SlickRun.json)
 * [winsetview.json](https://github.com/JesseRacine/myscoop/blob/main/bucket/winsetview.json)
+* [UltimateWindowsTweaker.json](https://github.com/JesseRacine/myscoop/blob/main/bucket/UltimateWindowsTweaker.json)
+* [pencilprojectportable.json](https://github.com/JesseRacine/myscoop/blob/main/bucket/pencilprojectportable.json)
+* [lintalist.json](https://github.com/JesseRacine/myscoop/blob/main/bucket/lintalist.json)
 * [freefilesync.json](https://github.com/JesseRacine/myscoop/blob/main/bucket/freefilesync.json)
 * [MemPad.json](https://github.com/JesseRacine/myscoop/blob/main/bucket/MemPad.json)
-* [SlickRun.json](https://github.com/JesseRacine/myscoop/blob/main/bucket/SlickRun.json)

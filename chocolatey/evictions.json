@@ -155,25 +155,37 @@
     {
       "full_name": "voicemeet/scoop-bucket",
       "evicted_at": "2026-08-24T19:48:09Z"
+    },
+    {
+      "full_name": "caixiaomao/scoop-bucket",
+      "evicted_at": "2026-08-24T23:41:30Z"
+    },
+    {
+      "full_name": "LetUsFlow/YASB",
+      "evicted_at": "2026-08-24T23:41:34Z"
+    },
+    {
+      "full_name": "nfi5h/fi5h-bucket",
+      "evicted_at": "2026-08-24T23:41:36Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-08-24T22:47:57Z",
-    "count": 39,
+    "generated_at": "2026-08-24T23:41:51Z",
+    "count": 42,
     "global_metrics": {
-      "total_runs": 2021,
-      "total_run_time_seconds": 7053.400966882706,
-      "total_repo_updates": 121251,
+      "total_runs": 2022,
+      "total_run_time_seconds": 7057.974246025085,
+      "total_repo_updates": 121311,
       "previous_total_buckets": 226,
       "previous_total_recipes": 3327,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
-      "total_evictions": 46,
+      "total_evictions": 49,
       "total_api_retries": 2,
-      "last_run_discover_time": 2.80717134475708,
-      "last_run_update_time": 1.990417718887329,
+      "last_run_discover_time": 2.6604812145233154,
+      "last_run_update_time": 1.8795132637023926,
       "ecosystem_reliability": 100.0,
-      "cache_size_mb": 0.8339385986328125,
+      "cache_size_mb": 0.8339328765869141,
       "total_unique_recipes": 2930,
       "auto_update_percentage": 36.01,
       "official_recipes": 481,
