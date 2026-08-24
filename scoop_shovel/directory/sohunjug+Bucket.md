@@ -8,7 +8,7 @@
 
 
 ## 📦 Recipes (4)
-* [pdmaner.json](https://github.com/sohunjug/Bucket/blob/main/bucket/pdmaner.json)
+* [finalshell.json](https://github.com/sohunjug/Bucket/blob/main/bucket/finalshell.json)
 * [tortoisegit.json](https://github.com/sohunjug/Bucket/blob/main/bucket/tortoisegit.json)
 * [clash-for-windows.json](https://github.com/sohunjug/Bucket/blob/main/bucket/clash-for-windows.json)
-* [finalshell.json](https://github.com/sohunjug/Bucket/blob/main/bucket/finalshell.json)
+* [pdmaner.json](https://github.com/sohunjug/Bucket/blob/main/bucket/pdmaner.json)

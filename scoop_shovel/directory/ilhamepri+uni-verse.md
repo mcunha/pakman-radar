@@ -8,7 +8,7 @@
 
 
 ## 📦 Recipes (4)
-* [pigo.json](https://github.com/ilhamepri/uni-verse/blob/master/pigo.json)
+* [telegram-beta.json](https://github.com/ilhamepri/uni-verse/blob/master/telegram-beta.json)
 * [taiga-beta.json](https://github.com/ilhamepri/uni-verse/blob/master/taiga-beta.json)
 * [caire.json](https://github.com/ilhamepri/uni-verse/blob/master/caire.json)
-* [telegram-beta.json](https://github.com/ilhamepri/uni-verse/blob/master/telegram-beta.json)
+* [pigo.json](https://github.com/ilhamepri/uni-verse/blob/master/pigo.json)

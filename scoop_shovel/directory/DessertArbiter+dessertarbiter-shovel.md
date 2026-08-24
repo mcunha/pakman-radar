@@ -8,8 +8,8 @@
 
 
 ## 📦 Recipes (5)
-* [ApkShellext.json](https://github.com/DessertArbiter/dessertarbiter-shovel/blob/main/bucket/ApkShellext.json)
-* [vcredist-AIO.json](https://github.com/DessertArbiter/dessertarbiter-shovel/blob/main/bucket/vcredist-AIO.json)
-* [HandyWinGet.json](https://github.com/DessertArbiter/dessertarbiter-shovel/blob/main/bucket/HandyWinGet.json)
 * [GuiCompletion.json](https://github.com/DessertArbiter/dessertarbiter-shovel/blob/main/bucket/GuiCompletion.json)
+* [HandyWinGet.json](https://github.com/DessertArbiter/dessertarbiter-shovel/blob/main/bucket/HandyWinGet.json)
+* [ApkShellext.json](https://github.com/DessertArbiter/dessertarbiter-shovel/blob/main/bucket/ApkShellext.json)
 * [GCFT.json](https://github.com/DessertArbiter/dessertarbiter-shovel/blob/main/bucket/GCFT.json)
+* [vcredist-AIO.json](https://github.com/DessertArbiter/dessertarbiter-shovel/blob/main/bucket/vcredist-AIO.json)

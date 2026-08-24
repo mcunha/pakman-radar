@@ -8,6 +8,6 @@
 
 
 ## 📦 Recipes (3)
+* [aliyundrive.json](https://github.com/TianQian-A/scoop-ai/blob/main/bucket/aliyundrive.json)
 * [mactype.json](https://github.com/TianQian-A/scoop-ai/blob/main/bucket/mactype.json)
 * [clash-for-windows.json](https://github.com/TianQian-A/scoop-ai/blob/main/bucket/clash-for-windows.json)
-* [aliyundrive.json](https://github.com/TianQian-A/scoop-ai/blob/main/bucket/aliyundrive.json)
