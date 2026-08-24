@@ -256,8 +256,8 @@ A combined list of every source discovered in the ecosystem.
 | **[astra-midnight/chocolatey-pkgs](directory/astra-midnight+chocolatey-pkgs.md)** | 📦 3 | ⭐ 1.0 | 🔄 100% |  |
 | **[sorashi/taiga-chocolatey-package](directory/sorashi+taiga-chocolatey-package.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[virtualex-itv/choco-marcs-updater](directory/virtualex-itv+choco-marcs-updater.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[danielskowronski/choco-hashi-ui](directory/danielskowronski+choco-hashi-ui.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[Cossey/chocopackages](directory/Cossey+chocopackages.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[danielskowronski/choco-hashi-ui](directory/danielskowronski+choco-hashi-ui.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[itigoag/chocolatey.bria](directory/itigoag+chocolatey.bria.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[belidzs/chocolatey-flyway](directory/belidzs+chocolatey-flyway.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[belidzs/chocolatey-log4view](directory/belidzs+chocolatey-log4view.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
@@ -297,15 +297,15 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 2014
-* **Total Repo Updates**: 120786
+* **Total Crawler Runs**: 2015
+* **Total Repo Updates**: 120845
 * **Ecosystem Growth (Since Last Run)**:
-  * 🪣 -1 Repositories
-  * 📦 -2 Recipes
+  * 🪣 +0 Repositories
+  * 📦 +0 Recipes
 * **Eviction Count**: 🗑️ 45
 * **API Rate Limit Retries**: ⏳ 2
 * **Cache Size**: 💾 0.83 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 0.44s
-  * 📥 Update: 8.34s
+  * 🔍 Discovery: 0.16s
+  * 📥 Update: 1.31s
 * **Cumulative Compute Time**: 117.1 minutes
