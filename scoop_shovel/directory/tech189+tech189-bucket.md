@@ -8,12 +8,12 @@
 
 
 ## 📦 Recipes (9)
-* [drovp.json](https://github.com/tech189/tech189-bucket/blob/master/bucket/drovp.json)
-* [beautysearch.json](https://github.com/tech189/tech189-bucket/blob/master/bucket/beautysearch.json)
-* [persistentwindows.json](https://github.com/tech189/tech189-bucket/blob/master/bucket/persistentwindows.json)
-* [png2ico.json](https://github.com/tech189/tech189-bucket/blob/master/bucket/png2ico.json)
-* [diogenes.json](https://github.com/tech189/tech189-bucket/blob/master/bucket/diogenes.json)
-* [vkectl.json](https://github.com/tech189/tech189-bucket/blob/master/bucket/vkectl.json)
 * [sttr.json](https://github.com/tech189/tech189-bucket/blob/master/bucket/sttr.json)
 * [msstyleeditor.json](https://github.com/tech189/tech189-bucket/blob/master/bucket/msstyleeditor.json)
+* [drovp.json](https://github.com/tech189/tech189-bucket/blob/master/bucket/drovp.json)
+* [diogenes.json](https://github.com/tech189/tech189-bucket/blob/master/bucket/diogenes.json)
+* [png2ico.json](https://github.com/tech189/tech189-bucket/blob/master/bucket/png2ico.json)
+* [vkectl.json](https://github.com/tech189/tech189-bucket/blob/master/bucket/vkectl.json)
+* [beautysearch.json](https://github.com/tech189/tech189-bucket/blob/master/bucket/beautysearch.json)
+* [persistentwindows.json](https://github.com/tech189/tech189-bucket/blob/master/bucket/persistentwindows.json)
 * [pngsource.json](https://github.com/tech189/tech189-bucket/blob/master/bucket/pngsource.json)
