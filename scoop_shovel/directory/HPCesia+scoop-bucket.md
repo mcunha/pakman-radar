@@ -8,7 +8,7 @@
 
 
 ## 📦 Recipes (4)
-* [yas.json](https://github.com/HPCesia/scoop-bucket/blob/master/bucket/yas.json)
-* [piclist.json](https://github.com/HPCesia/scoop-bucket/blob/master/bucket/piclist.json)
 * [ModOrganizer.json](https://github.com/HPCesia/scoop-bucket/blob/master/bucket/ModOrganizer.json)
+* [piclist.json](https://github.com/HPCesia/scoop-bucket/blob/master/bucket/piclist.json)
+* [yas.json](https://github.com/HPCesia/scoop-bucket/blob/master/bucket/yas.json)
 * [starward.json](https://github.com/HPCesia/scoop-bucket/blob/master/bucket/starward.json)

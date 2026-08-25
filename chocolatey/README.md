@@ -218,11 +218,11 @@ A combined list of every source discovered in the ecosystem.
 | **[open-circle-ltd/chocolatey.adobe-acrobat-reader-dc](directory/open-circle-ltd+chocolatey.adobe-acrobat-reader-dc.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[skadogg/ghostwriter-portable](directory/skadogg+ghostwriter-portable.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[pocki/chocolateypackages](directory/pocki+chocolateypackages.md)** | 📦 12 | ⭐ 1.0 | 🔄 0% |  |
-| **[open-circle-ltd/chocolatey.jabra-direct](directory/open-circle-ltd+chocolatey.jabra-direct.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.rsa-secureid-software-token](directory/open-circle-ltd+chocolatey.rsa-secureid-software-token.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[open-circle-ltd/chocolatey.adobe-creative-cloud](directory/open-circle-ltd+chocolatey.adobe-creative-cloud.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[open-circle-ltd/chocolatey.jabra-direct](directory/open-circle-ltd+chocolatey.jabra-direct.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.lenovo-thinkpad-usb-c-driver](directory/open-circle-ltd+chocolatey.lenovo-thinkpad-usb-c-driver.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.isl-light-client](directory/open-circle-ltd+chocolatey.isl-light-client.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[open-circle-ltd/chocolatey.adobe-creative-cloud](directory/open-circle-ltd+chocolatey.adobe-creative-cloud.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[TheClonker/rednotebook-chocolatey](directory/TheClonker+rednotebook-chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[jgod/my-choco-packages](directory/jgod+my-choco-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[DustinVenegas/au-packages](directory/DustinVenegas+au-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
@@ -297,8 +297,8 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 2022
-* **Total Repo Updates**: 121311
+* **Total Crawler Runs**: 2023
+* **Total Repo Updates**: 121370
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
@@ -306,6 +306,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 2
 * **Cache Size**: 💾 0.83 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 2.66s
-  * 📥 Update: 1.88s
-* **Cumulative Compute Time**: 117.6 minutes
+  * 🔍 Discovery: 3.62s
+  * 📥 Update: 1.99s
+* **Cumulative Compute Time**: 117.7 minutes

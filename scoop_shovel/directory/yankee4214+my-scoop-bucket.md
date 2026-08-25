@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [wpsoffice-gj.json](https://github.com/yankee4214/my-scoop-bucket/blob/main/bucket/wpsoffice-gj.json)
 * [wpsoffice-gn.json](https://github.com/yankee4214/my-scoop-bucket/blob/main/bucket/wpsoffice-gn.json)
+* [wpsoffice-gj.json](https://github.com/yankee4214/my-scoop-bucket/blob/main/bucket/wpsoffice-gj.json)
