@@ -433,7 +433,7 @@
       "topics": [
         "shovel-bucket"
       ],
-      "last_checked": "2026-08-25T07:11:14Z",
+      "last_checked": "2026-08-25T14:07:36Z",
       "pushed_at": "2026-08-24T17:35:35Z",
       "archived": false,
       "disabled": false,
@@ -487,7 +487,7 @@
         "bucket/heptabase.yml"
       ],
       "checkver_count": 46,
-      "consecutive_failures": 252,
+      "consecutive_failures": 253,
       "probe_success_rate": 1.0,
       "valid_probes": 3,
       "total_probes": 3,
@@ -594,7 +594,7 @@
         "scoop",
         "scoop-bucket"
       ],
-      "last_checked": "2026-08-25T07:11:16Z",
+      "last_checked": "2026-08-25T14:07:38Z",
       "pushed_at": "2026-08-23T09:15:47Z",
       "archived": false,
       "disabled": false,
@@ -646,7 +646,7 @@
         "bucket/Ark-Pixel-12px-monospaced-ja.json"
       ],
       "checkver_count": 45,
-      "consecutive_failures": 6,
+      "consecutive_failures": 7,
       "probe_success_rate": 1.0,
       "valid_probes": 3,
       "total_probes": 3,
@@ -902,7 +902,7 @@
       "score": 1.0,
       "default_branch": "main",
       "topics": [],
-      "last_checked": "2026-08-25T07:11:08Z",
+      "last_checked": "2026-08-25T14:07:32Z",
       "pushed_at": "2026-08-23T11:56:16Z",
       "archived": false,
       "disabled": false,
@@ -947,7 +947,7 @@
         "bucket/font-ricty-diminished-lasb.json"
       ],
       "checkver_count": 34,
-      "consecutive_failures": 148,
+      "consecutive_failures": 149,
       "probe_success_rate": 1.0,
       "valid_probes": 3,
       "total_probes": 3,
@@ -1031,27 +1031,27 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-08-25T13:15:06Z",
+    "generated_at": "2026-08-25T14:11:27Z",
     "count": 10,
     "global_metrics": {
-      "total_runs": 2034,
-      "total_run_time_seconds": 316510.74564266205,
-      "total_repo_updates": 131703,
+      "total_runs": 2035,
+      "total_run_time_seconds": 316767.7694067955,
+      "total_repo_updates": 131765,
       "previous_total_buckets": 1547,
       "previous_total_recipes": 135284,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
       "total_evictions": 47,
       "total_api_retries": 2,
-      "last_run_discover_time": 2.443410634994507,
-      "last_run_update_time": 28.27635383605957,
-      "ecosystem_reliability": 87.7,
-      "cache_size_mb": 10.28127670288086,
+      "last_run_discover_time": 3.0535242557525635,
+      "last_run_update_time": 253.14908719062805,
+      "ecosystem_reliability": 87.6,
+      "cache_size_mb": 10.281705856323242,
       "total_unique_recipes": 31653,
       "auto_update_percentage": 85.36,
       "official_recipes": 53991,
       "community_recipes": 81293,
-      "stale_buckets": 482,
+      "stale_buckets": 481,
       "shovel_buckets": 25,
       "scoop_buckets": 1522
     }
