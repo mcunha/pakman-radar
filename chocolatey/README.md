@@ -131,8 +131,8 @@ A combined list of every source discovered in the ecosystem.
 | **[sacloud/chocolatey-usacloud](directory/sacloud+chocolatey-usacloud.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[brogers5/chocolatey-package-wifidiagnosticsview](directory/brogers5+chocolatey-package-wifidiagnosticsview.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[streamlink/streamlink-chocolatey](directory/streamlink+streamlink-chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[brogers5/chocolatey-package-imazing](directory/brogers5+chocolatey-package-imazing.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[philiparola/chocolatey-packages](directory/philiparola+chocolatey-packages.md)** | 📦 3 | ⭐ 1.0 | 🔄 0% |  |
+| **[brogers5/chocolatey-package-imazing](directory/brogers5+chocolatey-package-imazing.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-green-tunnel-gui](directory/brogers5+chocolatey-package-green-tunnel-gui.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-green-tunnel-cli](directory/brogers5+chocolatey-package-green-tunnel-cli.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[jufab/skaffold-chocolatey](directory/jufab+skaffold-chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
@@ -229,8 +229,8 @@ A combined list of every source discovered in the ecosystem.
 | **[BenjaminMichaelis/Chocolatey-Packages](directory/BenjaminMichaelis+Chocolatey-Packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[dittodhole/chocolatey-superorca](directory/dittodhole+chocolatey-superorca.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[pamendez/Range-Kata-Choco](directory/pamendez+Range-Kata-Choco.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[dariusz-wozniak/Chocolatey-Packages](directory/dariusz-wozniak+Chocolatey-Packages.md)** | 📦 9 | ⭐ 1.0 | 🔄 0% |  |
 | **[mosesdd/chocolatey.zoiper](directory/mosesdd+chocolatey.zoiper.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
+| **[dariusz-wozniak/Chocolatey-Packages](directory/dariusz-wozniak+Chocolatey-Packages.md)** | 📦 9 | ⭐ 1.0 | 🔄 0% |  |
 | **[ynlamy/chocolatey-packages](directory/ynlamy+chocolatey-packages.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.dialogik](directory/open-circle-ltd+chocolatey.dialogik.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[C-Duv/chocolatey-fusioninventory-agent](directory/C-Duv+chocolatey-fusioninventory-agent.md)** | 📦 3 | ⭐ 1.0 | 🔄 0% |  |
@@ -262,8 +262,8 @@ A combined list of every source discovered in the ecosystem.
 | **[belidzs/chocolatey-flyway](directory/belidzs+chocolatey-flyway.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[belidzs/chocolatey-log4view](directory/belidzs+chocolatey-log4view.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[andyli/ethminer-choco](directory/andyli+ethminer-choco.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[devkitspaces/boxstarter-workspace](directory/devkitspaces+boxstarter-workspace.md)** | 📦 4 | ⭐ 1.0 | 🔄 0% |  |
 | **[itigoag/chocolatey.lenovo-performance-tuner](directory/itigoag+chocolatey.lenovo-performance-tuner.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[devkitspaces/boxstarter-workspace](directory/devkitspaces+boxstarter-workspace.md)** | 📦 4 | ⭐ 1.0 | 🔄 0% |  |
 | **[jhipster/chocolatey-package](directory/jhipster+chocolatey-package.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[adriens/chocolatey-netbeans-11](directory/adriens+chocolatey-netbeans-11.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[belidzs/chocolatey-flacsquisher](directory/belidzs+chocolatey-flacsquisher.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
@@ -297,8 +297,8 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 2059
-* **Total Repo Updates**: 123498
+* **Total Crawler Runs**: 2060
+* **Total Repo Updates**: 123557
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
@@ -306,6 +306,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 2
 * **Cache Size**: 💾 0.83 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 3.52s
-  * 📥 Update: 4.62s
-* **Cumulative Compute Time**: 119.7 minutes
+  * 🔍 Discovery: 3.61s
+  * 📥 Update: 1.90s
+* **Cumulative Compute Time**: 119.8 minutes
