@@ -2385,7 +2385,7 @@
         "hacktoberfest"
       ],
       "last_checked": "2026-04-28T19:19:09Z",
-      "pushed_at": "2026-08-25T00:06:39Z",
+      "pushed_at": "2026-08-26T00:06:54Z",
       "archived": false,
       "disabled": false,
       "entries": [
@@ -2661,7 +2661,7 @@
         "powershell"
       ],
       "last_checked": "2026-04-27T23:39:52Z",
-      "pushed_at": "2026-08-25T15:08:04Z",
+      "pushed_at": "2026-08-26T05:54:22Z",
       "archived": false,
       "disabled": false,
       "entries": [
@@ -3215,7 +3215,7 @@
         "chocolatey-packages"
       ],
       "last_checked": "2026-04-27T15:14:20Z",
-      "pushed_at": "2026-08-25T09:59:06Z",
+      "pushed_at": "2026-08-25T21:55:57Z",
       "archived": false,
       "disabled": false,
       "entries": [
@@ -3646,7 +3646,7 @@
         "chocolatey-packages"
       ],
       "last_checked": "2026-04-27T01:20:54Z",
-      "pushed_at": "2026-08-25T17:50:25Z",
+      "pushed_at": "2026-08-26T07:10:50Z",
       "archived": false,
       "disabled": false,
       "entries": [
@@ -6521,7 +6521,7 @@
       "unique_count": 1,
       "uniqueness_ratio": 1.0,
       "auto_update_percentage": 100.0,
-      "final_score": 24.239673461823834,
+      "final_score": 24.18487894127589,
       "current_rank": 93,
       "rank_velocity": 0,
       "previous_rank": 93,
@@ -10376,7 +10376,7 @@
       "unique_count": 1,
       "uniqueness_ratio": 1.0,
       "auto_update_percentage": 0.0,
-      "final_score": -147.50018643714486,
+      "final_score": -147.57342725638938,
       "current_rank": 189,
       "rank_velocity": 0,
       "previous_rank": 189,
@@ -11750,7 +11750,7 @@
       "unique_count": 16,
       "uniqueness_ratio": 1.0,
       "auto_update_percentage": 0.0,
-      "final_score": -482.26547476153735,
+      "final_score": -482.4581662120637,
       "current_rank": 226,
       "rank_velocity": 0,
       "previous_rank": 226,
@@ -11761,20 +11761,20 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-08-26T05:56:43Z",
+    "generated_at": "2026-08-26T07:11:56Z",
     "count": 226,
     "global_metrics": {
-      "total_runs": 2049,
-      "total_run_time_seconds": 7140.145113945007,
-      "total_repo_updates": 122906,
+      "total_runs": 2050,
+      "total_run_time_seconds": 7143.647634029388,
+      "total_repo_updates": 122965,
       "previous_total_buckets": 226,
       "previous_total_recipes": 3327,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
       "total_evictions": 49,
       "total_api_retries": 2,
-      "last_run_discover_time": 0.17273592948913574,
-      "last_run_update_time": 1.384573221206665,
+      "last_run_discover_time": 1.719456672668457,
+      "last_run_update_time": 1.7519025802612305,
       "ecosystem_reliability": 100.0,
       "cache_size_mb": 0.8348970413208008,
       "total_unique_recipes": 2930,
