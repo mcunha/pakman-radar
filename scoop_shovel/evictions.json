@@ -1,10 +1,6 @@
 {
   "evictions": [
     {
-      "full_name": "arusso-aboutcloud/scoop-bucket",
-      "evicted_at": "2026-05-29T19:15:30Z"
-    },
-    {
       "full_name": "fruini/scoop-bucket",
       "evicted_at": "2026-05-30T08:13:56Z"
     },
@@ -159,32 +155,36 @@
     {
       "full_name": "nfi5h/fi5h-bucket",
       "evicted_at": "2026-08-24T23:41:36Z"
+    },
+    {
+      "full_name": "haunt98/scoop-bucket",
+      "evicted_at": "2026-08-27T23:51:10Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-08-27T14:21:55Z",
+    "generated_at": "2026-08-27T23:54:39Z",
     "count": 40,
     "global_metrics": {
-      "total_runs": 2063,
-      "total_run_time_seconds": 320140.786185503,
-      "total_repo_updates": 133589,
-      "previous_total_buckets": 1558,
-      "previous_total_recipes": 135306,
-      "bucket_velocity": 3,
-      "recipe_velocity": 3,
-      "total_evictions": 47,
+      "total_runs": 2064,
+      "total_run_time_seconds": 320435.84377002716,
+      "total_repo_updates": 133678,
+      "previous_total_buckets": 1557,
+      "previous_total_recipes": 135305,
+      "bucket_velocity": -1,
+      "recipe_velocity": -1,
+      "total_evictions": 48,
       "total_api_retries": 2,
-      "last_run_discover_time": 2.551891326904297,
-      "last_run_update_time": 22.252174377441406,
-      "ecosystem_reliability": 88.0,
-      "cache_size_mb": 10.291119575500488,
+      "last_run_discover_time": 2.752103805541992,
+      "last_run_update_time": 291.65583992004395,
+      "ecosystem_reliability": 88.3,
+      "cache_size_mb": 10.291292190551758,
       "total_unique_recipes": 31666,
       "auto_update_percentage": 85.36,
       "official_recipes": 53995,
-      "community_recipes": 81311,
-      "stale_buckets": 482,
+      "community_recipes": 81310,
+      "stale_buckets": 481,
       "shovel_buckets": 25,
-      "scoop_buckets": 1533
+      "scoop_buckets": 1532
     }
   }
 }
