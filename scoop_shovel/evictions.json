@@ -1,10 +1,6 @@
 {
   "evictions": [
     {
-      "full_name": "maokwen/scoop-bucket",
-      "evicted_at": "2026-05-30T21:42:22Z"
-    },
-    {
       "full_name": "fishandsheep/scoop-bucket",
       "evicted_at": "2026-05-31T11:53:28Z"
     },
@@ -158,22 +154,22 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-08-28T11:30:08Z",
-    "count": 39,
+    "generated_at": "2026-08-28T22:29:19Z",
+    "count": 38,
     "global_metrics": {
-      "total_runs": 2065,
-      "total_run_time_seconds": 320453.9676218033,
-      "total_repo_updates": 133760,
+      "total_runs": 2066,
+      "total_run_time_seconds": 320647.3238387108,
+      "total_repo_updates": 133846,
       "previous_total_buckets": 1558,
       "previous_total_recipes": 135306,
-      "bucket_velocity": 1,
-      "recipe_velocity": 1,
+      "bucket_velocity": 0,
+      "recipe_velocity": 0,
       "total_evictions": 48,
       "total_api_retries": 2,
-      "last_run_discover_time": 2.585996150970459,
-      "last_run_update_time": 14.80002236366272,
-      "ecosystem_reliability": 88.0,
-      "cache_size_mb": 10.291108131408691,
+      "last_run_discover_time": 0.7426280975341797,
+      "last_run_update_time": 191.99634337425232,
+      "ecosystem_reliability": 87.8,
+      "cache_size_mb": 10.292197227478027,
       "total_unique_recipes": 31667,
       "auto_update_percentage": 85.36,
       "official_recipes": 53995,

@@ -8,6 +8,6 @@
 
 
 ## 📦 Recipes (3)
+* [emsdk.json](https://github.com/0xcccccccccccc/scoop-bucket/blob/master/bucket/emsdk.json)
 * [cytoscape.json](https://github.com/0xcccccccccccc/scoop-bucket/blob/master/bucket/cytoscape.json)
 * [spyxx.json](https://github.com/0xcccccccccccc/scoop-bucket/blob/master/bucket/spyxx.json)
-* [emsdk.json](https://github.com/0xcccccccccccc/scoop-bucket/blob/master/bucket/emsdk.json)
