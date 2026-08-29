@@ -1,10 +1,6 @@
 {
   "evictions": [
     {
-      "full_name": "fishandsheep/scoop-bucket",
-      "evicted_at": "2026-05-31T11:53:28Z"
-    },
-    {
       "full_name": "The-Uprooted-Project/scoop-bucket",
       "evicted_at": "2026-06-03T03:35:27Z"
     },
@@ -154,22 +150,22 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-08-29T11:10:01Z",
-    "count": 38,
+    "generated_at": "2026-08-29T15:40:32Z",
+    "count": 37,
     "global_metrics": {
-      "total_runs": 2068,
-      "total_run_time_seconds": 320697.24657821655,
-      "total_repo_updates": 133990,
+      "total_runs": 2069,
+      "total_run_time_seconds": 320717.23964858055,
+      "total_repo_updates": 134057,
       "previous_total_buckets": 1558,
       "previous_total_recipes": 135306,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
       "total_evictions": 48,
       "total_api_retries": 2,
-      "last_run_discover_time": 0.8005411624908447,
-      "last_run_update_time": 20.699472188949585,
-      "ecosystem_reliability": 87.8,
-      "cache_size_mb": 10.290452003479004,
+      "last_run_discover_time": 0.22193026542663574,
+      "last_run_update_time": 19.13149905204773,
+      "ecosystem_reliability": 87.9,
+      "cache_size_mb": 10.290640830993652,
       "total_unique_recipes": 31667,
       "auto_update_percentage": 85.36,
       "official_recipes": 53995,
