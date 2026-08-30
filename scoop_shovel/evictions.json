@@ -147,29 +147,33 @@
     {
       "full_name": "haunt98/scoop-bucket",
       "evicted_at": "2026-08-27T23:51:10Z"
+    },
+    {
+      "full_name": "Cheviiot/Sphera",
+      "evicted_at": "2026-08-30T23:34:13Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-08-30T21:12:28Z",
-    "count": 37,
+    "generated_at": "2026-08-30T23:37:33Z",
+    "count": 38,
     "global_metrics": {
-      "total_runs": 2076,
-      "total_run_time_seconds": 321120.70844841003,
-      "total_repo_updates": 134552,
+      "total_runs": 2077,
+      "total_run_time_seconds": 321324.82147812843,
+      "total_repo_updates": 134614,
       "previous_total_buckets": 1562,
-      "previous_total_recipes": 135405,
+      "previous_total_recipes": 135403,
       "bucket_velocity": 0,
-      "recipe_velocity": 0,
-      "total_evictions": 48,
+      "recipe_velocity": -2,
+      "total_evictions": 49,
       "total_api_retries": 2,
-      "last_run_discover_time": 2.4736554622650146,
-      "last_run_update_time": 14.918635129928589,
-      "ecosystem_reliability": 87.7,
-      "cache_size_mb": 10.29939079284668,
-      "total_unique_recipes": 31675,
+      "last_run_discover_time": 2.058889389038086,
+      "last_run_update_time": 201.13050603866577,
+      "ecosystem_reliability": 87.8,
+      "cache_size_mb": 10.296956062316895,
+      "total_unique_recipes": 31673,
       "auto_update_percentage": 85.36,
-      "official_recipes": 54016,
-      "community_recipes": 81389,
+      "official_recipes": 54013,
+      "community_recipes": 81390,
       "stale_buckets": 482,
       "shovel_buckets": 25,
       "scoop_buckets": 1537
