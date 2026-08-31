@@ -9,6 +9,6 @@
 
 ## 📦 Recipes (4)
 * [AnyTXTSearcher.json](https://github.com/paulhybryant/scoop/blob/main/bucket/AnyTXTSearcher.json)
+* [assh.json](https://github.com/paulhybryant/scoop/blob/main/bucket/assh.json)
 * [clink-zoxide.json](https://github.com/paulhybryant/scoop/blob/main/bucket/clink-zoxide.json)
 * [clink-gizmos.json](https://github.com/paulhybryant/scoop/blob/main/bucket/clink-gizmos.json)
-* [assh.json](https://github.com/paulhybryant/scoop/blob/main/bucket/assh.json)
