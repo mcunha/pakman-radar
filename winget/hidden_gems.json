@@ -9,7 +9,7 @@
       "default_branch": "main",
       "topics": [],
       "last_checked": "2026-05-14T14:08:24Z",
-      "pushed_at": "2026-08-30T22:00:25Z",
+      "pushed_at": "2026-09-01T15:16:11Z",
       "archived": false,
       "disabled": false,
       "entries": [
@@ -90,7 +90,7 @@
         "winget-repo"
       ],
       "last_checked": "2026-06-26T22:49:02Z",
-      "pushed_at": "2026-08-29T19:25:02Z",
+      "pushed_at": "2026-09-01T21:09:19Z",
       "archived": false,
       "disabled": false,
       "entries": [
@@ -183,20 +183,20 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-09-01T18:39:27Z",
+    "generated_at": "2026-09-01T21:55:04Z",
     "count": 2,
     "global_metrics": {
-      "total_runs": 2085,
-      "total_run_time_seconds": 36868.583747148514,
-      "total_repo_updates": 69513,
+      "total_runs": 2086,
+      "total_run_time_seconds": 36888.792331933975,
+      "total_repo_updates": 69546,
       "previous_total_buckets": 10,
       "previous_total_recipes": 6305,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
       "total_evictions": 52,
       "total_api_retries": 2,
-      "last_run_discover_time": 0.19219422340393066,
-      "last_run_update_time": 14.507347583770752,
+      "last_run_discover_time": 2.9600613117218018,
+      "last_run_update_time": 17.22984552383423,
       "ecosystem_reliability": 100.0,
       "cache_size_mb": 0.8237895965576172,
       "total_unique_recipes": 1873,
