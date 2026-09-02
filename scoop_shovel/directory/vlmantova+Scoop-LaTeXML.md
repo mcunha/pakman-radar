@@ -8,6 +8,6 @@
 
 
 ## 📦 Recipes (3)
-* [perl-LaTeXML.json](https://github.com/vlmantova/Scoop-LaTeXML/blob/master/bucket/perl-LaTeXML.json)
 * [perl-Image-Size.json](https://github.com/vlmantova/Scoop-LaTeXML/blob/master/bucket/perl-Image-Size.json)
+* [perl-LaTeXML.json](https://github.com/vlmantova/Scoop-LaTeXML/blob/master/bucket/perl-LaTeXML.json)
 * [perl-Image-Magick.json](https://github.com/vlmantova/Scoop-LaTeXML/blob/master/bucket/perl-Image-Magick.json)
