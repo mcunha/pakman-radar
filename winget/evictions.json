@@ -155,25 +155,29 @@
     {
       "full_name": "Cheviiot/Sphera",
       "evicted_at": "2026-08-30T23:34:13Z"
+    },
+    {
+      "full_name": "hashdashme/ScoopBucket",
+      "evicted_at": "2026-09-02T14:33:02Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-09-02T09:44:28Z",
-    "count": 39,
+    "generated_at": "2026-09-02T14:33:39Z",
+    "count": 40,
     "global_metrics": {
-      "total_runs": 2089,
-      "total_run_time_seconds": 36946.497864961624,
-      "total_repo_updates": 69645,
+      "total_runs": 2090,
+      "total_run_time_seconds": 36967.28963947296,
+      "total_repo_updates": 69678,
       "previous_total_buckets": 10,
       "previous_total_recipes": 6305,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
-      "total_evictions": 52,
+      "total_evictions": 53,
       "total_api_retries": 2,
-      "last_run_discover_time": 2.6534204483032227,
-      "last_run_update_time": 16.920403003692627,
+      "last_run_discover_time": 2.804995059967041,
+      "last_run_update_time": 17.967246532440186,
       "ecosystem_reliability": 100.0,
-      "cache_size_mb": 0.825225830078125,
+      "cache_size_mb": 0.8264627456665039,
       "total_unique_recipes": 1873,
       "auto_update_percentage": 0.0,
       "official_recipes": 4970,

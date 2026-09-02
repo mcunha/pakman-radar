@@ -147,32 +147,36 @@
     {
       "full_name": "Cheviiot/Sphera",
       "evicted_at": "2026-08-30T23:34:13Z"
+    },
+    {
+      "full_name": "hashdashme/ScoopBucket",
+      "evicted_at": "2026-09-02T14:33:02Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-09-02T09:44:04Z",
-    "count": 37,
+    "generated_at": "2026-09-02T14:33:14Z",
+    "count": 38,
     "global_metrics": {
-      "total_runs": 2089,
-      "total_run_time_seconds": 322225.07346367836,
-      "total_repo_updates": 135471,
-      "previous_total_buckets": 1575,
-      "previous_total_recipes": 135594,
-      "bucket_velocity": 2,
-      "recipe_velocity": 4,
-      "total_evictions": 49,
+      "total_runs": 2090,
+      "total_run_time_seconds": 322250.68599653244,
+      "total_repo_updates": 135542,
+      "previous_total_buckets": 1578,
+      "previous_total_recipes": 135595,
+      "bucket_velocity": 3,
+      "recipe_velocity": 1,
+      "total_evictions": 50,
       "total_api_retries": 2,
-      "last_run_discover_time": 2.823421001434326,
-      "last_run_update_time": 127.47562623023987,
-      "ecosystem_reliability": 87.7,
-      "cache_size_mb": 10.318263053894043,
-      "total_unique_recipes": 31707,
+      "last_run_discover_time": 2.5436854362487793,
+      "last_run_update_time": 22.349053382873535,
+      "ecosystem_reliability": 87.6,
+      "cache_size_mb": 10.320475578308105,
+      "total_unique_recipes": 31714,
       "auto_update_percentage": 85.37,
-      "official_recipes": 54013,
-      "community_recipes": 81581,
+      "official_recipes": 54011,
+      "community_recipes": 81584,
       "stale_buckets": 481,
       "shovel_buckets": 25,
-      "scoop_buckets": 1550
+      "scoop_buckets": 1553
     }
   }
 }
