@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [sidra.json](https://github.com/refleraga/scoop/blob/main/bucket/sidra.json)
 * [bettercleartypetuner.json](https://github.com/refleraga/scoop/blob/main/bucket/bettercleartypetuner.json)
+* [sidra.json](https://github.com/refleraga/scoop/blob/main/bucket/sidra.json)

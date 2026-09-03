@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [picguard.json](https://github.com/picguard/scoop-bucket/blob/master/bucket/picguard.json)
 * [picguard-pro.json](https://github.com/picguard/scoop-bucket/blob/master/bucket/picguard-pro.json)
+* [picguard.json](https://github.com/picguard/scoop-bucket/blob/master/bucket/picguard.json)
