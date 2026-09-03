@@ -8,8 +8,8 @@
 
 
 ## 📦 Recipes (5)
-* [sccache.json](https://github.com/yizhinailong/scoop-bucket/blob/master/bucket/sccache.json)
+* [mcpp.json](https://github.com/yizhinailong/scoop-bucket/blob/master/bucket/mcpp.json)
+* [xmake.json](https://github.com/yizhinailong/scoop-bucket/blob/master/bucket/xmake.json)
 * [ccache.json](https://github.com/yizhinailong/scoop-bucket/blob/master/bucket/ccache.json)
 * [go.json](https://github.com/yizhinailong/scoop-bucket/blob/master/bucket/go.json)
-* [xmake.json](https://github.com/yizhinailong/scoop-bucket/blob/master/bucket/xmake.json)
-* [mcpp.json](https://github.com/yizhinailong/scoop-bucket/blob/master/bucket/mcpp.json)
+* [sccache.json](https://github.com/yizhinailong/scoop-bucket/blob/master/bucket/sccache.json)
