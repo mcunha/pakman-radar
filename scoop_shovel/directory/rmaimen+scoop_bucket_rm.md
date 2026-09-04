@@ -10,6 +10,6 @@
 ## 📦 Recipes (5)
 * [Clibor.json](https://github.com/rmaimen/scoop_bucket_rm/blob/main/bucket/Clibor.json)
 * [stirling.json](https://github.com/rmaimen/scoop_bucket_rm/blob/main/bucket/stirling.json)
+* [Bz.json](https://github.com/rmaimen/scoop_bucket_rm/blob/main/bucket/Bz.json)
 * [source-han-code-jp.json](https://github.com/rmaimen/scoop_bucket_rm/blob/main/bucket/source-han-code-jp.json)
 * [HxD.ja.json](https://github.com/rmaimen/scoop_bucket_rm/blob/main/bucket/HxD.ja.json)
-* [Bz.json](https://github.com/rmaimen/scoop_bucket_rm/blob/main/bucket/Bz.json)
