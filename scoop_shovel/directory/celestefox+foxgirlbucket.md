@@ -8,6 +8,6 @@
 
 
 ## 📦 Recipes (3)
-* [age-plugin-yubikey.json](https://github.com/celestefox/foxgirlbucket/blob/trunk/bucket/age-plugin-yubikey.json)
 * [tkmm.json](https://github.com/celestefox/foxgirlbucket/blob/trunk/bucket/tkmm.json)
+* [age-plugin-yubikey.json](https://github.com/celestefox/foxgirlbucket/blob/trunk/bucket/age-plugin-yubikey.json)
 * [thide.json](https://github.com/celestefox/foxgirlbucket/blob/trunk/bucket/thide.json)
