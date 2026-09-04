@@ -8,8 +8,8 @@
 
 
 ## 📦 Recipes (5)
-* [rfortune.json](https://github.com/latipun7/scoop-bucket/blob/master/bucket/rfortune.json)
 * [charasay.json](https://github.com/latipun7/scoop-bucket/blob/master/bucket/charasay.json)
-* [lolcat.json](https://github.com/latipun7/scoop-bucket/blob/master/bucket/lolcat.json)
 * [bdo-housecraft.json](https://github.com/latipun7/scoop-bucket/blob/master/bucket/bdo-housecraft.json)
+* [lolcat.json](https://github.com/latipun7/scoop-bucket/blob/master/bucket/lolcat.json)
 * [fortune-mod.json](https://github.com/latipun7/scoop-bucket/blob/master/bucket/fortune-mod.json)
+* [rfortune.json](https://github.com/latipun7/scoop-bucket/blob/master/bucket/rfortune.json)
