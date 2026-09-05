@@ -8,12 +8,12 @@
 
 
 ## 📦 Recipes (9)
-* [zen-browser.json](https://github.com/f1a3h/f1bsh/blob/main/bucket/zen-browser.json)
 * [remnote-beta.json](https://github.com/f1a3h/f1bsh/blob/main/bucket/remnote-beta.json)
-* [neteasemusic.json](https://github.com/f1a3h/f1bsh/blob/main/bucket/neteasemusic.json)
 * [pixpin.json](https://github.com/f1a3h/f1bsh/blob/main/bucket/pixpin.json)
-* [vnite.json](https://github.com/f1a3h/f1bsh/blob/main/bucket/vnite.json)
+* [zen-browser.json](https://github.com/f1a3h/f1bsh/blob/main/bucket/zen-browser.json)
 * [quicker.json](https://github.com/f1a3h/f1bsh/blob/main/bucket/quicker.json)
+* [vocabsieve.json](https://github.com/f1a3h/f1bsh/blob/main/bucket/vocabsieve.json)
+* [vnite.json](https://github.com/f1a3h/f1bsh/blob/main/bucket/vnite.json)
 * [remnote.json](https://github.com/f1a3h/f1bsh/blob/main/bucket/remnote.json)
 * [dida365.json](https://github.com/f1a3h/f1bsh/blob/main/bucket/dida365.json)
-* [vocabsieve.json](https://github.com/f1a3h/f1bsh/blob/main/bucket/vocabsieve.json)
+* [neteasemusic.json](https://github.com/f1a3h/f1bsh/blob/main/bucket/neteasemusic.json)
