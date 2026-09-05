@@ -8,11 +8,11 @@
 
 
 ## 📦 Recipes (8)
-* [tablacus-explorer.json](https://github.com/urihcim/scoop-urihcim/blob/master/bucket/tablacus-explorer.json)
-* [pdf_as.json](https://github.com/urihcim/scoop-urihcim/blob/master/bucket/pdf_as.json)
-* [kanata.json](https://github.com/urihcim/scoop-urihcim/blob/master/bucket/kanata.json)
-* [sakura-editor.json](https://github.com/urihcim/scoop-urihcim/blob/master/bucket/sakura-editor.json)
-* [mery.json](https://github.com/urihcim/scoop-urihcim/blob/master/bucket/mery.json)
 * [jwno.json](https://github.com/urihcim/scoop-urihcim/blob/master/bucket/jwno.json)
-* [keymapper.json](https://github.com/urihcim/scoop-urihcim/blob/master/bucket/keymapper.json)
 * [nkf.json](https://github.com/urihcim/scoop-urihcim/blob/master/bucket/nkf.json)
+* [pdf_as.json](https://github.com/urihcim/scoop-urihcim/blob/master/bucket/pdf_as.json)
+* [mery.json](https://github.com/urihcim/scoop-urihcim/blob/master/bucket/mery.json)
+* [sakura-editor.json](https://github.com/urihcim/scoop-urihcim/blob/master/bucket/sakura-editor.json)
+* [keymapper.json](https://github.com/urihcim/scoop-urihcim/blob/master/bucket/keymapper.json)
+* [kanata.json](https://github.com/urihcim/scoop-urihcim/blob/master/bucket/kanata.json)
+* [tablacus-explorer.json](https://github.com/urihcim/scoop-urihcim/blob/master/bucket/tablacus-explorer.json)

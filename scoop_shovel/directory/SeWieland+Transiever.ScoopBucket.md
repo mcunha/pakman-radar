@@ -8,6 +8,6 @@
 
 
 ## 📦 Recipes (3)
-* [msieve.json](https://github.com/SeWieland/Transiever.ScoopBucket/blob/main/bucket/msieve.json)
-* [olrx.json](https://github.com/SeWieland/Transiever.ScoopBucket/blob/main/bucket/olrx.json)
 * [srtx.json](https://github.com/SeWieland/Transiever.ScoopBucket/blob/main/bucket/srtx.json)
+* [olrx.json](https://github.com/SeWieland/Transiever.ScoopBucket/blob/main/bucket/olrx.json)
+* [msieve.json](https://github.com/SeWieland/Transiever.ScoopBucket/blob/main/bucket/msieve.json)
