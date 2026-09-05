@@ -9,8 +9,8 @@
 
 ## 📦 Recipes (6)
 * [ja-netfilter.json](https://github.com/LetsShareAll/ScoopBucket/blob/main/bucket/ja-netfilter.json)
-* [lx-music-desktop-beta.json](https://github.com/LetsShareAll/ScoopBucket/blob/main/bucket/lx-music-desktop-beta.json)
-* [ptr.json](https://github.com/LetsShareAll/ScoopBucket/blob/main/bucket/ptr.json)
 * [lx-music-desktop.json](https://github.com/LetsShareAll/ScoopBucket/blob/main/bucket/lx-music-desktop.json)
-* [Kazumi.json](https://github.com/LetsShareAll/ScoopBucket/blob/main/bucket/Kazumi.json)
+* [ptr.json](https://github.com/LetsShareAll/ScoopBucket/blob/main/bucket/ptr.json)
+* [lx-music-desktop-beta.json](https://github.com/LetsShareAll/ScoopBucket/blob/main/bucket/lx-music-desktop-beta.json)
 * [PiliPlus.json](https://github.com/LetsShareAll/ScoopBucket/blob/main/bucket/PiliPlus.json)
+* [Kazumi.json](https://github.com/LetsShareAll/ScoopBucket/blob/main/bucket/Kazumi.json)
