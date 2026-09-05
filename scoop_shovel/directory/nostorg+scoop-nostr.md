@@ -8,13 +8,13 @@
 
 
 ## 📦 Recipes (10)
+* [nostr-commander-rs.json](https://github.com/nostorg/scoop-nostr/blob/master/bucket/nostr-commander-rs.json)
 * [iris.json](https://github.com/nostorg/scoop-nostr/blob/master/bucket/iris.json)
 * [algia.json](https://github.com/nostorg/scoop-nostr/blob/master/bucket/algia.json)
-* [nostr-commander-rs.json](https://github.com/nostorg/scoop-nostr/blob/master/bucket/nostr-commander-rs.json)
+* [gossip.json](https://github.com/nostorg/scoop-nostr/blob/master/bucket/gossip.json)
 * [nostrmo.json](https://github.com/nostorg/scoop-nostr/blob/master/bucket/nostrmo.json)
+* [nostr_console.json](https://github.com/nostorg/scoop-nostr/blob/master/bucket/nostr_console.json)
 * [lume.json](https://github.com/nostorg/scoop-nostr/blob/master/bucket/lume.json)
 * [coop.json](https://github.com/nostorg/scoop-nostr/blob/master/bucket/coop.json)
-* [gossip.json](https://github.com/nostorg/scoop-nostr/blob/master/bucket/gossip.json)
-* [nak.json](https://github.com/nostorg/scoop-nostr/blob/master/bucket/nak.json)
-* [nostr_console.json](https://github.com/nostorg/scoop-nostr/blob/master/bucket/nostr_console.json)
 * [prettygood.json](https://github.com/nostorg/scoop-nostr/blob/master/bucket/prettygood.json)
+* [nak.json](https://github.com/nostorg/scoop-nostr/blob/master/bucket/nak.json)
