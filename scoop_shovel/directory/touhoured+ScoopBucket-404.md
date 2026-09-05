@@ -8,9 +8,9 @@
 
 
 ## 📦 Recipes (6)
+* [opensteamtool.json](https://github.com/touhoured/ScoopBucket-404/blob/master/bucket/opensteamtool.json)
+* [fsdecrypt.json](https://github.com/touhoured/ScoopBucket-404/blob/master/bucket/fsdecrypt.json)
 * [madao.json](https://github.com/touhoured/ScoopBucket-404/blob/master/bucket/madao.json)
 * [fsdecryptgui.json](https://github.com/touhoured/ScoopBucket-404/blob/master/bucket/fsdecryptgui.json)
-* [steam-opensteamtool.json](https://github.com/touhoured/ScoopBucket-404/blob/master/bucket/steam-opensteamtool.json)
-* [fsdecrypt.json](https://github.com/touhoured/ScoopBucket-404/blob/master/bucket/fsdecrypt.json)
-* [opensteamtool.json](https://github.com/touhoured/ScoopBucket-404/blob/master/bucket/opensteamtool.json)
 * [steamless.json](https://github.com/touhoured/ScoopBucket-404/blob/master/bucket/steamless.json)
+* [steam-opensteamtool.json](https://github.com/touhoured/ScoopBucket-404/blob/master/bucket/steam-opensteamtool.json)
