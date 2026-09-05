@@ -8,9 +8,9 @@
 
 
 ## 📦 Recipes (6)
-* [mariadb.json](https://github.com/mtpdx/scoop-bucket/blob/master/bucket/mariadb.json)
+* [comfyui.json](https://github.com/mtpdx/scoop-bucket/blob/master/bucket/comfyui.json)
 * [mariadb11.json](https://github.com/mtpdx/scoop-bucket/blob/master/bucket/mariadb11.json)
 * [filebrowser.json](https://github.com/mtpdx/scoop-bucket/blob/master/bucket/filebrowser.json)
-* [arenabox-cli.json](https://github.com/mtpdx/scoop-bucket/blob/master/bucket/arenabox-cli.json)
-* [comfyui.json](https://github.com/mtpdx/scoop-bucket/blob/master/bucket/comfyui.json)
+* [mariadb.json](https://github.com/mtpdx/scoop-bucket/blob/master/bucket/mariadb.json)
 * [redis8.json](https://github.com/mtpdx/scoop-bucket/blob/master/bucket/redis8.json)
+* [arenabox-cli.json](https://github.com/mtpdx/scoop-bucket/blob/master/bucket/arenabox-cli.json)

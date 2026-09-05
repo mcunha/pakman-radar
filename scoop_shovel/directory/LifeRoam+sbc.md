@@ -8,12 +8,12 @@
 
 
 ## 📦 Recipes (9)
-* [neteasemusic.json](https://github.com/LifeRoam/sbc/blob/master/bucket/neteasemusic.json)
-* [unigetui.json](https://github.com/LifeRoam/sbc/blob/master/bucket/unigetui.json)
-* [tiny-rdm.json](https://github.com/LifeRoam/sbc/blob/master/bucket/tiny-rdm.json)
+* [feishu.json](https://github.com/LifeRoam/sbc/blob/master/bucket/feishu.json)
+* [qqnt.json](https://github.com/LifeRoam/sbc/blob/master/bucket/qqnt.json)
+* [xxHash.json](https://github.com/LifeRoam/sbc/blob/master/bucket/xxHash.json)
 * [jarkviewer.json](https://github.com/LifeRoam/sbc/blob/master/bucket/jarkviewer.json)
 * [dotnet-runtime.json](https://github.com/LifeRoam/sbc/blob/master/bucket/dotnet-runtime.json)
-* [qqnt.json](https://github.com/LifeRoam/sbc/blob/master/bucket/qqnt.json)
-* [feishu.json](https://github.com/LifeRoam/sbc/blob/master/bucket/feishu.json)
+* [unigetui.json](https://github.com/LifeRoam/sbc/blob/master/bucket/unigetui.json)
+* [tiny-rdm.json](https://github.com/LifeRoam/sbc/blob/master/bucket/tiny-rdm.json)
 * [notepad4.json](https://github.com/LifeRoam/sbc/blob/master/bucket/notepad4.json)
-* [xxHash.json](https://github.com/LifeRoam/sbc/blob/master/bucket/xxHash.json)
+* [neteasemusic.json](https://github.com/LifeRoam/sbc/blob/master/bucket/neteasemusic.json)
