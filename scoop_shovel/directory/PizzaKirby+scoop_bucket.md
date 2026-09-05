@@ -9,8 +9,8 @@
 
 ## 📦 Recipes (6)
 * [pixieditor.json](https://github.com/PizzaKirby/scoop_bucket/blob/master/bucket/pixieditor.json)
-* [uni.json](https://github.com/PizzaKirby/scoop_bucket/blob/master/bucket/uni.json)
 * [floss.json](https://github.com/PizzaKirby/scoop_bucket/blob/master/bucket/floss.json)
 * [orcaslicer_latest.json](https://github.com/PizzaKirby/scoop_bucket/blob/master/bucket/orcaslicer_latest.json)
-* [freecad.json](https://github.com/PizzaKirby/scoop_bucket/blob/master/bucket/freecad.json)
+* [uni.json](https://github.com/PizzaKirby/scoop_bucket/blob/master/bucket/uni.json)
 * [zig_dev.json](https://github.com/PizzaKirby/scoop_bucket/blob/master/bucket/zig_dev.json)
+* [freecad.json](https://github.com/PizzaKirby/scoop_bucket/blob/master/bucket/freecad.json)
