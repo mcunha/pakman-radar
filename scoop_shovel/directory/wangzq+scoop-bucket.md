@@ -8,12 +8,12 @@
 
 
 ## 📦 Recipes (9)
-* [calibre-alt.json](https://github.com/wangzq/scoop-bucket/blob/master/bucket/calibre-alt.json)
 * [perl528.json](https://github.com/wangzq/scoop-bucket/blob/master/bucket/perl528.json)
-* [audacity-alt.json](https://github.com/wangzq/scoop-bucket/blob/master/bucket/audacity-alt.json)
 * [dnspy-x86.json](https://github.com/wangzq/scoop-bucket/blob/master/bucket/dnspy-x86.json)
 * [autohotkeyv1.json](https://github.com/wangzq/scoop-bucket/blob/master/bucket/autohotkeyv1.json)
 * [vim8.json](https://github.com/wangzq/scoop-bucket/blob/master/bucket/vim8.json)
-* [linqpad-anycpu.json](https://github.com/wangzq/scoop-bucket/blob/master/bucket/linqpad-anycpu.json)
 * [MySysInternals.json](https://github.com/wangzq/scoop-bucket/blob/master/bucket/MySysInternals.json)
+* [audacity-alt.json](https://github.com/wangzq/scoop-bucket/blob/master/bucket/audacity-alt.json)
+* [calibre-alt.json](https://github.com/wangzq/scoop-bucket/blob/master/bucket/calibre-alt.json)
+* [linqpad-anycpu.json](https://github.com/wangzq/scoop-bucket/blob/master/bucket/linqpad-anycpu.json)
 * [myprocesshacker.json](https://github.com/wangzq/scoop-bucket/blob/master/bucket/myprocesshacker.json)
