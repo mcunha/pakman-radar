@@ -218,9 +218,9 @@ A combined list of every source discovered in the ecosystem.
 | **[open-circle-ltd/chocolatey.adobe-acrobat-reader-dc](directory/open-circle-ltd+chocolatey.adobe-acrobat-reader-dc.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[skadogg/ghostwriter-portable](directory/skadogg+ghostwriter-portable.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[pocki/chocolateypackages](directory/pocki+chocolateypackages.md)** | 📦 12 | ⭐ 1.0 | 🔄 0% |  |
+| **[open-circle-ltd/chocolatey.rsa-secureid-software-token](directory/open-circle-ltd+chocolatey.rsa-secureid-software-token.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.adobe-creative-cloud](directory/open-circle-ltd+chocolatey.adobe-creative-cloud.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.jabra-direct](directory/open-circle-ltd+chocolatey.jabra-direct.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[open-circle-ltd/chocolatey.rsa-secureid-software-token](directory/open-circle-ltd+chocolatey.rsa-secureid-software-token.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.lenovo-thinkpad-usb-c-driver](directory/open-circle-ltd+chocolatey.lenovo-thinkpad-usb-c-driver.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.isl-light-client](directory/open-circle-ltd+chocolatey.isl-light-client.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[TheClonker/rednotebook-chocolatey](directory/TheClonker+rednotebook-chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
@@ -237,8 +237,8 @@ A combined list of every source discovered in the ecosystem.
 | **[C-Duv/chocolatey-fusioninventory-agent](directory/C-Duv+chocolatey-fusioninventory-agent.md)** | 📦 3 | ⭐ 1.0 | 🔄 0% |  |
 | **[majkinetor/au](directory/majkinetor+au.md)** | 📦 3 | ⭐ 1.0 | 🔄 67% |  |
 | **[aminya/chocolatey-wabt](directory/aminya+chocolatey-wabt.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[majkinetor/au-packages-template](directory/majkinetor+au-packages-template.md)** | 📦 4 | ⭐ 1.0 | 🔄 100% |  |
 | **[aleohl/chocolatey.pendulums](directory/aleohl+chocolatey.pendulums.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[majkinetor/au-packages-template](directory/majkinetor+au-packages-template.md)** | 📦 4 | ⭐ 1.0 | 🔄 100% |  |
 | **[nimishbongale/lektor-choco-package](directory/nimishbongale+lektor-choco-package.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[eargollo/choco-rssowlnix](directory/eargollo+choco-rssowlnix.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[sbaerlocher/chocolatey.veeam-agent](directory/sbaerlocher+chocolatey.veeam-agent.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
@@ -297,8 +297,8 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 2112
-* **Total Repo Updates**: 126643
+* **Total Crawler Runs**: 2113
+* **Total Repo Updates**: 126702
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
@@ -306,6 +306,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 2
 * **Cache Size**: 💾 0.84 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 0.47s
-  * 📥 Update: 1.75s
-* **Cumulative Compute Time**: 122.4 minutes
+  * 🔍 Discovery: 0.18s
+  * 📥 Update: 1.35s
+* **Cumulative Compute Time**: 122.5 minutes
