@@ -8,6 +8,6 @@
 
 
 ## 📦 Recipes (3)
-* [comfyui-nvidia.json](https://github.com/hermanjustnu/scoop-comfyui/blob/master/bucket/comfyui-nvidia.json)
 * [comfyui-intel.json](https://github.com/hermanjustnu/scoop-comfyui/blob/master/bucket/comfyui-intel.json)
 * [comfyui-amd.json](https://github.com/hermanjustnu/scoop-comfyui/blob/master/bucket/comfyui-amd.json)
+* [comfyui-nvidia.json](https://github.com/hermanjustnu/scoop-comfyui/blob/master/bucket/comfyui-nvidia.json)
