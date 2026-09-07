@@ -154,8 +154,8 @@ A combined list of every source discovered in the ecosystem.
 | **[schlotter/choco-packages](directory/schlotter+choco-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[sacloud/chocolatey-docker-machine-sakuracloud](directory/sacloud+chocolatey-docker-machine-sakuracloud.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[sacloud/chocolatey-terraform-provider-sakuracloud](directory/sacloud+chocolatey-terraform-provider-sakuracloud.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[treeverse/chocolatey-dvc](directory/treeverse+chocolatey-dvc.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[Takmg/chocolatey](directory/Takmg+chocolatey.md)** | 📦 4 | ⭐ 1.0 | 🔄 50% |  |
+| **[treeverse/chocolatey-dvc](directory/treeverse+chocolatey-dvc.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[gsmitheidw/visualparadigm-ce](directory/gsmitheidw+visualparadigm-ce.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[brogers5/chocolatey-package-ps-remote-play](directory/brogers5+chocolatey-package-ps-remote-play.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[chocolatey-community/chocolatey-hooks](directory/chocolatey-community+chocolatey-hooks.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% | 👑 Official |
@@ -180,8 +180,8 @@ A combined list of every source discovered in the ecosystem.
 | **[brogers5/chocolatey-package-vivetool](directory/brogers5+chocolatey-package-vivetool.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[therion-fr/therion-chocolatey](directory/therion-fr+therion-chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[brogers5/chocolatey-package-verpatch](directory/brogers5+chocolatey-package-verpatch.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
-| **[brogers5/chocolatey-package-localsend.install](directory/brogers5+chocolatey-package-localsend.install.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[virginviolet/chocolatey-packages](directory/virginviolet+chocolatey-packages.md)** | 📦 18 | ⭐ 1.0 | 🔄 0% |  |
+| **[brogers5/chocolatey-package-localsend.install](directory/brogers5+chocolatey-package-localsend.install.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[foundata/chocolatey-usewindow.extension](directory/foundata+chocolatey-usewindow.extension.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[foundata/chocolatey-sendmouseclick.extension](directory/foundata+chocolatey-sendmouseclick.extension.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[foundata/chocolatey-sendkeys.extension](directory/foundata+chocolatey-sendkeys.extension.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
@@ -297,8 +297,8 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 2121
-* **Total Repo Updates**: 127181
+* **Total Crawler Runs**: 2122
+* **Total Repo Updates**: 127241
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
@@ -306,6 +306,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 2
 * **Cache Size**: 💾 0.84 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 2.03s
-  * 📥 Update: 1.49s
-* **Cumulative Compute Time**: 122.8 minutes
+  * 🔍 Discovery: 2.23s
+  * 📥 Update: 2.05s
+* **Cumulative Compute Time**: 122.9 minutes
