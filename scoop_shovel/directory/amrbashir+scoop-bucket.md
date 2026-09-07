@@ -8,6 +8,6 @@
 
 
 ## 📦 Recipes (3)
-* [komorebi-switcher.json](https://github.com/amrbashir/scoop-bucket/blob/master/bucket/komorebi-switcher.json)
-* [kal.json](https://github.com/amrbashir/scoop-bucket/blob/master/bucket/kal.json)
 * [winspy.json](https://github.com/amrbashir/scoop-bucket/blob/master/bucket/winspy.json)
+* [kal.json](https://github.com/amrbashir/scoop-bucket/blob/master/bucket/kal.json)
+* [komorebi-switcher.json](https://github.com/amrbashir/scoop-bucket/blob/master/bucket/komorebi-switcher.json)
