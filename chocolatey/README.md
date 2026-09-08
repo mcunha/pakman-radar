@@ -173,8 +173,8 @@ A combined list of every source discovered in the ecosystem.
 | **[axonops/chocolatey](directory/axonops+chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[brogers5/chocolatey-package-xsplit-vcam](directory/brogers5+chocolatey-package-xsplit-vcam.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[cokelid/ChocoButler](directory/cokelid+ChocoButler.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[glennsarti/ChocolateyPackages](directory/glennsarti+ChocolateyPackages.md)** | 📦 3 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-isx](directory/brogers5+chocolatey-package-isx.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
+| **[glennsarti/ChocolateyPackages](directory/glennsarti+ChocolateyPackages.md)** | 📦 3 | ⭐ 1.0 | 🔄 100% |  |
 | **[Twingate-Labs/chocolatey-packages](directory/Twingate-Labs+chocolatey-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[drasyl/drasyl-choco](directory/drasyl+drasyl-choco.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[brogers5/chocolatey-package-vivetool](directory/brogers5+chocolatey-package-vivetool.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
@@ -297,8 +297,8 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 2125
-* **Total Repo Updates**: 127420
+* **Total Crawler Runs**: 2126
+* **Total Repo Updates**: 127481
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
@@ -306,6 +306,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 2
 * **Cache Size**: 💾 0.84 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 2.67s
-  * 📥 Update: 1.47s
-* **Cumulative Compute Time**: 123.1 minutes
+  * 🔍 Discovery: 2.84s
+  * 📥 Update: 2.07s
+* **Cumulative Compute Time**: 123.2 minutes
