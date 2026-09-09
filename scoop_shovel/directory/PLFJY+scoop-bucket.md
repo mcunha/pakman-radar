@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [contextmenumgrplus.json](https://github.com/PLFJY/scoop-bucket/blob/main/bucket/contextmenumgrplus.json)
 * [contextmenumgrplus-beta.json](https://github.com/PLFJY/scoop-bucket/blob/main/bucket/contextmenumgrplus-beta.json)
+* [contextmenumgrplus.json](https://github.com/PLFJY/scoop-bucket/blob/main/bucket/contextmenumgrplus.json)
