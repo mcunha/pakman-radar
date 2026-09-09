@@ -54,14 +54,6 @@ These repositories are actively maintained and feature a high percentage of **un
 
 
 
-## 🔥 Trending
-These active repositories are rapidly climbing the ranks due to recent, high-quality updates and growing recipe counts!
-
-| Repository | Rank Change | Current Rank | Recipes | Score | Auto-Update |
-| :--- | :---: | :---: | :---: | :---: | :---: |
-| **[flcdrg/au-packages](directory/flcdrg+au-packages.md)** | 📈 +1 | 🏆 #8 | 📦 103 | ⭐ 1.0 | 🔄 56% |
-
-
 
 
 
@@ -122,16 +114,16 @@ A combined list of every source discovered in the ecosystem.
 | **[robertZaufall/ChocolateStoreCore](directory/robertZaufall+ChocolateStoreCore.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
 | **[rstudio/tinytex-releases](directory/rstudio+tinytex-releases.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[jufab/jenkins-x-chocolatey](directory/jufab+jenkins-x-chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[brogers5/chocolatey-package-openrgb](directory/brogers5+chocolatey-package-openrgb.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-en-croissant](directory/brogers5+chocolatey-package-en-croissant.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
-| **[brogers5/chocolatey-package-openrgb.install](directory/brogers5+chocolatey-package-openrgb.install.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[Mateleo/helium-chocolatey](directory/Mateleo+helium-chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[brogers5/chocolatey-package-imazing](directory/brogers5+chocolatey-package-imazing.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-foxitreader](directory/brogers5+chocolatey-package-foxitreader.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-xsplit-broadcaster](directory/brogers5+chocolatey-package-xsplit-broadcaster.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
-| **[brogers5/chocolatey-package-openrgb.portable](directory/brogers5+chocolatey-package-openrgb.portable.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-goldwave](directory/brogers5+chocolatey-package-goldwave.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[open-circle-ltd/chocolatey.archi](directory/open-circle-ltd+chocolatey.archi.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[brogers5/chocolatey-package-openrgb](directory/brogers5+chocolatey-package-openrgb.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
+| **[brogers5/chocolatey-package-openrgb.install](directory/brogers5+chocolatey-package-openrgb.install.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
+| **[brogers5/chocolatey-package-openrgb.portable](directory/brogers5+chocolatey-package-openrgb.portable.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-localsend](directory/brogers5+chocolatey-package-localsend.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-localsend.portable](directory/brogers5+chocolatey-package-localsend.portable.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-twinkle-tray](directory/brogers5+chocolatey-package-twinkle-tray.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
@@ -189,10 +181,10 @@ A combined list of every source discovered in the ecosystem.
 | **[therion-fr/therion-chocolatey](directory/therion-fr+therion-chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[brogers5/chocolatey-package-verpatch](directory/brogers5+chocolatey-package-verpatch.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-localsend.install](directory/brogers5+chocolatey-package-localsend.install.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
-| **[virginviolet/chocolatey-packages](directory/virginviolet+chocolatey-packages.md)** | 📦 18 | ⭐ 1.0 | 🔄 0% |  |
 | **[foundata/chocolatey-usewindow.extension](directory/foundata+chocolatey-usewindow.extension.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[foundata/chocolatey-sendmouseclick.extension](directory/foundata+chocolatey-sendmouseclick.extension.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[foundata/chocolatey-sendkeys.extension](directory/foundata+chocolatey-sendkeys.extension.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[virginviolet/chocolatey-packages](directory/virginviolet+chocolatey-packages.md)** | 📦 18 | ⭐ 1.0 | 🔄 0% |  |
 | **[brianary/chocolatey-packages](directory/brianary+chocolatey-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[samuel-lucas6/Kryptor-Chocolatey](directory/samuel-lucas6+Kryptor-Chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[atiq-cs/choco](directory/atiq-cs+choco.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
@@ -226,11 +218,11 @@ A combined list of every source discovered in the ecosystem.
 | **[open-circle-ltd/chocolatey.adobe-acrobat-reader-dc](directory/open-circle-ltd+chocolatey.adobe-acrobat-reader-dc.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[skadogg/ghostwriter-portable](directory/skadogg+ghostwriter-portable.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[pocki/chocolateypackages](directory/pocki+chocolateypackages.md)** | 📦 12 | ⭐ 1.0 | 🔄 0% |  |
-| **[open-circle-ltd/chocolatey.adobe-creative-cloud](directory/open-circle-ltd+chocolatey.adobe-creative-cloud.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[open-circle-ltd/chocolatey.jabra-direct](directory/open-circle-ltd+chocolatey.jabra-direct.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.rsa-secureid-software-token](directory/open-circle-ltd+chocolatey.rsa-secureid-software-token.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.lenovo-thinkpad-usb-c-driver](directory/open-circle-ltd+chocolatey.lenovo-thinkpad-usb-c-driver.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.isl-light-client](directory/open-circle-ltd+chocolatey.isl-light-client.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[open-circle-ltd/chocolatey.adobe-creative-cloud](directory/open-circle-ltd+chocolatey.adobe-creative-cloud.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[open-circle-ltd/chocolatey.jabra-direct](directory/open-circle-ltd+chocolatey.jabra-direct.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[TheClonker/rednotebook-chocolatey](directory/TheClonker+rednotebook-chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[jgod/my-choco-packages](directory/jgod+my-choco-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[DustinVenegas/au-packages](directory/DustinVenegas+au-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
@@ -305,8 +297,8 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 2130
-* **Total Repo Updates**: 127719
+* **Total Crawler Runs**: 2131
+* **Total Repo Updates**: 127778
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
@@ -314,6 +306,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 2
 * **Cache Size**: 💾 0.84 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 0.16s
-  * 📥 Update: 2.08s
+  * 🔍 Discovery: 1.23s
+  * 📥 Update: 1.72s
 * **Cumulative Compute Time**: 123.5 minutes
