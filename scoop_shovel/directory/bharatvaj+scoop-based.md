@@ -8,10 +8,10 @@
 
 
 ## 📦 Recipes (7)
-* [winpbcopy.json](https://github.com/bharatvaj/scoop-based/blob/master/bucket/winpbcopy.json)
 * [wlines.json](https://github.com/bharatvaj/scoop-based/blob/master/bucket/wlines.json)
-* [eventlogreader.json](https://github.com/bharatvaj/scoop-based/blob/master/bucket/eventlogreader.json)
-* [indent.json](https://github.com/bharatvaj/scoop-based/blob/master/bucket/indent.json)
-* [zbar.json](https://github.com/bharatvaj/scoop-based/blob/master/bucket/zbar.json)
 * [hotkeyp.json](https://github.com/bharatvaj/scoop-based/blob/master/bucket/hotkeyp.json)
+* [eventlogreader.json](https://github.com/bharatvaj/scoop-based/blob/master/bucket/eventlogreader.json)
 * [uweb.json](https://github.com/bharatvaj/scoop-based/blob/master/bucket/uweb.json)
+* [zbar.json](https://github.com/bharatvaj/scoop-based/blob/master/bucket/zbar.json)
+* [winpbcopy.json](https://github.com/bharatvaj/scoop-based/blob/master/bucket/winpbcopy.json)
+* [indent.json](https://github.com/bharatvaj/scoop-based/blob/master/bucket/indent.json)
