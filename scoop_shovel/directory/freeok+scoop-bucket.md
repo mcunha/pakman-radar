@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [sparkle.json](https://github.com/freeok/scoop-bucket/blob/main/bucket/sparkle.json)
 * [so-novel.json](https://github.com/freeok/scoop-bucket/blob/main/bucket/so-novel.json)
+* [sparkle.json](https://github.com/freeok/scoop-bucket/blob/main/bucket/sparkle.json)
