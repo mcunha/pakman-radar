@@ -167,23 +167,27 @@
     {
       "full_name": "EmbrasureAI/scoop-bucket",
       "evicted_at": "2026-09-09T04:50:12Z"
+    },
+    {
+      "full_name": "julian-corbet/scoop-dotkeeper",
+      "evicted_at": "2026-09-10T14:31:02Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-09-10T09:49:50Z",
-    "count": 42,
+    "generated_at": "2026-09-10T14:31:47Z",
+    "count": 43,
     "global_metrics": {
-      "total_runs": 2139,
-      "total_run_time_seconds": 37808.217178583145,
-      "total_repo_updates": 71295,
+      "total_runs": 2140,
+      "total_run_time_seconds": 37830.507622241974,
+      "total_repo_updates": 71328,
       "previous_total_buckets": 10,
       "previous_total_recipes": 6305,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
-      "total_evictions": 57,
+      "total_evictions": 58,
       "total_api_retries": 2,
-      "last_run_discover_time": 0.23357081413269043,
-      "last_run_update_time": 17.74716830253601,
+      "last_run_discover_time": 4.502276420593262,
+      "last_run_update_time": 17.769063711166382,
       "ecosystem_reliability": 100.0,
       "cache_size_mb": 0.8348217010498047,
       "total_unique_recipes": 1873,
