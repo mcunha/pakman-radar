@@ -167,32 +167,36 @@
     {
       "full_name": "Lelio88/he-bucket",
       "evicted_at": "2026-09-11T04:47:31Z"
+    },
+    {
+      "full_name": "uzielvgx/scoop-bucket",
+      "evicted_at": "2026-09-11T09:48:46Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-09-11T04:47:38Z",
-    "count": 42,
+    "generated_at": "2026-09-11T09:49:23Z",
+    "count": 43,
     "global_metrics": {
-      "total_runs": 2144,
-      "total_run_time_seconds": 326672.7208378315,
-      "total_repo_updates": 139442,
-      "previous_total_buckets": 1602,
-      "previous_total_recipes": 135627,
+      "total_runs": 2145,
+      "total_run_time_seconds": 326731.01200795174,
+      "total_repo_updates": 139513,
+      "previous_total_buckets": 1601,
+      "previous_total_recipes": 135626,
       "bucket_velocity": -1,
       "recipe_velocity": -1,
-      "total_evictions": 56,
+      "total_evictions": 57,
       "total_api_retries": 2,
-      "last_run_discover_time": 0.23256373405456543,
-      "last_run_update_time": 26.380776405334473,
-      "ecosystem_reliability": 88.0,
-      "cache_size_mb": 10.336082458496094,
-      "total_unique_recipes": 31738,
+      "last_run_discover_time": 2.479630470275879,
+      "last_run_update_time": 54.82401657104492,
+      "ecosystem_reliability": 88.2,
+      "cache_size_mb": 10.335556030273438,
+      "total_unique_recipes": 31737,
       "auto_update_percentage": 85.37,
       "official_recipes": 54013,
-      "community_recipes": 81614,
+      "community_recipes": 81613,
       "stale_buckets": 484,
       "shovel_buckets": 25,
-      "scoop_buckets": 1577
+      "scoop_buckets": 1576
     }
   }
 }
