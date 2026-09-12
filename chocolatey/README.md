@@ -121,10 +121,10 @@ A combined list of every source discovered in the ecosystem.
 | **[brogers5/chocolatey-package-foxitreader](directory/brogers5+chocolatey-package-foxitreader.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-xsplit-broadcaster](directory/brogers5+chocolatey-package-xsplit-broadcaster.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[open-circle-ltd/chocolatey.archi](directory/open-circle-ltd+chocolatey.archi.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[brogers5/chocolatey-package-goldwave](directory/brogers5+chocolatey-package-goldwave.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-openrgb](directory/brogers5+chocolatey-package-openrgb.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-openrgb.install](directory/brogers5+chocolatey-package-openrgb.install.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-openrgb.portable](directory/brogers5+chocolatey-package-openrgb.portable.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
+| **[brogers5/chocolatey-package-goldwave](directory/brogers5+chocolatey-package-goldwave.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-localsend](directory/brogers5+chocolatey-package-localsend.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-localsend.portable](directory/brogers5+chocolatey-package-localsend.portable.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-twinkle-tray](directory/brogers5+chocolatey-package-twinkle-tray.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
@@ -297,8 +297,8 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 2153
-* **Total Repo Updates**: 129088
+* **Total Crawler Runs**: 2154
+* **Total Repo Updates**: 129147
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
@@ -306,6 +306,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 2
 * **Cache Size**: 💾 0.84 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 0.24s
-  * 📥 Update: 1.80s
-* **Cumulative Compute Time**: 124.7 minutes
+  * 🔍 Discovery: 2.32s
+  * 📥 Update: 1.82s
+* **Cumulative Compute Time**: 124.8 minutes
