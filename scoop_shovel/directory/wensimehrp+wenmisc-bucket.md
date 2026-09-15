@@ -8,8 +8,8 @@
 
 
 ## 📦 Recipes (5)
-* [Sims4-Translator.json](https://github.com/wensimehrp/wenmisc-bucket/blob/master/bucket/Sims4-Translator.json)
 * [OuDia-second.json](https://github.com/wensimehrp/wenmisc-bucket/blob/master/bucket/OuDia-second.json)
 * [pyetrc.json](https://github.com/wensimehrp/wenmisc-bucket/blob/master/bucket/pyetrc.json)
 * [a9codec.json](https://github.com/wensimehrp/wenmisc-bucket/blob/master/bucket/a9codec.json)
+* [Sims4-Translator.json](https://github.com/wensimehrp/wenmisc-bucket/blob/master/bucket/Sims4-Translator.json)
 * [qetrc.json](https://github.com/wensimehrp/wenmisc-bucket/blob/master/bucket/qetrc.json)
