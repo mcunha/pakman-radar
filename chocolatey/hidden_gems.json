@@ -647,7 +647,7 @@
         "hacktoberfest"
       ],
       "last_checked": "2026-04-28T19:19:09Z",
-      "pushed_at": "2026-09-16T01:42:56Z",
+      "pushed_at": "2026-09-18T00:07:54Z",
       "archived": false,
       "disabled": false,
       "entries": [
@@ -788,7 +788,7 @@
         "chocolatey-packages"
       ],
       "last_checked": "2026-04-27T21:50:03Z",
-      "pushed_at": "2026-09-16T14:11:05Z",
+      "pushed_at": "2026-09-17T14:07:20Z",
       "archived": false,
       "disabled": false,
       "entries": [
@@ -923,7 +923,7 @@
         "powershell"
       ],
       "last_checked": "2026-04-27T23:39:52Z",
-      "pushed_at": "2026-09-15T19:06:45Z",
+      "pushed_at": "2026-09-18T09:09:11Z",
       "archived": false,
       "disabled": false,
       "entries": [
@@ -1331,7 +1331,7 @@
         "chocolatey-packages"
       ],
       "last_checked": "2026-04-27T15:14:20Z",
-      "pushed_at": "2026-09-16T13:34:09Z",
+      "pushed_at": "2026-09-18T08:14:30Z",
       "archived": false,
       "disabled": false,
       "entries": [
@@ -1400,7 +1400,7 @@
         "chocolatey-packages"
       ],
       "last_checked": "2026-06-03T06:05:10Z",
-      "pushed_at": "2026-09-16T08:07:27Z",
+      "pushed_at": "2026-09-18T08:07:34Z",
       "archived": false,
       "disabled": false,
       "entries": [
@@ -1456,22 +1456,22 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-09-18T06:00:24Z",
+    "generated_at": "2026-09-18T11:26:00Z",
     "count": 10,
     "global_metrics": {
-      "total_runs": 2185,
-      "total_run_time_seconds": 7612.040813446045,
-      "total_repo_updates": 131000,
+      "total_runs": 2186,
+      "total_run_time_seconds": 7616.580614805222,
+      "total_repo_updates": 131060,
       "previous_total_buckets": 226,
       "previous_total_recipes": 3327,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
       "total_evictions": 59,
       "total_api_retries": 2,
-      "last_run_discover_time": 0.19913387298583984,
-      "last_run_update_time": 1.8083112239837646,
+      "last_run_discover_time": 2.7059993743896484,
+      "last_run_update_time": 1.801795482635498,
       "ecosystem_reliability": 100.0,
-      "cache_size_mb": 0.8373193740844727,
+      "cache_size_mb": 0.8373250961303711,
       "total_unique_recipes": 2930,
       "auto_update_percentage": 36.01,
       "official_recipes": 481,
