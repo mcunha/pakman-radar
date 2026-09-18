@@ -8,9 +8,9 @@
 
 
 ## 📦 Recipes (6)
-* [cubeice.json](https://github.com/hrshtst/scoop-bucket/blob/master/bucket/cubeice.json)
-* [keyhac.json](https://github.com/hrshtst/scoop-bucket/blob/master/bucket/keyhac.json)
+* [sjisunzip.json](https://github.com/hrshtst/scoop-bucket/blob/master/bucket/sjisunzip.json)
 * [pstoedit.json](https://github.com/hrshtst/scoop-bucket/blob/master/bucket/pstoedit.json)
+* [keyhac.json](https://github.com/hrshtst/scoop-bucket/blob/master/bucket/keyhac.json)
 * [inkscape-extension-textext.json](https://github.com/hrshtst/scoop-bucket/blob/master/bucket/inkscape-extension-textext.json)
 * [gtksourceview-for-inkscape-windows.json](https://github.com/hrshtst/scoop-bucket/blob/master/bucket/gtksourceview-for-inkscape-windows.json)
-* [sjisunzip.json](https://github.com/hrshtst/scoop-bucket/blob/master/bucket/sjisunzip.json)
+* [cubeice.json](https://github.com/hrshtst/scoop-bucket/blob/master/bucket/cubeice.json)
