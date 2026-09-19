@@ -1,10 +1,6 @@
 {
   "evictions": [
     {
-      "full_name": "Arama0517/scoop-bucket",
-      "evicted_at": "2026-06-21T11:26:21Z"
-    },
-    {
       "full_name": "nimbus-agent/scoop-bucket",
       "evicted_at": "2026-06-23T21:53:51Z"
     },
@@ -166,22 +162,22 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-09-19T11:07:54Z",
-    "count": 41,
+    "generated_at": "2026-09-19T14:30:23Z",
+    "count": 40,
     "global_metrics": {
-      "total_runs": 2192,
-      "total_run_time_seconds": 332330.71713376045,
-      "total_repo_updates": 142888,
+      "total_runs": 2193,
+      "total_run_time_seconds": 332379.7135360241,
+      "total_repo_updates": 142968,
       "previous_total_buckets": 1629,
       "previous_total_recipes": 135916,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
       "total_evictions": 57,
       "total_api_retries": 2,
-      "last_run_discover_time": 0.21226787567138672,
-      "last_run_update_time": 55.27697777748108,
-      "ecosystem_reliability": 87.9,
-      "cache_size_mb": 10.366185188293457,
+      "last_run_discover_time": 1.262699842453003,
+      "last_run_update_time": 46.04769492149353,
+      "ecosystem_reliability": 88.3,
+      "cache_size_mb": 10.366680145263672,
       "total_unique_recipes": 31765,
       "auto_update_percentage": 85.39,
       "official_recipes": 55014,
