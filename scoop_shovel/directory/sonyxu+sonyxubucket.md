@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [mathpix-snipping-tool.json](https://github.com/sonyxu/sonyxubucket/blob/master/bucket/mathpix-snipping-tool.json)
 * [dnspyex32.json](https://github.com/sonyxu/sonyxubucket/blob/master/bucket/dnspyex32.json)
+* [mathpix-snipping-tool.json](https://github.com/sonyxu/sonyxubucket/blob/master/bucket/mathpix-snipping-tool.json)

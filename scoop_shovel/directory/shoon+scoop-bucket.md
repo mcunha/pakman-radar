@@ -8,6 +8,6 @@
 
 
 ## 📦 Recipes (3)
-* [takeout-helper-gphotos.json](https://github.com/shoon/scoop-bucket/blob/main/bucket/takeout-helper-gphotos.json)
-* [audio-fade-fixer.json](https://github.com/shoon/scoop-bucket/blob/main/bucket/audio-fade-fixer.json)
 * [fv-ssh-unlock.json](https://github.com/shoon/scoop-bucket/blob/main/bucket/fv-ssh-unlock.json)
+* [audio-fade-fixer.json](https://github.com/shoon/scoop-bucket/blob/main/bucket/audio-fade-fixer.json)
+* [takeout-helper-gphotos.json](https://github.com/shoon/scoop-bucket/blob/main/bucket/takeout-helper-gphotos.json)

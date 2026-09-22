@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [skills-manager.json](https://github.com/MNFConde/ScoopBucket/blob/master/bucket/skills-manager.json)
 * [skills-manager-gui.json](https://github.com/MNFConde/ScoopBucket/blob/master/bucket/skills-manager-gui.json)
+* [skills-manager.json](https://github.com/MNFConde/ScoopBucket/blob/master/bucket/skills-manager.json)
