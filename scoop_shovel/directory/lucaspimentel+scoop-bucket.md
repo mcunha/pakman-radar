@@ -8,13 +8,13 @@
 
 
 ## 📦 Recipes (10)
-* [pwsh-prompt.json](https://github.com/lucaspimentel/scoop-bucket/blob/master/bucket/pwsh-prompt.json)
-* [analyze-assembly-size.json](https://github.com/lucaspimentel/scoop-bucket/blob/master/bucket/analyze-assembly-size.json)
+* [diffnav.json](https://github.com/lucaspimentel/scoop-bucket/blob/master/bucket/diffnav.json)
 * [cslint.json](https://github.com/lucaspimentel/scoop-bucket/blob/master/bucket/cslint.json)
-* [pup.json](https://github.com/lucaspimentel/scoop-bucket/blob/master/bucket/pup.json)
+* [analyze-assembly-size.json](https://github.com/lucaspimentel/scoop-bucket/blob/master/bucket/analyze-assembly-size.json)
 * [wade.json](https://github.com/lucaspimentel/scoop-bucket/blob/master/bucket/wade.json)
-* [pscue.json](https://github.com/lucaspimentel/scoop-bucket/blob/master/bucket/pscue.json)
 * [tuckbar.json](https://github.com/lucaspimentel/scoop-bucket/blob/master/bucket/tuckbar.json)
 * [winget-tui.json](https://github.com/lucaspimentel/scoop-bucket/blob/master/bucket/winget-tui.json)
 * [windows-edge-light.json](https://github.com/lucaspimentel/scoop-bucket/blob/master/bucket/windows-edge-light.json)
-* [diffnav.json](https://github.com/lucaspimentel/scoop-bucket/blob/master/bucket/diffnav.json)
+* [pscue.json](https://github.com/lucaspimentel/scoop-bucket/blob/master/bucket/pscue.json)
+* [pup.json](https://github.com/lucaspimentel/scoop-bucket/blob/master/bucket/pup.json)
+* [pwsh-prompt.json](https://github.com/lucaspimentel/scoop-bucket/blob/master/bucket/pwsh-prompt.json)

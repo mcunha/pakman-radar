@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [yae-achievement.json](https://github.com/mock1328/scoop-bucket/blob/master/bucket/yae-achievement.json)
 * [playstation-accessories.json](https://github.com/mock1328/scoop-bucket/blob/master/bucket/playstation-accessories.json)
+* [yae-achievement.json](https://github.com/mock1328/scoop-bucket/blob/master/bucket/yae-achievement.json)

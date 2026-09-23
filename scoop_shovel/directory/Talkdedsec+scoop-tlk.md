@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [tlk-visual.json](https://github.com/Talkdedsec/scoop-tlk/blob/main/bucket/tlk-visual.json)
 * [wymcmd.json](https://github.com/Talkdedsec/scoop-tlk/blob/main/bucket/wymcmd.json)
+* [tlk-visual.json](https://github.com/Talkdedsec/scoop-tlk/blob/main/bucket/tlk-visual.json)
