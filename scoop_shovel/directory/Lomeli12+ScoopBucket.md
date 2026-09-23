@@ -12,5 +12,5 @@
 * [ffmt.json](https://github.com/Lomeli12/ScoopBucket/blob/master/ffmt.json)
 * [pulseaudio.json](https://github.com/Lomeli12/ScoopBucket/blob/master/pulseaudio.json)
 * [deadman-switch-launcher.json](https://github.com/Lomeli12/ScoopBucket/blob/master/deadman-switch-launcher.json)
-* [wxMEdit.json](https://github.com/Lomeli12/ScoopBucket/blob/master/wxMEdit.json)
 * [xivbackup.json](https://github.com/Lomeli12/ScoopBucket/blob/master/xivbackup.json)
+* [wxMEdit.json](https://github.com/Lomeli12/ScoopBucket/blob/master/wxMEdit.json)

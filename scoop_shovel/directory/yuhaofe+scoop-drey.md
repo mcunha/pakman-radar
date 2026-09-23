@@ -8,9 +8,9 @@
 
 
 ## 📦 Recipes (6)
-* [ontopreplica.json](https://github.com/yuhaofe/scoop-drey/blob/master/bucket/ontopreplica.json)
 * [boop.json](https://github.com/yuhaofe/scoop-drey/blob/master/bucket/boop.json)
 * [snickerstream.json](https://github.com/yuhaofe/scoop-drey/blob/master/bucket/snickerstream.json)
 * [freepiano.json](https://github.com/yuhaofe/scoop-drey/blob/master/bucket/freepiano.json)
-* [dijo.json](https://github.com/yuhaofe/scoop-drey/blob/master/bucket/dijo.json)
+* [ontopreplica.json](https://github.com/yuhaofe/scoop-drey/blob/master/bucket/ontopreplica.json)
 * [snip.json](https://github.com/yuhaofe/scoop-drey/blob/master/bucket/snip.json)
+* [dijo.json](https://github.com/yuhaofe/scoop-drey/blob/master/bucket/dijo.json)

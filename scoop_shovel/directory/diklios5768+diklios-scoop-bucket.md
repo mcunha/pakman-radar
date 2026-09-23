@@ -8,10 +8,10 @@
 
 
 ## 📦 Recipes (7)
-* [jiduscan.json](https://github.com/diklios5768/diklios-scoop-bucket/blob/main/bucket/jiduscan.json)
 * [scoop-backup.json](https://github.com/diklios5768/diklios-scoop-bucket/blob/main/bucket/scoop-backup.json)
-* [scoop-backup-knox.json](https://github.com/diklios5768/diklios-scoop-bucket/blob/main/bucket/scoop-backup-knox.json)
-* [velocity.json](https://github.com/diklios5768/diklios-scoop-bucket/blob/main/bucket/velocity.json)
 * [coodesker.json](https://github.com/diklios5768/diklios-scoop-bucket/blob/main/bucket/coodesker.json)
 * [chiner.json](https://github.com/diklios5768/diklios-scoop-bucket/blob/main/bucket/chiner.json)
+* [jiduscan.json](https://github.com/diklios5768/diklios-scoop-bucket/blob/main/bucket/jiduscan.json)
+* [scoop-backup-knox.json](https://github.com/diklios5768/diklios-scoop-bucket/blob/main/bucket/scoop-backup-knox.json)
 * [deskgo.json](https://github.com/diklios5768/diklios-scoop-bucket/blob/main/bucket/deskgo.json)
+* [velocity.json](https://github.com/diklios5768/diklios-scoop-bucket/blob/main/bucket/velocity.json)

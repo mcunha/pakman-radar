@@ -9,6 +9,6 @@
 
 ## 📦 Recipes (4)
 * [prey.nuspec](https://github.com/majkinetor/au-packages-template/blob/master/prey/prey.nuspec)
-* [less.nuspec](https://github.com/majkinetor/au-packages-template/blob/master/less/less.nuspec)
-* [librecad.nuspec](https://github.com/majkinetor/au-packages-template/blob/master/librecad/librecad.nuspec)
 * [copyq.nuspec](https://github.com/majkinetor/au-packages-template/blob/master/copyq/copyq.nuspec)
+* [librecad.nuspec](https://github.com/majkinetor/au-packages-template/blob/master/librecad/librecad.nuspec)
+* [less.nuspec](https://github.com/majkinetor/au-packages-template/blob/master/less/less.nuspec)

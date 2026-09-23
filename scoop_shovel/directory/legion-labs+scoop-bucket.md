@@ -8,9 +8,9 @@
 
 
 ## 📦 Recipes (6)
+* [winsdk.json](https://github.com/legion-labs/scoop-bucket/blob/main/bucket/winsdk.json)
+* [llvm.json](https://github.com/legion-labs/scoop-bucket/blob/main/bucket/llvm.json)
 * [vulkan.json](https://github.com/legion-labs/scoop-bucket/blob/main/bucket/vulkan.json)
 * [ecr-login.json](https://github.com/legion-labs/scoop-bucket/blob/main/bucket/ecr-login.json)
-* [cuda.json](https://github.com/legion-labs/scoop-bucket/blob/main/bucket/cuda.json)
-* [winsdk.json](https://github.com/legion-labs/scoop-bucket/blob/main/bucket/winsdk.json)
 * [vs_buildtools.json](https://github.com/legion-labs/scoop-bucket/blob/main/bucket/vs_buildtools.json)
-* [llvm.json](https://github.com/legion-labs/scoop-bucket/blob/main/bucket/llvm.json)
+* [cuda.json](https://github.com/legion-labs/scoop-bucket/blob/main/bucket/cuda.json)

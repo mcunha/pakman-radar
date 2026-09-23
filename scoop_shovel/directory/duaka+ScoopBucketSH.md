@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [winmerge.json](https://github.com/duaka/ScoopBucketSH/blob/main/bucket/winmerge.json)
 * [git.json](https://github.com/duaka/ScoopBucketSH/blob/main/bucket/git.json)
+* [winmerge.json](https://github.com/duaka/ScoopBucketSH/blob/main/bucket/winmerge.json)

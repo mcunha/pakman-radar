@@ -8,11 +8,11 @@
 
 
 ## 📦 Recipes (8)
-* [rain.json](https://github.com/toruuetani/scoop-bucket/blob/master/bucket/rain.json)
-* [sam-cli.json](https://github.com/toruuetani/scoop-bucket/blob/master/bucket/sam-cli.json)
-* [ecs-cli.json](https://github.com/toruuetani/scoop-bucket/blob/master/bucket/ecs-cli.json)
-* [ttn-lw-cli.json](https://github.com/toruuetani/scoop-bucket/blob/master/bucket/ttn-lw-cli.json)
-* [a5m2.json](https://github.com/toruuetani/scoop-bucket/blob/master/bucket/a5m2.json)
 * [rlogin.json](https://github.com/toruuetani/scoop-bucket/blob/master/bucket/rlogin.json)
+* [rain.json](https://github.com/toruuetani/scoop-bucket/blob/master/bucket/rain.json)
 * [copilot.json](https://github.com/toruuetani/scoop-bucket/blob/master/bucket/copilot.json)
+* [ttn-lw-cli.json](https://github.com/toruuetani/scoop-bucket/blob/master/bucket/ttn-lw-cli.json)
+* [ecs-cli.json](https://github.com/toruuetani/scoop-bucket/blob/master/bucket/ecs-cli.json)
+* [a5m2.json](https://github.com/toruuetani/scoop-bucket/blob/master/bucket/a5m2.json)
 * [ecspresso.json](https://github.com/toruuetani/scoop-bucket/blob/master/bucket/ecspresso.json)
+* [sam-cli.json](https://github.com/toruuetani/scoop-bucket/blob/master/bucket/sam-cli.json)

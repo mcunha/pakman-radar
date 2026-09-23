@@ -8,12 +8,12 @@
 
 
 ## 📦 Recipes (9)
+* [clash-for-windows.json](https://github.com/inetcp/scoop-bucket/blob/main/bucket/clash-for-windows.json)
 * [rdcman.json](https://github.com/inetcp/scoop-bucket/blob/main/bucket/rdcman.json)
+* [typora.json](https://github.com/inetcp/scoop-bucket/blob/main/bucket/typora.json)
+* [navicat15.json](https://github.com/inetcp/scoop-bucket/blob/main/bucket/navicat15.json)
 * [navicat.json](https://github.com/inetcp/scoop-bucket/blob/main/bucket/navicat.json)
-* [winrar.json](https://github.com/inetcp/scoop-bucket/blob/main/bucket/winrar.json)
 * [axure9.json](https://github.com/inetcp/scoop-bucket/blob/main/bucket/axure9.json)
+* [winrar.json](https://github.com/inetcp/scoop-bucket/blob/main/bucket/winrar.json)
 * [idm.json](https://github.com/inetcp/scoop-bucket/blob/main/bucket/idm.json)
 * [beyondcompare.json](https://github.com/inetcp/scoop-bucket/blob/main/bucket/beyondcompare.json)
-* [navicat15.json](https://github.com/inetcp/scoop-bucket/blob/main/bucket/navicat15.json)
-* [typora.json](https://github.com/inetcp/scoop-bucket/blob/main/bucket/typora.json)
-* [clash-for-windows.json](https://github.com/inetcp/scoop-bucket/blob/main/bucket/clash-for-windows.json)

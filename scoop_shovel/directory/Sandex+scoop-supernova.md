@@ -8,6 +8,6 @@
 
 
 ## 📦 Recipes (3)
-* [winscp.json](https://github.com/Sandex/scoop-supernova/blob/master/winscp.json)
 * [php7.json](https://github.com/Sandex/scoop-supernova/blob/master/php7.json)
+* [winscp.json](https://github.com/Sandex/scoop-supernova/blob/master/winscp.json)
 * [phpstorm.json](https://github.com/Sandex/scoop-supernova/blob/master/phpstorm.json)

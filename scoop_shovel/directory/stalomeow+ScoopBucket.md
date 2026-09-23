@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [kbdremap.json](https://github.com/stalomeow/ScoopBucket/blob/master/bucket/kbdremap.json)
 * [antlr4.json](https://github.com/stalomeow/ScoopBucket/blob/master/bucket/antlr4.json)
+* [kbdremap.json](https://github.com/stalomeow/ScoopBucket/blob/master/bucket/kbdremap.json)

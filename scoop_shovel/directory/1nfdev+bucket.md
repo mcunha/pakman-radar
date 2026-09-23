@@ -8,8 +8,8 @@
 
 
 ## 📦 Recipes (5)
-* [shader-minifier.json](https://github.com/1nfdev/bucket/blob/master/bucket/shader-minifier.json)
 * [drmemory.json](https://github.com/1nfdev/bucket/blob/master/bucket/drmemory.json)
-* [bonzomatic.json](https://github.com/1nfdev/bucket/blob/master/bucket/bonzomatic.json)
+* [shader-minifier.json](https://github.com/1nfdev/bucket/blob/master/bucket/shader-minifier.json)
 * [tracy.json](https://github.com/1nfdev/bucket/blob/master/bucket/tracy.json)
 * [crinkler.json](https://github.com/1nfdev/bucket/blob/master/bucket/crinkler.json)
+* [bonzomatic.json](https://github.com/1nfdev/bucket/blob/master/bucket/bonzomatic.json)

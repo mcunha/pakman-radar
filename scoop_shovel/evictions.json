@@ -159,25 +159,29 @@
     {
       "full_name": "Cooperter/scoop-bucket",
       "evicted_at": "2026-09-23T17:10:36Z"
+    },
+    {
+      "full_name": "pingu6/Athena",
+      "evicted_at": "2026-09-23T23:46:11Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-09-23T20:29:50Z",
-    "count": 40,
+    "generated_at": "2026-09-23T23:47:03Z",
+    "count": 41,
     "global_metrics": {
-      "total_runs": 2218,
-      "total_run_time_seconds": 334535.341786623,
-      "total_repo_updates": 145030,
+      "total_runs": 2219,
+      "total_run_time_seconds": 334618.71409773827,
+      "total_repo_updates": 145404,
       "previous_total_buckets": 1642,
       "previous_total_recipes": 143039,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
-      "total_evictions": 58,
+      "total_evictions": 59,
       "total_api_retries": 2,
-      "last_run_discover_time": 1.06907057762146,
-      "last_run_update_time": 115.53523302078247,
-      "ecosystem_reliability": 88.4,
-      "cache_size_mb": 10.860575675964355,
+      "last_run_discover_time": 0.26145219802856445,
+      "last_run_update_time": 82.36154580116272,
+      "ecosystem_reliability": 88.3,
+      "cache_size_mb": 10.860395431518555,
       "total_unique_recipes": 31902,
       "auto_update_percentage": 85.43,
       "official_recipes": 65091,

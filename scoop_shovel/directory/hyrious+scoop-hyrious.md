@@ -8,9 +8,9 @@
 
 
 ## 📦 Recipes (6)
-* [ntop.json](https://github.com/hyrious/scoop-hyrious/blob/master/bucket/ntop.json)
 * [famitracker.json](https://github.com/hyrious/scoop-hyrious/blob/master/bucket/famitracker.json)
 * [lua.json](https://github.com/hyrious/scoop-hyrious/blob/master/bucket/lua.json)
-* [luarocks.json](https://github.com/hyrious/scoop-hyrious/blob/master/bucket/luarocks.json)
+* [ntop.json](https://github.com/hyrious/scoop-hyrious/blob/master/bucket/ntop.json)
 * [es.json](https://github.com/hyrious/scoop-hyrious/blob/master/bucket/es.json)
 * [zopfli.json](https://github.com/hyrious/scoop-hyrious/blob/master/bucket/zopfli.json)
+* [luarocks.json](https://github.com/hyrious/scoop-hyrious/blob/master/bucket/luarocks.json)

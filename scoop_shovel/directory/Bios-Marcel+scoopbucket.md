@@ -8,7 +8,7 @@
 
 
 ## 📦 Recipes (4)
+* [cordless.json](https://github.com/Bios-Marcel/scoopbucket/blob/master/bucket/cordless.json)
+* [spoon.json](https://github.com/Bios-Marcel/scoopbucket/blob/master/bucket/spoon.json)
 * [ezvn.json](https://github.com/Bios-Marcel/scoopbucket/blob/master/bucket/ezvn.json)
 * [spoon_pre.json](https://github.com/Bios-Marcel/scoopbucket/blob/master/bucket/spoon_pre.json)
-* [spoon.json](https://github.com/Bios-Marcel/scoopbucket/blob/master/bucket/spoon.json)
-* [cordless.json](https://github.com/Bios-Marcel/scoopbucket/blob/master/bucket/cordless.json)
