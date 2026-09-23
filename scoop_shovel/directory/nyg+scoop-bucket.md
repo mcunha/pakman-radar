@@ -8,6 +8,6 @@
 
 
 ## 📦 Recipes (3)
+* [wiktionary-to-kindle.json](https://github.com/nyg/scoop-bucket/blob/master/bucket/wiktionary-to-kindle.json)
 * [crypto-tools.json](https://github.com/nyg/scoop-bucket/blob/master/bucket/crypto-tools.json)
 * [qoqa-compta.json](https://github.com/nyg/scoop-bucket/blob/master/bucket/qoqa-compta.json)
-* [wiktionary-to-kindle.json](https://github.com/nyg/scoop-bucket/blob/master/bucket/wiktionary-to-kindle.json)

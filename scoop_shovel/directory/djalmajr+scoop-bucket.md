@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [ai-usagebar.json](https://github.com/djalmajr/scoop-bucket/blob/master/bucket/ai-usagebar.json)
 * [ai-usagebar-dev.json](https://github.com/djalmajr/scoop-bucket/blob/master/bucket/ai-usagebar-dev.json)
+* [ai-usagebar.json](https://github.com/djalmajr/scoop-bucket/blob/master/bucket/ai-usagebar.json)

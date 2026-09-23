@@ -8,12 +8,12 @@
 
 
 ## 📦 Recipes (9)
-* [php74.json](https://github.com/MahdiAkrami01/scoop-bucket/blob/master/bucket/php74.json)
-* [git.json](https://github.com/MahdiAkrami01/scoop-bucket/blob/master/bucket/git.json)
-* [composer.json](https://github.com/MahdiAkrami01/scoop-bucket/blob/master/bucket/composer.json)
 * [nodejs-lts.json](https://github.com/MahdiAkrami01/scoop-bucket/blob/master/bucket/nodejs-lts.json)
 * [thorium-avx2.json](https://github.com/MahdiAkrami01/scoop-bucket/blob/master/bucket/thorium-avx2.json)
-* [bun.json](https://github.com/MahdiAkrami01/scoop-bucket/blob/master/bucket/bun.json)
-* [gpg4win.json](https://github.com/MahdiAkrami01/scoop-bucket/blob/master/bucket/gpg4win.json)
 * [php84.json](https://github.com/MahdiAkrami01/scoop-bucket/blob/master/bucket/php84.json)
 * [portable-registrator.json](https://github.com/MahdiAkrami01/scoop-bucket/blob/master/bucket/portable-registrator.json)
+* [php74.json](https://github.com/MahdiAkrami01/scoop-bucket/blob/master/bucket/php74.json)
+* [bun.json](https://github.com/MahdiAkrami01/scoop-bucket/blob/master/bucket/bun.json)
+* [composer.json](https://github.com/MahdiAkrami01/scoop-bucket/blob/master/bucket/composer.json)
+* [gpg4win.json](https://github.com/MahdiAkrami01/scoop-bucket/blob/master/bucket/gpg4win.json)
+* [git.json](https://github.com/MahdiAkrami01/scoop-bucket/blob/master/bucket/git.json)

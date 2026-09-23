@@ -8,9 +8,9 @@
 
 
 ## 📦 Recipes (6)
-* [oh-my-posh.yml](https://github.com/shovel-org/Linux-Base-Bucket/blob/main/bucket/oh-my-posh.yml)
 * [7zip.yml](https://github.com/shovel-org/Linux-Base-Bucket/blob/main/bucket/7zip.yml)
 * [lego.yml](https://github.com/shovel-org/Linux-Base-Bucket/blob/main/bucket/lego.yml)
-* [pwsh.yml](https://github.com/shovel-org/Linux-Base-Bucket/blob/main/bucket/pwsh.yml)
 * [rclone.yml](https://github.com/shovel-org/Linux-Base-Bucket/blob/main/bucket/rclone.yml)
 * [go.yml](https://github.com/shovel-org/Linux-Base-Bucket/blob/main/bucket/go.yml)
+* [oh-my-posh.yml](https://github.com/shovel-org/Linux-Base-Bucket/blob/main/bucket/oh-my-posh.yml)
+* [pwsh.yml](https://github.com/shovel-org/Linux-Base-Bucket/blob/main/bucket/pwsh.yml)
