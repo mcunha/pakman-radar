@@ -8,10 +8,10 @@
 
 
 ## 📦 Recipes (7)
-* [qttabbar.json](https://github.com/gaojr/MyScoopBucket/blob/master/bucket/qttabbar.json)
 * [cpu-z-cn.json](https://github.com/gaojr/MyScoopBucket/blob/master/bucket/cpu-z-cn.json)
-* [misans.json](https://github.com/gaojr/MyScoopBucket/blob/master/bucket/misans.json)
 * [wingetui.json](https://github.com/gaojr/MyScoopBucket/blob/master/bucket/wingetui.json)
-* [IntelliJ-IDEA-Ultimate-portable.json](https://github.com/gaojr/MyScoopBucket/blob/master/bucket/IntelliJ-IDEA-Ultimate-portable.json)
+* [qttabbar.json](https://github.com/gaojr/MyScoopBucket/blob/master/bucket/qttabbar.json)
+* [misans.json](https://github.com/gaojr/MyScoopBucket/blob/master/bucket/misans.json)
 * [potplayer.json](https://github.com/gaojr/MyScoopBucket/blob/master/bucket/potplayer.json)
+* [IntelliJ-IDEA-Ultimate-portable.json](https://github.com/gaojr/MyScoopBucket/blob/master/bucket/IntelliJ-IDEA-Ultimate-portable.json)
 * [sqlite-2022.json](https://github.com/gaojr/MyScoopBucket/blob/master/bucket/sqlite-2022.json)

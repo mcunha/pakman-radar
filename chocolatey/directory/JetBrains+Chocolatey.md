@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [resharper-clt.portable.nuspec](https://github.com/JetBrains/Chocolatey/blob/master/resharper-clt.portable/resharper-clt.portable.nuspec)
 * [resharper-clt.nuspec](https://github.com/JetBrains/Chocolatey/blob/master/resharper-clt/resharper-clt.nuspec)
+* [resharper-clt.portable.nuspec](https://github.com/JetBrains/Chocolatey/blob/master/resharper-clt.portable/resharper-clt.portable.nuspec)

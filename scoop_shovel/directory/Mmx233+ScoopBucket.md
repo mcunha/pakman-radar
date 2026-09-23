@@ -8,10 +8,10 @@
 
 
 ## 📦 Recipes (7)
-* [hide.json](https://github.com/Mmx233/ScoopBucket/blob/master/bucket/hide.json)
 * [go-release-cli.json](https://github.com/Mmx233/ScoopBucket/blob/master/bucket/go-release-cli.json)
-* [ssh-connect.json](https://github.com/Mmx233/ScoopBucket/blob/master/bucket/ssh-connect.json)
-* [code-cli.json](https://github.com/Mmx233/ScoopBucket/blob/master/bucket/code-cli.json)
-* [pasgent.json](https://github.com/Mmx233/ScoopBucket/blob/master/bucket/pasgent.json)
-* [backoff.json](https://github.com/Mmx233/ScoopBucket/blob/master/bucket/backoff.json)
 * [hey.json](https://github.com/Mmx233/ScoopBucket/blob/master/bucket/hey.json)
+* [pasgent.json](https://github.com/Mmx233/ScoopBucket/blob/master/bucket/pasgent.json)
+* [ssh-connect.json](https://github.com/Mmx233/ScoopBucket/blob/master/bucket/ssh-connect.json)
+* [backoff.json](https://github.com/Mmx233/ScoopBucket/blob/master/bucket/backoff.json)
+* [code-cli.json](https://github.com/Mmx233/ScoopBucket/blob/master/bucket/code-cli.json)
+* [hide.json](https://github.com/Mmx233/ScoopBucket/blob/master/bucket/hide.json)

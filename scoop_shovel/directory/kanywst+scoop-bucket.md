@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [rapg.json](https://github.com/kanywst/scoop-bucket/blob/main/bucket/rapg.json)
 * [y509.json](https://github.com/kanywst/scoop-bucket/blob/main/bucket/y509.json)
+* [rapg.json](https://github.com/kanywst/scoop-bucket/blob/main/bucket/rapg.json)

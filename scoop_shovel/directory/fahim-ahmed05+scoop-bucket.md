@@ -8,11 +8,11 @@
 
 
 ## 📦 Recipes (8)
-* [inter-font.json](https://github.com/fahim-ahmed05/scoop-bucket/blob/master/bucket/inter-font.json)
+* [clickpaste.json](https://github.com/fahim-ahmed05/scoop-bucket/blob/master/bucket/clickpaste.json)
+* [browser-tamer.json](https://github.com/fahim-ahmed05/scoop-bucket/blob/master/bucket/browser-tamer.json)
 * [vacuumtube.json](https://github.com/fahim-ahmed05/scoop-bucket/blob/master/bucket/vacuumtube.json)
 * [helium-browser.json](https://github.com/fahim-ahmed05/scoop-bucket/blob/master/bucket/helium-browser.json)
-* [clickpaste.json](https://github.com/fahim-ahmed05/scoop-bucket/blob/master/bucket/clickpaste.json)
 * [stremio-kai.json](https://github.com/fahim-ahmed05/scoop-bucket/blob/master/bucket/stremio-kai.json)
 * [zen-browser.json](https://github.com/fahim-ahmed05/scoop-bucket/blob/master/bucket/zen-browser.json)
-* [browser-tamer.json](https://github.com/fahim-ahmed05/scoop-bucket/blob/master/bucket/browser-tamer.json)
 * [winhance.json](https://github.com/fahim-ahmed05/scoop-bucket/blob/master/bucket/winhance.json)
+* [inter-font.json](https://github.com/fahim-ahmed05/scoop-bucket/blob/master/bucket/inter-font.json)
