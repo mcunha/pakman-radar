@@ -1,10 +1,6 @@
 {
   "evictions": [
     {
-      "full_name": "perryhq/perryhq-scoop",
-      "evicted_at": "2026-06-25T23:50:54Z"
-    },
-    {
       "full_name": "baiyuking/scoop_bucket",
       "evicted_at": "2026-06-30T19:02:17Z"
     },
@@ -174,22 +170,22 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-09-23T23:47:22Z",
-    "count": 43,
+    "generated_at": "2026-09-24T05:03:08Z",
+    "count": 42,
     "global_metrics": {
-      "total_runs": 2219,
-      "total_run_time_seconds": 39193.681226968765,
-      "total_repo_updates": 73965,
+      "total_runs": 2220,
+      "total_run_time_seconds": 39205.24528455734,
+      "total_repo_updates": 73998,
       "previous_total_buckets": 10,
       "previous_total_recipes": 6305,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
       "total_evictions": 62,
       "total_api_retries": 2,
-      "last_run_discover_time": 0.22981524467468262,
-      "last_run_update_time": 16.76730728149414,
+      "last_run_discover_time": 1.0239434242248535,
+      "last_run_update_time": 10.526677131652832,
       "ecosystem_reliability": 100.0,
-      "cache_size_mb": 0.8406286239624023,
+      "cache_size_mb": 0.840693473815918,
       "total_unique_recipes": 1873,
       "auto_update_percentage": 0.0,
       "official_recipes": 4970,

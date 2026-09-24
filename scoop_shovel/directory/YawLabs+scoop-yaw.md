@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [yaw.json](https://github.com/YawLabs/scoop-yaw/blob/main/bucket/yaw.json)
 * [oam.json](https://github.com/YawLabs/scoop-yaw/blob/main/bucket/oam.json)
+* [yaw.json](https://github.com/YawLabs/scoop-yaw/blob/main/bucket/yaw.json)
