@@ -8,6 +8,6 @@
 
 
 ## 📦 Recipes (3)
-* [ms365-cli.json](https://github.com/robbydf/scoop-extras/blob/master/bucket/ms365-cli.json)
-* [slackcli.json](https://github.com/robbydf/scoop-extras/blob/master/bucket/slackcli.json)
 * [gcx.json](https://github.com/robbydf/scoop-extras/blob/master/bucket/gcx.json)
+* [slackcli.json](https://github.com/robbydf/scoop-extras/blob/master/bucket/slackcli.json)
+* [ms365-cli.json](https://github.com/robbydf/scoop-extras/blob/master/bucket/ms365-cli.json)
