@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [sonora.json](https://github.com/ForkPrince/scoop-bucket/blob/master/bucket/sonora.json)
 * [helixnotes.json](https://github.com/ForkPrince/scoop-bucket/blob/master/bucket/helixnotes.json)
+* [sonora.json](https://github.com/ForkPrince/scoop-bucket/blob/master/bucket/sonora.json)

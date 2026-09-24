@@ -8,6 +8,6 @@
 
 
 ## 📦 Recipes (3)
-* [aiquokka.json](https://github.com/iugamlabs/scoop/blob/main/bucket/aiquokka.json)
-* [ship.json](https://github.com/iugamlabs/scoop/blob/main/bucket/ship.json)
 * [code-porter.json](https://github.com/iugamlabs/scoop/blob/main/bucket/code-porter.json)
+* [ship.json](https://github.com/iugamlabs/scoop/blob/main/bucket/ship.json)
+* [aiquokka.json](https://github.com/iugamlabs/scoop/blob/main/bucket/aiquokka.json)
