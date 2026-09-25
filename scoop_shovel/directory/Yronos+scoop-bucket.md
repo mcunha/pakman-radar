@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [mpv-yaozhi.json](https://github.com/Yronos/scoop-bucket/blob/main/bucket/mpv-yaozhi.json)
 * [mpv-yaozhi-persist.json](https://github.com/Yronos/scoop-bucket/blob/main/bucket/mpv-yaozhi-persist.json)
+* [mpv-yaozhi.json](https://github.com/Yronos/scoop-bucket/blob/main/bucket/mpv-yaozhi.json)

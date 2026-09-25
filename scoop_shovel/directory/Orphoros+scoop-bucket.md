@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [statusify.json](https://github.com/Orphoros/scoop-bucket/blob/main/bucket/statusify.json)
 * [appicongen.json](https://github.com/Orphoros/scoop-bucket/blob/main/bucket/appicongen.json)
+* [statusify.json](https://github.com/Orphoros/scoop-bucket/blob/main/bucket/statusify.json)
