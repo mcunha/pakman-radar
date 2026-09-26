@@ -8,12 +8,12 @@
 
 
 ## 📦 Recipes (9)
-* [freckles.json](https://github.com/rsteube/scoop-bucket/blob/master/bucket/freckles.json)
-* [go-jira-cli.json](https://github.com/rsteube/scoop-bucket/blob/master/bucket/go-jira-cli.json)
-* [lazycomplete.json](https://github.com/rsteube/scoop-bucket/blob/master/bucket/lazycomplete.json)
 * [carapace-aws.json](https://github.com/rsteube/scoop-bucket/blob/master/bucket/carapace-aws.json)
-* [carapace-bridge.json](https://github.com/rsteube/scoop-bucket/blob/master/bucket/carapace-bridge.json)
-* [carapace-bin.json](https://github.com/rsteube/scoop-bucket/blob/master/bucket/carapace-bin.json)
+* [go-jira-cli.json](https://github.com/rsteube/scoop-bucket/blob/master/bucket/go-jira-cli.json)
 * [carapace-spec.json](https://github.com/rsteube/scoop-bucket/blob/master/bucket/carapace-spec.json)
-* [freckles-bin.json](https://github.com/rsteube/scoop-bucket/blob/master/bucket/freckles-bin.json)
+* [freckles.json](https://github.com/rsteube/scoop-bucket/blob/master/bucket/freckles.json)
+* [lazycomplete.json](https://github.com/rsteube/scoop-bucket/blob/master/bucket/lazycomplete.json)
+* [carapace-bridge.json](https://github.com/rsteube/scoop-bucket/blob/master/bucket/carapace-bridge.json)
 * [vincent.json](https://github.com/rsteube/scoop-bucket/blob/master/bucket/vincent.json)
+* [freckles-bin.json](https://github.com/rsteube/scoop-bucket/blob/master/bucket/freckles-bin.json)
+* [carapace-bin.json](https://github.com/rsteube/scoop-bucket/blob/master/bucket/carapace-bin.json)
