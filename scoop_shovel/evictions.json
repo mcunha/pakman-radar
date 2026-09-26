@@ -163,32 +163,40 @@
     {
       "full_name": "orkcom-tech/scoop-bucket",
       "evicted_at": "2026-09-26T07:48:50Z"
+    },
+    {
+      "full_name": "ShihaoShenCreator/ScoopBucket",
+      "evicted_at": "2026-09-26T17:15:18Z"
+    },
+    {
+      "full_name": "abyssmemes/scoop-bucket",
+      "evicted_at": "2026-09-26T17:15:18Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-09-26T13:10:48Z",
-    "count": 41,
+    "generated_at": "2026-09-26T17:16:18Z",
+    "count": 43,
     "global_metrics": {
-      "total_runs": 2232,
-      "total_run_time_seconds": 335577.50667238235,
-      "total_repo_updates": 146412,
-      "previous_total_buckets": 1652,
-      "previous_total_recipes": 143059,
-      "bucket_velocity": 0,
-      "recipe_velocity": 0,
-      "total_evictions": 60,
+      "total_runs": 2233,
+      "total_run_time_seconds": 335655.9758255482,
+      "total_repo_updates": 146488,
+      "previous_total_buckets": 1650,
+      "previous_total_recipes": 143049,
+      "bucket_velocity": -2,
+      "recipe_velocity": -10,
+      "total_evictions": 62,
       "total_api_retries": 2,
-      "last_run_discover_time": 0.20836663246154785,
-      "last_run_update_time": 29.160653591156006,
-      "ecosystem_reliability": 87.6,
-      "cache_size_mb": 10.866620063781738,
-      "total_unique_recipes": 31916,
+      "last_run_discover_time": 2.0287835597991943,
+      "last_run_update_time": 75.49667024612427,
+      "ecosystem_reliability": 87.7,
+      "cache_size_mb": 10.86589527130127,
+      "total_unique_recipes": 31913,
       "auto_update_percentage": 85.43,
       "official_recipes": 65091,
-      "community_recipes": 77968,
+      "community_recipes": 77958,
       "stale_buckets": 494,
       "shovel_buckets": 25,
-      "scoop_buckets": 1627
+      "scoop_buckets": 1625
     }
   }
 }

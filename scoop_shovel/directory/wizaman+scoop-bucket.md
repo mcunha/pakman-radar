@@ -10,6 +10,6 @@
 ## 📦 Recipes (5)
 * [bundletool.json](https://github.com/wizaman/scoop-bucket/blob/master/bucket/bundletool.json)
 * [nkf.json](https://github.com/wizaman/scoop-bucket/blob/master/bucket/nkf.json)
-* [xq.json](https://github.com/wizaman/scoop-bucket/blob/master/bucket/xq.json)
-* [zk.json](https://github.com/wizaman/scoop-bucket/blob/master/bucket/zk.json)
 * [just-lsp.json](https://github.com/wizaman/scoop-bucket/blob/master/bucket/just-lsp.json)
+* [zk.json](https://github.com/wizaman/scoop-bucket/blob/master/bucket/zk.json)
+* [xq.json](https://github.com/wizaman/scoop-bucket/blob/master/bucket/xq.json)
