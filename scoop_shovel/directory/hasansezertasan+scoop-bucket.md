@@ -9,9 +9,9 @@
 
 ## 📦 Recipes (7)
 * [olink.json](https://github.com/hasansezertasan/scoop-bucket/blob/main/bucket/olink.json)
-* [nur.json](https://github.com/hasansezertasan/scoop-bucket/blob/main/bucket/nur.json)
-* [hwid.json](https://github.com/hasansezertasan/scoop-bucket/blob/main/bucket/hwid.json)
-* [keycast.json](https://github.com/hasansezertasan/scoop-bucket/blob/main/bucket/keycast.json)
 * [ocom.json](https://github.com/hasansezertasan/scoop-bucket/blob/main/bucket/ocom.json)
+* [hwid.json](https://github.com/hasansezertasan/scoop-bucket/blob/main/bucket/hwid.json)
 * [keycast-pipx.json](https://github.com/hasansezertasan/scoop-bucket/blob/main/bucket/keycast-pipx.json)
+* [nur.json](https://github.com/hasansezertasan/scoop-bucket/blob/main/bucket/nur.json)
+* [keycast.json](https://github.com/hasansezertasan/scoop-bucket/blob/main/bucket/keycast.json)
 * [cobo.json](https://github.com/hasansezertasan/scoop-bucket/blob/main/bucket/cobo.json)
