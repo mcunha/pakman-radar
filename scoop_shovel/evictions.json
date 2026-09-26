@@ -159,32 +159,36 @@
     {
       "full_name": "pingu6/Athena",
       "evicted_at": "2026-09-23T23:46:11Z"
+    },
+    {
+      "full_name": "orkcom-tech/scoop-bucket",
+      "evicted_at": "2026-09-26T07:48:50Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-09-26T01:43:10Z",
-    "count": 40,
+    "generated_at": "2026-09-26T07:49:17Z",
+    "count": 41,
     "global_metrics": {
-      "total_runs": 2230,
-      "total_run_time_seconds": 335503.7714793682,
-      "total_repo_updates": 146256,
-      "previous_total_buckets": 1653,
-      "previous_total_recipes": 143060,
-      "bucket_velocity": 0,
-      "recipe_velocity": 0,
-      "total_evictions": 59,
+      "total_runs": 2231,
+      "total_run_time_seconds": 335547.46169137955,
+      "total_repo_updates": 146343,
+      "previous_total_buckets": 1652,
+      "previous_total_recipes": 143059,
+      "bucket_velocity": -1,
+      "recipe_velocity": -1,
+      "total_evictions": 60,
       "total_api_retries": 2,
-      "last_run_discover_time": 0.34575414657592773,
-      "last_run_update_time": 253.03548312187195,
-      "ecosystem_reliability": 87.5,
-      "cache_size_mb": 10.869194030761719,
+      "last_run_discover_time": 0.9787178039550781,
+      "last_run_update_time": 41.841063499450684,
+      "ecosystem_reliability": 87.4,
+      "cache_size_mb": 10.866459846496582,
       "total_unique_recipes": 31916,
       "auto_update_percentage": 85.43,
       "official_recipes": 65091,
-      "community_recipes": 77969,
+      "community_recipes": 77968,
       "stale_buckets": 494,
       "shovel_buckets": 25,
-      "scoop_buckets": 1628
+      "scoop_buckets": 1627
     }
   }
 }

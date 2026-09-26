@@ -167,23 +167,27 @@
     {
       "full_name": "pingu6/Athena",
       "evicted_at": "2026-09-23T23:46:11Z"
+    },
+    {
+      "full_name": "orkcom-tech/scoop-bucket",
+      "evicted_at": "2026-09-26T07:48:50Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-09-26T01:43:32Z",
-    "count": 42,
+    "generated_at": "2026-09-26T07:49:40Z",
+    "count": 43,
     "global_metrics": {
-      "total_runs": 2230,
-      "total_run_time_seconds": 39366.45902252197,
-      "total_repo_updates": 74328,
+      "total_runs": 2231,
+      "total_run_time_seconds": 39382.72605443001,
+      "total_repo_updates": 74361,
       "previous_total_buckets": 10,
       "previous_total_recipes": 6305,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
-      "total_evictions": 62,
+      "total_evictions": 63,
       "total_api_retries": 2,
-      "last_run_discover_time": 3.494684934616089,
-      "last_run_update_time": 13.501141786575317,
+      "last_run_discover_time": 2.706838846206665,
+      "last_run_update_time": 13.544028043746948,
       "ecosystem_reliability": 100.0,
       "cache_size_mb": 0.8411006927490234,
       "total_unique_recipes": 1873,
