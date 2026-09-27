@@ -10,5 +10,5 @@
 ## 📦 Recipes (4)
 * [alpinewsl.json](https://github.com/rfnash/scoop/blob/master/bucket/alpinewsl.json)
 * [remnote.json](https://github.com/rfnash/scoop/blob/master/bucket/remnote.json)
-* [chimerawsl.json](https://github.com/rfnash/scoop/blob/master/bucket/chimerawsl.json)
 * [mise.json](https://github.com/rfnash/scoop/blob/master/bucket/mise.json)
+* [chimerawsl.json](https://github.com/rfnash/scoop/blob/master/bucket/chimerawsl.json)
