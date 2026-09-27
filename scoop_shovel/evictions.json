@@ -171,32 +171,36 @@
     {
       "full_name": "abyssmemes/scoop-bucket",
       "evicted_at": "2026-09-26T17:15:18Z"
+    },
+    {
+      "full_name": "belleradh/birdbucket",
+      "evicted_at": "2026-09-27T22:17:24Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-09-27T18:29:53Z",
-    "count": 43,
+    "generated_at": "2026-09-27T22:40:05Z",
+    "count": 44,
     "global_metrics": {
-      "total_runs": 2239,
-      "total_run_time_seconds": 335956.1200604439,
-      "total_repo_updates": 146935,
-      "previous_total_buckets": 1656,
-      "previous_total_recipes": 143057,
-      "bucket_velocity": 3,
-      "recipe_velocity": 5,
-      "total_evictions": 62,
+      "total_runs": 2240,
+      "total_run_time_seconds": 337359.1572313309,
+      "total_repo_updates": 147008,
+      "previous_total_buckets": 1657,
+      "previous_total_recipes": 143058,
+      "bucket_velocity": 1,
+      "recipe_velocity": 1,
+      "total_evictions": 63,
       "total_api_retries": 2,
-      "last_run_discover_time": 2.200998544692993,
-      "last_run_update_time": 22.941985607147217,
+      "last_run_discover_time": 2.308598518371582,
+      "last_run_update_time": 448.136403799057,
       "ecosystem_reliability": 87.9,
-      "cache_size_mb": 10.872492790222168,
-      "total_unique_recipes": 31919,
+      "cache_size_mb": 10.873669624328613,
+      "total_unique_recipes": 31921,
       "auto_update_percentage": 85.43,
-      "official_recipes": 65092,
-      "community_recipes": 77965,
+      "official_recipes": 65091,
+      "community_recipes": 77967,
       "stale_buckets": 493,
       "shovel_buckets": 25,
-      "scoop_buckets": 1631
+      "scoop_buckets": 1632
     }
   }
 }
