@@ -175,32 +175,36 @@
     {
       "full_name": "belleradh/birdbucket",
       "evicted_at": "2026-09-27T22:17:24Z"
+    },
+    {
+      "full_name": "ShihaoShen-Creator/ScoopBucket",
+      "evicted_at": "2026-09-28T07:01:46Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-09-28T00:51:59Z",
-    "count": 44,
+    "generated_at": "2026-09-28T07:01:54Z",
+    "count": 45,
     "global_metrics": {
-      "total_runs": 2241,
-      "total_run_time_seconds": 337418.21715307236,
-      "total_repo_updates": 147082,
-      "previous_total_buckets": 1658,
-      "previous_total_recipes": 143059,
-      "bucket_velocity": 1,
-      "recipe_velocity": 1,
-      "total_evictions": 63,
+      "total_runs": 2242,
+      "total_run_time_seconds": 337441.9578163624,
+      "total_repo_updates": 147167,
+      "previous_total_buckets": 1657,
+      "previous_total_recipes": 143051,
+      "bucket_velocity": -1,
+      "recipe_velocity": -8,
+      "total_evictions": 64,
       "total_api_retries": 2,
-      "last_run_discover_time": 1.871000051498413,
-      "last_run_update_time": 56.44635581970215,
-      "ecosystem_reliability": 88.1,
-      "cache_size_mb": 10.874024391174316,
-      "total_unique_recipes": 31922,
+      "last_run_discover_time": 0.3664424419403076,
+      "last_run_update_time": 22.332570552825928,
+      "ecosystem_reliability": 88.2,
+      "cache_size_mb": 10.874109268188477,
+      "total_unique_recipes": 31920,
       "auto_update_percentage": 85.43,
       "official_recipes": 65091,
-      "community_recipes": 77968,
+      "community_recipes": 77960,
       "stale_buckets": 493,
       "shovel_buckets": 25,
-      "scoop_buckets": 1633
+      "scoop_buckets": 1632
     }
   }
 }
