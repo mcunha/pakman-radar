@@ -1,10 +1,6 @@
 {
   "evictions": [
     {
-      "full_name": "baiyuking/scoop_bucket",
-      "evicted_at": "2026-06-30T19:02:17Z"
-    },
-    {
       "full_name": "Arama0517/scoop-bucket-x",
       "evicted_at": "2026-07-05T18:28:54Z"
     },
@@ -179,32 +175,36 @@
     {
       "full_name": "ShihaoShen-Creator/ScoopBucket",
       "evicted_at": "2026-09-28T07:01:46Z"
+    },
+    {
+      "full_name": "riki-yokoyama/scoop-bucket",
+      "evicted_at": "2026-09-28T22:07:30Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-09-28T15:35:48Z",
+    "generated_at": "2026-09-28T22:07:36Z",
     "count": 45,
     "global_metrics": {
-      "total_runs": 2243,
-      "total_run_time_seconds": 337483.52117848396,
-      "total_repo_updates": 147250,
-      "previous_total_buckets": 1657,
-      "previous_total_recipes": 143051,
-      "bucket_velocity": 0,
-      "recipe_velocity": 0,
-      "total_evictions": 64,
+      "total_runs": 2244,
+      "total_run_time_seconds": 337515.2368593216,
+      "total_repo_updates": 147335,
+      "previous_total_buckets": 1656,
+      "previous_total_recipes": 143050,
+      "bucket_velocity": -1,
+      "recipe_velocity": -1,
+      "total_evictions": 65,
       "total_api_retries": 2,
-      "last_run_discover_time": 1.038675308227539,
-      "last_run_update_time": 39.52354407310486,
-      "ecosystem_reliability": 88.1,
-      "cache_size_mb": 10.870748519897461,
+      "last_run_discover_time": 0.26599669456481934,
+      "last_run_update_time": 30.308247089385986,
+      "ecosystem_reliability": 88.3,
+      "cache_size_mb": 10.870163917541504,
       "total_unique_recipes": 31920,
       "auto_update_percentage": 85.43,
       "official_recipes": 65091,
-      "community_recipes": 77960,
+      "community_recipes": 77959,
       "stale_buckets": 493,
       "shovel_buckets": 25,
-      "scoop_buckets": 1632
+      "scoop_buckets": 1631
     }
   }
 }
