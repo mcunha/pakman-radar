@@ -1,10 +1,6 @@
 {
   "evictions": [
     {
-      "full_name": "sapper903/windows-10-activator",
-      "evicted_at": "2026-07-01T11:33:28Z"
-    },
-    {
       "full_name": "Arama0517/scoop-bucket-x",
       "evicted_at": "2026-07-05T18:28:54Z"
     },
@@ -190,20 +186,20 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-09-29T08:39:36Z",
-    "count": 47,
+    "generated_at": "2026-09-29T15:59:24Z",
+    "count": 46,
     "global_metrics": {
-      "total_runs": 2246,
-      "total_run_time_seconds": 39657.96772956848,
-      "total_repo_updates": 74856,
+      "total_runs": 2247,
+      "total_run_time_seconds": 39673.28902769089,
+      "total_repo_updates": 74889,
       "previous_total_buckets": 10,
       "previous_total_recipes": 6305,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
       "total_evictions": 68,
       "total_api_retries": 2,
-      "last_run_discover_time": 0.6204957962036133,
-      "last_run_update_time": 17.068111181259155,
+      "last_run_discover_time": 0.19576311111450195,
+      "last_run_update_time": 15.108044147491455,
       "ecosystem_reliability": 100.0,
       "cache_size_mb": 0.8442602157592773,
       "total_unique_recipes": 1873,
