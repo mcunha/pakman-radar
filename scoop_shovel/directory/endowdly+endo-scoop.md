@@ -8,10 +8,10 @@
 
 
 ## 📦 Recipes (7)
-* [psparklines.json](https://github.com/endowdly/endo-scoop/blob/main/bucket/psparklines.json)
-* [fitz.json](https://github.com/endowdly/endo-scoop/blob/main/bucket/fitz.json)
-* [workspacer.json](https://github.com/endowdly/endo-scoop/blob/main/bucket/workspacer.json)
 * [dotfiles.json](https://github.com/endowdly/endo-scoop/blob/main/bucket/dotfiles.json)
+* [psparklines.json](https://github.com/endowdly/endo-scoop/blob/main/bucket/psparklines.json)
 * [psi.json](https://github.com/endowdly/endo-scoop/blob/main/bucket/psi.json)
-* [gops.json](https://github.com/endowdly/endo-scoop/blob/main/bucket/gops.json)
 * [gotz.json](https://github.com/endowdly/endo-scoop/blob/main/bucket/gotz.json)
+* [workspacer.json](https://github.com/endowdly/endo-scoop/blob/main/bucket/workspacer.json)
+* [gops.json](https://github.com/endowdly/endo-scoop/blob/main/bucket/gops.json)
+* [fitz.json](https://github.com/endowdly/endo-scoop/blob/main/bucket/fitz.json)
