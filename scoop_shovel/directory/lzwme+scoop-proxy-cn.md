@@ -7,7 +7,7 @@
 
 
 
-## 📦 Recipes (10673)
+## 📦 Recipes (10678)
 * [errorlookup.json](https://github.com/lzwme/scoop-proxy-cn/blob/sync/bucket/errorlookup.json)
 * [dwarf-fortress-lnp.json](https://github.com/lzwme/scoop-proxy-cn/blob/sync/bucket/dwarf-fortress-lnp.json)
 * [rstudio11.json](https://github.com/lzwme/scoop-proxy-cn/blob/sync/bucket/rstudio11.json)
@@ -1662,6 +1662,7 @@
 * [CopyHandler.json](https://github.com/lzwme/scoop-proxy-cn/blob/sync/bucket/CopyHandler.json)
 * [keepass-plugin-readable-passphrase.json](https://github.com/lzwme/scoop-proxy-cn/blob/sync/bucket/keepass-plugin-readable-passphrase.json)
 * [UltimateWindowsTweakerWin10-Portable.json](https://github.com/lzwme/scoop-proxy-cn/blob/sync/bucket/UltimateWindowsTweakerWin10-Portable.json)
+* [uncolored.json](https://github.com/lzwme/scoop-proxy-cn/blob/sync/bucket/uncolored.json)
 * [libusb.json](https://github.com/lzwme/scoop-proxy-cn/blob/sync/bucket/libusb.json)
 * [upscaler.json](https://github.com/lzwme/scoop-proxy-cn/blob/sync/bucket/upscaler.json)
 * [aboboo.json](https://github.com/lzwme/scoop-proxy-cn/blob/sync/bucket/aboboo.json)
@@ -5559,6 +5560,7 @@
 * [promtail.json](https://github.com/lzwme/scoop-proxy-cn/blob/sync/bucket/promtail.json)
 * [wintun.json](https://github.com/lzwme/scoop-proxy-cn/blob/sync/bucket/wintun.json)
 * [chrono.json](https://github.com/lzwme/scoop-proxy-cn/blob/sync/bucket/chrono.json)
+* [securefs.json](https://github.com/lzwme/scoop-proxy-cn/blob/sync/bucket/securefs.json)
 * [dankerino-qt5.json](https://github.com/lzwme/scoop-proxy-cn/blob/sync/bucket/dankerino-qt5.json)
 * [DisplayDriverUninstaller-Portable.json](https://github.com/lzwme/scoop-proxy-cn/blob/sync/bucket/DisplayDriverUninstaller-Portable.json)
 * [folder2iso-cli.json](https://github.com/lzwme/scoop-proxy-cn/blob/sync/bucket/folder2iso-cli.json)
@@ -6593,6 +6595,7 @@
 * [transfer.json](https://github.com/lzwme/scoop-proxy-cn/blob/sync/bucket/transfer.json)
 * [dopamine.json](https://github.com/lzwme/scoop-proxy-cn/blob/sync/bucket/dopamine.json)
 * [frostwire.json](https://github.com/lzwme/scoop-proxy-cn/blob/sync/bucket/frostwire.json)
+* [markdown-edit.json](https://github.com/lzwme/scoop-proxy-cn/blob/sync/bucket/markdown-edit.json)
 * [chromecacheview.json](https://github.com/lzwme/scoop-proxy-cn/blob/sync/bucket/chromecacheview.json)
 * [liberica14-full-jdk.json](https://github.com/lzwme/scoop-proxy-cn/blob/sync/bucket/liberica14-full-jdk.json)
 * [oracle-instant-client-sqlplus21.json](https://github.com/lzwme/scoop-proxy-cn/blob/sync/bucket/oracle-instant-client-sqlplus21.json)
@@ -7393,6 +7396,7 @@
 * [Catime.json](https://github.com/lzwme/scoop-proxy-cn/blob/sync/bucket/Catime.json)
 * [zvm.json](https://github.com/lzwme/scoop-proxy-cn/blob/sync/bucket/zvm.json)
 * [Flutter-Coolapk.json](https://github.com/lzwme/scoop-proxy-cn/blob/sync/bucket/Flutter-Coolapk.json)
+* [ganjoor.json](https://github.com/lzwme/scoop-proxy-cn/blob/sync/bucket/ganjoor.json)
 * [sometypemono.json](https://github.com/lzwme/scoop-proxy-cn/blob/sync/bucket/sometypemono.json)
 * [webbrain.json](https://github.com/lzwme/scoop-proxy-cn/blob/sync/bucket/webbrain.json)
 * [pdd.json](https://github.com/lzwme/scoop-proxy-cn/blob/sync/bucket/pdd.json)
@@ -10602,6 +10606,7 @@
 * [flowus.json](https://github.com/lzwme/scoop-proxy-cn/blob/sync/bucket/flowus.json)
 * [freerdp-nightly.json](https://github.com/lzwme/scoop-proxy-cn/blob/sync/bucket/freerdp-nightly.json)
 * [scummvm-nightly.json](https://github.com/lzwme/scoop-proxy-cn/blob/sync/bucket/scummvm-nightly.json)
+* [smart-svg-viewer.json](https://github.com/lzwme/scoop-proxy-cn/blob/sync/bucket/smart-svg-viewer.json)
 * [sing-box-beta.json](https://github.com/lzwme/scoop-proxy-cn/blob/sync/bucket/sing-box-beta.json)
 * [Inkdown.json](https://github.com/lzwme/scoop-proxy-cn/blob/sync/bucket/Inkdown.json)
 * [beef.json](https://github.com/lzwme/scoop-proxy-cn/blob/sync/bucket/beef.json)

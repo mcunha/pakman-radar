@@ -7,7 +7,7 @@
 
 
 
-## 📦 Recipes (260)
+## 📦 Recipes (261)
 * [Rubeus.json](https://github.com/arch3rPro/PST-Bucket/blob/main/bucket/Rubeus.json)
 * [wslpp.json](https://github.com/arch3rPro/PST-Bucket/blob/main/bucket/wslpp.json)
 * [DeimosC2.json](https://github.com/arch3rPro/PST-Bucket/blob/main/bucket/DeimosC2.json)
@@ -195,6 +195,7 @@
 * [weevely.json](https://github.com/arch3rPro/PST-Bucket/blob/main/bucket/weevely.json)
 * [AVEvasionCraftOnline.json](https://github.com/arch3rPro/PST-Bucket/blob/main/bucket/AVEvasionCraftOnline.json)
 * [openvpn.json](https://github.com/arch3rPro/PST-Bucket/blob/main/bucket/openvpn.json)
+* [AionUi.json](https://github.com/arch3rPro/PST-Bucket/blob/main/bucket/AionUi.json)
 * [rport.json](https://github.com/arch3rPro/PST-Bucket/blob/main/bucket/rport.json)
 * [v2rayN.json](https://github.com/arch3rPro/PST-Bucket/blob/main/bucket/v2rayN.json)
 * [qscan.json](https://github.com/arch3rPro/PST-Bucket/blob/main/bucket/qscan.json)
