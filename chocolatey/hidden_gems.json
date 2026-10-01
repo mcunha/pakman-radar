@@ -647,7 +647,7 @@
         "hacktoberfest"
       ],
       "last_checked": "2026-04-28T19:19:09Z",
-      "pushed_at": "2026-09-27T00:09:06Z",
+      "pushed_at": "2026-10-01T00:13:08Z",
       "archived": false,
       "disabled": false,
       "entries": [
@@ -923,7 +923,7 @@
         "powershell"
       ],
       "last_checked": "2026-04-27T23:39:52Z",
-      "pushed_at": "2026-09-27T19:09:00Z",
+      "pushed_at": "2026-09-30T21:35:37Z",
       "archived": false,
       "disabled": false,
       "entries": [
@@ -1331,7 +1331,7 @@
         "chocolatey-packages"
       ],
       "last_checked": "2026-04-27T15:14:20Z",
-      "pushed_at": "2026-09-28T20:30:28Z",
+      "pushed_at": "2026-09-29T20:12:31Z",
       "archived": false,
       "disabled": false,
       "entries": [
@@ -1400,7 +1400,7 @@
         "chocolatey-packages"
       ],
       "last_checked": "2026-06-03T06:05:10Z",
-      "pushed_at": "2026-09-25T00:08:09Z",
+      "pushed_at": "2026-09-30T08:10:05Z",
       "archived": false,
       "disabled": false,
       "entries": [
@@ -1456,22 +1456,22 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-09-30T23:55:43Z",
+    "generated_at": "2026-10-01T06:05:07Z",
     "count": 10,
     "global_metrics": {
-      "total_runs": 2253,
-      "total_run_time_seconds": 7872.454341411591,
-      "total_repo_updates": 135170,
+      "total_runs": 2254,
+      "total_run_time_seconds": 7878.277502536774,
+      "total_repo_updates": 135230,
       "previous_total_buckets": 226,
       "previous_total_recipes": 3327,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
       "total_evictions": 67,
       "total_api_retries": 2,
-      "last_run_discover_time": 0.2738063335418701,
-      "last_run_update_time": 1.5212347507476807,
+      "last_run_discover_time": 2.211925506591797,
+      "last_run_update_time": 3.5752182006835938,
       "ecosystem_reliability": 100.0,
-      "cache_size_mb": 0.8402318954467773,
+      "cache_size_mb": 0.8402233123779297,
       "total_unique_recipes": 2930,
       "auto_update_percentage": 36.01,
       "official_recipes": 481,
