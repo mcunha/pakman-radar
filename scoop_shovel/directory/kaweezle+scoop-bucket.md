@@ -10,5 +10,5 @@
 ## 📦 Recipes (4)
 * [krmfnbuiltin.json](https://github.com/kaweezle/scoop-bucket/blob/main/bucket/krmfnbuiltin.json)
 * [kaweezle.json](https://github.com/kaweezle/scoop-bucket/blob/main/bucket/kaweezle.json)
-* [karmafun.json](https://github.com/kaweezle/scoop-bucket/blob/main/bucket/karmafun.json)
 * [krmfnsops.json](https://github.com/kaweezle/scoop-bucket/blob/main/bucket/krmfnsops.json)
+* [karmafun.json](https://github.com/kaweezle/scoop-bucket/blob/main/bucket/karmafun.json)
