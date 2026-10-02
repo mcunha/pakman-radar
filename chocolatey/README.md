@@ -123,13 +123,13 @@ A combined list of every source discovered in the ecosystem.
 | **[zarethrex/chocolatey-openbve](directory/zarethrex+chocolatey-openbve.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[brogers5/chocolatey-package-goldwave](directory/brogers5+chocolatey-package-goldwave.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[schlotter/choco-packages](directory/schlotter+choco-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
-| **[brogers5/chocolatey-package-ps-remote-play](directory/brogers5+chocolatey-package-ps-remote-play.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[jufab/skaffold-chocolatey](directory/jufab+skaffold-chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[streamlink/streamlink-chocolatey](directory/streamlink+streamlink-chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[brogers5/chocolatey-package-ps-remote-play](directory/brogers5+chocolatey-package-ps-remote-play.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-localsend.install](directory/brogers5+chocolatey-package-localsend.install.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-localsend.portable](directory/brogers5+chocolatey-package-localsend.portable.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
-| **[brogers5/chocolatey-package-openrgb](directory/brogers5+chocolatey-package-openrgb.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[LogtalkDotOrg/chocolatey-packages](directory/LogtalkDotOrg+chocolatey-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[brogers5/chocolatey-package-openrgb](directory/brogers5+chocolatey-package-openrgb.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-openrgb.install](directory/brogers5+chocolatey-package-openrgb.install.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-openrgb.portable](directory/brogers5+chocolatey-package-openrgb.portable.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[open-circle-ltd/chocolatey.microsoft-office-deployment](directory/open-circle-ltd+chocolatey.microsoft-office-deployment.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
@@ -158,8 +158,8 @@ A combined list of every source discovered in the ecosystem.
 | **[sacloud/chocolatey-terraform-provider-sakuracloud](directory/sacloud+chocolatey-terraform-provider-sakuracloud.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[treeverse/chocolatey-dvc](directory/treeverse+chocolatey-dvc.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[gsmitheidw/visualparadigm-ce](directory/gsmitheidw+visualparadigm-ce.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[Takmg/chocolatey](directory/Takmg+chocolatey.md)** | 📦 4 | ⭐ 1.0 | 🔄 50% |  |
 | **[chocolatey-community/chocolatey-hooks](directory/chocolatey-community+chocolatey-hooks.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% | 👑 Official |
+| **[Takmg/chocolatey](directory/Takmg+chocolatey.md)** | 📦 4 | ⭐ 1.0 | 🔄 50% |  |
 | **[brogers5/chocolatey-package-sandisk-dashboard](directory/brogers5+chocolatey-package-sandisk-dashboard.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[terraform-docs/chocolatey-package](directory/terraform-docs+chocolatey-package.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[brogers5/chocolatey-package-livesplit](directory/brogers5+chocolatey-package-livesplit.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
@@ -269,8 +269,8 @@ A combined list of every source discovered in the ecosystem.
 | **[belidzs/chocolatey-flacsquisher](directory/belidzs+chocolatey-flacsquisher.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[belidzs/chocolatey-amt](directory/belidzs+chocolatey-amt.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[belidzs/chocolatey-ultradmm](directory/belidzs+chocolatey-ultradmm.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[langsamu/Chocolatey](directory/langsamu+Chocolatey.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
 | **[Xalaxis/choc-inssider-lite](directory/Xalaxis+choc-inssider-lite.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[langsamu/Chocolatey](directory/langsamu+Chocolatey.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
 | **[leewilson86/chocolatey-package-templates](directory/leewilson86+chocolatey-package-templates.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[leandrosimoes/chocolatey-packages](directory/leandrosimoes+chocolatey-packages.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
 | **[johndkane/Chocolatey-Packages-Repository](directory/johndkane+Chocolatey-Packages-Repository.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
@@ -297,8 +297,8 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 2259
-* **Total Repo Updates**: 135529
+* **Total Crawler Runs**: 2260
+* **Total Repo Updates**: 135587
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
@@ -306,6 +306,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 2
 * **Cache Size**: 💾 0.84 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 4.22s
-  * 📥 Update: 2.40s
-* **Cumulative Compute Time**: 131.7 minutes
+  * 🔍 Discovery: 3.99s
+  * 📥 Update: 2.66s
+* **Cumulative Compute Time**: 131.8 minutes
