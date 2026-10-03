@@ -1,10 +1,6 @@
 {
   "evictions": [
     {
-      "full_name": "Arama0517/scoop-bucket-x",
-      "evicted_at": "2026-07-05T18:28:54Z"
-    },
-    {
       "full_name": "sageil/scoop-bucket",
       "evicted_at": "2026-07-09T07:55:36Z"
     },
@@ -190,20 +186,20 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-10-03T18:01:58Z",
-    "count": 47,
+    "generated_at": "2026-10-03T21:24:20Z",
+    "count": 46,
     "global_metrics": {
-      "total_runs": 2265,
-      "total_run_time_seconds": 39983.08144450188,
-      "total_repo_updates": 75484,
+      "total_runs": 2266,
+      "total_run_time_seconds": 39997.2883310318,
+      "total_repo_updates": 75517,
       "previous_total_buckets": 10,
       "previous_total_recipes": 6305,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
       "total_evictions": 69,
       "total_api_retries": 2,
-      "last_run_discover_time": 0.20942163467407227,
-      "last_run_update_time": 17.248658657073975,
+      "last_run_discover_time": 2.839491605758667,
+      "last_run_update_time": 11.35343074798584,
       "ecosystem_reliability": 100.0,
       "cache_size_mb": 0.8463039398193359,
       "total_unique_recipes": 1873,
