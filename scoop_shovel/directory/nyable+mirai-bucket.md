@@ -8,10 +8,10 @@
 
 
 ## 📦 Recipes (7)
-* [asoul.json](https://github.com/nyable/mirai-bucket/blob/master/bucket/asoul.json)
 * [fanhuaji.json](https://github.com/nyable/mirai-bucket/blob/master/bucket/fanhuaji.json)
-* [ContextMenuManager.json](https://github.com/nyable/mirai-bucket/blob/master/bucket/ContextMenuManager.json)
 * [assfonts.json](https://github.com/nyable/mirai-bucket/blob/master/bucket/assfonts.json)
 * [nyaru.json](https://github.com/nyable/mirai-bucket/blob/master/bucket/nyaru.json)
 * [process-explorer.json](https://github.com/nyable/mirai-bucket/blob/master/bucket/process-explorer.json)
+* [asoul.json](https://github.com/nyable/mirai-bucket/blob/master/bucket/asoul.json)
 * [Snap2HTML.json](https://github.com/nyable/mirai-bucket/blob/master/bucket/Snap2HTML.json)
+* [ContextMenuManager.json](https://github.com/nyable/mirai-bucket/blob/master/bucket/ContextMenuManager.json)
