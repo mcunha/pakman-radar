@@ -179,29 +179,33 @@
     {
       "full_name": "quardbreak/scoop-bucket",
       "evicted_at": "2026-10-04T17:38:48Z"
+    },
+    {
+      "full_name": "hankitools/scoop-bucket",
+      "evicted_at": "2026-10-06T21:41:03Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-10-06T17:16:51Z",
-    "count": 45,
+    "generated_at": "2026-10-06T21:41:23Z",
+    "count": 46,
     "global_metrics": {
-      "total_runs": 2278,
-      "total_run_time_seconds": 339995.7475168705,
-      "total_repo_updates": 149896,
+      "total_runs": 2279,
+      "total_run_time_seconds": 340019.0319092274,
+      "total_repo_updates": 149964,
       "previous_total_buckets": 1685,
-      "previous_total_recipes": 143409,
-      "bucket_velocity": 2,
-      "recipe_velocity": 5,
-      "total_evictions": 66,
+      "previous_total_recipes": 143410,
+      "bucket_velocity": 0,
+      "recipe_velocity": 1,
+      "total_evictions": 67,
       "total_api_retries": 2,
-      "last_run_discover_time": 2.6783254146575928,
-      "last_run_update_time": 47.60604429244995,
-      "ecosystem_reliability": 88.6,
-      "cache_size_mb": 10.914114952087402,
-      "total_unique_recipes": 32145,
+      "last_run_discover_time": 2.346179723739624,
+      "last_run_update_time": 20.137654066085815,
+      "ecosystem_reliability": 88.7,
+      "cache_size_mb": 10.915078163146973,
+      "total_unique_recipes": 32146,
       "auto_update_percentage": 85.45,
       "official_recipes": 65135,
-      "community_recipes": 78274,
+      "community_recipes": 78275,
       "stale_buckets": 494,
       "shovel_buckets": 25,
       "scoop_buckets": 1660
