@@ -1,10 +1,6 @@
 {
   "evictions": [
     {
-      "full_name": "KubeOrch/scoop",
-      "evicted_at": "2026-07-10T15:05:05Z"
-    },
-    {
       "full_name": "Arama0517/scoop-proxy-cn",
       "evicted_at": "2026-07-11T10:36:34Z"
     },
@@ -190,20 +186,20 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-10-08T09:06:08Z",
-    "count": 47,
+    "generated_at": "2026-10-08T16:35:20Z",
+    "count": 46,
     "global_metrics": {
-      "total_runs": 2285,
-      "total_run_time_seconds": 7999.042885303497,
-      "total_repo_updates": 137050,
+      "total_runs": 2286,
+      "total_run_time_seconds": 8001.311846971512,
+      "total_repo_updates": 137108,
       "previous_total_buckets": 226,
       "previous_total_recipes": 3327,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
       "total_evictions": 71,
       "total_api_retries": 2,
-      "last_run_discover_time": 0.21863818168640137,
-      "last_run_update_time": 2.185192108154297,
+      "last_run_discover_time": 0.5428245067596436,
+      "last_run_update_time": 1.6937439441680908,
       "ecosystem_reliability": 100.0,
       "cache_size_mb": 0.841090202331543,
       "total_unique_recipes": 2930,

@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [kcplens.json](https://github.com/pteich/scoop-bucket/blob/main/bucket/kcplens.json)
 * [crdlens.json](https://github.com/pteich/scoop-bucket/blob/main/bucket/crdlens.json)
+* [kcplens.json](https://github.com/pteich/scoop-bucket/blob/main/bucket/kcplens.json)
