@@ -1,10 +1,6 @@
 {
   "evictions": [
     {
-      "full_name": "carryon-dev/scoop-bucket",
-      "evicted_at": "2026-07-09T22:45:27Z"
-    },
-    {
       "full_name": "KubeOrch/scoop",
       "evicted_at": "2026-07-10T15:05:05Z"
     },
@@ -179,32 +175,36 @@
     {
       "full_name": "hankitools/scoop-bucket",
       "evicted_at": "2026-10-06T21:41:03Z"
+    },
+    {
+      "full_name": "Hzbeta/scoop-zephyr",
+      "evicted_at": "2026-10-08T02:01:28Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-10-07T22:04:03Z",
+    "generated_at": "2026-10-08T02:02:26Z",
     "count": 45,
     "global_metrics": {
-      "total_runs": 2283,
-      "total_run_time_seconds": 340505.3871085644,
-      "total_repo_updates": 150280,
-      "previous_total_buckets": 1690,
-      "previous_total_recipes": 143415,
-      "bucket_velocity": 0,
-      "recipe_velocity": 0,
-      "total_evictions": 67,
+      "total_runs": 2284,
+      "total_run_time_seconds": 340568.9650936127,
+      "total_repo_updates": 150363,
+      "previous_total_buckets": 1689,
+      "previous_total_recipes": 143413,
+      "bucket_velocity": -1,
+      "recipe_velocity": -2,
+      "total_evictions": 68,
       "total_api_retries": 2,
-      "last_run_discover_time": 0.33093762397766113,
-      "last_run_update_time": 22.466986656188965,
+      "last_run_discover_time": 2.6010851860046387,
+      "last_run_update_time": 60.05331993103027,
       "ecosystem_reliability": 88.3,
-      "cache_size_mb": 10.915512084960938,
+      "cache_size_mb": 10.915306091308594,
       "total_unique_recipes": 32151,
       "auto_update_percentage": 85.45,
-      "official_recipes": 65135,
-      "community_recipes": 78280,
+      "official_recipes": 65134,
+      "community_recipes": 78279,
       "stale_buckets": 495,
       "shovel_buckets": 25,
-      "scoop_buckets": 1665
+      "scoop_buckets": 1664
     }
   }
 }

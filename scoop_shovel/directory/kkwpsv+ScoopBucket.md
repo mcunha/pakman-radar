@@ -11,6 +11,6 @@
 * [WindowDebugger.json](https://github.com/kkwpsv/ScoopBucket/blob/master/bucket/WindowDebugger.json)
 * [dnSpy-netfx.json](https://github.com/kkwpsv/ScoopBucket/blob/master/bucket/dnSpy-netfx.json)
 * [dnSpy.json](https://github.com/kkwpsv/ScoopBucket/blob/master/bucket/dnSpy.json)
-* [bitvise-ssh-client-np.json](https://github.com/kkwpsv/ScoopBucket/blob/master/bucket/bitvise-ssh-client-np.json)
-* [dnSpy-x86.json](https://github.com/kkwpsv/ScoopBucket/blob/master/bucket/dnSpy-x86.json)
 * [ffdec.json](https://github.com/kkwpsv/ScoopBucket/blob/master/bucket/ffdec.json)
+* [dnSpy-x86.json](https://github.com/kkwpsv/ScoopBucket/blob/master/bucket/dnSpy-x86.json)
+* [bitvise-ssh-client-np.json](https://github.com/kkwpsv/ScoopBucket/blob/master/bucket/bitvise-ssh-client-np.json)
