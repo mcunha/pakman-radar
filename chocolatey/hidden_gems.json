@@ -14,7 +14,7 @@
         "reverse-engineering"
       ],
       "last_checked": "2026-05-23T20:39:52Z",
-      "pushed_at": "2026-09-30T22:57:04Z",
+      "pushed_at": "2026-10-07T22:42:26Z",
       "archived": false,
       "disabled": false,
       "entries": [
@@ -1034,7 +1034,7 @@
         "manual-packages"
       ],
       "last_checked": "2026-04-28T19:19:08Z",
-      "pushed_at": "2026-10-06T12:14:20Z",
+      "pushed_at": "2026-10-09T06:09:16Z",
       "archived": false,
       "disabled": false,
       "entries": [
@@ -1456,22 +1456,22 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-10-09T09:13:14Z",
+    "generated_at": "2026-10-09T16:19:12Z",
     "count": 10,
     "global_metrics": {
-      "total_runs": 2289,
-      "total_run_time_seconds": 8010.64764547348,
-      "total_repo_updates": 137286,
+      "total_runs": 2290,
+      "total_run_time_seconds": 8015.791044950485,
+      "total_repo_updates": 137347,
       "previous_total_buckets": 226,
       "previous_total_recipes": 3327,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
-      "total_evictions": 71,
+      "total_evictions": 72,
       "total_api_retries": 2,
-      "last_run_discover_time": 0.28723573684692383,
-      "last_run_update_time": 2.4342503547668457,
+      "last_run_discover_time": 3.106699228286743,
+      "last_run_update_time": 2.0144834518432617,
       "ecosystem_reliability": 100.0,
-      "cache_size_mb": 0.8410243988037109,
+      "cache_size_mb": 0.8410272598266602,
       "total_unique_recipes": 2930,
       "auto_update_percentage": 36.01,
       "official_recipes": 481,

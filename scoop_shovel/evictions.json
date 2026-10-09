@@ -1,10 +1,6 @@
 {
   "evictions": [
     {
-      "full_name": "Arama0517/scoop-proxy-cn",
-      "evicted_at": "2026-07-11T10:36:34Z"
-    },
-    {
       "full_name": "nebinfra/scoop-bucket",
       "evicted_at": "2026-07-21T22:14:01Z"
     },
@@ -175,29 +171,33 @@
     {
       "full_name": "Hzbeta/scoop-zephyr",
       "evicted_at": "2026-10-08T02:01:28Z"
+    },
+    {
+      "full_name": "Icaro0310/scoop-bucket",
+      "evicted_at": "2026-10-09T16:19:00Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-10-09T09:13:11Z",
+    "generated_at": "2026-10-09T16:19:07Z",
     "count": 44,
     "global_metrics": {
-      "total_runs": 2289,
-      "total_run_time_seconds": 340773.09442687035,
-      "total_repo_updates": 150778,
+      "total_runs": 2290,
+      "total_run_time_seconds": 340804.4533610344,
+      "total_repo_updates": 150857,
       "previous_total_buckets": 1699,
-      "previous_total_recipes": 143428,
-      "bucket_velocity": 1,
-      "recipe_velocity": 1,
-      "total_evictions": 68,
+      "previous_total_recipes": 143427,
+      "bucket_velocity": 0,
+      "recipe_velocity": -1,
+      "total_evictions": 69,
       "total_api_retries": 2,
-      "last_run_discover_time": 3.3244781494140625,
-      "last_run_update_time": 65.71405529975891,
-      "ecosystem_reliability": 88.3,
-      "cache_size_mb": 10.924928665161133,
-      "total_unique_recipes": 32164,
+      "last_run_discover_time": 3.66924786567688,
+      "last_run_update_time": 26.751368284225464,
+      "ecosystem_reliability": 88.0,
+      "cache_size_mb": 10.923798561096191,
+      "total_unique_recipes": 32163,
       "auto_update_percentage": 85.45,
       "official_recipes": 65135,
-      "community_recipes": 78293,
+      "community_recipes": 78292,
       "stale_buckets": 499,
       "shovel_buckets": 25,
       "scoop_buckets": 1674
