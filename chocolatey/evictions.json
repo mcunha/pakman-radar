@@ -183,23 +183,27 @@
     {
       "full_name": "Icaro0310/scoop-bucket",
       "evicted_at": "2026-10-09T16:19:00Z"
+    },
+    {
+      "full_name": "zirnc/peach",
+      "evicted_at": "2026-10-12T15:37:32Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-10-12T06:11:14Z",
-    "count": 46,
+    "generated_at": "2026-10-12T15:39:08Z",
+    "count": 47,
     "global_metrics": {
-      "total_runs": 2302,
-      "total_run_time_seconds": 8072.57652759552,
-      "total_repo_updates": 138056,
+      "total_runs": 2303,
+      "total_run_time_seconds": 8078.92991232872,
+      "total_repo_updates": 138116,
       "previous_total_buckets": 226,
       "previous_total_recipes": 3327,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
-      "total_evictions": 72,
+      "total_evictions": 73,
       "total_api_retries": 2,
-      "last_run_discover_time": 0.2346034049987793,
-      "last_run_update_time": 2.1278042793273926,
+      "last_run_discover_time": 4.301854848861694,
+      "last_run_update_time": 2.026566505432129,
       "ecosystem_reliability": 100.0,
       "cache_size_mb": 0.8427371978759766,
       "total_unique_recipes": 2930,
