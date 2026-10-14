@@ -152,15 +152,15 @@ A combined list of every source discovered in the ecosystem.
 | **[open-circle-ltd/chocolatey.wwphone-cti](directory/open-circle-ltd+chocolatey.wwphone-cti.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.wwphone](directory/open-circle-ltd+chocolatey.wwphone.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[blaiz2023/Blaiz-Tools](directory/blaiz2023+Blaiz-Tools.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[leejongyoung/egovframe-chocolatey](directory/leejongyoung+egovframe-chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[philiparola/chocolatey-packages](directory/philiparola+chocolatey-packages.md)** | 📦 3 | ⭐ 1.0 | 🔄 0% |  |
+| **[leejongyoung/egovframe-chocolatey](directory/leejongyoung+egovframe-chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[sacloud/chocolatey-docker-machine-sakuracloud](directory/sacloud+chocolatey-docker-machine-sakuracloud.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[sacloud/chocolatey-terraform-provider-sakuracloud](directory/sacloud+chocolatey-terraform-provider-sakuracloud.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[treeverse/chocolatey-dvc](directory/treeverse+chocolatey-dvc.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[gsmitheidw/visualparadigm-ce](directory/gsmitheidw+visualparadigm-ce.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[chocolatey-community/chocolatey-hooks](directory/chocolatey-community+chocolatey-hooks.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% | 👑 Official |
-| **[brogers5/chocolatey-package-sandisk-dashboard](directory/brogers5+chocolatey-package-sandisk-dashboard.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[Takmg/chocolatey](directory/Takmg+chocolatey.md)** | 📦 4 | ⭐ 1.0 | 🔄 50% |  |
+| **[brogers5/chocolatey-package-sandisk-dashboard](directory/brogers5+chocolatey-package-sandisk-dashboard.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[terraform-docs/chocolatey-package](directory/terraform-docs+chocolatey-package.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[brogers5/chocolatey-package-livesplit](directory/brogers5+chocolatey-package-livesplit.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[AJDurant/choco-docker-engine](directory/AJDurant+choco-docker-engine.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
@@ -217,9 +217,9 @@ A combined list of every source discovered in the ecosystem.
 | **[open-circle-ltd/chocolatey.adobe-acrobat-reader-dc](directory/open-circle-ltd+chocolatey.adobe-acrobat-reader-dc.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[Kristinita/SashaChocolatey](directory/Kristinita+SashaChocolatey.md)** | 📦 37 | ⭐ 1.0 | 🔄 0% |  |
 | **[skadogg/ghostwriter-portable](directory/skadogg+ghostwriter-portable.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[open-circle-ltd/chocolatey.rsa-secureid-software-token](directory/open-circle-ltd+chocolatey.rsa-secureid-software-token.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.adobe-creative-cloud](directory/open-circle-ltd+chocolatey.adobe-creative-cloud.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.jabra-direct](directory/open-circle-ltd+chocolatey.jabra-direct.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[open-circle-ltd/chocolatey.rsa-secureid-software-token](directory/open-circle-ltd+chocolatey.rsa-secureid-software-token.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.lenovo-thinkpad-usb-c-driver](directory/open-circle-ltd+chocolatey.lenovo-thinkpad-usb-c-driver.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.isl-light-client](directory/open-circle-ltd+chocolatey.isl-light-client.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[TheClonker/rednotebook-chocolatey](directory/TheClonker+rednotebook-chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
@@ -297,8 +297,8 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 2309
-* **Total Repo Updates**: 138470
+* **Total Crawler Runs**: 2310
+* **Total Repo Updates**: 138529
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
@@ -306,6 +306,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 2
 * **Cache Size**: 💾 0.84 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 0.23s
-  * 📥 Update: 1.58s
+  * 🔍 Discovery: 0.19s
+  * 📥 Update: 1.85s
 * **Cumulative Compute Time**: 135.0 minutes
