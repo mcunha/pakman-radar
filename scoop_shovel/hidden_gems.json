@@ -514,7 +514,7 @@
         "scoop-bucket"
       ],
       "last_checked": "2026-10-13T19:21:11Z",
-      "pushed_at": "2026-10-07T16:25:20Z",
+      "pushed_at": "2026-10-13T14:03:51Z",
       "archived": false,
       "disabled": false,
       "entries": [
@@ -734,9 +734,9 @@
       "uniqueness_ratio": 1.0,
       "auto_update_percentage": 100.0,
       "final_score": 167.92962094733642,
-      "current_rank": 129,
-      "rank_velocity": 0,
-      "previous_rank": 129,
+      "current_rank": 130,
+      "rank_velocity": -1,
+      "previous_rank": 130,
       "is_scoop_official": false,
       "is_scoop_known": false,
       "is_shovel_official": false,
@@ -1045,29 +1045,29 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-10-15T06:00:49Z",
+    "generated_at": "2026-10-15T11:39:09Z",
     "count": 10,
     "global_metrics": {
-      "total_runs": 2315,
-      "total_run_time_seconds": 342886.9331743717,
-      "total_repo_updates": 152807,
-      "previous_total_buckets": 1731,
-      "previous_total_recipes": 143696,
-      "bucket_velocity": 5,
-      "recipe_velocity": 7,
+      "total_runs": 2316,
+      "total_run_time_seconds": 342956.6454734802,
+      "total_repo_updates": 152883,
+      "previous_total_buckets": 1733,
+      "previous_total_recipes": 143698,
+      "bucket_velocity": 2,
+      "recipe_velocity": 2,
       "total_evictions": 70,
       "total_api_retries": 2,
-      "last_run_discover_time": 2.7103350162506104,
-      "last_run_update_time": 213.8563323020935,
-      "ecosystem_reliability": 88.9,
-      "cache_size_mb": 10.952611923217773,
-      "total_unique_recipes": 32207,
+      "last_run_discover_time": 2.7963552474975586,
+      "last_run_update_time": 66.05963850021362,
+      "ecosystem_reliability": 89.0,
+      "cache_size_mb": 10.954389572143555,
+      "total_unique_recipes": 32209,
       "auto_update_percentage": 85.46,
       "official_recipes": 65196,
-      "community_recipes": 78500,
+      "community_recipes": 78502,
       "stale_buckets": 499,
       "shovel_buckets": 25,
-      "scoop_buckets": 1706
+      "scoop_buckets": 1708
     }
   }
 }
