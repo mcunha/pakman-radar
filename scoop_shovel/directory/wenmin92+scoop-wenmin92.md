@@ -9,6 +9,6 @@
 
 ## 📦 Recipes (4)
 * [registryworkshop.json](https://github.com/wenmin92/scoop-wenmin92/blob/master/bucket/registryworkshop.json)
-* [ediary.json](https://github.com/wenmin92/scoop-wenmin92/blob/master/bucket/ediary.json)
 * [macrocreator.json](https://github.com/wenmin92/scoop-wenmin92/blob/master/bucket/macrocreator.json)
 * [xyplorer-pro.json](https://github.com/wenmin92/scoop-wenmin92/blob/master/bucket/xyplorer-pro.json)
+* [ediary.json](https://github.com/wenmin92/scoop-wenmin92/blob/master/bucket/ediary.json)
