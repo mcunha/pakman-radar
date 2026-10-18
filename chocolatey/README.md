@@ -209,8 +209,8 @@ A combined list of every source discovered in the ecosystem.
 | **[brogers5/chocolatey-package-paraffin](directory/brogers5+chocolatey-package-paraffin.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-vcam.ai](directory/brogers5+chocolatey-package-vcam.ai.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[giseongeom/chocolatey-packages](directory/giseongeom+chocolatey-packages.md)** | 📦 13 | ⭐ 1.0 | 🔄 0% |  |
-| **[simeononsecurity/chocolateypackages](directory/simeononsecurity+chocolateypackages.md)** | 📦 9 | ⭐ 1.0 | 🔄 22% |  |
 | **[Mahagon/chocolatey-packages](directory/Mahagon+chocolatey-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[simeononsecurity/chocolateypackages](directory/simeononsecurity+chocolateypackages.md)** | 📦 9 | ⭐ 1.0 | 🔄 22% |  |
 | **[HaxeFoundation/haxe-choco](directory/HaxeFoundation+haxe-choco.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
 | **[joaoopereira/chocolatey-packages](directory/joaoopereira+chocolatey-packages.md)** | 📦 4 | ⭐ 1.0 | 🔄 100% |  |
 | **[JourneyOver/chocolatey-packages](directory/JourneyOver+chocolatey-packages.md)** | 📦 34 | ⭐ 1.0 | 🔄 0% |  |
@@ -297,8 +297,8 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 2337
-* **Total Repo Updates**: 140120
+* **Total Crawler Runs**: 2338
+* **Total Repo Updates**: 140179
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
@@ -306,6 +306,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 2
 * **Cache Size**: 💾 0.84 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 3.50s
-  * 📥 Update: 1.72s
-* **Cumulative Compute Time**: 136.7 minutes
+  * 🔍 Discovery: 2.68s
+  * 📥 Update: 1.56s
+* **Cumulative Compute Time**: 136.8 minutes
