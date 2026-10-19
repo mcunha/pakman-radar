@@ -1,10 +1,6 @@
 {
   "evictions": [
     {
-      "full_name": "nebinfra/scoop-bucket",
-      "evicted_at": "2026-07-21T22:14:01Z"
-    },
-    {
       "full_name": "rkolka/scoop-manifold",
       "evicted_at": "2026-07-25T15:32:11Z"
     },
@@ -182,29 +178,29 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-10-19T20:01:02Z",
-    "count": 45,
+    "generated_at": "2026-10-19T23:47:06Z",
+    "count": 44,
     "global_metrics": {
-      "total_runs": 2342,
-      "total_run_time_seconds": 344862.96579766273,
-      "total_repo_updates": 154937,
-      "previous_total_buckets": 1767,
-      "previous_total_recipes": 143750,
-      "bucket_velocity": 2,
-      "recipe_velocity": 2,
+      "total_runs": 2343,
+      "total_run_time_seconds": 344882.00928521156,
+      "total_repo_updates": 155020,
+      "previous_total_buckets": 1771,
+      "previous_total_recipes": 143755,
+      "bucket_velocity": 4,
+      "recipe_velocity": 5,
       "total_evictions": 70,
       "total_api_retries": 2,
-      "last_run_discover_time": 3.0002992153167725,
-      "last_run_update_time": 14.294039726257324,
-      "ecosystem_reliability": 88.6,
-      "cache_size_mb": 10.977313041687012,
-      "total_unique_recipes": 32253,
+      "last_run_discover_time": 2.8356189727783203,
+      "last_run_update_time": 15.246488571166992,
+      "ecosystem_reliability": 88.8,
+      "cache_size_mb": 10.978683471679688,
+      "total_unique_recipes": 32258,
       "auto_update_percentage": 85.46,
       "official_recipes": 65197,
-      "community_recipes": 78553,
+      "community_recipes": 78558,
       "stale_buckets": 502,
       "shovel_buckets": 25,
-      "scoop_buckets": 1742
+      "scoop_buckets": 1746
     }
   }
 }
