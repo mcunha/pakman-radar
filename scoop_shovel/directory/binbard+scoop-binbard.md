@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [send.json](https://github.com/binbard/scoop-binbard/blob/master/bucket/send.json)
 * [markpad.json](https://github.com/binbard/scoop-binbard/blob/master/bucket/markpad.json)
+* [send.json](https://github.com/binbard/scoop-binbard/blob/master/bucket/send.json)
