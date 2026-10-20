@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [sannybuilder.json](https://github.com/Shivelight/bucket/blob/master/bucket/sannybuilder.json)
 * [equilotl-cli.json](https://github.com/Shivelight/bucket/blob/master/bucket/equilotl-cli.json)
+* [sannybuilder.json](https://github.com/Shivelight/bucket/blob/master/bucket/sannybuilder.json)

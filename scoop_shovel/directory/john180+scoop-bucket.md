@@ -9,9 +9,9 @@
 
 ## 📦 Recipes (7)
 * [antigravity-manager.json](https://github.com/john180/scoop-bucket/blob/master/bucket/antigravity-manager.json)
+* [gui-for-singbox.json](https://github.com/john180/scoop-bucket/blob/master/bucket/gui-for-singbox.json)
 * [ztools.json](https://github.com/john180/scoop-bucket/blob/master/bucket/ztools.json)
-* [maa-ci.json](https://github.com/john180/scoop-bucket/blob/master/bucket/maa-ci.json)
-* [maa-end.json](https://github.com/john180/scoop-bucket/blob/master/bucket/maa-end.json)
 * [claude-code.json](https://github.com/john180/scoop-bucket/blob/master/bucket/claude-code.json)
 * [cherry-studio.json](https://github.com/john180/scoop-bucket/blob/master/bucket/cherry-studio.json)
-* [gui-for-singbox.json](https://github.com/john180/scoop-bucket/blob/master/bucket/gui-for-singbox.json)
+* [maa-end.json](https://github.com/john180/scoop-bucket/blob/master/bucket/maa-end.json)
+* [maa-ci.json](https://github.com/john180/scoop-bucket/blob/master/bucket/maa-ci.json)
