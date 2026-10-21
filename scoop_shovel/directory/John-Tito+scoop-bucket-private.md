@@ -9,7 +9,7 @@
 
 ## 📦 Recipes (5)
 * [SnowDesktop.json](https://github.com/John-Tito/scoop-bucket-private/blob/main/bucket/SnowDesktop.json)
-* [pure-live.json](https://github.com/John-Tito/scoop-bucket-private/blob/main/bucket/pure-live.json)
-* [AssetStudio-net10.json](https://github.com/John-Tito/scoop-bucket-private/blob/main/bucket/AssetStudio-net10.json)
 * [AssetStudio-net8.json](https://github.com/John-Tito/scoop-bucket-private/blob/main/bucket/AssetStudio-net8.json)
+* [AssetStudio-net10.json](https://github.com/John-Tito/scoop-bucket-private/blob/main/bucket/AssetStudio-net10.json)
+* [pure-live.json](https://github.com/John-Tito/scoop-bucket-private/blob/main/bucket/pure-live.json)
 * [kazumi.json](https://github.com/John-Tito/scoop-bucket-private/blob/main/bucket/kazumi.json)

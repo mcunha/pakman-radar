@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [nebcli.json](https://github.com/nebinfra/scoop-bucket/blob/main/bucket/nebcli.json)
 * [nebguard.json](https://github.com/nebinfra/scoop-bucket/blob/main/bucket/nebguard.json)
+* [nebcli.json](https://github.com/nebinfra/scoop-bucket/blob/main/bucket/nebcli.json)
