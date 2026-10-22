@@ -8,6 +8,6 @@
 
 
 ## 📦 Recipes (3)
-* [auto-clicker.json](https://github.com/limburatorul/scoop-bucket/blob/main/bucket/auto-clicker.json)
 * [steamradar.json](https://github.com/limburatorul/scoop-bucket/blob/main/bucket/steamradar.json)
+* [auto-clicker.json](https://github.com/limburatorul/scoop-bucket/blob/main/bucket/auto-clicker.json)
 * [lume.json](https://github.com/limburatorul/scoop-bucket/blob/main/bucket/lume.json)
