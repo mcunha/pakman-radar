@@ -1,10 +1,6 @@
 {
   "evictions": [
     {
-      "full_name": "rkolka/scoop-manifold",
-      "evicted_at": "2026-07-25T15:32:11Z"
-    },
-    {
       "full_name": "tony-sung/ScoopPersonalBucket",
       "evicted_at": "2026-07-25T22:13:08Z"
     },
@@ -175,32 +171,36 @@
     {
       "full_name": "zirnc/peach",
       "evicted_at": "2026-10-12T15:37:32Z"
+    },
+    {
+      "full_name": "ChungZH/peach",
+      "evicted_at": "2026-10-23T17:15:10Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-10-23T11:47:44Z",
+    "generated_at": "2026-10-23T17:16:12Z",
     "count": 44,
     "global_metrics": {
-      "total_runs": 2362,
-      "total_run_time_seconds": 346512.50979042053,
-      "total_repo_updates": 156572,
-      "previous_total_buckets": 1788,
-      "previous_total_recipes": 143781,
-      "bucket_velocity": 0,
-      "recipe_velocity": 0,
-      "total_evictions": 70,
+      "total_runs": 2363,
+      "total_run_time_seconds": 346608.1427998543,
+      "total_repo_updates": 156833,
+      "previous_total_buckets": 1789,
+      "previous_total_recipes": 143767,
+      "bucket_velocity": 1,
+      "recipe_velocity": -14,
+      "total_evictions": 71,
       "total_api_retries": 2,
-      "last_run_discover_time": 3.982591152191162,
-      "last_run_update_time": 22.58354377746582,
-      "ecosystem_reliability": 88.4,
-      "cache_size_mb": 10.9896240234375,
-      "total_unique_recipes": 32274,
+      "last_run_discover_time": 3.8309388160705566,
+      "last_run_update_time": 90.65696024894714,
+      "ecosystem_reliability": 88.0,
+      "cache_size_mb": 10.990276336669922,
+      "total_unique_recipes": 32275,
       "auto_update_percentage": 85.46,
-      "official_recipes": 65206,
-      "community_recipes": 78575,
-      "stale_buckets": 502,
+      "official_recipes": 65205,
+      "community_recipes": 78562,
+      "stale_buckets": 501,
       "shovel_buckets": 25,
-      "scoop_buckets": 1763
+      "scoop_buckets": 1764
     }
   }
 }
