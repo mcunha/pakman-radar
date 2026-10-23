@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [hermes-desktop-light.json](https://github.com/takano536/scoop-bucket/blob/main/bucket/hermes-desktop-light.json)
 * [UDEVGothic-NF.json](https://github.com/takano536/scoop-bucket/blob/main/bucket/UDEVGothic-NF.json)
+* [hermes-desktop-light.json](https://github.com/takano536/scoop-bucket/blob/main/bucket/hermes-desktop-light.json)
