@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [codexplusplus.json](https://github.com/zanderzhng/scoop-bucket/blob/main/bucket/codexplusplus.json)
 * [codextools.json](https://github.com/zanderzhng/scoop-bucket/blob/main/bucket/codextools.json)
+* [codexplusplus.json](https://github.com/zanderzhng/scoop-bucket/blob/main/bucket/codexplusplus.json)
