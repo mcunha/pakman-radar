@@ -7,7 +7,7 @@
 
 
 
-## 📦 Recipes (19337)
+## 📦 Recipes (19342)
 * [objeck.json](https://github.com/okibcn/ScoopMaster/blob/master/bucket/objeck.json)
 * [opencomic-beta.json](https://github.com/okibcn/ScoopMaster/blob/master/bucket/opencomic-beta.json)
 * [errorlookup.json](https://github.com/okibcn/ScoopMaster/blob/master/bucket/errorlookup.json)
@@ -2995,6 +2995,7 @@
 * [deck.json](https://github.com/okibcn/ScoopMaster/blob/master/bucket/deck.json)
 * [erlang@24.3.4.4.json](https://github.com/okibcn/ScoopMaster/blob/master/bucket/erlang@24.3.4.4.json)
 * [buildkit_batkiz.json](https://github.com/okibcn/ScoopMaster/blob/master/bucket/buildkit_batkiz.json)
+* [uncolored.json](https://github.com/okibcn/ScoopMaster/blob/master/bucket/uncolored.json)
 * [nomacs_ScoopInstaller.json](https://github.com/okibcn/ScoopMaster/blob/master/bucket/nomacs_ScoopInstaller.json)
 * [libusb.json](https://github.com/okibcn/ScoopMaster/blob/master/bucket/libusb.json)
 * [upscaler.json](https://github.com/okibcn/ScoopMaster/blob/master/bucket/upscaler.json)
@@ -3673,6 +3674,7 @@
 * [sarasa-mono-j-nerd-font.json](https://github.com/okibcn/ScoopMaster/blob/master/bucket/sarasa-mono-j-nerd-font.json)
 * [tsukimi.json](https://github.com/okibcn/ScoopMaster/blob/master/bucket/tsukimi.json)
 * [keepass-plugin-kpscript.json](https://github.com/okibcn/ScoopMaster/blob/master/bucket/keepass-plugin-kpscript.json)
+* [shutter_naderi.json](https://github.com/okibcn/ScoopMaster/blob/master/bucket/shutter_naderi.json)
 * [xplorer2lite.json](https://github.com/okibcn/ScoopMaster/blob/master/bucket/xplorer2lite.json)
 * [blish-hud.json](https://github.com/okibcn/ScoopMaster/blob/master/bucket/blish-hud.json)
 * [pdg2pic.json](https://github.com/okibcn/ScoopMaster/blob/master/bucket/pdg2pic.json)
@@ -10123,6 +10125,7 @@
 * [wintun.json](https://github.com/okibcn/ScoopMaster/blob/master/bucket/wintun.json)
 * [hdr10plus_tool.json](https://github.com/okibcn/ScoopMaster/blob/master/bucket/hdr10plus_tool.json)
 * [chrono.json](https://github.com/okibcn/ScoopMaster/blob/master/bucket/chrono.json)
+* [securefs.json](https://github.com/okibcn/ScoopMaster/blob/master/bucket/securefs.json)
 * [nano_rivy.json](https://github.com/okibcn/ScoopMaster/blob/master/bucket/nano_rivy.json)
 * [dankerino-qt5.json](https://github.com/okibcn/ScoopMaster/blob/master/bucket/dankerino-qt5.json)
 * [openssl@1.0.2u.json](https://github.com/okibcn/ScoopMaster/blob/master/bucket/openssl@1.0.2u.json)
@@ -11990,6 +11993,7 @@
 * [microsoft-edge-canary-portable.json](https://github.com/okibcn/ScoopMaster/blob/master/bucket/microsoft-edge-canary-portable.json)
 * [dopamine.json](https://github.com/okibcn/ScoopMaster/blob/master/bucket/dopamine.json)
 * [frostwire.json](https://github.com/okibcn/ScoopMaster/blob/master/bucket/frostwire.json)
+* [markdown-edit.json](https://github.com/okibcn/ScoopMaster/blob/master/bucket/markdown-edit.json)
 * [8bitdo-firmware.json](https://github.com/okibcn/ScoopMaster/blob/master/bucket/8bitdo-firmware.json)
 * [miniweb.json](https://github.com/okibcn/ScoopMaster/blob/master/bucket/miniweb.json)
 * [notify_whoopscs.json](https://github.com/okibcn/ScoopMaster/blob/master/bucket/notify_whoopscs.json)
@@ -13414,6 +13418,7 @@
 * [zvm.json](https://github.com/okibcn/ScoopMaster/blob/master/bucket/zvm.json)
 * [Flutter-Coolapk.json](https://github.com/okibcn/ScoopMaster/blob/master/bucket/Flutter-Coolapk.json)
 * [openvpn_ACooper81.json](https://github.com/okibcn/ScoopMaster/blob/master/bucket/openvpn_ACooper81.json)
+* [ganjoor.json](https://github.com/okibcn/ScoopMaster/blob/master/bucket/ganjoor.json)
 * [sometypemono.json](https://github.com/okibcn/ScoopMaster/blob/master/bucket/sometypemono.json)
 * [pandownload_kidonng.json](https://github.com/okibcn/ScoopMaster/blob/master/bucket/pandownload_kidonng.json)
 * [webbrain.json](https://github.com/okibcn/ScoopMaster/blob/master/bucket/webbrain.json)
