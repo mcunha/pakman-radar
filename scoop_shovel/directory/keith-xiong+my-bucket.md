@@ -8,11 +8,11 @@
 
 
 ## 📦 Recipes (8)
-* [bypass.json](https://github.com/keith-xiong/my-bucket/blob/master/bucket/bypass.json)
-* [utools.json](https://github.com/keith-xiong/my-bucket/blob/master/bucket/utools.json)
-* [cascadia-pl.json](https://github.com/keith-xiong/my-bucket/blob/master/bucket/cascadia-pl.json)
-* [nvs.json](https://github.com/keith-xiong/my-bucket/blob/master/bucket/nvs.json)
-* [everything.json](https://github.com/keith-xiong/my-bucket/blob/master/bucket/everything.json)
 * [wechat.json](https://github.com/keith-xiong/my-bucket/blob/master/bucket/wechat.json)
 * [pester.json](https://github.com/keith-xiong/my-bucket/blob/master/bucket/pester.json)
 * [scoop-completion.json](https://github.com/keith-xiong/my-bucket/blob/master/bucket/scoop-completion.json)
+* [nvs.json](https://github.com/keith-xiong/my-bucket/blob/master/bucket/nvs.json)
+* [everything.json](https://github.com/keith-xiong/my-bucket/blob/master/bucket/everything.json)
+* [cascadia-pl.json](https://github.com/keith-xiong/my-bucket/blob/master/bucket/cascadia-pl.json)
+* [utools.json](https://github.com/keith-xiong/my-bucket/blob/master/bucket/utools.json)
+* [bypass.json](https://github.com/keith-xiong/my-bucket/blob/master/bucket/bypass.json)

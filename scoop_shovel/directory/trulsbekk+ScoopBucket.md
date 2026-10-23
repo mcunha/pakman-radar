@@ -10,6 +10,6 @@
 ## 📦 Recipes (5)
 * [bitwarden.json](https://github.com/trulsbekk/ScoopBucket/blob/master/bucket/bitwarden.json)
 * [logitech-gaming-software-np.json](https://github.com/trulsbekk/ScoopBucket/blob/master/bucket/logitech-gaming-software-np.json)
-* [bencode-editor.json](https://github.com/trulsbekk/ScoopBucket/blob/master/bucket/bencode-editor.json)
 * [tor-browser-dev.json](https://github.com/trulsbekk/ScoopBucket/blob/master/bucket/tor-browser-dev.json)
 * [transgui.json](https://github.com/trulsbekk/ScoopBucket/blob/master/bucket/transgui.json)
+* [bencode-editor.json](https://github.com/trulsbekk/ScoopBucket/blob/master/bucket/bencode-editor.json)

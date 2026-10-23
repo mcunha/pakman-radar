@@ -8,10 +8,10 @@
 
 
 ## 📦 Recipes (7)
-* [qvpersonal.json](https://github.com/MarksonHon/repo/blob/main/bucket/qvpersonal.json)
-* [clashforwindows.json](https://github.com/MarksonHon/repo/blob/main/bucket/clashforwindows.json)
-* [chromium-hibbiki.json](https://github.com/MarksonHon/repo/blob/main/bucket/chromium-hibbiki.json)
-* [clashdotnet.json](https://github.com/MarksonHon/repo/blob/main/bucket/clashdotnet.json)
-* [clashmini.json](https://github.com/MarksonHon/repo/blob/main/bucket/clashmini.json)
 * [clashxw.json](https://github.com/MarksonHon/repo/blob/main/bucket/clashxw.json)
+* [clashdotnet.json](https://github.com/MarksonHon/repo/blob/main/bucket/clashdotnet.json)
 * [clashxw-portable.json](https://github.com/MarksonHon/repo/blob/main/bucket/clashxw-portable.json)
+* [qvpersonal.json](https://github.com/MarksonHon/repo/blob/main/bucket/qvpersonal.json)
+* [chromium-hibbiki.json](https://github.com/MarksonHon/repo/blob/main/bucket/chromium-hibbiki.json)
+* [clashmini.json](https://github.com/MarksonHon/repo/blob/main/bucket/clashmini.json)
+* [clashforwindows.json](https://github.com/MarksonHon/repo/blob/main/bucket/clashforwindows.json)

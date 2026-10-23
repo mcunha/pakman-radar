@@ -8,10 +8,10 @@
 
 
 ## 📦 Recipes (7)
-* [dhall-json.json](https://github.com/lexisother/bukkit/blob/master/bucket/dhall-json.json)
 * [impregnate.json](https://github.com/lexisother/bukkit/blob/master/bucket/impregnate.json)
-* [wireguard.json](https://github.com/lexisother/bukkit/blob/master/bucket/wireguard.json)
-* [dhall-toml.json](https://github.com/lexisother/bukkit/blob/master/bucket/dhall-toml.json)
-* [dhall-yaml.json](https://github.com/lexisother/bukkit/blob/master/bucket/dhall-yaml.json)
-* [dhall-lsp-server.json](https://github.com/lexisother/bukkit/blob/master/bucket/dhall-lsp-server.json)
+* [dhall-json.json](https://github.com/lexisother/bukkit/blob/master/bucket/dhall-json.json)
 * [kdl-lsp.json](https://github.com/lexisother/bukkit/blob/master/bucket/kdl-lsp.json)
+* [dhall-toml.json](https://github.com/lexisother/bukkit/blob/master/bucket/dhall-toml.json)
+* [dhall-lsp-server.json](https://github.com/lexisother/bukkit/blob/master/bucket/dhall-lsp-server.json)
+* [dhall-yaml.json](https://github.com/lexisother/bukkit/blob/master/bucket/dhall-yaml.json)
+* [wireguard.json](https://github.com/lexisother/bukkit/blob/master/bucket/wireguard.json)

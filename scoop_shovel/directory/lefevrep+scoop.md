@@ -8,10 +8,10 @@
 
 
 ## 📦 Recipes (7)
-* [pup.json](https://github.com/lefevrep/scoop/blob/master/pup.json)
-* [cpdf.json](https://github.com/lefevrep/scoop/blob/master/cpdf.json)
 * [cmder-full.json](https://github.com/lefevrep/scoop/blob/master/cmder-full.json)
 * [sqliteman.json](https://github.com/lefevrep/scoop/blob/master/sqliteman.json)
-* [mtee.json](https://github.com/lefevrep/scoop/blob/master/mtee.json)
 * [baregrep.json](https://github.com/lefevrep/scoop/blob/master/baregrep.json)
+* [cpdf.json](https://github.com/lefevrep/scoop/blob/master/cpdf.json)
+* [mtee.json](https://github.com/lefevrep/scoop/blob/master/mtee.json)
 * [q-dir.json](https://github.com/lefevrep/scoop/blob/master/q-dir.json)
+* [pup.json](https://github.com/lefevrep/scoop/blob/master/pup.json)

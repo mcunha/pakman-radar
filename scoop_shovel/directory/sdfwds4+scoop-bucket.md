@@ -8,9 +8,9 @@
 
 
 ## 📦 Recipes (6)
-* [tim.json](https://github.com/sdfwds4/scoop-bucket/blob/master/bucket/tim.json)
 * [wechat.json](https://github.com/sdfwds4/scoop-bucket/blob/master/bucket/wechat.json)
+* [tim.json](https://github.com/sdfwds4/scoop-bucket/blob/master/bucket/tim.json)
 * [qqplayer.json](https://github.com/sdfwds4/scoop-bucket/blob/master/bucket/qqplayer.json)
-* [360chrome.json](https://github.com/sdfwds4/scoop-bucket/blob/master/bucket/360chrome.json)
-* [Quicker.json](https://github.com/sdfwds4/scoop-bucket/blob/master/bucket/Quicker.json)
 * [neteasemusic.json](https://github.com/sdfwds4/scoop-bucket/blob/master/bucket/neteasemusic.json)
+* [Quicker.json](https://github.com/sdfwds4/scoop-bucket/blob/master/bucket/Quicker.json)
+* [360chrome.json](https://github.com/sdfwds4/scoop-bucket/blob/master/bucket/360chrome.json)

@@ -8,12 +8,12 @@
 
 
 ## 📦 Recipes (9)
-* [neovim.json](https://github.com/codecopy/ScoopBucket/blob/master/bucket/neovim.json)
-* [clash-for-windows.json](https://github.com/codecopy/ScoopBucket/blob/master/bucket/clash-for-windows.json)
-* [1remote.json](https://github.com/codecopy/ScoopBucket/blob/master/bucket/1remote.json)
-* [finalshell.json](https://github.com/codecopy/ScoopBucket/blob/master/bucket/finalshell.json)
-* [windterm.json](https://github.com/codecopy/ScoopBucket/blob/master/bucket/windterm.json)
 * [mobaxterm.json](https://github.com/codecopy/ScoopBucket/blob/master/bucket/mobaxterm.json)
-* [skylark.json](https://github.com/codecopy/ScoopBucket/blob/master/bucket/skylark.json)
+* [1remote.json](https://github.com/codecopy/ScoopBucket/blob/master/bucket/1remote.json)
 * [notepadnext.json](https://github.com/codecopy/ScoopBucket/blob/master/bucket/notepadnext.json)
 * [Notepad--.json](https://github.com/codecopy/ScoopBucket/blob/master/bucket/Notepad--.json)
+* [windterm.json](https://github.com/codecopy/ScoopBucket/blob/master/bucket/windterm.json)
+* [clash-for-windows.json](https://github.com/codecopy/ScoopBucket/blob/master/bucket/clash-for-windows.json)
+* [skylark.json](https://github.com/codecopy/ScoopBucket/blob/master/bucket/skylark.json)
+* [finalshell.json](https://github.com/codecopy/ScoopBucket/blob/master/bucket/finalshell.json)
+* [neovim.json](https://github.com/codecopy/ScoopBucket/blob/master/bucket/neovim.json)

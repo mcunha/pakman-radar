@@ -1,14 +1,6 @@
 {
   "evictions": [
     {
-      "full_name": "tony-sung/ScoopPersonalBucket",
-      "evicted_at": "2026-07-25T22:13:08Z"
-    },
-    {
-      "full_name": "mcornick/scoop-bucket",
-      "evicted_at": "2026-07-25T23:17:30Z"
-    },
-    {
       "full_name": "Zalk0/ZalkosBucket",
       "evicted_at": "2026-07-29T21:15:30Z"
     },
@@ -186,22 +178,22 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-10-23T20:33:37Z",
-    "count": 46,
+    "generated_at": "2026-10-23T23:54:48Z",
+    "count": 44,
     "global_metrics": {
-      "total_runs": 2364,
-      "total_run_time_seconds": 8312.754033565521,
-      "total_repo_updates": 141821,
+      "total_runs": 2365,
+      "total_run_time_seconds": 8319.558449029922,
+      "total_repo_updates": 141893,
       "previous_total_buckets": 226,
       "previous_total_recipes": 3327,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
       "total_evictions": 74,
       "total_api_retries": 2,
-      "last_run_discover_time": 4.336211919784546,
-      "last_run_update_time": 2.547077178955078,
+      "last_run_discover_time": 4.0814149379730225,
+      "last_run_update_time": 2.697174310684204,
       "ecosystem_reliability": 100.0,
-      "cache_size_mb": 0.8447370529174805,
+      "cache_size_mb": 0.8451337814331055,
       "total_unique_recipes": 2930,
       "auto_update_percentage": 36.01,
       "official_recipes": 481,
