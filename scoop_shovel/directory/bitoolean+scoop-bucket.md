@@ -8,8 +8,8 @@
 
 
 ## 📦 Recipes (5)
-* [ycb.json](https://github.com/bitoolean/scoop-bucket/blob/master/bucket/ycb.json)
-* [git-updater.json](https://github.com/bitoolean/scoop-bucket/blob/master/bucket/git-updater.json)
 * [local-desktop-store.json](https://github.com/bitoolean/scoop-bucket/blob/master/bucket/local-desktop-store.json)
 * [linkquisition.json](https://github.com/bitoolean/scoop-bucket/blob/master/bucket/linkquisition.json)
+* [git-updater.json](https://github.com/bitoolean/scoop-bucket/blob/master/bucket/git-updater.json)
+* [ycb.json](https://github.com/bitoolean/scoop-bucket/blob/master/bucket/ycb.json)
 * [ycb-lean.json](https://github.com/bitoolean/scoop-bucket/blob/master/bucket/ycb-lean.json)
