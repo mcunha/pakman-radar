@@ -167,30 +167,34 @@
     {
       "full_name": "ChungZH/peach",
       "evicted_at": "2026-10-23T17:15:10Z"
+    },
+    {
+      "full_name": "luestr/bucket",
+      "evicted_at": "2026-10-24T20:56:30Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-10-24T17:33:39Z",
-    "count": 42,
+    "generated_at": "2026-10-24T20:58:38Z",
+    "count": 43,
     "global_metrics": {
-      "total_runs": 2369,
-      "total_run_time_seconds": 347215.1917068958,
-      "total_repo_updates": 157749,
+      "total_runs": 2370,
+      "total_run_time_seconds": 347348.60274362564,
+      "total_repo_updates": 157827,
       "previous_total_buckets": 1809,
       "previous_total_recipes": 143807,
-      "bucket_velocity": 1,
-      "recipe_velocity": 1,
-      "total_evictions": 71,
+      "bucket_velocity": 0,
+      "recipe_velocity": 0,
+      "total_evictions": 72,
       "total_api_retries": 2,
-      "last_run_discover_time": 2.4969942569732666,
-      "last_run_update_time": 244.18570613861084,
+      "last_run_discover_time": 0.36335206031799316,
+      "last_run_update_time": 132.0807807445526,
       "ecosystem_reliability": 87.8,
-      "cache_size_mb": 11.005997657775879,
+      "cache_size_mb": 11.005908012390137,
       "total_unique_recipes": 32308,
       "auto_update_percentage": 85.46,
       "official_recipes": 65205,
       "community_recipes": 78602,
-      "stale_buckets": 501,
+      "stale_buckets": 502,
       "shovel_buckets": 25,
       "scoop_buckets": 1784
     }

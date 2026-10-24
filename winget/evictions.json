@@ -175,23 +175,27 @@
     {
       "full_name": "ChungZH/peach",
       "evicted_at": "2026-10-23T17:15:10Z"
+    },
+    {
+      "full_name": "luestr/bucket",
+      "evicted_at": "2026-10-24T20:56:30Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-10-24T17:34:01Z",
-    "count": 44,
+    "generated_at": "2026-10-24T20:58:54Z",
+    "count": 45,
     "global_metrics": {
-      "total_runs": 2369,
-      "total_run_time_seconds": 41753.85008573532,
-      "total_repo_updates": 78946,
+      "total_runs": 2370,
+      "total_run_time_seconds": 41767.56451177597,
+      "total_repo_updates": 78979,
       "previous_total_buckets": 10,
       "previous_total_recipes": 6305,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
-      "total_evictions": 75,
+      "total_evictions": 76,
       "total_api_retries": 2,
-      "last_run_discover_time": 0.824418306350708,
-      "last_run_update_time": 17.0852370262146,
+      "last_run_discover_time": 0.2462143898010254,
+      "last_run_update_time": 13.451175212860107,
       "ecosystem_reliability": 100.0,
       "cache_size_mb": 0.8647918701171875,
       "total_unique_recipes": 1873,
