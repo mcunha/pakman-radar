@@ -8,11 +8,11 @@
 
 
 ## 📦 Recipes (8)
-* [chatwise.json](https://github.com/Pagliacii/pagliacii-bucket/blob/main/bucket/chatwise.json)
-* [bob.json](https://github.com/Pagliacii/pagliacii-bucket/blob/main/bucket/bob.json)
+* [bob-openssl.json](https://github.com/Pagliacii/pagliacii-bucket/blob/main/bucket/bob-openssl.json)
 * [iaito.json](https://github.com/Pagliacii/pagliacii-bucket/blob/main/bucket/iaito.json)
+* [bob.json](https://github.com/Pagliacii/pagliacii-bucket/blob/main/bucket/bob.json)
+* [chatwise.json](https://github.com/Pagliacii/pagliacii-bucket/blob/main/bucket/chatwise.json)
+* [opencode.json](https://github.com/Pagliacii/pagliacii-bucket/blob/main/bucket/opencode.json)
 * [neovim-nightly.json](https://github.com/Pagliacii/pagliacii-bucket/blob/main/bucket/neovim-nightly.json)
 * [cyme.json](https://github.com/Pagliacii/pagliacii-bucket/blob/main/bucket/cyme.json)
-* [opencode.json](https://github.com/Pagliacii/pagliacii-bucket/blob/main/bucket/opencode.json)
 * [kazumi.json](https://github.com/Pagliacii/pagliacii-bucket/blob/main/bucket/kazumi.json)
-* [bob-openssl.json](https://github.com/Pagliacii/pagliacii-bucket/blob/main/bucket/bob-openssl.json)
