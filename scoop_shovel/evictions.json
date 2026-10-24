@@ -171,32 +171,36 @@
     {
       "full_name": "luestr/bucket",
       "evicted_at": "2026-10-24T20:56:30Z"
+    },
+    {
+      "full_name": "hellfirespriston-art/scoop-vpx",
+      "evicted_at": "2026-10-24T23:21:34Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-10-24T20:58:38Z",
-    "count": 43,
+    "generated_at": "2026-10-24T23:23:39Z",
+    "count": 44,
     "global_metrics": {
-      "total_runs": 2370,
-      "total_run_time_seconds": 347348.60274362564,
-      "total_repo_updates": 157827,
-      "previous_total_buckets": 1809,
-      "previous_total_recipes": 143807,
-      "bucket_velocity": 0,
-      "recipe_velocity": 0,
-      "total_evictions": 72,
+      "total_runs": 2371,
+      "total_run_time_seconds": 347479.8210647106,
+      "total_repo_updates": 157896,
+      "previous_total_buckets": 1808,
+      "previous_total_recipes": 143806,
+      "bucket_velocity": -1,
+      "recipe_velocity": -1,
+      "total_evictions": 73,
       "total_api_retries": 2,
-      "last_run_discover_time": 0.36335206031799316,
-      "last_run_update_time": 132.0807807445526,
-      "ecosystem_reliability": 87.8,
-      "cache_size_mb": 11.005908012390137,
+      "last_run_discover_time": 1.1518406867980957,
+      "last_run_update_time": 129.12248373031616,
+      "ecosystem_reliability": 87.7,
+      "cache_size_mb": 11.001882553100586,
       "total_unique_recipes": 32308,
       "auto_update_percentage": 85.46,
       "official_recipes": 65205,
-      "community_recipes": 78602,
+      "community_recipes": 78601,
       "stale_buckets": 502,
       "shovel_buckets": 25,
-      "scoop_buckets": 1784
+      "scoop_buckets": 1783
     }
   }
 }
