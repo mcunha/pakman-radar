@@ -9,9 +9,9 @@
 
 ## 📦 Recipes (7)
 * [php81-xdebug.json](https://github.com/rr0001/scoop-srv-bucket/blob/master/bucket/php81-xdebug.json)
-* [php81-nts.json](https://github.com/rr0001/scoop-srv-bucket/blob/master/bucket/php81-nts.json)
 * [caddy.json](https://github.com/rr0001/scoop-srv-bucket/blob/master/bucket/caddy.json)
-* [oic21.json](https://github.com/rr0001/scoop-srv-bucket/blob/master/bucket/oic21.json)
 * [processhacker.json](https://github.com/rr0001/scoop-srv-bucket/blob/master/bucket/processhacker.json)
-* [pg14.json](https://github.com/rr0001/scoop-srv-bucket/blob/master/bucket/pg14.json)
+* [oic21.json](https://github.com/rr0001/scoop-srv-bucket/blob/master/bucket/oic21.json)
 * [mysql8.json](https://github.com/rr0001/scoop-srv-bucket/blob/master/bucket/mysql8.json)
+* [pg14.json](https://github.com/rr0001/scoop-srv-bucket/blob/master/bucket/pg14.json)
+* [php81-nts.json](https://github.com/rr0001/scoop-srv-bucket/blob/master/bucket/php81-nts.json)
