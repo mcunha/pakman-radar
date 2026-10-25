@@ -12,6 +12,6 @@
 * [winpbcopy.json](https://github.com/bharatvaj/scoop-based/blob/master/bucket/winpbcopy.json)
 * [hotkeyp.json](https://github.com/bharatvaj/scoop-based/blob/master/bucket/hotkeyp.json)
 * [zbar.json](https://github.com/bharatvaj/scoop-based/blob/master/bucket/zbar.json)
-* [uweb.json](https://github.com/bharatvaj/scoop-based/blob/master/bucket/uweb.json)
-* [wlines.json](https://github.com/bharatvaj/scoop-based/blob/master/bucket/wlines.json)
 * [eventlogreader.json](https://github.com/bharatvaj/scoop-based/blob/master/bucket/eventlogreader.json)
+* [wlines.json](https://github.com/bharatvaj/scoop-based/blob/master/bucket/wlines.json)
+* [uweb.json](https://github.com/bharatvaj/scoop-based/blob/master/bucket/uweb.json)
