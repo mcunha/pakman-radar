@@ -183,23 +183,31 @@
     {
       "full_name": "hellfirespriston-art/scoop-vpx",
       "evicted_at": "2026-10-24T23:21:34Z"
+    },
+    {
+      "full_name": "Aetopia/scoop-webview2",
+      "evicted_at": "2026-10-26T19:23:41Z"
+    },
+    {
+      "full_name": "uzielvgx/scoop-bucket",
+      "evicted_at": "2026-10-26T19:23:42Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-10-26T13:21:36Z",
-    "count": 46,
+    "generated_at": "2026-10-26T19:26:03Z",
+    "count": 48,
     "global_metrics": {
-      "total_runs": 2380,
-      "total_run_time_seconds": 41917.853813409805,
-      "total_repo_updates": 79309,
+      "total_runs": 2381,
+      "total_run_time_seconds": 41935.48819351196,
+      "total_repo_updates": 79342,
       "previous_total_buckets": 10,
       "previous_total_recipes": 6305,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
-      "total_evictions": 77,
+      "total_evictions": 79,
       "total_api_retries": 2,
-      "last_run_discover_time": 4.750131130218506,
-      "last_run_update_time": 13.876242399215698,
+      "last_run_discover_time": 3.915290594100952,
+      "last_run_update_time": 13.702100276947021,
       "ecosystem_reliability": 100.0,
       "cache_size_mb": 0.8658504486083984,
       "total_unique_recipes": 1873,
