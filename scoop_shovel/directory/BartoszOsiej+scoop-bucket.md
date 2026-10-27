@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [hashsleuth.json](https://github.com/BartoszOsiej/scoop-bucket/blob/main/bucket/hashsleuth.json)
 * [netrecon.json](https://github.com/BartoszOsiej/scoop-bucket/blob/main/bucket/netrecon.json)
+* [hashsleuth.json](https://github.com/BartoszOsiej/scoop-bucket/blob/main/bucket/hashsleuth.json)
