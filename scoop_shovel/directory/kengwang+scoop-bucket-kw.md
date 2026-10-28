@@ -8,10 +8,10 @@
 
 
 ## 📦 Recipes (7)
-* [xshell.json](https://github.com/kengwang/scoop-bucket-kw/blob/master/bucket/xshell.json)
 * [xftp.json](https://github.com/kengwang/scoop-bucket-kw/blob/master/bucket/xftp.json)
-* [liteloaderqqnt.json](https://github.com/kengwang/scoop-bucket-kw/blob/master/bucket/liteloaderqqnt.json)
-* [oopz.json](https://github.com/kengwang/scoop-bucket-kw/blob/master/bucket/oopz.json)
 * [bcut.json](https://github.com/kengwang/scoop-bucket-kw/blob/master/bucket/bcut.json)
-* [adobegenp.json](https://github.com/kengwang/scoop-bucket-kw/blob/master/bucket/adobegenp.json)
+* [liteloaderqqnt.json](https://github.com/kengwang/scoop-bucket-kw/blob/master/bucket/liteloaderqqnt.json)
 * [xstudio.json](https://github.com/kengwang/scoop-bucket-kw/blob/master/bucket/xstudio.json)
+* [oopz.json](https://github.com/kengwang/scoop-bucket-kw/blob/master/bucket/oopz.json)
+* [xshell.json](https://github.com/kengwang/scoop-bucket-kw/blob/master/bucket/xshell.json)
+* [adobegenp.json](https://github.com/kengwang/scoop-bucket-kw/blob/master/bucket/adobegenp.json)
