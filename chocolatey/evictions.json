@@ -1,10 +1,6 @@
 {
   "evictions": [
     {
-      "full_name": "ShihaoShenDev/ScoopBucket",
-      "evicted_at": "2026-07-31T07:18:17Z"
-    },
-    {
       "full_name": "Zevan770/scoop_zev",
       "evicted_at": "2026-08-04T18:58:58Z"
     },
@@ -186,22 +182,22 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-10-29T02:33:56Z",
-    "count": 46,
+    "generated_at": "2026-10-29T10:10:42Z",
+    "count": 45,
     "global_metrics": {
-      "total_runs": 2392,
-      "total_run_time_seconds": 8415.084356307983,
-      "total_repo_updates": 143481,
+      "total_runs": 2393,
+      "total_run_time_seconds": 8420.845834970474,
+      "total_repo_updates": 143541,
       "previous_total_buckets": 226,
       "previous_total_recipes": 3327,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
       "total_evictions": 78,
       "total_api_retries": 2,
-      "last_run_discover_time": 2.5974955558776855,
-      "last_run_update_time": 1.8902647495269775,
+      "last_run_discover_time": 3.388777732849121,
+      "last_run_update_time": 2.338895559310913,
       "ecosystem_reliability": 100.0,
-      "cache_size_mb": 0.8455495834350586,
+      "cache_size_mb": 0.8455266952514648,
       "total_unique_recipes": 2930,
       "auto_update_percentage": 36.01,
       "official_recipes": 481,

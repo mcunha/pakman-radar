@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [mh.json](https://github.com/magichourhq/scoop-bucket/blob/main/bucket/mh.json)
 * [mh-dev.json](https://github.com/magichourhq/scoop-bucket/blob/main/bucket/mh-dev.json)
+* [mh.json](https://github.com/magichourhq/scoop-bucket/blob/main/bucket/mh.json)
