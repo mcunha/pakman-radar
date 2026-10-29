@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [wk.json](https://github.com/workato-devs/scoop-bucket/blob/main/bucket/wk.json)
 * [recipe-lint.json](https://github.com/workato-devs/scoop-bucket/blob/main/bucket/recipe-lint.json)
+* [wk.json](https://github.com/workato-devs/scoop-bucket/blob/main/bucket/wk.json)
