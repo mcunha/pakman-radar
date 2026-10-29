@@ -8,6 +8,6 @@
 
 
 ## 📦 Recipes (3)
+* [mock-service-cli.json](https://github.com/chandq/scoop-bucket/blob/main/bucket/mock-service-cli.json)
 * [mock-service-cli-ultra.json](https://github.com/chandq/scoop-bucket/blob/main/bucket/mock-service-cli-ultra.json)
 * [batch-exec-cli.json](https://github.com/chandq/scoop-bucket/blob/main/bucket/batch-exec-cli.json)
-* [mock-service-cli.json](https://github.com/chandq/scoop-bucket/blob/main/bucket/mock-service-cli.json)
