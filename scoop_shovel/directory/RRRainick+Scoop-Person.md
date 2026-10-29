@@ -8,9 +8,9 @@
 
 
 ## 📦 Recipes (6)
-* [sioyek.json](https://github.com/RRRainick/Scoop-Person/blob/main/bucket/sioyek.json)
-* [syncthingtray.json](https://github.com/RRRainick/Scoop-Person/blob/main/bucket/syncthingtray.json)
 * [sing-box.json](https://github.com/RRRainick/Scoop-Person/blob/main/bucket/sing-box.json)
-* [neovide.json](https://github.com/RRRainick/Scoop-Person/blob/main/bucket/neovide.json)
-* [winsw-alpha.json](https://github.com/RRRainick/Scoop-Person/blob/main/bucket/winsw-alpha.json)
 * [mpv-git.json](https://github.com/RRRainick/Scoop-Person/blob/main/bucket/mpv-git.json)
+* [neovide.json](https://github.com/RRRainick/Scoop-Person/blob/main/bucket/neovide.json)
+* [syncthingtray.json](https://github.com/RRRainick/Scoop-Person/blob/main/bucket/syncthingtray.json)
+* [sioyek.json](https://github.com/RRRainick/Scoop-Person/blob/main/bucket/sioyek.json)
+* [winsw-alpha.json](https://github.com/RRRainick/Scoop-Person/blob/main/bucket/winsw-alpha.json)
