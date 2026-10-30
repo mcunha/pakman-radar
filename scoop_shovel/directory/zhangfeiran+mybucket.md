@@ -8,11 +8,11 @@
 
 
 ## 📦 Recipes (8)
-* [winfsp.json](https://github.com/zhangfeiran/mybucket/blob/master/bucket/winfsp.json)
 * [everything-alpha.json](https://github.com/zhangfeiran/mybucket/blob/master/bucket/everything-alpha.json)
-* [eudic.json](https://github.com/zhangfeiran/mybucket/blob/master/bucket/eudic.json)
-* [sshfs-win.json](https://github.com/zhangfeiran/mybucket/blob/master/bucket/sshfs-win.json)
+* [miniconda3.json](https://github.com/zhangfeiran/mybucket/blob/master/bucket/miniconda3.json)
 * [bandizip6.json](https://github.com/zhangfeiran/mybucket/blob/master/bucket/bandizip6.json)
 * [freefilesync-np.json](https://github.com/zhangfeiran/mybucket/blob/master/bucket/freefilesync-np.json)
-* [miniconda3.json](https://github.com/zhangfeiran/mybucket/blob/master/bucket/miniconda3.json)
+* [winfsp.json](https://github.com/zhangfeiran/mybucket/blob/master/bucket/winfsp.json)
+* [sshfs-win.json](https://github.com/zhangfeiran/mybucket/blob/master/bucket/sshfs-win.json)
 * [idm.json](https://github.com/zhangfeiran/mybucket/blob/master/bucket/idm.json)
+* [eudic.json](https://github.com/zhangfeiran/mybucket/blob/master/bucket/eudic.json)
