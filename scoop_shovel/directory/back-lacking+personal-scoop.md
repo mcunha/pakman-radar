@@ -8,10 +8,10 @@
 
 
 ## 📦 Recipes (7)
-* [vmulti-bin.json](https://github.com/back-lacking/personal-scoop/blob/master/bucket/vmulti-bin.json)
-* [pinyintones.json](https://github.com/back-lacking/personal-scoop/blob/master/bucket/pinyintones.json)
+* [wabbitemu.json](https://github.com/back-lacking/personal-scoop/blob/master/bucket/wabbitemu.json)
+* [lrcget.json](https://github.com/back-lacking/personal-scoop/blob/master/bucket/lrcget.json)
 * [freefilesync.json](https://github.com/back-lacking/personal-scoop/blob/master/bucket/freefilesync.json)
 * [d-fi.json](https://github.com/back-lacking/personal-scoop/blob/master/bucket/d-fi.json)
-* [lrcget.json](https://github.com/back-lacking/personal-scoop/blob/master/bucket/lrcget.json)
 * [genericlogviewer.json](https://github.com/back-lacking/personal-scoop/blob/master/bucket/genericlogviewer.json)
-* [wabbitemu.json](https://github.com/back-lacking/personal-scoop/blob/master/bucket/wabbitemu.json)
+* [pinyintones.json](https://github.com/back-lacking/personal-scoop/blob/master/bucket/pinyintones.json)
+* [vmulti-bin.json](https://github.com/back-lacking/personal-scoop/blob/master/bucket/vmulti-bin.json)
