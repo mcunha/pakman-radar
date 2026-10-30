@@ -8,12 +8,12 @@
 
 
 ## 📦 Recipes (9)
-* [Aseet.json](https://github.com/SinisterSoftware/umrk/blob/main/bucket/Aseet.json)
-* [nkf.json](https://github.com/SinisterSoftware/umrk/blob/main/bucket/nkf.json)
 * [xdoc2txt.json](https://github.com/SinisterSoftware/umrk/blob/main/bucket/xdoc2txt.json)
-* [tika.json](https://github.com/SinisterSoftware/umrk/blob/main/bucket/tika.json)
-* [memo.json](https://github.com/SinisterSoftware/umrk/blob/main/bucket/memo.json)
+* [Aseet.json](https://github.com/SinisterSoftware/umrk/blob/main/bucket/Aseet.json)
 * [mapitool.json](https://github.com/SinisterSoftware/umrk/blob/main/bucket/mapitool.json)
 * [massren.json](https://github.com/SinisterSoftware/umrk/blob/main/bucket/massren.json)
+* [nkf.json](https://github.com/SinisterSoftware/umrk/blob/main/bucket/nkf.json)
+* [memo.json](https://github.com/SinisterSoftware/umrk/blob/main/bucket/memo.json)
+* [tika.json](https://github.com/SinisterSoftware/umrk/blob/main/bucket/tika.json)
 * [RadiRec.json](https://github.com/SinisterSoftware/umrk/blob/main/bucket/RadiRec.json)
 * [stirling.json](https://github.com/SinisterSoftware/umrk/blob/main/bucket/stirling.json)

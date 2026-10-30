@@ -8,12 +8,12 @@
 
 
 ## 📦 Recipes (9)
-* [sql-studio.json](https://github.com/chrismeller/scoop-bucket/blob/main/bucket/sql-studio.json)
-* [block-goose-cli.json](https://github.com/chrismeller/scoop-bucket/blob/main/bucket/block-goose-cli.json)
-* [flashfxp.json](https://github.com/chrismeller/scoop-bucket/blob/main/bucket/flashfxp.json)
-* [npbackup-cli.json](https://github.com/chrismeller/scoop-bucket/blob/main/bucket/npbackup-cli.json)
 * [zed.json](https://github.com/chrismeller/scoop-bucket/blob/main/bucket/zed.json)
-* [icann-rdap.json](https://github.com/chrismeller/scoop-bucket/blob/main/bucket/icann-rdap.json)
-* [zed-nightly.json](https://github.com/chrismeller/scoop-bucket/blob/main/bucket/zed-nightly.json)
+* [block-goose-cli.json](https://github.com/chrismeller/scoop-bucket/blob/main/bucket/block-goose-cli.json)
 * [npbackup.json](https://github.com/chrismeller/scoop-bucket/blob/main/bucket/npbackup.json)
+* [zed-nightly.json](https://github.com/chrismeller/scoop-bucket/blob/main/bucket/zed-nightly.json)
 * [block-goose.json](https://github.com/chrismeller/scoop-bucket/blob/main/bucket/block-goose.json)
+* [icann-rdap.json](https://github.com/chrismeller/scoop-bucket/blob/main/bucket/icann-rdap.json)
+* [sql-studio.json](https://github.com/chrismeller/scoop-bucket/blob/main/bucket/sql-studio.json)
+* [npbackup-cli.json](https://github.com/chrismeller/scoop-bucket/blob/main/bucket/npbackup-cli.json)
+* [flashfxp.json](https://github.com/chrismeller/scoop-bucket/blob/main/bucket/flashfxp.json)
