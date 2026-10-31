@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [nexium.json](https://github.com/Londopy/scoop-bucket/blob/main/bucket/nexium.json)
 * [hidedesktopapps.json](https://github.com/Londopy/scoop-bucket/blob/main/bucket/hidedesktopapps.json)
+* [nexium.json](https://github.com/Londopy/scoop-bucket/blob/main/bucket/nexium.json)
