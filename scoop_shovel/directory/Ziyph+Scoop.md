@@ -9,5 +9,5 @@
 
 ## 📦 Recipes (3)
 * [equibop.json](https://github.com/Ziyph/Scoop/blob/main/bucket/equibop.json)
-* [winpaletter.json](https://github.com/Ziyph/Scoop/blob/main/bucket/winpaletter.json)
 * [masir.json](https://github.com/Ziyph/Scoop/blob/main/bucket/masir.json)
+* [winpaletter.json](https://github.com/Ziyph/Scoop/blob/main/bucket/winpaletter.json)
