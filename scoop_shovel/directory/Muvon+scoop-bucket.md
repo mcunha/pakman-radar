@@ -8,8 +8,8 @@
 
 
 ## 📦 Recipes (5)
+* [octomind.json](https://github.com/Muvon/scoop-bucket/blob/master/bucket/octomind.json)
 * [octohub.json](https://github.com/Muvon/scoop-bucket/blob/master/bucket/octohub.json)
+* [octobrain.json](https://github.com/Muvon/scoop-bucket/blob/master/bucket/octobrain.json)
 * [octocode.json](https://github.com/Muvon/scoop-bucket/blob/master/bucket/octocode.json)
 * [octofs.json](https://github.com/Muvon/scoop-bucket/blob/master/bucket/octofs.json)
-* [octomind.json](https://github.com/Muvon/scoop-bucket/blob/master/bucket/octomind.json)
-* [octobrain.json](https://github.com/Muvon/scoop-bucket/blob/master/bucket/octobrain.json)
