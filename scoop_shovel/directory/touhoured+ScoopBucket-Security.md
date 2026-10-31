@@ -8,10 +8,10 @@
 
 
 ## 📦 Recipes (7)
-* [taskexplorer.json](https://github.com/touhoured/ScoopBucket-Security/blob/master/bucket/taskexplorer.json)
-* [openark.json](https://github.com/touhoured/ScoopBucket-Security/blob/master/bucket/openark.json)
 * [efiguard.json](https://github.com/touhoured/ScoopBucket-Security/blob/master/bucket/efiguard.json)
-* [al-khaser.json](https://github.com/touhoured/ScoopBucket-Security/blob/master/bucket/al-khaser.json)
-* [burpsuite.json](https://github.com/touhoured/ScoopBucket-Security/blob/master/bucket/burpsuite.json)
+* [taskexplorer.json](https://github.com/touhoured/ScoopBucket-Security/blob/master/bucket/taskexplorer.json)
 * [ksword.json](https://github.com/touhoured/ScoopBucket-Security/blob/master/bucket/ksword.json)
+* [al-khaser.json](https://github.com/touhoured/ScoopBucket-Security/blob/master/bucket/al-khaser.json)
 * [systeminformer-nightly.json](https://github.com/touhoured/ScoopBucket-Security/blob/master/bucket/systeminformer-nightly.json)
+* [burpsuite.json](https://github.com/touhoured/ScoopBucket-Security/blob/master/bucket/burpsuite.json)
+* [openark.json](https://github.com/touhoured/ScoopBucket-Security/blob/master/bucket/openark.json)

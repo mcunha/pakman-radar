@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [zditor.json](https://github.com/tinkerJ/scoop-bucket/blob/main/bucket/zditor.json)
 * [prompt-optimizer.json](https://github.com/tinkerJ/scoop-bucket/blob/main/bucket/prompt-optimizer.json)
+* [zditor.json](https://github.com/tinkerJ/scoop-bucket/blob/main/bucket/zditor.json)
