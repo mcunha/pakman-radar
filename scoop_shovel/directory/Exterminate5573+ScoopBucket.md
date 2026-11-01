@@ -8,9 +8,9 @@
 
 
 ## 📦 Recipes (6)
-* [soundux.json](https://github.com/Exterminate5573/ScoopBucket/blob/master/bucket/soundux.json)
-* [wooting-rgb-sdk.json](https://github.com/Exterminate5573/ScoopBucket/blob/master/bucket/wooting-rgb-sdk.json)
 * [vb-cable.json](https://github.com/Exterminate5573/ScoopBucket/blob/master/bucket/vb-cable.json)
+* [wooting-rgb-sdk.json](https://github.com/Exterminate5573/ScoopBucket/blob/master/bucket/wooting-rgb-sdk.json)
 * [wooting-analog-sdk.json](https://github.com/Exterminate5573/ScoopBucket/blob/master/bucket/wooting-analog-sdk.json)
-* [artemis-rgb.json](https://github.com/Exterminate5573/ScoopBucket/blob/master/bucket/artemis-rgb.json)
 * [wootility.json](https://github.com/Exterminate5573/ScoopBucket/blob/master/bucket/wootility.json)
+* [soundux.json](https://github.com/Exterminate5573/ScoopBucket/blob/master/bucket/soundux.json)
+* [artemis-rgb.json](https://github.com/Exterminate5573/ScoopBucket/blob/master/bucket/artemis-rgb.json)
