@@ -9,5 +9,5 @@
 
 ## 📦 Recipes (3)
 * [zenity.json](https://github.com/ncruces/scoop/blob/main/zenity.json)
-* [RethinkRAW.json](https://github.com/ncruces/scoop/blob/main/RethinkRAW.json)
 * [AdobeDNGConverter.json](https://github.com/ncruces/scoop/blob/main/AdobeDNGConverter.json)
+* [RethinkRAW.json](https://github.com/ncruces/scoop/blob/main/RethinkRAW.json)
