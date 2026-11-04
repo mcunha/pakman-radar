@@ -9,10 +9,10 @@
 
 ## 📦 Recipes (8)
 * [real-esrgan.json](https://github.com/zaevi/scoop-bucket/blob/master/bucket/real-esrgan.json)
+* [freepiano.json](https://github.com/zaevi/scoop-bucket/blob/master/bucket/freepiano.json)
 * [bflat.json](https://github.com/zaevi/scoop-bucket/blob/master/bucket/bflat.json)
+* [steamcommunity-302.json](https://github.com/zaevi/scoop-bucket/blob/master/bucket/steamcommunity-302.json)
+* [sizer.json](https://github.com/zaevi/scoop-bucket/blob/master/bucket/sizer.json)
 * [setuna.json](https://github.com/zaevi/scoop-bucket/blob/master/bucket/setuna.json)
 * [scoop-backup.json](https://github.com/zaevi/scoop-bucket/blob/master/bucket/scoop-backup.json)
-* [sizer.json](https://github.com/zaevi/scoop-bucket/blob/master/bucket/sizer.json)
-* [freepiano.json](https://github.com/zaevi/scoop-bucket/blob/master/bucket/freepiano.json)
-* [steamcommunity-302.json](https://github.com/zaevi/scoop-bucket/blob/master/bucket/steamcommunity-302.json)
 * [garbro-mod.json](https://github.com/zaevi/scoop-bucket/blob/master/bucket/garbro-mod.json)
