@@ -9,9 +9,9 @@
 
 ## 📦 Recipes (7)
 * [telegram.json](https://github.com/n24q02m/scoop-bucket/blob/main/bucket/telegram.json)
-* [email.json](https://github.com/n24q02m/scoop-bucket/blob/main/bucket/email.json)
-* [wet.json](https://github.com/n24q02m/scoop-bucket/blob/main/bucket/wet.json)
-* [workspace.json](https://github.com/n24q02m/scoop-bucket/blob/main/bucket/workspace.json)
 * [notion.json](https://github.com/n24q02m/scoop-bucket/blob/main/bucket/notion.json)
-* [crg.json](https://github.com/n24q02m/scoop-bucket/blob/main/bucket/crg.json)
 * [mnemo.json](https://github.com/n24q02m/scoop-bucket/blob/main/bucket/mnemo.json)
+* [email.json](https://github.com/n24q02m/scoop-bucket/blob/main/bucket/email.json)
+* [workspace.json](https://github.com/n24q02m/scoop-bucket/blob/main/bucket/workspace.json)
+* [crg.json](https://github.com/n24q02m/scoop-bucket/blob/main/bucket/crg.json)
+* [wet.json](https://github.com/n24q02m/scoop-bucket/blob/main/bucket/wet.json)

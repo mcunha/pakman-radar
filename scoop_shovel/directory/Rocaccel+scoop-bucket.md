@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [ir-comp-control.json](https://github.com/Rocaccel/scoop-bucket/blob/main/bucket/ir-comp-control.json)
 * [osd-clock.json](https://github.com/Rocaccel/scoop-bucket/blob/main/bucket/osd-clock.json)
+* [ir-comp-control.json](https://github.com/Rocaccel/scoop-bucket/blob/main/bucket/ir-comp-control.json)

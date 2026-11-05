@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [gymmaster.json](https://github.com/nextx-organization/homebrew-nextx/blob/main/bucket/gymmaster.json)
 * [nextx.json](https://github.com/nextx-organization/homebrew-nextx/blob/main/bucket/nextx.json)
+* [gymmaster.json](https://github.com/nextx-organization/homebrew-nextx/blob/main/bucket/gymmaster.json)

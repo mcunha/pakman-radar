@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [goat.json](https://github.com/gorse-io/scoop-bucket/blob/main/bucket/goat.json)
 * [gorse-cli.json](https://github.com/gorse-io/scoop-bucket/blob/main/bucket/gorse-cli.json)
+* [goat.json](https://github.com/gorse-io/scoop-bucket/blob/main/bucket/goat.json)

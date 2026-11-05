@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [yoo.json](https://github.com/nihitdev/scoop-nihitdev/blob/main/bucket/yoo.json)
 * [youtube-downloader.json](https://github.com/nihitdev/scoop-nihitdev/blob/main/bucket/youtube-downloader.json)
+* [yoo.json](https://github.com/nihitdev/scoop-nihitdev/blob/main/bucket/yoo.json)

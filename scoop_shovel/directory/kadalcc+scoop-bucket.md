@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [kadal-deck.json](https://github.com/kadalcc/scoop-bucket/blob/main/bucket/kadal-deck.json)
 * [kadal-deck-cli.json](https://github.com/kadalcc/scoop-bucket/blob/main/bucket/kadal-deck-cli.json)
+* [kadal-deck.json](https://github.com/kadalcc/scoop-bucket/blob/main/bucket/kadal-deck.json)
