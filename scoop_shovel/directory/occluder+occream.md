@@ -8,9 +8,9 @@
 
 
 ## 📦 Recipes (6)
-* [LM-Studio.json](https://github.com/occluder/occream/blob/master/bucket/LM-Studio.json)
+* [openchamber.json](https://github.com/occluder/occream/blob/master/bucket/openchamber.json)
 * [dbx.json](https://github.com/occluder/occream/blob/master/bucket/dbx.json)
+* [LM-Studio.json](https://github.com/occluder/occream/blob/master/bucket/LM-Studio.json)
+* [RHI.json](https://github.com/occluder/occream/blob/master/bucket/RHI.json)
 * [voicebox.json](https://github.com/occluder/occream/blob/master/bucket/voicebox.json)
 * [PVZGE.json](https://github.com/occluder/occream/blob/master/bucket/PVZGE.json)
-* [RHI.json](https://github.com/occluder/occream/blob/master/bucket/RHI.json)
-* [openchamber.json](https://github.com/occluder/occream/blob/master/bucket/openchamber.json)

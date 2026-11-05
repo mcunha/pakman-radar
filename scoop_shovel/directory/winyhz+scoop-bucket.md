@@ -8,7 +8,7 @@
 
 
 ## 📦 Recipes (4)
-* [WiiUDownloader.json](https://github.com/winyhz/scoop-bucket/blob/main/bucket/WiiUDownloader.json)
-* [Switch-Toolbox.json](https://github.com/winyhz/scoop-bucket/blob/main/bucket/Switch-Toolbox.json)
 * [ukmm.json](https://github.com/winyhz/scoop-bucket/blob/main/bucket/ukmm.json)
 * [qcma.json](https://github.com/winyhz/scoop-bucket/blob/main/bucket/qcma.json)
+* [WiiUDownloader.json](https://github.com/winyhz/scoop-bucket/blob/main/bucket/WiiUDownloader.json)
+* [Switch-Toolbox.json](https://github.com/winyhz/scoop-bucket/blob/main/bucket/Switch-Toolbox.json)

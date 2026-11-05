@@ -8,10 +8,10 @@
 
 
 ## 📦 Recipes (7)
-* [duplicati.json](https://github.com/stasjok/my-scoop-bucket/blob/master/bucket/duplicati.json)
-* [foobar2000-portable.json](https://github.com/stasjok/my-scoop-bucket/blob/master/bucket/foobar2000-portable.json)
-* [openconnect-gui.json](https://github.com/stasjok/my-scoop-bucket/blob/master/bucket/openconnect-gui.json)
-* [totalcommander.json](https://github.com/stasjok/my-scoop-bucket/blob/master/bucket/totalcommander.json)
-* [lavfilters.json](https://github.com/stasjok/my-scoop-bucket/blob/master/bucket/lavfilters.json)
-* [virt-viewer.json](https://github.com/stasjok/my-scoop-bucket/blob/master/bucket/virt-viewer.json)
 * [trillian.json](https://github.com/stasjok/my-scoop-bucket/blob/master/bucket/trillian.json)
+* [totalcommander.json](https://github.com/stasjok/my-scoop-bucket/blob/master/bucket/totalcommander.json)
+* [foobar2000-portable.json](https://github.com/stasjok/my-scoop-bucket/blob/master/bucket/foobar2000-portable.json)
+* [lavfilters.json](https://github.com/stasjok/my-scoop-bucket/blob/master/bucket/lavfilters.json)
+* [openconnect-gui.json](https://github.com/stasjok/my-scoop-bucket/blob/master/bucket/openconnect-gui.json)
+* [virt-viewer.json](https://github.com/stasjok/my-scoop-bucket/blob/master/bucket/virt-viewer.json)
+* [duplicati.json](https://github.com/stasjok/my-scoop-bucket/blob/master/bucket/duplicati.json)

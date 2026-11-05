@@ -9,5 +9,5 @@
 
 ## 📦 Recipes (3)
 * [lshn.json](https://github.com/sanford/scoop-bucket/blob/master/bucket/lshn.json)
-* [lsmd.json](https://github.com/sanford/scoop-bucket/blob/master/bucket/lsmd.json)
 * [lsnet.json](https://github.com/sanford/scoop-bucket/blob/master/bucket/lsnet.json)
+* [lsmd.json](https://github.com/sanford/scoop-bucket/blob/master/bucket/lsmd.json)

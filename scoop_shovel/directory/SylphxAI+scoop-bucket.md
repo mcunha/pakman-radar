@@ -8,6 +8,6 @@
 
 
 ## 📦 Recipes (3)
+* [anymd.json](https://github.com/SylphxAI/scoop-bucket/blob/main/bucket/anymd.json)
 * [lockdocs.json](https://github.com/SylphxAI/scoop-bucket/blob/main/bucket/lockdocs.json)
 * [repomap.json](https://github.com/SylphxAI/scoop-bucket/blob/main/bucket/repomap.json)
-* [anymd.json](https://github.com/SylphxAI/scoop-bucket/blob/main/bucket/anymd.json)
