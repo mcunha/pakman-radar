@@ -179,32 +179,36 @@
     {
       "full_name": "imjustprism/scoop-holdon",
       "evicted_at": "2026-11-05T18:48:55Z"
+    },
+    {
+      "full_name": "John-Tito/scoop-bucket-private",
+      "evicted_at": "2026-11-06T07:00:56Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-11-06T00:23:04Z",
-    "count": 45,
+    "generated_at": "2026-11-06T07:01:03Z",
+    "count": 46,
     "global_metrics": {
-      "total_runs": 2422,
-      "total_run_time_seconds": 351669.47580194473,
-      "total_repo_updates": 162163,
-      "previous_total_buckets": 1883,
-      "previous_total_recipes": 144765,
-      "bucket_velocity": 0,
-      "recipe_velocity": 0,
-      "total_evictions": 78,
+      "total_runs": 2423,
+      "total_run_time_seconds": 351694.7855260372,
+      "total_repo_updates": 162266,
+      "previous_total_buckets": 1882,
+      "previous_total_recipes": 144760,
+      "bucket_velocity": -1,
+      "recipe_velocity": -5,
+      "total_evictions": 79,
       "total_api_retries": 2,
-      "last_run_discover_time": 0.2654602527618408,
-      "last_run_update_time": 22.84456443786621,
-      "ecosystem_reliability": 88.0,
-      "cache_size_mb": 11.130731582641602,
-      "total_unique_recipes": 33213,
+      "last_run_discover_time": 0.9393126964569092,
+      "last_run_update_time": 23.719589233398438,
+      "ecosystem_reliability": 88.1,
+      "cache_size_mb": 11.126094818115234,
+      "total_unique_recipes": 33210,
       "auto_update_percentage": 85.54,
       "official_recipes": 65213,
-      "community_recipes": 79552,
-      "stale_buckets": 506,
+      "community_recipes": 79547,
+      "stale_buckets": 507,
       "shovel_buckets": 25,
-      "scoop_buckets": 1858
+      "scoop_buckets": 1857
     }
   }
 }

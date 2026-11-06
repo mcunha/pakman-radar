@@ -8,7 +8,7 @@
 
 
 ## 📦 Recipes (4)
-* [butaglyph.json](https://github.com/Huseynteymurzade28/scoop-bucket/blob/main/bucket/butaglyph.json)
-* [pokeductor.json](https://github.com/Huseynteymurzade28/scoop-bucket/blob/main/bucket/pokeductor.json)
 * [pomtex.json](https://github.com/Huseynteymurzade28/scoop-bucket/blob/main/bucket/pomtex.json)
+* [pokeductor.json](https://github.com/Huseynteymurzade28/scoop-bucket/blob/main/bucket/pokeductor.json)
 * [tuiba.json](https://github.com/Huseynteymurzade28/scoop-bucket/blob/main/bucket/tuiba.json)
+* [butaglyph.json](https://github.com/Huseynteymurzade28/scoop-bucket/blob/main/bucket/butaglyph.json)

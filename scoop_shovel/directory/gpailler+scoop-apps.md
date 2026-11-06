@@ -8,8 +8,8 @@
 
 
 ## 📦 Recipes (5)
-* [OpenHashTab.json](https://github.com/gpailler/scoop-apps/blob/master/OpenHashTab.json)
-* [kaxaml.json](https://github.com/gpailler/scoop-apps/blob/master/kaxaml.json)
-* [cfg-cam.json](https://github.com/gpailler/scoop-apps/blob/master/cfg-cam.json)
 * [dnsproxy.json](https://github.com/gpailler/scoop-apps/blob/master/dnsproxy.json)
 * [cdex.json](https://github.com/gpailler/scoop-apps/blob/master/cdex.json)
+* [kaxaml.json](https://github.com/gpailler/scoop-apps/blob/master/kaxaml.json)
+* [cfg-cam.json](https://github.com/gpailler/scoop-apps/blob/master/cfg-cam.json)
+* [OpenHashTab.json](https://github.com/gpailler/scoop-apps/blob/master/OpenHashTab.json)

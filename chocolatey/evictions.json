@@ -187,25 +187,29 @@
     {
       "full_name": "imjustprism/scoop-holdon",
       "evicted_at": "2026-11-05T18:48:55Z"
+    },
+    {
+      "full_name": "John-Tito/scoop-bucket-private",
+      "evicted_at": "2026-11-06T07:00:56Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-11-06T00:23:07Z",
-    "count": 47,
+    "generated_at": "2026-11-06T07:01:05Z",
+    "count": 48,
     "global_metrics": {
-      "total_runs": 2422,
-      "total_run_time_seconds": 8543.910280227661,
-      "total_repo_updates": 145243,
+      "total_runs": 2423,
+      "total_run_time_seconds": 8545.89246559143,
+      "total_repo_updates": 145301,
       "previous_total_buckets": 226,
       "previous_total_recipes": 3327,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
-      "total_evictions": 81,
+      "total_evictions": 82,
       "total_api_retries": 2,
-      "last_run_discover_time": 0.5964405536651611,
-      "last_run_update_time": 1.7146215438842773,
+      "last_run_discover_time": 0.238816499710083,
+      "last_run_update_time": 1.71417236328125,
       "ecosystem_reliability": 100.0,
-      "cache_size_mb": 0.8464117050170898,
+      "cache_size_mb": 0.8464202880859375,
       "total_unique_recipes": 2930,
       "auto_update_percentage": 36.01,
       "official_recipes": 481,
