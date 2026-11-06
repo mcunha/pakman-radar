@@ -8,13 +8,13 @@
 
 
 ## 📦 Recipes (10)
+* [tablegraph.json](https://github.com/bbkane/scoop-bucket/blob/master/bucket/tablegraph.json)
 * [starghaze.json](https://github.com/bbkane/scoop-bucket/blob/master/bucket/starghaze.json)
 * [fling.json](https://github.com/bbkane/scoop-bucket/blob/master/bucket/fling.json)
-* [toddlerevents.json](https://github.com/bbkane/scoop-bucket/blob/master/bucket/toddlerevents.json)
-* [shovel.json](https://github.com/bbkane/scoop-bucket/blob/master/bucket/shovel.json)
 * [enventory.json](https://github.com/bbkane/scoop-bucket/blob/master/bucket/enventory.json)
+* [grabbit.json](https://github.com/bbkane/scoop-bucket/blob/master/bucket/grabbit.json)
+* [toddlerevents.json](https://github.com/bbkane/scoop-bucket/blob/master/bucket/toddlerevents.json)
 * [go-repo-janitor.json](https://github.com/bbkane/scoop-bucket/blob/master/bucket/go-repo-janitor.json)
+* [shovel.json](https://github.com/bbkane/scoop-bucket/blob/master/bucket/shovel.json)
 * [envelope.json](https://github.com/bbkane/scoop-bucket/blob/master/bucket/envelope.json)
 * [example-go-cli.json](https://github.com/bbkane/scoop-bucket/blob/master/bucket/example-go-cli.json)
-* [grabbit.json](https://github.com/bbkane/scoop-bucket/blob/master/bucket/grabbit.json)
-* [tablegraph.json](https://github.com/bbkane/scoop-bucket/blob/master/bucket/tablegraph.json)

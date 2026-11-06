@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [claude-use.json](https://github.com/ExaDev/scoop-agent-shim/blob/main/bucket/claude-use.json)
 * [agent-shim.json](https://github.com/ExaDev/scoop-agent-shim/blob/main/bucket/agent-shim.json)
+* [claude-use.json](https://github.com/ExaDev/scoop-agent-shim/blob/main/bucket/claude-use.json)

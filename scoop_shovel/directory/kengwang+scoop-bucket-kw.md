@@ -8,10 +8,10 @@
 
 
 ## 📦 Recipes (7)
-* [xftp.json](https://github.com/kengwang/scoop-bucket-kw/blob/master/bucket/xftp.json)
-* [bcut.json](https://github.com/kengwang/scoop-bucket-kw/blob/master/bucket/bcut.json)
-* [liteloaderqqnt.json](https://github.com/kengwang/scoop-bucket-kw/blob/master/bucket/liteloaderqqnt.json)
-* [xstudio.json](https://github.com/kengwang/scoop-bucket-kw/blob/master/bucket/xstudio.json)
-* [oopz.json](https://github.com/kengwang/scoop-bucket-kw/blob/master/bucket/oopz.json)
 * [xshell.json](https://github.com/kengwang/scoop-bucket-kw/blob/master/bucket/xshell.json)
 * [adobegenp.json](https://github.com/kengwang/scoop-bucket-kw/blob/master/bucket/adobegenp.json)
+* [bcut.json](https://github.com/kengwang/scoop-bucket-kw/blob/master/bucket/bcut.json)
+* [oopz.json](https://github.com/kengwang/scoop-bucket-kw/blob/master/bucket/oopz.json)
+* [xftp.json](https://github.com/kengwang/scoop-bucket-kw/blob/master/bucket/xftp.json)
+* [xstudio.json](https://github.com/kengwang/scoop-bucket-kw/blob/master/bucket/xstudio.json)
+* [liteloaderqqnt.json](https://github.com/kengwang/scoop-bucket-kw/blob/master/bucket/liteloaderqqnt.json)

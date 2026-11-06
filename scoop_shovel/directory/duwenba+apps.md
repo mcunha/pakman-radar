@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [tombi.json](https://github.com/duwenba/apps/blob/master/bucket/tombi.json)
 * [kazumi.json](https://github.com/duwenba/apps/blob/master/bucket/kazumi.json)
+* [tombi.json](https://github.com/duwenba/apps/blob/master/bucket/tombi.json)
