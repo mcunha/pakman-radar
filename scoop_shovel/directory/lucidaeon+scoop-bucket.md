@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [starcat.json](https://github.com/lucidaeon/scoop-bucket/blob/main/bucket/starcat.json)
 * [blackmoon.json](https://github.com/lucidaeon/scoop-bucket/blob/main/bucket/blackmoon.json)
+* [starcat.json](https://github.com/lucidaeon/scoop-bucket/blob/main/bucket/starcat.json)
