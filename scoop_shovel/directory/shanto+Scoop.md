@@ -8,8 +8,8 @@
 
 
 ## 📦 Recipes (5)
-* [php84-xdebug.json](https://github.com/shanto/Scoop/blob/master/bucket/php84-xdebug.json)
+* [quiso.json](https://github.com/shanto/Scoop/blob/master/bucket/quiso.json)
 * [npiperelay.json](https://github.com/shanto/Scoop/blob/master/bucket/npiperelay.json)
 * [libimobiledevice.json](https://github.com/shanto/Scoop/blob/master/bucket/libimobiledevice.json)
-* [quiso.json](https://github.com/shanto/Scoop/blob/master/bucket/quiso.json)
+* [php84-xdebug.json](https://github.com/shanto/Scoop/blob/master/bucket/php84-xdebug.json)
 * [ssh-agent-bridge.json](https://github.com/shanto/Scoop/blob/master/bucket/ssh-agent-bridge.json)
