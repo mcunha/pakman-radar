@@ -8,10 +8,10 @@
 
 
 ## 📦 Recipes (7)
-* [shield.json](https://github.com/raystack/scoop-bucket/blob/main/bucket/shield.json)
-* [meteor.json](https://github.com/raystack/scoop-bucket/blob/main/bucket/meteor.json)
-* [stencil.json](https://github.com/raystack/scoop-bucket/blob/main/bucket/stencil.json)
-* [compass.json](https://github.com/raystack/scoop-bucket/blob/main/bucket/compass.json)
-* [raccoon.json](https://github.com/raystack/scoop-bucket/blob/main/bucket/raccoon.json)
-* [frontier.json](https://github.com/raystack/scoop-bucket/blob/main/bucket/frontier.json)
 * [guardian.json](https://github.com/raystack/scoop-bucket/blob/main/bucket/guardian.json)
+* [raccoon.json](https://github.com/raystack/scoop-bucket/blob/main/bucket/raccoon.json)
+* [stencil.json](https://github.com/raystack/scoop-bucket/blob/main/bucket/stencil.json)
+* [frontier.json](https://github.com/raystack/scoop-bucket/blob/main/bucket/frontier.json)
+* [meteor.json](https://github.com/raystack/scoop-bucket/blob/main/bucket/meteor.json)
+* [shield.json](https://github.com/raystack/scoop-bucket/blob/main/bucket/shield.json)
+* [compass.json](https://github.com/raystack/scoop-bucket/blob/main/bucket/compass.json)

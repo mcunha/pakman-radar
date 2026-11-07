@@ -8,12 +8,12 @@
 
 
 ## 📦 Recipes (9)
-* [sparkle.json](https://github.com/Lemon7ProPlus/ScoopBucket/blob/master/bucket/sparkle.json)
-* [chrome-plus.json](https://github.com/Lemon7ProPlus/ScoopBucket/blob/master/bucket/chrome-plus.json)
-* [n_m3u8dl-re.json](https://github.com/Lemon7ProPlus/ScoopBucket/blob/master/bucket/n_m3u8dl-re.json)
-* [greenchrome.json](https://github.com/Lemon7ProPlus/ScoopBucket/blob/master/bucket/greenchrome.json)
-* [quickview.json](https://github.com/Lemon7ProPlus/ScoopBucket/blob/master/bucket/quickview.json)
+* [nekoray.json](https://github.com/Lemon7ProPlus/ScoopBucket/blob/master/bucket/nekoray.json)
 * [litemonitor.json](https://github.com/Lemon7ProPlus/ScoopBucket/blob/master/bucket/litemonitor.json)
 * [voidimageviewer.json](https://github.com/Lemon7ProPlus/ScoopBucket/blob/master/bucket/voidimageviewer.json)
+* [greenchrome.json](https://github.com/Lemon7ProPlus/ScoopBucket/blob/master/bucket/greenchrome.json)
 * [mediago.json](https://github.com/Lemon7ProPlus/ScoopBucket/blob/master/bucket/mediago.json)
-* [nekoray.json](https://github.com/Lemon7ProPlus/ScoopBucket/blob/master/bucket/nekoray.json)
+* [quickview.json](https://github.com/Lemon7ProPlus/ScoopBucket/blob/master/bucket/quickview.json)
+* [chrome-plus.json](https://github.com/Lemon7ProPlus/ScoopBucket/blob/master/bucket/chrome-plus.json)
+* [sparkle.json](https://github.com/Lemon7ProPlus/ScoopBucket/blob/master/bucket/sparkle.json)
+* [n_m3u8dl-re.json](https://github.com/Lemon7ProPlus/ScoopBucket/blob/master/bucket/n_m3u8dl-re.json)

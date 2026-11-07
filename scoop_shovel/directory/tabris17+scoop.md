@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [hugo.json](https://github.com/tabris17/scoop/blob/main/bucket/hugo.json)
 * [xnview.json](https://github.com/tabris17/scoop/blob/main/bucket/xnview.json)
+* [hugo.json](https://github.com/tabris17/scoop/blob/main/bucket/hugo.json)

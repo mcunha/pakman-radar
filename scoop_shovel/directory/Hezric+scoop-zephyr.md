@@ -8,6 +8,6 @@
 
 
 ## 📦 Recipes (3)
-* [cua-driver.json](https://github.com/Hezric/scoop-zephyr/blob/main/bucket/cua-driver.json)
 * [autohotkey.json](https://github.com/Hezric/scoop-zephyr/blob/main/bucket/autohotkey.json)
+* [cua-driver.json](https://github.com/Hezric/scoop-zephyr/blob/main/bucket/cua-driver.json)
 * [codex-acp.json](https://github.com/Hezric/scoop-zephyr/blob/main/bucket/codex-acp.json)
