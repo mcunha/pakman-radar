@@ -8,12 +8,12 @@
 
 
 ## 📦 Recipes (9)
-* [personalbackup.json](https://github.com/porti/scoop-bucket/blob/master/bucket/personalbackup.json)
-* [ganttproject.json](https://github.com/porti/scoop-bucket/blob/master/bucket/ganttproject.json)
+* [greenfish.json](https://github.com/porti/scoop-bucket/blob/master/bucket/greenfish.json)
 * [beyondcompare-de.json](https://github.com/porti/scoop-bucket/blob/master/bucket/beyondcompare-de.json)
-* [duck.json](https://github.com/porti/scoop-bucket/blob/master/bucket/duck.json)
-* [miniconda3-py312.json](https://github.com/porti/scoop-bucket/blob/master/bucket/miniconda3-py312.json)
 * [qtpass.json](https://github.com/porti/scoop-bucket/blob/master/bucket/qtpass.json)
 * [windowserrorlookuptool.json](https://github.com/porti/scoop-bucket/blob/master/bucket/windowserrorlookuptool.json)
-* [greenfish.json](https://github.com/porti/scoop-bucket/blob/master/bucket/greenfish.json)
+* [personalbackup.json](https://github.com/porti/scoop-bucket/blob/master/bucket/personalbackup.json)
 * [veracrypt-np.json](https://github.com/porti/scoop-bucket/blob/master/bucket/veracrypt-np.json)
+* [duck.json](https://github.com/porti/scoop-bucket/blob/master/bucket/duck.json)
+* [miniconda3-py312.json](https://github.com/porti/scoop-bucket/blob/master/bucket/miniconda3-py312.json)
+* [ganttproject.json](https://github.com/porti/scoop-bucket/blob/master/bucket/ganttproject.json)
