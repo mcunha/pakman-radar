@@ -9,5 +9,5 @@
 
 ## 📦 Recipes (3)
 * [leandoc.json](https://github.com/abooodbah/scoop-bucket/blob/main/bucket/leandoc.json)
-* [leanrows.json](https://github.com/abooodbah/scoop-bucket/blob/main/bucket/leanrows.json)
 * [leanmark.json](https://github.com/abooodbah/scoop-bucket/blob/main/bucket/leanmark.json)
+* [leanrows.json](https://github.com/abooodbah/scoop-bucket/blob/main/bucket/leanrows.json)
