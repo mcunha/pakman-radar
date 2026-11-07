@@ -126,14 +126,14 @@ A combined list of every source discovered in the ecosystem.
 | **[brogers5/chocolatey-package-openrgb.install](directory/brogers5+chocolatey-package-openrgb.install.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-openrgb.portable](directory/brogers5+chocolatey-package-openrgb.portable.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[zarethrex/chocolatey-openbve](directory/zarethrex+chocolatey-openbve.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[adamrushuk/velero-choco](directory/adamrushuk+velero-choco.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[brogers5/chocolatey-package-goldwave](directory/brogers5+chocolatey-package-goldwave.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
+| **[adamrushuk/velero-choco](directory/adamrushuk+velero-choco.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[brogers5/chocolatey-package-localsend](directory/brogers5+chocolatey-package-localsend.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-imazing](directory/brogers5+chocolatey-package-imazing.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-foxitreader](directory/brogers5+chocolatey-package-foxitreader.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[willjasen/chocolatey-duo-auth-proxy](directory/willjasen+chocolatey-duo-auth-proxy.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[jufab/skaffold-chocolatey](directory/jufab+skaffold-chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[brogers5/chocolatey-package-ps-remote-play](directory/brogers5+chocolatey-package-ps-remote-play.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
+| **[jufab/skaffold-chocolatey](directory/jufab+skaffold-chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[brogers5/chocolatey-package-localsend.install](directory/brogers5+chocolatey-package-localsend.install.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-localsend.portable](directory/brogers5+chocolatey-package-localsend.portable.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[LogtalkDotOrg/chocolatey-packages](directory/LogtalkDotOrg+chocolatey-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
@@ -297,8 +297,8 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 2429
-* **Total Repo Updates**: 145657
+* **Total Crawler Runs**: 2430
+* **Total Repo Updates**: 145715
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
@@ -306,6 +306,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 2
 * **Cache Size**: 💾 0.85 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 3.82s
-  * 📥 Update: 1.78s
-* **Cumulative Compute Time**: 142.9 minutes
+  * 🔍 Discovery: 3.72s
+  * 📥 Update: 1.63s
+* **Cumulative Compute Time**: 143.0 minutes
