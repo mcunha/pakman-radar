@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [mygo-cloudmusic.json](https://github.com/heewq/scoop-bucket/blob/master/bucket/mygo-cloudmusic.json)
 * [kero.json](https://github.com/heewq/scoop-bucket/blob/master/bucket/kero.json)
+* [mygo-cloudmusic.json](https://github.com/heewq/scoop-bucket/blob/master/bucket/mygo-cloudmusic.json)
