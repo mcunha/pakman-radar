@@ -9,5 +9,5 @@
 
 ## 📦 Recipes (3)
 * [kyteview.json](https://github.com/ais7896-hue/-scoop-bucket/blob/main/bucket/kyteview.json)
-* [kyteshelf.json](https://github.com/ais7896-hue/-scoop-bucket/blob/main/bucket/kyteshelf.json)
 * [kyterename.json](https://github.com/ais7896-hue/-scoop-bucket/blob/main/bucket/kyterename.json)
+* [kyteshelf.json](https://github.com/ais7896-hue/-scoop-bucket/blob/main/bucket/kyteshelf.json)
