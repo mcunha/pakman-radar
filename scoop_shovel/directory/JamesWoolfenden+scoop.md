@@ -8,11 +8,11 @@
 
 
 ## 📦 Recipes (8)
+* [ghat.json](https://github.com/JamesWoolfenden/scoop/blob/main/ghat.json)
 * [opentofu.json](https://github.com/JamesWoolfenden/scoop/blob/main/opentofu.json)
 * [yor.json](https://github.com/JamesWoolfenden/scoop/blob/main/yor.json)
-* [crusher.json](https://github.com/JamesWoolfenden/scoop/blob/main/crusher.json)
-* [actionlint.json](https://github.com/JamesWoolfenden/scoop/blob/main/actionlint.json)
-* [sato.json](https://github.com/JamesWoolfenden/scoop/blob/main/sato.json)
 * [stevedore.json](https://github.com/JamesWoolfenden/scoop/blob/main/stevedore.json)
+* [sato.json](https://github.com/JamesWoolfenden/scoop/blob/main/sato.json)
+* [crusher.json](https://github.com/JamesWoolfenden/scoop/blob/main/crusher.json)
 * [pike.json](https://github.com/JamesWoolfenden/scoop/blob/main/pike.json)
-* [ghat.json](https://github.com/JamesWoolfenden/scoop/blob/main/ghat.json)
+* [actionlint.json](https://github.com/JamesWoolfenden/scoop/blob/main/actionlint.json)

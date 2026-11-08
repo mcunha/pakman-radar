@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [imgbrd-grabber.json](https://github.com/rzyns/scoop-bucket/blob/master/bucket/imgbrd-grabber.json)
 * [diffusion-toolkit.json](https://github.com/rzyns/scoop-bucket/blob/master/bucket/diffusion-toolkit.json)
+* [imgbrd-grabber.json](https://github.com/rzyns/scoop-bucket/blob/master/bucket/imgbrd-grabber.json)
