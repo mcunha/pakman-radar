@@ -8,10 +8,10 @@
 
 
 ## 📦 Recipes (7)
+* [maa-ci.json](https://github.com/john180/scoop-bucket/blob/master/bucket/maa-ci.json)
 * [claude-code.json](https://github.com/john180/scoop-bucket/blob/master/bucket/claude-code.json)
-* [maa-end.json](https://github.com/john180/scoop-bucket/blob/master/bucket/maa-end.json)
 * [gui-for-singbox.json](https://github.com/john180/scoop-bucket/blob/master/bucket/gui-for-singbox.json)
-* [ztools.json](https://github.com/john180/scoop-bucket/blob/master/bucket/ztools.json)
 * [cherry-studio.json](https://github.com/john180/scoop-bucket/blob/master/bucket/cherry-studio.json)
 * [antigravity-manager.json](https://github.com/john180/scoop-bucket/blob/master/bucket/antigravity-manager.json)
-* [maa-ci.json](https://github.com/john180/scoop-bucket/blob/master/bucket/maa-ci.json)
+* [maa-end.json](https://github.com/john180/scoop-bucket/blob/master/bucket/maa-end.json)
+* [ztools.json](https://github.com/john180/scoop-bucket/blob/master/bucket/ztools.json)

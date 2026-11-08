@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [lotar.json](https://github.com/localtaskrepo/scoop-lotar/blob/main/bucket/lotar.json)
 * [autospec.json](https://github.com/localtaskrepo/scoop-lotar/blob/main/bucket/autospec.json)
+* [lotar.json](https://github.com/localtaskrepo/scoop-lotar/blob/main/bucket/lotar.json)

@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [magpie-ai-cli.json](https://github.com/LeeXieXie/scoop-personal/blob/master/bucket/magpie-ai-cli.json)
 * [magpie-ai.json](https://github.com/LeeXieXie/scoop-personal/blob/master/bucket/magpie-ai.json)
+* [magpie-ai-cli.json](https://github.com/LeeXieXie/scoop-personal/blob/master/bucket/magpie-ai-cli.json)
