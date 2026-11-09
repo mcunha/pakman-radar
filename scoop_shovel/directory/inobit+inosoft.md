@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [mihomoctl.json](https://github.com/inobit/inosoft/blob/master/bucket/mihomoctl.json)
 * [sys-metrics.json](https://github.com/inobit/inosoft/blob/master/bucket/sys-metrics.json)
+* [mihomoctl.json](https://github.com/inobit/inosoft/blob/master/bucket/mihomoctl.json)
