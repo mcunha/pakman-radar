@@ -1,10 +1,6 @@
 {
   "evictions": [
     {
-      "full_name": "Alpaq92/scoop-menyou",
-      "evicted_at": "2026-08-11T04:44:09Z"
-    },
-    {
       "full_name": "tristan666666/scoop-bucket",
       "evicted_at": "2026-08-12T13:51:35Z"
     },
@@ -182,22 +178,22 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-11-09T00:59:11Z",
-    "count": 45,
+    "generated_at": "2026-11-09T08:04:14Z",
+    "count": 44,
     "global_metrics": {
-      "total_runs": 2435,
-      "total_run_time_seconds": 352477.44439697266,
-      "total_repo_updates": 163254,
+      "total_runs": 2436,
+      "total_run_time_seconds": 352566.0658233166,
+      "total_repo_updates": 163351,
       "previous_total_buckets": 1890,
       "previous_total_recipes": 144776,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
       "total_evictions": 79,
       "total_api_retries": 2,
-      "last_run_discover_time": 0.2690560817718506,
-      "last_run_update_time": 15.373715877532959,
-      "ecosystem_reliability": 85.9,
-      "cache_size_mb": 11.136006355285645,
+      "last_run_discover_time": 1.062464714050293,
+      "last_run_update_time": 86.54802227020264,
+      "ecosystem_reliability": 82.8,
+      "cache_size_mb": 11.1339750289917,
       "total_unique_recipes": 33226,
       "auto_update_percentage": 85.54,
       "official_recipes": 65213,
