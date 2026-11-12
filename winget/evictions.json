@@ -183,25 +183,29 @@
     {
       "full_name": "Tochemey/scoop-bucket",
       "evicted_at": "2026-11-10T23:29:30Z"
+    },
+    {
+      "full_name": "warpdl/scoop-bucket",
+      "evicted_at": "2026-11-12T03:07:18Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-11-11T22:01:42Z",
-    "count": 46,
+    "generated_at": "2026-11-12T03:09:35Z",
+    "count": 47,
     "global_metrics": {
-      "total_runs": 2444,
-      "total_run_time_seconds": 42962.98177909851,
-      "total_repo_updates": 81422,
+      "total_runs": 2445,
+      "total_run_time_seconds": 42979.6611969471,
+      "total_repo_updates": 81455,
       "previous_total_buckets": 10,
       "previous_total_recipes": 6305,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
-      "total_evictions": 85,
+      "total_evictions": 86,
       "total_api_retries": 2,
-      "last_run_discover_time": 0.21027851104736328,
-      "last_run_update_time": 16.243035793304443,
+      "last_run_discover_time": 4.714684009552002,
+      "last_run_update_time": 11.948714017868042,
       "ecosystem_reliability": 100.0,
-      "cache_size_mb": 0.8806867599487305,
+      "cache_size_mb": 0.880610466003418,
       "total_unique_recipes": 1873,
       "auto_update_percentage": 0.0,
       "official_recipes": 4970,
