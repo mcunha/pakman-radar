@@ -8,12 +8,12 @@
 
 
 ## 📦 Recipes (9)
-* [vencord-installer-cli.json](https://github.com/LaurinSorgend/LaurinsStuff/blob/master/bucket/vencord-installer-cli.json)
-* [eza.json](https://github.com/LaurinSorgend/LaurinsStuff/blob/master/bucket/eza.json)
-* [BG3ModManager.json](https://github.com/LaurinSorgend/LaurinsStuff/blob/master/bucket/BG3ModManager.json)
 * [LeagueAutoAccept.json](https://github.com/LaurinSorgend/LaurinsStuff/blob/master/bucket/LeagueAutoAccept.json)
-* [NexusMods.App.json](https://github.com/LaurinSorgend/LaurinsStuff/blob/master/bucket/NexusMods.App.json)
-* [Deceive.json](https://github.com/LaurinSorgend/LaurinsStuff/blob/master/bucket/Deceive.json)
 * [disenchanter.json](https://github.com/LaurinSorgend/LaurinsStuff/blob/master/bucket/disenchanter.json)
-* [Equibop.json](https://github.com/LaurinSorgend/LaurinsStuff/blob/master/bucket/Equibop.json)
 * [Lumafly.json](https://github.com/LaurinSorgend/LaurinsStuff/blob/master/bucket/Lumafly.json)
+* [Deceive.json](https://github.com/LaurinSorgend/LaurinsStuff/blob/master/bucket/Deceive.json)
+* [eza.json](https://github.com/LaurinSorgend/LaurinsStuff/blob/master/bucket/eza.json)
+* [Equibop.json](https://github.com/LaurinSorgend/LaurinsStuff/blob/master/bucket/Equibop.json)
+* [vencord-installer-cli.json](https://github.com/LaurinSorgend/LaurinsStuff/blob/master/bucket/vencord-installer-cli.json)
+* [BG3ModManager.json](https://github.com/LaurinSorgend/LaurinsStuff/blob/master/bucket/BG3ModManager.json)
+* [NexusMods.App.json](https://github.com/LaurinSorgend/LaurinsStuff/blob/master/bucket/NexusMods.App.json)
