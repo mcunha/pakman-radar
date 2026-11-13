@@ -187,25 +187,33 @@
     {
       "full_name": "warpdl/scoop-bucket",
       "evicted_at": "2026-11-12T03:07:18Z"
+    },
+    {
+      "full_name": "xfoxolx/ScoopBucket",
+      "evicted_at": "2026-11-13T22:42:57Z"
+    },
+    {
+      "full_name": "bakhod1r/scoop-bucket",
+      "evicted_at": "2026-11-13T22:42:57Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-11-13T16:31:54Z",
-    "count": 47,
+    "generated_at": "2026-11-13T22:43:09Z",
+    "count": 49,
     "global_metrics": {
-      "total_runs": 2450,
-      "total_run_time_seconds": 8672.898075580597,
-      "total_repo_updates": 146889,
+      "total_runs": 2451,
+      "total_run_time_seconds": 8674.98031926155,
+      "total_repo_updates": 146949,
       "previous_total_buckets": 226,
       "previous_total_recipes": 3327,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
-      "total_evictions": 85,
+      "total_evictions": 87,
       "total_api_retries": 2,
-      "last_run_discover_time": 4.319788694381714,
-      "last_run_update_time": 2.0127100944519043,
+      "last_run_discover_time": 0.2270352840423584,
+      "last_run_update_time": 1.8160467147827148,
       "ecosystem_reliability": 100.0,
-      "cache_size_mb": 0.8489484786987305,
+      "cache_size_mb": 0.8487710952758789,
       "total_unique_recipes": 2930,
       "auto_update_percentage": 36.01,
       "official_recipes": 481,
