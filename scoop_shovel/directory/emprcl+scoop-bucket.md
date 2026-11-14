@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [runal.json](https://github.com/emprcl/scoop-bucket/blob/main/bucket/runal.json)
 * [spor.json](https://github.com/emprcl/scoop-bucket/blob/main/bucket/spor.json)
+* [runal.json](https://github.com/emprcl/scoop-bucket/blob/main/bucket/runal.json)
