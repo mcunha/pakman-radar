@@ -9,5 +9,5 @@
 
 ## 📦 Recipes (3)
 * [pasteex.json](https://github.com/jiyuchen1/scoop-bucket/blob/main/bucket/pasteex.json)
-* [carnac.json](https://github.com/jiyuchen1/scoop-bucket/blob/main/bucket/carnac.json)
 * [marktext.json](https://github.com/jiyuchen1/scoop-bucket/blob/main/bucket/marktext.json)
+* [carnac.json](https://github.com/jiyuchen1/scoop-bucket/blob/main/bucket/carnac.json)
