@@ -1,14 +1,6 @@
 {
   "evictions": [
     {
-      "full_name": "Arama0517/scoop-url-switcher",
-      "evicted_at": "2026-08-17T05:02:01Z"
-    },
-    {
-      "full_name": "Arama0517/scoop-bucket",
-      "evicted_at": "2026-08-17T05:53:49Z"
-    },
-    {
       "full_name": "hummbl-io/scoop-bucket",
       "evicted_at": "2026-08-20T23:43:48Z"
     },
@@ -186,29 +178,29 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-11-15T02:02:27Z",
-    "count": 46,
+    "generated_at": "2026-11-15T09:33:47Z",
+    "count": 44,
     "global_metrics": {
-      "total_runs": 2456,
-      "total_run_time_seconds": 353779.49600577354,
-      "total_repo_updates": 165070,
-      "previous_total_buckets": 1922,
-      "previous_total_recipes": 144857,
-      "bucket_velocity": 2,
-      "recipe_velocity": 3,
+      "total_runs": 2457,
+      "total_run_time_seconds": 353831.199737072,
+      "total_repo_updates": 165164,
+      "previous_total_buckets": 1925,
+      "previous_total_recipes": 144866,
+      "bucket_velocity": 3,
+      "recipe_velocity": 9,
       "total_evictions": 84,
       "total_api_retries": 2,
-      "last_run_discover_time": 3.730567455291748,
-      "last_run_update_time": 196.95542693138123,
+      "last_run_discover_time": 2.842207193374634,
+      "last_run_update_time": 47.10257291793823,
       "ecosystem_reliability": 87.6,
-      "cache_size_mb": 11.157934188842773,
-      "total_unique_recipes": 33288,
+      "cache_size_mb": 11.158860206604004,
+      "total_unique_recipes": 33294,
       "auto_update_percentage": 85.54,
-      "official_recipes": 65212,
-      "community_recipes": 79645,
+      "official_recipes": 65214,
+      "community_recipes": 79652,
       "stale_buckets": 511,
       "shovel_buckets": 25,
-      "scoop_buckets": 1897
+      "scoop_buckets": 1900
     }
   }
 }
