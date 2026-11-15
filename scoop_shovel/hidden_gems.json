@@ -1330,7 +1330,7 @@
       "topics": [
         "shovel-bucket"
       ],
-      "last_checked": "2026-11-11T06:37:33Z",
+      "last_checked": "2026-11-15T01:59:14Z",
       "pushed_at": "2026-11-14T16:31:36Z",
       "archived": false,
       "disabled": false,
@@ -1384,7 +1384,7 @@
         "bucket/anystorage.yml"
       ],
       "checkver_count": 46,
-      "consecutive_failures": 293,
+      "consecutive_failures": 294,
       "probe_success_rate": 1.0,
       "valid_probes": 3,
       "total_probes": 3,
@@ -1723,7 +1723,7 @@
       "score": 1.0,
       "default_branch": "main",
       "topics": [],
-      "last_checked": "2026-11-11T06:37:20Z",
+      "last_checked": "2026-11-15T01:59:11Z",
       "pushed_at": "2026-11-14T01:37:59Z",
       "archived": false,
       "disabled": false,
@@ -1768,7 +1768,7 @@
         "bucket/sakura-editor.json"
       ],
       "checkver_count": 34,
-      "consecutive_failures": 180,
+      "consecutive_failures": 181,
       "probe_success_rate": 1.0,
       "valid_probes": 3,
       "total_probes": 3,
@@ -1776,9 +1776,9 @@
       "uniqueness_ratio": 1.0,
       "auto_update_percentage": 89.47,
       "final_score": 151.4534246919447,
-      "current_rank": 153,
-      "rank_velocity": 0,
-      "previous_rank": 153,
+      "current_rank": 152,
+      "rank_velocity": 1,
+      "previous_rank": 152,
       "is_scoop_official": false,
       "is_scoop_known": false,
       "is_shovel_official": false,
@@ -1786,29 +1786,29 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-11-14T21:33:11Z",
+    "generated_at": "2026-11-15T02:02:27Z",
     "count": 10,
     "global_metrics": {
-      "total_runs": 2455,
-      "total_run_time_seconds": 353578.1296212673,
-      "total_repo_updates": 164984,
-      "previous_total_buckets": 1920,
-      "previous_total_recipes": 144854,
+      "total_runs": 2456,
+      "total_run_time_seconds": 353779.49600577354,
+      "total_repo_updates": 165070,
+      "previous_total_buckets": 1922,
+      "previous_total_recipes": 144857,
       "bucket_velocity": 2,
-      "recipe_velocity": 7,
+      "recipe_velocity": 3,
       "total_evictions": 84,
       "total_api_retries": 2,
-      "last_run_discover_time": 2.5132803916931152,
-      "last_run_update_time": 14.271424770355225,
-      "ecosystem_reliability": 87.8,
-      "cache_size_mb": 11.154053688049316,
-      "total_unique_recipes": 33285,
+      "last_run_discover_time": 3.730567455291748,
+      "last_run_update_time": 196.95542693138123,
+      "ecosystem_reliability": 87.6,
+      "cache_size_mb": 11.157934188842773,
+      "total_unique_recipes": 33288,
       "auto_update_percentage": 85.54,
       "official_recipes": 65212,
-      "community_recipes": 79642,
+      "community_recipes": 79645,
       "stale_buckets": 511,
       "shovel_buckets": 25,
-      "scoop_buckets": 1895
+      "scoop_buckets": 1897
     }
   }
 }
