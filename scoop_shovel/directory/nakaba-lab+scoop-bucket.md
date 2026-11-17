@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [sshm-tui.json](https://github.com/nakaba-lab/scoop-bucket/blob/main/bucket/sshm-tui.json)
 * [wslm.json](https://github.com/nakaba-lab/scoop-bucket/blob/main/bucket/wslm.json)
+* [sshm-tui.json](https://github.com/nakaba-lab/scoop-bucket/blob/main/bucket/sshm-tui.json)

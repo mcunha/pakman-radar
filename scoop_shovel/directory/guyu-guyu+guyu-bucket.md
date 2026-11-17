@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [autovideocompressor.json](https://github.com/guyu-guyu/guyu-bucket/blob/main/bucket/autovideocompressor.json)
 * [schedulecenter.json](https://github.com/guyu-guyu/guyu-bucket/blob/main/bucket/schedulecenter.json)
+* [autovideocompressor.json](https://github.com/guyu-guyu/guyu-bucket/blob/main/bucket/autovideocompressor.json)

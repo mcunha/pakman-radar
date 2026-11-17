@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [sendmock.json](https://github.com/shibbirweb/scoop-bucket/blob/main/bucket/sendmock.json)
 * [sendmock-beta.json](https://github.com/shibbirweb/scoop-bucket/blob/main/bucket/sendmock-beta.json)
+* [sendmock.json](https://github.com/shibbirweb/scoop-bucket/blob/main/bucket/sendmock.json)

@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [cursor2api.json](https://github.com/n1tsd/scoop-stash/blob/main/bucket/cursor2api.json)
 * [reclaude.json](https://github.com/n1tsd/scoop-stash/blob/main/bucket/reclaude.json)
+* [cursor2api.json](https://github.com/n1tsd/scoop-stash/blob/main/bucket/cursor2api.json)
