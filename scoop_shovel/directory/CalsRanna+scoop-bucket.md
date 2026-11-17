@@ -8,8 +8,8 @@
 
 
 ## 📦 Recipes (5)
-* [bump.json](https://github.com/CalsRanna/scoop-bucket/blob/main/bucket/bump.json)
-* [code-proxy.json](https://github.com/CalsRanna/scoop-bucket/blob/main/bucket/code-proxy.json)
 * [journal.json](https://github.com/CalsRanna/scoop-bucket/blob/main/bucket/journal.json)
 * [tapster.json](https://github.com/CalsRanna/scoop-bucket/blob/main/bucket/tapster.json)
+* [code-proxy.json](https://github.com/CalsRanna/scoop-bucket/blob/main/bucket/code-proxy.json)
 * [flit.json](https://github.com/CalsRanna/scoop-bucket/blob/main/bucket/flit.json)
+* [bump.json](https://github.com/CalsRanna/scoop-bucket/blob/main/bucket/bump.json)
