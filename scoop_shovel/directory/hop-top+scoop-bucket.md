@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [usp.json](https://github.com/hop-top/scoop-bucket/blob/main/bucket/usp.json)
 * [ben.json](https://github.com/hop-top/scoop-bucket/blob/main/bucket/ben.json)
+* [usp.json](https://github.com/hop-top/scoop-bucket/blob/main/bucket/usp.json)

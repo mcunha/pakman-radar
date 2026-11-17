@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [opentubex.json](https://github.com/OpenTubeX/scoop-bucket/blob/main/bucket/opentubex.json)
 * [opentubex-nightly.json](https://github.com/OpenTubeX/scoop-bucket/blob/main/bucket/opentubex-nightly.json)
+* [opentubex.json](https://github.com/OpenTubeX/scoop-bucket/blob/main/bucket/opentubex.json)
