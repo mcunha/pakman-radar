@@ -8,11 +8,11 @@
 
 
 ## 📦 Recipes (8)
-* [obs-plugin-input-overlay.json](https://github.com/vanbang9710/scoop-apps/blob/master/bucket/obs-plugin-input-overlay.json)
-* [Capture2Text-vi.json](https://github.com/vanbang9710/scoop-apps/blob/master/bucket/Capture2Text-vi.json)
+* [qttabbar-indiff-np.json](https://github.com/vanbang9710/scoop-apps/blob/master/bucket/qttabbar-indiff-np.json)
+* [mpv-webm.json](https://github.com/vanbang9710/scoop-apps/blob/master/bucket/mpv-webm.json)
 * [HandyOutliner.json](https://github.com/vanbang9710/scoop-apps/blob/master/bucket/HandyOutliner.json)
 * [IDM.json](https://github.com/vanbang9710/scoop-apps/blob/master/bucket/IDM.json)
+* [Capture2Text-vi.json](https://github.com/vanbang9710/scoop-apps/blob/master/bucket/Capture2Text-vi.json)
 * [mpv.json](https://github.com/vanbang9710/scoop-apps/blob/master/bucket/mpv.json)
-* [mpv-webm.json](https://github.com/vanbang9710/scoop-apps/blob/master/bucket/mpv-webm.json)
+* [obs-plugin-input-overlay.json](https://github.com/vanbang9710/scoop-apps/blob/master/bucket/obs-plugin-input-overlay.json)
 * [aris.json](https://github.com/vanbang9710/scoop-apps/blob/master/bucket/aris.json)
-* [qttabbar-indiff-np.json](https://github.com/vanbang9710/scoop-apps/blob/master/bucket/qttabbar-indiff-np.json)
