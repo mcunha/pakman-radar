@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [qrow.json](https://github.com/vsevolodbazhan/scoop-qrow/blob/main/bucket/qrow.json)
 * [qrow-nightly.json](https://github.com/vsevolodbazhan/scoop-qrow/blob/main/bucket/qrow-nightly.json)
+* [qrow.json](https://github.com/vsevolodbazhan/scoop-qrow/blob/main/bucket/qrow.json)
