@@ -9,5 +9,5 @@
 
 ## 📦 Recipes (3)
 * [mpv-v3.json](https://github.com/AnimMouse/Scoop-Bucket/blob/main/bucket/mpv-v3.json)
-* [libjxl.json](https://github.com/AnimMouse/Scoop-Bucket/blob/main/bucket/libjxl.json)
 * [rclone.json](https://github.com/AnimMouse/Scoop-Bucket/blob/main/bucket/rclone.json)
+* [libjxl.json](https://github.com/AnimMouse/Scoop-Bucket/blob/main/bucket/libjxl.json)

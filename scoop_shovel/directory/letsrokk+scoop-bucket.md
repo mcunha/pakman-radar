@@ -8,6 +8,6 @@
 
 
 ## 📦 Recipes (3)
-* [herdr-gpui.json](https://github.com/letsrokk/scoop-bucket/blob/main/bucket/herdr-gpui.json)
-* [herdr-app.json](https://github.com/letsrokk/scoop-bucket/blob/main/bucket/herdr-app.json)
 * [herdr-core.json](https://github.com/letsrokk/scoop-bucket/blob/main/bucket/herdr-core.json)
+* [herdr-app.json](https://github.com/letsrokk/scoop-bucket/blob/main/bucket/herdr-app.json)
+* [herdr-gpui.json](https://github.com/letsrokk/scoop-bucket/blob/main/bucket/herdr-gpui.json)

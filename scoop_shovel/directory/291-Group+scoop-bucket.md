@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [lan-orangutan.json](https://github.com/291-Group/scoop-bucket/blob/main/bucket/lan-orangutan.json)
 * [lan-sheriff.json](https://github.com/291-Group/scoop-bucket/blob/main/bucket/lan-sheriff.json)
+* [lan-orangutan.json](https://github.com/291-Group/scoop-bucket/blob/main/bucket/lan-orangutan.json)

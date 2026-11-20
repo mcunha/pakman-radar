@@ -9,5 +9,5 @@
 
 ## 📦 Recipes (3)
 * [pastebox.json](https://github.com/nullpointio/scoop-bucket/blob/main/bucket/pastebox.json)
-* [turnoffmonitor.json](https://github.com/nullpointio/scoop-bucket/blob/main/bucket/turnoffmonitor.json)
 * [kilobyt.json](https://github.com/nullpointio/scoop-bucket/blob/main/bucket/kilobyt.json)
+* [turnoffmonitor.json](https://github.com/nullpointio/scoop-bucket/blob/main/bucket/turnoffmonitor.json)

@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [kbshare.json](https://github.com/li-sky/scoop-bucket/blob/main/bucket/kbshare.json)
 * [xiaohe-shuangpin.json](https://github.com/li-sky/scoop-bucket/blob/main/bucket/xiaohe-shuangpin.json)
+* [kbshare.json](https://github.com/li-sky/scoop-bucket/blob/main/bucket/kbshare.json)

@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [latex-to-text.json](https://github.com/Gallen-Kallela/scoop-bucket/blob/main/bucket/latex-to-text.json)
 * [manim.json](https://github.com/Gallen-Kallela/scoop-bucket/blob/main/bucket/manim.json)
+* [latex-to-text.json](https://github.com/Gallen-Kallela/scoop-bucket/blob/main/bucket/latex-to-text.json)

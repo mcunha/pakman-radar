@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [dynooh-minipixels.json](https://github.com/Kwisso911/scoop-dynooh/blob/main/bucket/dynooh-minipixels.json)
 * [dynooh-sitemanager.json](https://github.com/Kwisso911/scoop-dynooh/blob/main/bucket/dynooh-sitemanager.json)
+* [dynooh-minipixels.json](https://github.com/Kwisso911/scoop-dynooh/blob/main/bucket/dynooh-minipixels.json)

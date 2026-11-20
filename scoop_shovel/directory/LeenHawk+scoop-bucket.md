@@ -8,6 +8,6 @@
 
 
 ## 📦 Recipes (3)
+* [gproxy-headless.json](https://github.com/LeenHawk/scoop-bucket/blob/master/bucket/gproxy-headless.json)
 * [gproxy.json](https://github.com/LeenHawk/scoop-bucket/blob/master/bucket/gproxy.json)
 * [gproxy-desktop.json](https://github.com/LeenHawk/scoop-bucket/blob/master/bucket/gproxy-desktop.json)
-* [gproxy-headless.json](https://github.com/LeenHawk/scoop-bucket/blob/master/bucket/gproxy-headless.json)

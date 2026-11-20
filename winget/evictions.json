@@ -1,10 +1,6 @@
 {
   "evictions": [
     {
-      "full_name": "xkeanu/scoop-bucket",
-      "evicted_at": "2026-08-22T05:46:06Z"
-    },
-    {
       "full_name": "Logiase/scoop-embedded",
       "evicted_at": "2026-08-24T15:59:44Z"
     },
@@ -182,22 +178,22 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-11-20T03:27:11Z",
-    "count": 45,
+    "generated_at": "2026-11-20T13:06:31Z",
+    "count": 44,
     "global_metrics": {
-      "total_runs": 2472,
-      "total_run_time_seconds": 43385.91795396805,
-      "total_repo_updates": 82338,
+      "total_runs": 2473,
+      "total_run_time_seconds": 43407.93637418747,
+      "total_repo_updates": 82370,
       "previous_total_buckets": 10,
       "previous_total_recipes": 6305,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
       "total_evictions": 88,
       "total_api_retries": 2,
-      "last_run_discover_time": 0.20282983779907227,
-      "last_run_update_time": 8.906820058822632,
+      "last_run_discover_time": 5.487568140029907,
+      "last_run_update_time": 16.510139226913452,
       "ecosystem_reliability": 100.0,
-      "cache_size_mb": 0.8870582580566406,
+      "cache_size_mb": 0.8891897201538086,
       "total_unique_recipes": 1873,
       "auto_update_percentage": 0.0,
       "official_recipes": 4970,
