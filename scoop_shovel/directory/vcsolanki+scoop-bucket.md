@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [mactype.json](https://github.com/vcsolanki/scoop-bucket/blob/main/bucket/mactype.json)
 * [prism-launcher-cracked.json](https://github.com/vcsolanki/scoop-bucket/blob/main/bucket/prism-launcher-cracked.json)
+* [mactype.json](https://github.com/vcsolanki/scoop-bucket/blob/main/bucket/mactype.json)

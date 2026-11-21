@@ -8,6 +8,6 @@
 
 
 ## 📦 Recipes (3)
+* [uu-remote.json](https://github.com/zippozeng2026/bucket/blob/main/bucket/uu-remote.json)
 * [workbuddy-cn.json](https://github.com/zippozeng2026/bucket/blob/main/bucket/workbuddy-cn.json)
 * [kingstvis.json](https://github.com/zippozeng2026/bucket/blob/main/bucket/kingstvis.json)
-* [uu-remote.json](https://github.com/zippozeng2026/bucket/blob/main/bucket/uu-remote.json)

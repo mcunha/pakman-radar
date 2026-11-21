@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [stealthsurf.json](https://github.com/StealthSurf-VPN/scoop-bucket/blob/main/bucket/stealthsurf.json)
 * [stealthsurf-proxy.json](https://github.com/StealthSurf-VPN/scoop-bucket/blob/main/bucket/stealthsurf-proxy.json)
+* [stealthsurf.json](https://github.com/StealthSurf-VPN/scoop-bucket/blob/main/bucket/stealthsurf.json)

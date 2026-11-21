@@ -124,18 +124,18 @@ A combined list of every source discovered in the ecosystem.
 | **[streamlink/streamlink-chocolatey](directory/streamlink+streamlink-chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[leejongyoung/egovframe-chocolatey](directory/leejongyoung+egovframe-chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.microsoft-office-deployment](directory/open-circle-ltd+chocolatey.microsoft-office-deployment.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[brogers5/chocolatey-package-xsplit-broadcaster](directory/brogers5+chocolatey-package-xsplit-broadcaster.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[sacloud/chocolatey-docker-machine-sakuracloud](directory/sacloud+chocolatey-docker-machine-sakuracloud.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[brogers5/chocolatey-package-xsplit-broadcaster](directory/brogers5+chocolatey-package-xsplit-broadcaster.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-openrgb](directory/brogers5+chocolatey-package-openrgb.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-openrgb.install](directory/brogers5+chocolatey-package-openrgb.install.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-openrgb.portable](directory/brogers5+chocolatey-package-openrgb.portable.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
-| **[brogers5/chocolatey-package-goldwave](directory/brogers5+chocolatey-package-goldwave.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[adamrushuk/velero-choco](directory/adamrushuk+velero-choco.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[brogers5/chocolatey-package-goldwave](directory/brogers5+chocolatey-package-goldwave.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-localsend](directory/brogers5+chocolatey-package-localsend.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-imazing](directory/brogers5+chocolatey-package-imazing.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-foxitreader](directory/brogers5+chocolatey-package-foxitreader.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
-| **[brogers5/chocolatey-package-ps-remote-play](directory/brogers5+chocolatey-package-ps-remote-play.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[jufab/skaffold-chocolatey](directory/jufab+skaffold-chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[brogers5/chocolatey-package-ps-remote-play](directory/brogers5+chocolatey-package-ps-remote-play.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-localsend.install](directory/brogers5+chocolatey-package-localsend.install.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-localsend.portable](directory/brogers5+chocolatey-package-localsend.portable.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[LogtalkDotOrg/chocolatey-packages](directory/LogtalkDotOrg+chocolatey-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
@@ -297,8 +297,8 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 2476
-* **Total Repo Updates**: 148421
+* **Total Crawler Runs**: 2477
+* **Total Repo Updates**: 148480
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
@@ -306,6 +306,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 2
 * **Cache Size**: 💾 0.85 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 0.76s
-  * 📥 Update: 1.57s
+  * 🔍 Discovery: 0.19s
+  * 📥 Update: 1.74s
 * **Cumulative Compute Time**: 146.6 minutes

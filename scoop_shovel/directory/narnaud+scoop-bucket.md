@@ -8,12 +8,12 @@
 
 
 ## 📦 Recipes (9)
-* [use.json](https://github.com/narnaud/scoop-bucket/blob/master/bucket/use.json)
-* [mcat.json](https://github.com/narnaud/scoop-bucket/blob/master/bucket/mcat.json)
-* [gh-dash.json](https://github.com/narnaud/scoop-bucket/blob/master/bucket/gh-dash.json)
-* [mdterm.json](https://github.com/narnaud/scoop-bucket/blob/master/bucket/mdterm.json)
 * [clink-terminal.json](https://github.com/narnaud/scoop-bucket/blob/master/bucket/clink-terminal.json)
-* [natvis4qt.json](https://github.com/narnaud/scoop-bucket/blob/master/bucket/natvis4qt.json)
+* [mcat.json](https://github.com/narnaud/scoop-bucket/blob/master/bucket/mcat.json)
 * [git-loom.json](https://github.com/narnaud/scoop-bucket/blob/master/bucket/git-loom.json)
-* [dirx.json](https://github.com/narnaud/scoop-bucket/blob/master/bucket/dirx.json)
+* [mdterm.json](https://github.com/narnaud/scoop-bucket/blob/master/bucket/mdterm.json)
+* [use.json](https://github.com/narnaud/scoop-bucket/blob/master/bucket/use.json)
 * [git-repos.json](https://github.com/narnaud/scoop-bucket/blob/master/bucket/git-repos.json)
+* [natvis4qt.json](https://github.com/narnaud/scoop-bucket/blob/master/bucket/natvis4qt.json)
+* [dirx.json](https://github.com/narnaud/scoop-bucket/blob/master/bucket/dirx.json)
+* [gh-dash.json](https://github.com/narnaud/scoop-bucket/blob/master/bucket/gh-dash.json)
