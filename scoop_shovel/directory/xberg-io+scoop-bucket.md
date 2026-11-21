@@ -8,8 +8,8 @@
 
 
 ## 📦 Recipes (5)
-* [html-to-markdown.json](https://github.com/xberg-io/scoop-bucket/blob/main/bucket/html-to-markdown.json)
-* [liter-llm.json](https://github.com/xberg-io/scoop-bucket/blob/main/bucket/liter-llm.json)
 * [alef.json](https://github.com/xberg-io/scoop-bucket/blob/main/bucket/alef.json)
-* [crawlberg.json](https://github.com/xberg-io/scoop-bucket/blob/main/bucket/crawlberg.json)
+* [liter-llm.json](https://github.com/xberg-io/scoop-bucket/blob/main/bucket/liter-llm.json)
+* [html-to-markdown.json](https://github.com/xberg-io/scoop-bucket/blob/main/bucket/html-to-markdown.json)
 * [ts-pack.json](https://github.com/xberg-io/scoop-bucket/blob/main/bucket/ts-pack.json)
+* [crawlberg.json](https://github.com/xberg-io/scoop-bucket/blob/main/bucket/crawlberg.json)
