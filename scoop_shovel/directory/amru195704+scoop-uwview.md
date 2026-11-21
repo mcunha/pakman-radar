@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [uwdiff.json](https://github.com/amru195704/scoop-uwview/blob/main/bucket/uwdiff.json)
 * [uwview.json](https://github.com/amru195704/scoop-uwview/blob/main/bucket/uwview.json)
+* [uwdiff.json](https://github.com/amru195704/scoop-uwview/blob/main/bucket/uwdiff.json)

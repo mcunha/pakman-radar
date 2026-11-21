@@ -9,6 +9,6 @@
 
 ## 📦 Recipes (4)
 * [phone-mirror.json](https://github.com/benbenqing/windows-toolbox/blob/main/bucket/phone-mirror.json)
-* [ttool.json](https://github.com/benbenqing/windows-toolbox/blob/main/bucket/ttool.json)
 * [terminal-proxy.json](https://github.com/benbenqing/windows-toolbox/blob/main/bucket/terminal-proxy.json)
+* [ttool.json](https://github.com/benbenqing/windows-toolbox/blob/main/bucket/ttool.json)
 * [codex-fix.json](https://github.com/benbenqing/windows-toolbox/blob/main/bucket/codex-fix.json)

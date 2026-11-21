@@ -8,9 +8,9 @@
 
 
 ## 📦 Recipes (6)
-* [yoetz.json](https://github.com/avivsinai/scoop-bucket/blob/main/bucket/yoetz.json)
-* [amq.json](https://github.com/avivsinai/scoop-bucket/blob/main/bucket/amq.json)
 * [bitbucket-cli.json](https://github.com/avivsinai/scoop-bucket/blob/main/bucket/bitbucket-cli.json)
-* [sabx.json](https://github.com/avivsinai/scoop-bucket/blob/main/bucket/sabx.json)
-* [shaon.json](https://github.com/avivsinai/scoop-bucket/blob/main/bucket/shaon.json)
+* [yoetz.json](https://github.com/avivsinai/scoop-bucket/blob/main/bucket/yoetz.json)
 * [jk.json](https://github.com/avivsinai/scoop-bucket/blob/main/bucket/jk.json)
+* [amq.json](https://github.com/avivsinai/scoop-bucket/blob/main/bucket/amq.json)
+* [shaon.json](https://github.com/avivsinai/scoop-bucket/blob/main/bucket/shaon.json)
+* [sabx.json](https://github.com/avivsinai/scoop-bucket/blob/main/bucket/sabx.json)
