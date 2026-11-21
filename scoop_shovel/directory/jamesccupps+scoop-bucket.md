@@ -8,10 +8,10 @@
 
 
 ## 📦 Recipes (7)
-* [pingerplot.json](https://github.com/jamesccupps/scoop-bucket/blob/main/bucket/pingerplot.json)
+* [unifistockwatcher.json](https://github.com/jamesccupps/scoop-bucket/blob/main/bucket/unifistockwatcher.json)
+* [netsentinel.json](https://github.com/jamesccupps/scoop-bucket/blob/main/bucket/netsentinel.json)
+* [protectpanes.json](https://github.com/jamesccupps/scoop-bucket/blob/main/bucket/protectpanes.json)
+* [hvac-network-scanner.json](https://github.com/jamesccupps/scoop-bucket/blob/main/bucket/hvac-network-scanner.json)
 * [noteforge.json](https://github.com/jamesccupps/scoop-bucket/blob/main/bucket/noteforge.json)
 * [slate.json](https://github.com/jamesccupps/scoop-bucket/blob/main/bucket/slate.json)
-* [netsentinel.json](https://github.com/jamesccupps/scoop-bucket/blob/main/bucket/netsentinel.json)
-* [unifistockwatcher.json](https://github.com/jamesccupps/scoop-bucket/blob/main/bucket/unifistockwatcher.json)
-* [hvac-network-scanner.json](https://github.com/jamesccupps/scoop-bucket/blob/main/bucket/hvac-network-scanner.json)
-* [protectpanes.json](https://github.com/jamesccupps/scoop-bucket/blob/main/bucket/protectpanes.json)
+* [pingerplot.json](https://github.com/jamesccupps/scoop-bucket/blob/main/bucket/pingerplot.json)

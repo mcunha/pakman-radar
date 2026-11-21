@@ -156,8 +156,8 @@ A combined list of every source discovered in the ecosystem.
 | **[open-circle-ltd/chocolatey.wwphone](directory/open-circle-ltd+chocolatey.wwphone.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[robertZaufall/ChocolateStoreCore](directory/robertZaufall+ChocolateStoreCore.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
 | **[blaiz2023/Blaiz-Tools](directory/blaiz2023+Blaiz-Tools.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[sacloud/chocolatey-terraform-provider-sakuracloud](directory/sacloud+chocolatey-terraform-provider-sakuracloud.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[philiparola/chocolatey-packages](directory/philiparola+chocolatey-packages.md)** | 📦 3 | ⭐ 1.0 | 🔄 0% |  |
+| **[sacloud/chocolatey-terraform-provider-sakuracloud](directory/sacloud+chocolatey-terraform-provider-sakuracloud.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[treeverse/chocolatey-dvc](directory/treeverse+chocolatey-dvc.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[gsmitheidw/visualparadigm-ce](directory/gsmitheidw+visualparadigm-ce.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[chocolatey-community/chocolatey-hooks](directory/chocolatey-community+chocolatey-hooks.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% | 👑 Official |
@@ -217,9 +217,9 @@ A combined list of every source discovered in the ecosystem.
 | **[JourneyOver/chocolatey-packages](directory/JourneyOver+chocolatey-packages.md)** | 📦 34 | ⭐ 1.0 | 🔄 0% |  |
 | **[skadogg/ghostwriter-portable](directory/skadogg+ghostwriter-portable.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[Kristinita/SashaChocolatey](directory/Kristinita+SashaChocolatey.md)** | 📦 37 | ⭐ 1.0 | 🔄 0% |  |
-| **[open-circle-ltd/chocolatey.rsa-secureid-software-token](directory/open-circle-ltd+chocolatey.rsa-secureid-software-token.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.adobe-creative-cloud](directory/open-circle-ltd+chocolatey.adobe-creative-cloud.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.jabra-direct](directory/open-circle-ltd+chocolatey.jabra-direct.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[open-circle-ltd/chocolatey.rsa-secureid-software-token](directory/open-circle-ltd+chocolatey.rsa-secureid-software-token.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.lenovo-thinkpad-usb-c-driver](directory/open-circle-ltd+chocolatey.lenovo-thinkpad-usb-c-driver.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.isl-light-client](directory/open-circle-ltd+chocolatey.isl-light-client.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[TheClonker/rednotebook-chocolatey](directory/TheClonker+rednotebook-chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
@@ -274,8 +274,8 @@ A combined list of every source discovered in the ecosystem.
 | **[leewilson86/chocolatey-package-templates](directory/leewilson86+chocolatey-package-templates.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[leandrosimoes/chocolatey-packages](directory/leandrosimoes+chocolatey-packages.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
 | **[johndkane/Chocolatey-Packages-Repository](directory/johndkane+Chocolatey-Packages-Repository.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[flcdrg/chocolatey-dellcommandupdate](directory/flcdrg+chocolatey-dellcommandupdate.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[JamieMagee/chocolatey-packages](directory/JamieMagee+chocolatey-packages.md)** | 📦 9 | ⭐ 1.0 | 🔄 100% |  |
+| **[flcdrg/chocolatey-dellcommandupdate](directory/flcdrg+chocolatey-dellcommandupdate.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[hsluoyz/npcap-package](directory/hsluoyz+npcap-package.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[tricktux/choco-neovim-git](directory/tricktux+choco-neovim-git.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[flcdrg/chocolatey-typescript-vs2015](directory/flcdrg+chocolatey-typescript-vs2015.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
@@ -297,8 +297,8 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 2475
-* **Total Repo Updates**: 148362
+* **Total Crawler Runs**: 2476
+* **Total Repo Updates**: 148421
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
@@ -306,6 +306,6 @@ A combined list of every source discovered in the ecosystem.
 * **API Rate Limit Retries**: ⏳ 2
 * **Cache Size**: 💾 0.85 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 0.22s
-  * 📥 Update: 1.79s
-* **Cumulative Compute Time**: 146.5 minutes
+  * 🔍 Discovery: 0.76s
+  * 📥 Update: 1.57s
+* **Cumulative Compute Time**: 146.6 minutes

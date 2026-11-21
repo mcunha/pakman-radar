@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [kdeps-desktop.json](https://github.com/kdeps/scoop-bucket/blob/main/bucket/kdeps-desktop.json)
 * [kdeps.json](https://github.com/kdeps/scoop-bucket/blob/main/bucket/kdeps.json)
+* [kdeps-desktop.json](https://github.com/kdeps/scoop-bucket/blob/main/bucket/kdeps-desktop.json)
