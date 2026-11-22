@@ -1,14 +1,6 @@
 {
   "evictions": [
     {
-      "full_name": "Logiase/scoop-embedded",
-      "evicted_at": "2026-08-24T15:59:44Z"
-    },
-    {
-      "full_name": "voicemeet/scoop-bucket",
-      "evicted_at": "2026-08-24T19:48:09Z"
-    },
-    {
       "full_name": "caixiaomao/scoop-bucket",
       "evicted_at": "2026-08-24T23:41:30Z"
     },
@@ -178,29 +170,29 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-11-22T15:26:57Z",
-    "count": 44,
+    "generated_at": "2026-11-22T21:59:16Z",
+    "count": 42,
     "global_metrics": {
-      "total_runs": 2480,
-      "total_run_time_seconds": 355265.7079644203,
-      "total_repo_updates": 167245,
-      "previous_total_buckets": 1979,
-      "previous_total_recipes": 144998,
+      "total_runs": 2481,
+      "total_run_time_seconds": 355660.38778829575,
+      "total_repo_updates": 167600,
+      "previous_total_buckets": 1980,
+      "previous_total_recipes": 144999,
       "bucket_velocity": 1,
-      "recipe_velocity": 7,
+      "recipe_velocity": 1,
       "total_evictions": 86,
       "total_api_retries": 2,
-      "last_run_discover_time": 3.3068199157714844,
-      "last_run_update_time": 25.145522117614746,
-      "ecosystem_reliability": 88.5,
-      "cache_size_mb": 11.196306228637695,
-      "total_unique_recipes": 33370,
+      "last_run_discover_time": 3.0648720264434814,
+      "last_run_update_time": 390.95292925834656,
+      "ecosystem_reliability": 88.4,
+      "cache_size_mb": 11.19800853729248,
+      "total_unique_recipes": 33371,
       "auto_update_percentage": 85.54,
       "official_recipes": 65245,
-      "community_recipes": 79753,
+      "community_recipes": 79754,
       "stale_buckets": 512,
       "shovel_buckets": 25,
-      "scoop_buckets": 1954
+      "scoop_buckets": 1955
     }
   }
 }

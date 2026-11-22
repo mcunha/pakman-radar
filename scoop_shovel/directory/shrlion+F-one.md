@@ -8,12 +8,12 @@
 
 
 ## 📦 Recipes (9)
-* [chsrc.json](https://github.com/shrlion/F-one/blob/main/bucket/chsrc.json)
-* [v2rayn.json](https://github.com/shrlion/F-one/blob/main/bucket/v2rayn.json)
-* [sftpgo.json](https://github.com/shrlion/F-one/blob/main/bucket/sftpgo.json)
-* [lancet.json](https://github.com/shrlion/F-one/blob/main/bucket/lancet.json)
-* [austin.json](https://github.com/shrlion/F-one/blob/main/bucket/austin.json)
-* [snipaste.json](https://github.com/shrlion/F-one/blob/main/bucket/snipaste.json)
 * [quill.json](https://github.com/shrlion/F-one/blob/main/bucket/quill.json)
+* [chsrc.json](https://github.com/shrlion/F-one/blob/main/bucket/chsrc.json)
 * [shadowsocks-v2ray-plugin.json](https://github.com/shrlion/F-one/blob/main/bucket/shadowsocks-v2ray-plugin.json)
+* [lancet.json](https://github.com/shrlion/F-one/blob/main/bucket/lancet.json)
+* [sftpgo.json](https://github.com/shrlion/F-one/blob/main/bucket/sftpgo.json)
 * [deskreen.json](https://github.com/shrlion/F-one/blob/main/bucket/deskreen.json)
+* [snipaste.json](https://github.com/shrlion/F-one/blob/main/bucket/snipaste.json)
+* [v2rayn.json](https://github.com/shrlion/F-one/blob/main/bucket/v2rayn.json)
+* [austin.json](https://github.com/shrlion/F-one/blob/main/bucket/austin.json)

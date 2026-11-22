@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [workbuddy.json](https://github.com/nwsytyc/scoop-bucket/blob/main/bucket/workbuddy.json)
 * [typeless.json](https://github.com/nwsytyc/scoop-bucket/blob/main/bucket/typeless.json)
+* [workbuddy.json](https://github.com/nwsytyc/scoop-bucket/blob/main/bucket/workbuddy.json)

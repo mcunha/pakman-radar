@@ -8,10 +8,10 @@
 
 
 ## 📦 Recipes (7)
-* [dotnet-core-uninstall.json](https://github.com/ArmoryNode/PersonalScoopBucket/blob/main/bucket/dotnet-core-uninstall.json)
-* [libation.json](https://github.com/ArmoryNode/PersonalScoopBucket/blob/main/bucket/libation.json)
 * [edit.json](https://github.com/ArmoryNode/PersonalScoopBucket/blob/main/bucket/edit.json)
-* [fun-focus.json](https://github.com/ArmoryNode/PersonalScoopBucket/blob/main/bucket/fun-focus.json)
+* [dotnet-core-uninstall.json](https://github.com/ArmoryNode/PersonalScoopBucket/blob/main/bucket/dotnet-core-uninstall.json)
 * [artifacts-credprovider.json](https://github.com/ArmoryNode/PersonalScoopBucket/blob/main/bucket/artifacts-credprovider.json)
+* [libation.json](https://github.com/ArmoryNode/PersonalScoopBucket/blob/main/bucket/libation.json)
 * [superfile.json](https://github.com/ArmoryNode/PersonalScoopBucket/blob/main/bucket/superfile.json)
 * [netpad.json](https://github.com/ArmoryNode/PersonalScoopBucket/blob/main/bucket/netpad.json)
+* [fun-focus.json](https://github.com/ArmoryNode/PersonalScoopBucket/blob/main/bucket/fun-focus.json)

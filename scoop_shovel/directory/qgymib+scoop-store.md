@@ -9,5 +9,5 @@
 
 ## 📦 Recipes (3)
 * [drmemory.json](https://github.com/qgymib/scoop-store/blob/main/bucket/drmemory.json)
-* [syncthingtray.json](https://github.com/qgymib/scoop-store/blob/main/bucket/syncthingtray.json)
 * [mylifeorganized.json](https://github.com/qgymib/scoop-store/blob/main/bucket/mylifeorganized.json)
+* [syncthingtray.json](https://github.com/qgymib/scoop-store/blob/main/bucket/syncthingtray.json)

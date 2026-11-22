@@ -8,10 +8,10 @@
 
 
 ## 📦 Recipes (7)
-* [nyagos.json](https://github.com/rkbk60/scoop-for-jp/blob/master/nyagos.json)
-* [source-han-code-jp.json](https://github.com/rkbk60/scoop-for-jp/blob/master/source-han-code-jp.json)
-* [cica.json](https://github.com/rkbk60/scoop-for-jp/blob/master/cica.json)
-* [ricty-diminished.json](https://github.com/rkbk60/scoop-for-jp/blob/master/ricty-diminished.json)
-* [myrica.json](https://github.com/rkbk60/scoop-for-jp/blob/master/myrica.json)
 * [emacs-nt.json](https://github.com/rkbk60/scoop-for-jp/blob/master/emacs-nt.json)
+* [source-han-code-jp.json](https://github.com/rkbk60/scoop-for-jp/blob/master/source-han-code-jp.json)
+* [ricty-diminished.json](https://github.com/rkbk60/scoop-for-jp/blob/master/ricty-diminished.json)
+* [cica.json](https://github.com/rkbk60/scoop-for-jp/blob/master/cica.json)
+* [myrica.json](https://github.com/rkbk60/scoop-for-jp/blob/master/myrica.json)
 * [myrica-m.json](https://github.com/rkbk60/scoop-for-jp/blob/master/myrica-m.json)
+* [nyagos.json](https://github.com/rkbk60/scoop-for-jp/blob/master/nyagos.json)

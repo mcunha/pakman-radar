@@ -8,12 +8,12 @@
 
 
 ## 📦 Recipes (9)
-* [windowsterminalicons.json](https://github.com/onsamyj/dipper/blob/main/bucket/windowsterminalicons.json)
-* [ttdl.json](https://github.com/onsamyj/dipper/blob/main/bucket/ttdl.json)
+* [uad.json](https://github.com/onsamyj/dipper/blob/main/bucket/uad.json)
+* [greenfish.json](https://github.com/onsamyj/dipper/blob/main/bucket/greenfish.json)
 * [8bitdo-pro2.json](https://github.com/onsamyj/dipper/blob/main/bucket/8bitdo-pro2.json)
 * [dosbox-pixel-perfect.json](https://github.com/onsamyj/dipper/blob/main/bucket/dosbox-pixel-perfect.json)
-* [8bitdo-firmware.json](https://github.com/onsamyj/dipper/blob/main/bucket/8bitdo-firmware.json)
-* [greenfish.json](https://github.com/onsamyj/dipper/blob/main/bucket/greenfish.json)
-* [uad.json](https://github.com/onsamyj/dipper/blob/main/bucket/uad.json)
-* [zlibrary.json](https://github.com/onsamyj/dipper/blob/main/bucket/zlibrary.json)
 * [boop.json](https://github.com/onsamyj/dipper/blob/main/bucket/boop.json)
+* [zlibrary.json](https://github.com/onsamyj/dipper/blob/main/bucket/zlibrary.json)
+* [windowsterminalicons.json](https://github.com/onsamyj/dipper/blob/main/bucket/windowsterminalicons.json)
+* [8bitdo-firmware.json](https://github.com/onsamyj/dipper/blob/main/bucket/8bitdo-firmware.json)
+* [ttdl.json](https://github.com/onsamyj/dipper/blob/main/bucket/ttdl.json)

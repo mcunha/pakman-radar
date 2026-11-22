@@ -8,10 +8,10 @@
 
 
 ## 📦 Recipes (7)
-* [makemkv.json](https://github.com/yuusakuri/scoop-bucket/blob/master/bucket/makemkv.json)
-* [pswinutil.json](https://github.com/yuusakuri/scoop-bucket/blob/master/bucket/pswinutil.json)
-* [pswinglue.json](https://github.com/yuusakuri/scoop-bucket/blob/master/bucket/pswinglue.json)
-* [win10-initial-setup-script.json](https://github.com/yuusakuri/scoop-bucket/blob/master/bucket/win10-initial-setup-script.json)
-* [vscode-1-98-2.json](https://github.com/yuusakuri/scoop-bucket/blob/master/bucket/vscode-1-98-2.json)
-* [carbon.json](https://github.com/yuusakuri/scoop-bucket/blob/master/bucket/carbon.json)
 * [winrar-ja.json](https://github.com/yuusakuri/scoop-bucket/blob/master/bucket/winrar-ja.json)
+* [makemkv.json](https://github.com/yuusakuri/scoop-bucket/blob/master/bucket/makemkv.json)
+* [carbon.json](https://github.com/yuusakuri/scoop-bucket/blob/master/bucket/carbon.json)
+* [pswinutil.json](https://github.com/yuusakuri/scoop-bucket/blob/master/bucket/pswinutil.json)
+* [vscode-1-98-2.json](https://github.com/yuusakuri/scoop-bucket/blob/master/bucket/vscode-1-98-2.json)
+* [win10-initial-setup-script.json](https://github.com/yuusakuri/scoop-bucket/blob/master/bucket/win10-initial-setup-script.json)
+* [pswinglue.json](https://github.com/yuusakuri/scoop-bucket/blob/master/bucket/pswinglue.json)

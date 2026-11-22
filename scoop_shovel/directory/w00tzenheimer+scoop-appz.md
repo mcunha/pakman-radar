@@ -9,7 +9,7 @@
 
 ## 📦 Recipes (5)
 * [IPVanish-ManualInstall.json](https://github.com/w00tzenheimer/scoop-appz/blob/main/bucket/IPVanish-ManualInstall.json)
-* [tone.yml](https://github.com/w00tzenheimer/scoop-appz/blob/main/bucket/tone.yml)
 * [ethr.yml](https://github.com/w00tzenheimer/scoop-appz/blob/main/bucket/ethr.yml)
 * [bun.yml](https://github.com/w00tzenheimer/scoop-appz/blob/main/bucket/bun.yml)
+* [tone.yml](https://github.com/w00tzenheimer/scoop-appz/blob/main/bucket/tone.yml)
 * [IPVanish-Portable.json](https://github.com/w00tzenheimer/scoop-appz/blob/main/bucket/IPVanish-Portable.json)

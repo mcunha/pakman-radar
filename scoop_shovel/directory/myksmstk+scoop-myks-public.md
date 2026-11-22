@@ -8,9 +8,9 @@
 
 
 ## 📦 Recipes (6)
-* [changekey.json](https://github.com/myksmstk/scoop-myks-public/blob/master/bucket/changekey.json)
-* [putty-ranvis.json](https://github.com/myksmstk/scoop-myks-public/blob/master/bucket/putty-ranvis.json)
-* [hashmyfiles.json](https://github.com/myksmstk/scoop-myks-public/blob/master/bucket/hashmyfiles.json)
 * [mery.json](https://github.com/myksmstk/scoop-myks-public/blob/master/bucket/mery.json)
-* [putty-d2ddw.json](https://github.com/myksmstk/scoop-myks-public/blob/master/bucket/putty-d2ddw.json)
+* [hashmyfiles.json](https://github.com/myksmstk/scoop-myks-public/blob/master/bucket/hashmyfiles.json)
+* [changekey.json](https://github.com/myksmstk/scoop-myks-public/blob/master/bucket/changekey.json)
 * [omnisshagent.json](https://github.com/myksmstk/scoop-myks-public/blob/master/bucket/omnisshagent.json)
+* [putty-ranvis.json](https://github.com/myksmstk/scoop-myks-public/blob/master/bucket/putty-ranvis.json)
+* [putty-d2ddw.json](https://github.com/myksmstk/scoop-myks-public/blob/master/bucket/putty-d2ddw.json)

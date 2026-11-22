@@ -9,5 +9,5 @@
 
 ## 📦 Recipes (3)
 * [docto.json](https://github.com/edavidaja/scoop-bucket/blob/main/bucket/docto.json)
-* [sqlfmt.json](https://github.com/edavidaja/scoop-bucket/blob/main/bucket/sqlfmt.json)
 * [rstudio-pro.json](https://github.com/edavidaja/scoop-bucket/blob/main/bucket/rstudio-pro.json)
+* [sqlfmt.json](https://github.com/edavidaja/scoop-bucket/blob/main/bucket/sqlfmt.json)

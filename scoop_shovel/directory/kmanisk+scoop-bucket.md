@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [ueli.json](https://github.com/kmanisk/scoop-bucket/blob/master/bucket/ueli.json)
 * [rilo.json](https://github.com/kmanisk/scoop-bucket/blob/master/bucket/rilo.json)
+* [ueli.json](https://github.com/kmanisk/scoop-bucket/blob/master/bucket/ueli.json)

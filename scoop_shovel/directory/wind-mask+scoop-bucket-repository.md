@@ -8,10 +8,10 @@
 
 
 ## 📦 Recipes (7)
-* [bandwhich.json](https://github.com/wind-mask/scoop-bucket-repository/blob/master/bucket/bandwhich.json)
-* [vivid.json](https://github.com/wind-mask/scoop-bucket-repository/blob/master/bucket/vivid.json)
-* [lemmeknow.json](https://github.com/wind-mask/scoop-bucket-repository/blob/master/bucket/lemmeknow.json)
-* [halp.json](https://github.com/wind-mask/scoop-bucket-repository/blob/master/bucket/halp.json)
-* [marktext-specialedition.json](https://github.com/wind-mask/scoop-bucket-repository/blob/master/bucket/marktext-specialedition.json)
 * [jnv.json](https://github.com/wind-mask/scoop-bucket-repository/blob/master/bucket/jnv.json)
+* [lemmeknow.json](https://github.com/wind-mask/scoop-bucket-repository/blob/master/bucket/lemmeknow.json)
+* [bandwhich.json](https://github.com/wind-mask/scoop-bucket-repository/blob/master/bucket/bandwhich.json)
+* [marktext-specialedition.json](https://github.com/wind-mask/scoop-bucket-repository/blob/master/bucket/marktext-specialedition.json)
+* [halp.json](https://github.com/wind-mask/scoop-bucket-repository/blob/master/bucket/halp.json)
+* [vivid.json](https://github.com/wind-mask/scoop-bucket-repository/blob/master/bucket/vivid.json)
 * [mpv-lazy.json](https://github.com/wind-mask/scoop-bucket-repository/blob/master/bucket/mpv-lazy.json)
