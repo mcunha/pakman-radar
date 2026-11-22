@@ -9,7 +9,7 @@
 
 ## 📦 Recipes (5)
 * [todesk.json](https://github.com/wanzhao-ysy/lemma-scoop/blob/main/bucket/todesk.json)
-* [wechat.json](https://github.com/wanzhao-ysy/lemma-scoop/blob/main/bucket/wechat.json)
+* [pot-desktop.json](https://github.com/wanzhao-ysy/lemma-scoop/blob/main/bucket/pot-desktop.json)
 * [bettergi.json](https://github.com/wanzhao-ysy/lemma-scoop/blob/main/bucket/bettergi.json)
 * [keystats.json](https://github.com/wanzhao-ysy/lemma-scoop/blob/main/bucket/keystats.json)
-* [pot-desktop.json](https://github.com/wanzhao-ysy/lemma-scoop/blob/main/bucket/pot-desktop.json)
+* [wechat.json](https://github.com/wanzhao-ysy/lemma-scoop/blob/main/bucket/wechat.json)
