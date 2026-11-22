@@ -8,13 +8,13 @@
 
 
 ## 📦 Recipes (10)
-* [googlechrome.json](https://github.com/EFLKumo/jam/blob/master/bucket/googlechrome.json)
 * [mpv-config.json](https://github.com/EFLKumo/jam/blob/master/bucket/mpv-config.json)
+* [signal.json](https://github.com/EFLKumo/jam/blob/master/bucket/signal.json)
+* [element.json](https://github.com/EFLKumo/jam/blob/master/bucket/element.json)
+* [googlechrome.json](https://github.com/EFLKumo/jam/blob/master/bucket/googlechrome.json)
 * [keyguard.json](https://github.com/EFLKumo/jam/blob/master/bucket/keyguard.json)
-* [void.json](https://github.com/EFLKumo/jam/blob/master/bucket/void.json)
+* [pot.json](https://github.com/EFLKumo/jam/blob/master/bucket/pot.json)
 * [siyuan-unlock.json](https://github.com/EFLKumo/jam/blob/master/bucket/siyuan-unlock.json)
 * [readest.json](https://github.com/EFLKumo/jam/blob/master/bucket/readest.json)
-* [pot.json](https://github.com/EFLKumo/jam/blob/master/bucket/pot.json)
+* [void.json](https://github.com/EFLKumo/jam/blob/master/bucket/void.json)
 * [cherry-studio.json](https://github.com/EFLKumo/jam/blob/master/bucket/cherry-studio.json)
-* [element.json](https://github.com/EFLKumo/jam/blob/master/bucket/element.json)
-* [signal.json](https://github.com/EFLKumo/jam/blob/master/bucket/signal.json)

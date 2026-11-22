@@ -171,32 +171,36 @@
     {
       "full_name": "chayprabs/scoop-localtools",
       "evicted_at": "2026-11-21T23:26:39Z"
+    },
+    {
+      "full_name": "bemlerlabs/scoop-bucket",
+      "evicted_at": "2026-11-22T07:00:00Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-11-21T23:26:44Z",
-    "count": 43,
+    "generated_at": "2026-11-22T07:00:09Z",
+    "count": 44,
     "global_metrics": {
-      "total_runs": 2478,
-      "total_run_time_seconds": 355208.458316803,
-      "total_repo_updates": 167046,
-      "previous_total_buckets": 1977,
-      "previous_total_recipes": 144987,
-      "bucket_velocity": 0,
-      "recipe_velocity": -13,
-      "total_evictions": 85,
+      "total_runs": 2479,
+      "total_run_time_seconds": 355236.3860592842,
+      "total_repo_updates": 167143,
+      "previous_total_buckets": 1978,
+      "previous_total_recipes": 144991,
+      "bucket_velocity": 1,
+      "recipe_velocity": 4,
+      "total_evictions": 86,
       "total_api_retries": 2,
-      "last_run_discover_time": 2.9588840007781982,
-      "last_run_update_time": 26.963446140289307,
+      "last_run_discover_time": 3.570141315460205,
+      "last_run_update_time": 23.35422945022583,
       "ecosystem_reliability": 88.6,
-      "cache_size_mb": 11.194170951843262,
+      "cache_size_mb": 11.1931734085083,
       "total_unique_recipes": 33363,
       "auto_update_percentage": 85.54,
-      "official_recipes": 65244,
-      "community_recipes": 79743,
+      "official_recipes": 65245,
+      "community_recipes": 79746,
       "stale_buckets": 512,
       "shovel_buckets": 25,
-      "scoop_buckets": 1952
+      "scoop_buckets": 1953
     }
   }
 }

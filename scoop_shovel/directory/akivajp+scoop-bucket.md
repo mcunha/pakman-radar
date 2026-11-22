@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [rigtop.json](https://github.com/akivajp/scoop-bucket/blob/master/bucket/rigtop.json)
 * [flexflyout.json](https://github.com/akivajp/scoop-bucket/blob/master/bucket/flexflyout.json)
+* [rigtop.json](https://github.com/akivajp/scoop-bucket/blob/master/bucket/rigtop.json)
