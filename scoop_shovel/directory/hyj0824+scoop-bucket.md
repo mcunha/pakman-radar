@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [mingw-hentai.json](https://github.com/hyj0824/scoop-bucket/blob/master/bucket/mingw-hentai.json)
 * [mingw-lite.json](https://github.com/hyj0824/scoop-bucket/blob/master/bucket/mingw-lite.json)
+* [mingw-hentai.json](https://github.com/hyj0824/scoop-bucket/blob/master/bucket/mingw-hentai.json)

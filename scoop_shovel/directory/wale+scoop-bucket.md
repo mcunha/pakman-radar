@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [qgis.json](https://github.com/wale/scoop-bucket/blob/master/bucket/qgis.json)
 * [postgis.json](https://github.com/wale/scoop-bucket/blob/master/bucket/postgis.json)
+* [qgis.json](https://github.com/wale/scoop-bucket/blob/master/bucket/qgis.json)

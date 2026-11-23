@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [dirx.json](https://github.com/rpinolf/RPF-bucket/blob/master/bucket/dirx.json)
 * [debugviewpp.json](https://github.com/rpinolf/RPF-bucket/blob/master/bucket/debugviewpp.json)
+* [dirx.json](https://github.com/rpinolf/RPF-bucket/blob/master/bucket/dirx.json)
