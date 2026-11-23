@@ -54,6 +54,14 @@ These repositories are actively maintained and feature a high percentage of **un
 
 
 
+## 🔥 Trending
+These active repositories are rapidly climbing the ranks due to recent, high-quality updates and growing recipe counts!
+
+| Repository | Rank Change | Current Rank | Recipes | Score | Auto-Update |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **[michidk/choco](directory/michidk+choco.md)** | 📈 +1 | 🏆 #32 | 📦 6 | ⭐ 1.0 | 🔄 100% |
+
+
 
 
 
@@ -98,8 +106,8 @@ A combined list of every source discovered in the ecosystem.
 | **[erwinkersten/chocolatey-packages](directory/erwinkersten+chocolatey-packages.md)** | 📦 7 | ⭐ 1.0 | 🔄 100% |  |
 | **[kai2nenobu/chocolatey-packages](directory/kai2nenobu+chocolatey-packages.md)** | 📦 7 | ⭐ 1.0 | 🔄 100% |  |
 | **[pact-foundation/choco](directory/pact-foundation+choco.md)** | 📦 7 | ⭐ 1.0 | 🔄 0% |  |
-| **[w0/au-packages](directory/w0+au-packages.md)** | 📦 6 | ⭐ 1.0 | 🔄 100% |  |
 | **[michidk/choco](directory/michidk+choco.md)** | 📦 6 | ⭐ 1.0 | 🔄 100% |  |
+| **[w0/au-packages](directory/w0+au-packages.md)** | 📦 6 | ⭐ 1.0 | 🔄 100% |  |
 | **[robertZaufall/chocolatey-packages](directory/robertZaufall+chocolatey-packages.md)** | 📦 5 | ⭐ 1.0 | 🔄 60% |  |
 | **[darinegan/chocolatey-packages](directory/darinegan+chocolatey-packages.md)** | 📦 4 | ⭐ 1.0 | 🔄 100% |  |
 | **[swissgrc/chocolatey-packages](directory/swissgrc+chocolatey-packages.md)** | 📦 4 | ⭐ 1.0 | 🔄 100% |  |
@@ -107,11 +115,14 @@ A combined list of every source discovered in the ecosystem.
 | **[AJDurant/choco-packages](directory/AJDurant+choco-packages.md)** | 📦 3 | ⭐ 1.0 | 🔄 100% |  |
 | **[welpo/chocolatey-packages](directory/welpo+chocolatey-packages.md)** | 📦 3 | ⭐ 1.0 | 🔄 0% |  |
 | **[mlt/chocolatey-packages](directory/mlt+chocolatey-packages.md)** | 📦 3 | ⭐ 1.0 | 🔄 100% |  |
+| **[streamlink/streamlink-twitch-gui-chocolatey](directory/streamlink+streamlink-twitch-gui-chocolatey.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
 | **[DrFaust92/chocolatey-packages](directory/DrFaust92+chocolatey-packages.md)** | 📦 3 | ⭐ 1.0 | 🔄 0% |  |
 | **[tricktux/choco-neovim](directory/tricktux+choco-neovim.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
-| **[streamlink/streamlink-twitch-gui-chocolatey](directory/streamlink+streamlink-twitch-gui-chocolatey.md)** | 📦 2 | ⭐ 1.0 | 🔄 0% |  |
 | **[rstudio/tinytex-releases](directory/rstudio+tinytex-releases.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[open-circle-ltd/chocolatey.microsoft-office-deployment](directory/open-circle-ltd+chocolatey.microsoft-office-deployment.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[jufab/jenkins-x-chocolatey](directory/jufab+jenkins-x-chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[streamlink/streamlink-chocolatey](directory/streamlink+streamlink-chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
+| **[LogtalkDotOrg/chocolatey-packages](directory/LogtalkDotOrg+chocolatey-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[willjasen/chocolatey-duo-auth-proxy](directory/willjasen+chocolatey-duo-auth-proxy.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[brogers5/chocolatey-package-en-croissant](directory/brogers5+chocolatey-package-en-croissant.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[Mateleo/helium-chocolatey](directory/Mateleo+helium-chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
@@ -121,11 +132,9 @@ A combined list of every source discovered in the ecosystem.
 | **[brogers5/chocolatey-package-sandisk-dashboard](directory/brogers5+chocolatey-package-sandisk-dashboard.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[schlotter/choco-packages](directory/schlotter+choco-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[scowalt/chocolatey-packages](directory/scowalt+chocolatey-packages.md)** | 📦 4 | ⭐ 1.0 | 🔄 25% |  |
-| **[streamlink/streamlink-chocolatey](directory/streamlink+streamlink-chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[leejongyoung/egovframe-chocolatey](directory/leejongyoung+egovframe-chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[open-circle-ltd/chocolatey.microsoft-office-deployment](directory/open-circle-ltd+chocolatey.microsoft-office-deployment.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
-| **[sacloud/chocolatey-docker-machine-sakuracloud](directory/sacloud+chocolatey-docker-machine-sakuracloud.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[brogers5/chocolatey-package-xsplit-broadcaster](directory/brogers5+chocolatey-package-xsplit-broadcaster.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
+| **[sacloud/chocolatey-docker-machine-sakuracloud](directory/sacloud+chocolatey-docker-machine-sakuracloud.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[brogers5/chocolatey-package-openrgb](directory/brogers5+chocolatey-package-openrgb.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-openrgb.install](directory/brogers5+chocolatey-package-openrgb.install.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-openrgb.portable](directory/brogers5+chocolatey-package-openrgb.portable.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
@@ -138,7 +147,6 @@ A combined list of every source discovered in the ecosystem.
 | **[jufab/skaffold-chocolatey](directory/jufab+skaffold-chocolatey.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[brogers5/chocolatey-package-localsend.install](directory/brogers5+chocolatey-package-localsend.install.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-localsend.portable](directory/brogers5+chocolatey-package-localsend.portable.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
-| **[LogtalkDotOrg/chocolatey-packages](directory/LogtalkDotOrg+chocolatey-packages.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[open-circle-ltd/chocolatey.archi](directory/open-circle-ltd+chocolatey.archi.md)** | 📦 1 | ⭐ 1.0 | 🔄 0% |  |
 | **[brogers5/chocolatey-package-twinkle-tray](directory/brogers5+chocolatey-package-twinkle-tray.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
 | **[brogers5/chocolatey-package-controlmymonitor](directory/brogers5+chocolatey-package-controlmymonitor.md)** | 📦 1 | ⭐ 1.0 | 🔄 100% |  |
@@ -297,15 +305,15 @@ A combined list of every source discovered in the ecosystem.
 </details>
 
 # 🛠️ Operational Health (Crawler Metrics)
-* **Total Crawler Runs**: 2481
-* **Total Repo Updates**: 148825
+* **Total Crawler Runs**: 2482
+* **Total Repo Updates**: 148896
 * **Ecosystem Growth (Since Last Run)**:
   * 🪣 +0 Repositories
   * 📦 +0 Recipes
-* **Eviction Count**: 🗑️ 89
+* **Eviction Count**: 🗑️ 91
 * **API Rate Limit Retries**: ⏳ 2
 * **Cache Size**: 💾 0.85 MB
 * **Pipeline Times (Last Run)**:
-  * 🔍 Discovery: 0.21s
-  * 📥 Update: 4.02s
-* **Cumulative Compute Time**: 146.8 minutes
+  * 🔍 Discovery: 3.44s
+  * 📥 Update: 2.06s
+* **Cumulative Compute Time**: 146.9 minutes

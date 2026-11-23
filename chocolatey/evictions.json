@@ -1,18 +1,6 @@
 {
   "evictions": [
     {
-      "full_name": "caixiaomao/scoop-bucket",
-      "evicted_at": "2026-08-24T23:41:30Z"
-    },
-    {
-      "full_name": "LetUsFlow/YASB",
-      "evicted_at": "2026-08-24T23:41:34Z"
-    },
-    {
-      "full_name": "nfi5h/fi5h-bucket",
-      "evicted_at": "2026-08-24T23:41:36Z"
-    },
-    {
       "full_name": "haunt98/scoop-bucket",
       "evicted_at": "2026-08-27T23:51:10Z"
     },
@@ -171,25 +159,33 @@
     {
       "full_name": "bemlerlabs/scoop-bucket",
       "evicted_at": "2026-11-22T07:00:00Z"
+    },
+    {
+      "full_name": "ThePoultryMan/Coals-Bucket",
+      "evicted_at": "2026-11-23T02:53:49Z"
+    },
+    {
+      "full_name": "bookiu/scoop-bucket",
+      "evicted_at": "2026-11-23T02:53:51Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-11-22T21:59:21Z",
-    "count": 43,
+    "generated_at": "2026-11-23T02:54:07Z",
+    "count": 42,
     "global_metrics": {
-      "total_runs": 2481,
-      "total_run_time_seconds": 8810.314588069916,
-      "total_repo_updates": 148825,
+      "total_runs": 2482,
+      "total_run_time_seconds": 8815.839231014252,
+      "total_repo_updates": 148896,
       "previous_total_buckets": 226,
       "previous_total_recipes": 3327,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
-      "total_evictions": 89,
+      "total_evictions": 91,
       "total_api_retries": 2,
-      "last_run_discover_time": 0.2079625129699707,
-      "last_run_update_time": 4.017726898193359,
+      "last_run_discover_time": 3.438791513442993,
+      "last_run_update_time": 2.055769205093384,
       "ecosystem_reliability": 100.0,
-      "cache_size_mb": 0.8503923416137695,
+      "cache_size_mb": 0.8501882553100586,
       "total_unique_recipes": 2930,
       "auto_update_percentage": 36.01,
       "official_recipes": 481,

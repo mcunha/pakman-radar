@@ -11,5 +11,5 @@
 * [modrinth-app.json](https://github.com/Bobrokus/grain/blob/master/bucket/modrinth-app.json)
 * [zen-browser.json](https://github.com/Bobrokus/grain/blob/master/bucket/zen-browser.json)
 * [micaforeveryone.json](https://github.com/Bobrokus/grain/blob/master/bucket/micaforeveryone.json)
-* [rawaccel.json](https://github.com/Bobrokus/grain/blob/master/bucket/rawaccel.json)
 * [bloxstrap.json](https://github.com/Bobrokus/grain/blob/master/bucket/bloxstrap.json)
+* [rawaccel.json](https://github.com/Bobrokus/grain/blob/master/bucket/rawaccel.json)

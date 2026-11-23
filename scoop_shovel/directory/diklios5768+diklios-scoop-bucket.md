@@ -9,9 +9,9 @@
 
 ## 📦 Recipes (7)
 * [jiduscan.json](https://github.com/diklios5768/diklios-scoop-bucket/blob/main/bucket/jiduscan.json)
-* [chiner.json](https://github.com/diklios5768/diklios-scoop-bucket/blob/main/bucket/chiner.json)
-* [coodesker.json](https://github.com/diklios5768/diklios-scoop-bucket/blob/main/bucket/coodesker.json)
 * [scoop-backup-knox.json](https://github.com/diklios5768/diklios-scoop-bucket/blob/main/bucket/scoop-backup-knox.json)
-* [velocity.json](https://github.com/diklios5768/diklios-scoop-bucket/blob/main/bucket/velocity.json)
-* [deskgo.json](https://github.com/diklios5768/diklios-scoop-bucket/blob/main/bucket/deskgo.json)
 * [scoop-backup.json](https://github.com/diklios5768/diklios-scoop-bucket/blob/main/bucket/scoop-backup.json)
+* [coodesker.json](https://github.com/diklios5768/diklios-scoop-bucket/blob/main/bucket/coodesker.json)
+* [velocity.json](https://github.com/diklios5768/diklios-scoop-bucket/blob/main/bucket/velocity.json)
+* [chiner.json](https://github.com/diklios5768/diklios-scoop-bucket/blob/main/bucket/chiner.json)
+* [deskgo.json](https://github.com/diklios5768/diklios-scoop-bucket/blob/main/bucket/deskgo.json)

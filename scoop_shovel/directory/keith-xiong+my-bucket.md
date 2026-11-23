@@ -8,11 +8,11 @@
 
 
 ## 📦 Recipes (8)
-* [wechat.json](https://github.com/keith-xiong/my-bucket/blob/master/bucket/wechat.json)
-* [pester.json](https://github.com/keith-xiong/my-bucket/blob/master/bucket/pester.json)
 * [scoop-completion.json](https://github.com/keith-xiong/my-bucket/blob/master/bucket/scoop-completion.json)
+* [pester.json](https://github.com/keith-xiong/my-bucket/blob/master/bucket/pester.json)
 * [nvs.json](https://github.com/keith-xiong/my-bucket/blob/master/bucket/nvs.json)
+* [bypass.json](https://github.com/keith-xiong/my-bucket/blob/master/bucket/bypass.json)
 * [everything.json](https://github.com/keith-xiong/my-bucket/blob/master/bucket/everything.json)
 * [cascadia-pl.json](https://github.com/keith-xiong/my-bucket/blob/master/bucket/cascadia-pl.json)
 * [utools.json](https://github.com/keith-xiong/my-bucket/blob/master/bucket/utools.json)
-* [bypass.json](https://github.com/keith-xiong/my-bucket/blob/master/bucket/bypass.json)
+* [wechat.json](https://github.com/keith-xiong/my-bucket/blob/master/bucket/wechat.json)

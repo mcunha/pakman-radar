@@ -1,18 +1,6 @@
 {
   "evictions": [
     {
-      "full_name": "caixiaomao/scoop-bucket",
-      "evicted_at": "2026-08-24T23:41:30Z"
-    },
-    {
-      "full_name": "LetUsFlow/YASB",
-      "evicted_at": "2026-08-24T23:41:34Z"
-    },
-    {
-      "full_name": "nfi5h/fi5h-bucket",
-      "evicted_at": "2026-08-24T23:41:36Z"
-    },
-    {
       "full_name": "haunt98/scoop-bucket",
       "evicted_at": "2026-08-27T23:51:10Z"
     },
@@ -167,30 +155,38 @@
     {
       "full_name": "bemlerlabs/scoop-bucket",
       "evicted_at": "2026-11-22T07:00:00Z"
+    },
+    {
+      "full_name": "ThePoultryMan/Coals-Bucket",
+      "evicted_at": "2026-11-23T02:53:49Z"
+    },
+    {
+      "full_name": "bookiu/scoop-bucket",
+      "evicted_at": "2026-11-23T02:53:51Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-11-22T21:59:16Z",
-    "count": 42,
+    "generated_at": "2026-11-23T02:54:01Z",
+    "count": 41,
     "global_metrics": {
-      "total_runs": 2481,
-      "total_run_time_seconds": 355660.38778829575,
-      "total_repo_updates": 167600,
+      "total_runs": 2482,
+      "total_run_time_seconds": 355713.1972897053,
+      "total_repo_updates": 167979,
       "previous_total_buckets": 1980,
-      "previous_total_recipes": 144999,
-      "bucket_velocity": 1,
-      "recipe_velocity": 1,
-      "total_evictions": 86,
+      "previous_total_recipes": 144987,
+      "bucket_velocity": 0,
+      "recipe_velocity": -12,
+      "total_evictions": 88,
       "total_api_retries": 2,
-      "last_run_discover_time": 3.0648720264434814,
-      "last_run_update_time": 390.95292925834656,
-      "ecosystem_reliability": 88.4,
-      "cache_size_mb": 11.19800853729248,
-      "total_unique_recipes": 33371,
+      "last_run_discover_time": 3.287245273590088,
+      "last_run_update_time": 48.66683650016785,
+      "ecosystem_reliability": 88.9,
+      "cache_size_mb": 11.197787284851074,
+      "total_unique_recipes": 33373,
       "auto_update_percentage": 85.54,
-      "official_recipes": 65245,
-      "community_recipes": 79754,
-      "stale_buckets": 512,
+      "official_recipes": 65239,
+      "community_recipes": 79748,
+      "stale_buckets": 510,
       "shovel_buckets": 25,
       "scoop_buckets": 1955
     }

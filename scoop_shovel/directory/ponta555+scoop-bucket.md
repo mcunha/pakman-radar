@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [strokeplus.json](https://github.com/ponta555/scoop-bucket/blob/master/bucket/strokeplus.json)
 * [aida64.json](https://github.com/ponta555/scoop-bucket/blob/master/bucket/aida64.json)
+* [strokeplus.json](https://github.com/ponta555/scoop-bucket/blob/master/bucket/strokeplus.json)

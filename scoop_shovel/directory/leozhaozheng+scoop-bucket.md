@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [textus.json](https://github.com/leozhaozheng/scoop-bucket/blob/master/bucket/textus.json)
 * [winshun.json](https://github.com/leozhaozheng/scoop-bucket/blob/master/bucket/winshun.json)
+* [textus.json](https://github.com/leozhaozheng/scoop-bucket/blob/master/bucket/textus.json)

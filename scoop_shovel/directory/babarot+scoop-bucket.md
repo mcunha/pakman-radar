@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [gomi.json](https://github.com/babarot/scoop-bucket/blob/main/bucket/gomi.json)
 * [naminator.json](https://github.com/babarot/scoop-bucket/blob/main/bucket/naminator.json)
+* [gomi.json](https://github.com/babarot/scoop-bucket/blob/main/bucket/gomi.json)

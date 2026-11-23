@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [hash.nuspec](https://github.com/ynlamy/chocolatey-packages/blob/main/hash/hash.nuspec)
 * [wol.nuspec](https://github.com/ynlamy/chocolatey-packages/blob/main/wol/wol.nuspec)
+* [hash.nuspec](https://github.com/ynlamy/chocolatey-packages/blob/main/hash/hash.nuspec)

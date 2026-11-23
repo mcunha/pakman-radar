@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [qtox.json](https://github.com/Inari-Whitebear/scoopBucket/blob/master/qtox.json)
 * [betterJoyForCemu.json](https://github.com/Inari-Whitebear/scoopBucket/blob/master/betterJoyForCemu.json)
+* [qtox.json](https://github.com/Inari-Whitebear/scoopBucket/blob/master/qtox.json)
