@@ -1400,7 +1400,7 @@
         "chocolatey-packages"
       ],
       "last_checked": "2026-06-03T06:05:10Z",
-      "pushed_at": "2026-11-22T00:09:39Z",
+      "pushed_at": "2026-11-24T16:10:18Z",
       "archived": false,
       "disabled": false,
       "entries": [
@@ -1456,27 +1456,27 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-11-24T11:03:00Z",
+    "generated_at": "2026-11-24T21:19:50Z",
     "count": 10,
     "global_metrics": {
-      "total_runs": 2485,
-      "total_run_time_seconds": 8832.681147575378,
-      "total_repo_updates": 149072,
+      "total_runs": 2486,
+      "total_run_time_seconds": 8835.128132104874,
+      "total_repo_updates": 149131,
       "previous_total_buckets": 226,
       "previous_total_recipes": 3327,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
       "total_evictions": 91,
       "total_api_retries": 2,
-      "last_run_discover_time": 0.21628117561340332,
-      "last_run_update_time": 2.3966481685638428,
+      "last_run_discover_time": 0.6195423603057861,
+      "last_run_update_time": 1.7996253967285156,
       "ecosystem_reliability": 100.0,
-      "cache_size_mb": 0.8501996994018555,
+      "cache_size_mb": 0.8501968383789062,
       "total_unique_recipes": 2930,
       "auto_update_percentage": 36.01,
       "official_recipes": 481,
       "community_recipes": 2846,
-      "stale_buckets": 125,
+      "stale_buckets": 126,
       "shovel_buckets": 0,
       "scoop_buckets": 226
     }

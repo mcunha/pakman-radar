@@ -9,5 +9,5 @@
 
 ## 📦 Recipes (3)
 * [g-helper.json](https://github.com/br4ndol/scoop/blob/master/bucket/g-helper.json)
-* [winscript.json](https://github.com/br4ndol/scoop/blob/master/bucket/winscript.json)
 * [froststrap.json](https://github.com/br4ndol/scoop/blob/master/bucket/froststrap.json)
+* [winscript.json](https://github.com/br4ndol/scoop/blob/master/bucket/winscript.json)

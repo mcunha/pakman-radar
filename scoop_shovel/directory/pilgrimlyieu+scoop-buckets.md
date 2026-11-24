@@ -8,8 +8,8 @@
 
 
 ## 📦 Recipes (5)
+* [neovim.json](https://github.com/pilgrimlyieu/scoop-buckets/blob/main/bucket/neovim.json)
 * [neovide-nightly.json](https://github.com/pilgrimlyieu/scoop-buckets/blob/main/bucket/neovide-nightly.json)
-* [focust.json](https://github.com/pilgrimlyieu/scoop-buckets/blob/main/bucket/focust.json)
 * [neovim-nightly.json](https://github.com/pilgrimlyieu/scoop-buckets/blob/main/bucket/neovim-nightly.json)
 * [anki-latest.json](https://github.com/pilgrimlyieu/scoop-buckets/blob/main/bucket/anki-latest.json)
-* [neovim.json](https://github.com/pilgrimlyieu/scoop-buckets/blob/main/bucket/neovim.json)
+* [focust.json](https://github.com/pilgrimlyieu/scoop-buckets/blob/main/bucket/focust.json)
