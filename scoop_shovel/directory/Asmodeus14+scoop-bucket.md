@@ -1,0 +1,11 @@
+# Asmodeus14/scoop-bucket
+
+* **Repository:** [https://github.com/Asmodeus14/scoop-bucket](https://github.com/Asmodeus14/scoop-bucket)
+* **Score:** 1.0
+* **Auto-Update:** 100%
+
+
+
+
+## 📦 Recipes (1)
+* [chronostack.json](https://github.com/Asmodeus14/scoop-bucket/blob/main/bucket/chronostack.json)

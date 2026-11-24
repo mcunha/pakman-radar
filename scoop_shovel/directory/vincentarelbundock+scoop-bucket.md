@@ -8,7 +8,7 @@
 
 
 ## 📦 Recipes (4)
-* [dadrock.json](https://github.com/vincentarelbundock/scoop-bucket/blob/main/bucket/dadrock.json)
 * [librepaper.json](https://github.com/vincentarelbundock/scoop-bucket/blob/main/bucket/librepaper.json)
 * [dadrock-desktop.json](https://github.com/vincentarelbundock/scoop-bucket/blob/main/bucket/dadrock-desktop.json)
+* [dadrock.json](https://github.com/vincentarelbundock/scoop-bucket/blob/main/bucket/dadrock.json)
 * [calepin.json](https://github.com/vincentarelbundock/scoop-bucket/blob/main/bucket/calepin.json)
