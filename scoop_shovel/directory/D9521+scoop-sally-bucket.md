@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [rpg-vx-ace-rtp.json](https://github.com/D9521/scoop-sally-bucket/blob/main/bucket/rpg-vx-ace-rtp.json)
 * [sally.json](https://github.com/D9521/scoop-sally-bucket/blob/main/bucket/sally.json)
+* [rpg-vx-ace-rtp.json](https://github.com/D9521/scoop-sally-bucket/blob/main/bucket/rpg-vx-ace-rtp.json)

@@ -8,10 +8,10 @@
 
 
 ## 📦 Recipes (7)
-* [telegram.json](https://github.com/n24q02m/scoop-bucket/blob/main/bucket/telegram.json)
-* [email.json](https://github.com/n24q02m/scoop-bucket/blob/main/bucket/email.json)
 * [mnemo.json](https://github.com/n24q02m/scoop-bucket/blob/main/bucket/mnemo.json)
-* [wet.json](https://github.com/n24q02m/scoop-bucket/blob/main/bucket/wet.json)
-* [workspace.json](https://github.com/n24q02m/scoop-bucket/blob/main/bucket/workspace.json)
+* [email.json](https://github.com/n24q02m/scoop-bucket/blob/main/bucket/email.json)
 * [notion.json](https://github.com/n24q02m/scoop-bucket/blob/main/bucket/notion.json)
+* [workspace.json](https://github.com/n24q02m/scoop-bucket/blob/main/bucket/workspace.json)
+* [wet.json](https://github.com/n24q02m/scoop-bucket/blob/main/bucket/wet.json)
 * [crg.json](https://github.com/n24q02m/scoop-bucket/blob/main/bucket/crg.json)
+* [telegram.json](https://github.com/n24q02m/scoop-bucket/blob/main/bucket/telegram.json)
