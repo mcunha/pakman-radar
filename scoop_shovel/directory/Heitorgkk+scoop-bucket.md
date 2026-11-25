@@ -8,10 +8,10 @@
 
 
 ## 📦 Recipes (7)
-* [claude-extensions.json](https://github.com/Heitorgkk/scoop-bucket/blob/main/bucket/claude-extensions.json)
-* [all.json](https://github.com/Heitorgkk/scoop-bucket/blob/main/bucket/all.json)
-* [terminal.json](https://github.com/Heitorgkk/scoop-bucket/blob/main/bucket/terminal.json)
+* [claude-tools.json](https://github.com/Heitorgkk/scoop-bucket/blob/main/bucket/claude-tools.json)
 * [ai.json](https://github.com/Heitorgkk/scoop-bucket/blob/main/bucket/ai.json)
+* [all.json](https://github.com/Heitorgkk/scoop-bucket/blob/main/bucket/all.json)
 * [main.json](https://github.com/Heitorgkk/scoop-bucket/blob/main/bucket/main.json)
 * [utilities.json](https://github.com/Heitorgkk/scoop-bucket/blob/main/bucket/utilities.json)
-* [claude-tools.json](https://github.com/Heitorgkk/scoop-bucket/blob/main/bucket/claude-tools.json)
+* [claude-extensions.json](https://github.com/Heitorgkk/scoop-bucket/blob/main/bucket/claude-extensions.json)
+* [terminal.json](https://github.com/Heitorgkk/scoop-bucket/blob/main/bucket/terminal.json)
