@@ -163,32 +163,36 @@
     {
       "full_name": "bookiu/scoop-bucket",
       "evicted_at": "2026-11-23T02:53:51Z"
+    },
+    {
+      "full_name": "lzh0394/bucket",
+      "evicted_at": "2026-11-25T23:41:27Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-11-25T14:32:44Z",
-    "count": 41,
+    "generated_at": "2026-11-25T23:41:40Z",
+    "count": 42,
     "global_metrics": {
-      "total_runs": 2488,
-      "total_run_time_seconds": 356157.85368418694,
-      "total_repo_updates": 168627,
-      "previous_total_buckets": 1991,
-      "previous_total_recipes": 144999,
-      "bucket_velocity": 0,
-      "recipe_velocity": 0,
-      "total_evictions": 88,
+      "total_runs": 2489,
+      "total_run_time_seconds": 356175.1140294075,
+      "total_repo_updates": 168718,
+      "previous_total_buckets": 1990,
+      "previous_total_recipes": 144998,
+      "bucket_velocity": -1,
+      "recipe_velocity": -1,
+      "total_evictions": 89,
       "total_api_retries": 2,
-      "last_run_discover_time": 1.8136708736419678,
-      "last_run_update_time": 80.64976453781128,
-      "ecosystem_reliability": 89.0,
-      "cache_size_mb": 11.201519012451172,
+      "last_run_discover_time": 0.31967711448669434,
+      "last_run_update_time": 16.10751700401306,
+      "ecosystem_reliability": 88.9,
+      "cache_size_mb": 11.200848579406738,
       "total_unique_recipes": 33382,
       "auto_update_percentage": 85.54,
       "official_recipes": 65239,
-      "community_recipes": 79760,
+      "community_recipes": 79759,
       "stale_buckets": 513,
       "shovel_buckets": 25,
-      "scoop_buckets": 1966
+      "scoop_buckets": 1965
     }
   }
 }

@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [cli.json](https://github.com/entireio/scoop-bucket/blob/main/bucket/cli.json)
 * [entire.json](https://github.com/entireio/scoop-bucket/blob/main/bucket/entire.json)
+* [cli.json](https://github.com/entireio/scoop-bucket/blob/main/bucket/cli.json)
