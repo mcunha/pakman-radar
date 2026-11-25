@@ -8,12 +8,12 @@
 
 
 ## 📦 Recipes (9)
-* [fish_reader.json](https://github.com/haukuen/endless/blob/master/bucket/fish_reader.json)
-* [Game-Cheats-Manager.json](https://github.com/haukuen/endless/blob/master/bucket/Game-Cheats-Manager.json)
-* [kaf-cli.json](https://github.com/haukuen/endless/blob/master/bucket/kaf-cli.json)
-* [taierspeed-cli.json](https://github.com/haukuen/endless/blob/master/bucket/taierspeed-cli.json)
 * [cloudflare-speedtest.json](https://github.com/haukuen/endless/blob/master/bucket/cloudflare-speedtest.json)
 * [kd.json](https://github.com/haukuen/endless/blob/master/bucket/kd.json)
-* [venera.json](https://github.com/haukuen/endless/blob/master/bucket/venera.json)
+* [Game-Cheats-Manager.json](https://github.com/haukuen/endless/blob/master/bucket/Game-Cheats-Manager.json)
 * [Polymerium.json](https://github.com/haukuen/endless/blob/master/bucket/Polymerium.json)
 * [go-musicfox.json](https://github.com/haukuen/endless/blob/master/bucket/go-musicfox.json)
+* [fish_reader.json](https://github.com/haukuen/endless/blob/master/bucket/fish_reader.json)
+* [kaf-cli.json](https://github.com/haukuen/endless/blob/master/bucket/kaf-cli.json)
+* [taierspeed-cli.json](https://github.com/haukuen/endless/blob/master/bucket/taierspeed-cli.json)
+* [venera.json](https://github.com/haukuen/endless/blob/master/bucket/venera.json)

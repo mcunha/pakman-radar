@@ -8,7 +8,7 @@
 
 
 ## 📦 Recipes (4)
-* [devpod.json](https://github.com/schnow265/scoopet/blob/master/bucket/devpod.json)
 * [err.json](https://github.com/schnow265/scoopet/blob/master/bucket/err.json)
-* [opencode.json](https://github.com/schnow265/scoopet/blob/master/bucket/opencode.json)
 * [iamb.json](https://github.com/schnow265/scoopet/blob/master/bucket/iamb.json)
+* [devpod.json](https://github.com/schnow265/scoopet/blob/master/bucket/devpod.json)
+* [opencode.json](https://github.com/schnow265/scoopet/blob/master/bucket/opencode.json)
