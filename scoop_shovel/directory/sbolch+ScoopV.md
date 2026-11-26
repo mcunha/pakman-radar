@@ -8,5 +8,5 @@
 
 
 ## 📦 Recipes (2)
-* [v.json](https://github.com/sbolch/ScoopV/blob/master/bucket/v.json)
 * [v-weekly.json](https://github.com/sbolch/ScoopV/blob/master/bucket/v-weekly.json)
+* [v.json](https://github.com/sbolch/ScoopV/blob/master/bucket/v.json)

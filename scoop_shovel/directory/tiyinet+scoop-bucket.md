@@ -9,7 +9,7 @@
 
 ## 📦 Recipes (5)
 * [mengchong.json](https://github.com/tiyinet/scoop-bucket/blob/main/bucket/mengchong.json)
-* [mengchongboss.json](https://github.com/tiyinet/scoop-bucket/blob/main/bucket/mengchongboss.json)
-* [geobaping.json](https://github.com/tiyinet/scoop-bucket/blob/main/bucket/geobaping.json)
-* [yaduohotel.json](https://github.com/tiyinet/scoop-bucket/blob/main/bucket/yaduohotel.json)
 * [mengchongcz.json](https://github.com/tiyinet/scoop-bucket/blob/main/bucket/mengchongcz.json)
+* [mengchongboss.json](https://github.com/tiyinet/scoop-bucket/blob/main/bucket/mengchongboss.json)
+* [yaduohotel.json](https://github.com/tiyinet/scoop-bucket/blob/main/bucket/yaduohotel.json)
+* [geobaping.json](https://github.com/tiyinet/scoop-bucket/blob/main/bucket/geobaping.json)
