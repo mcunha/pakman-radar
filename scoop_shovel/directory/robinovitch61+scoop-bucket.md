@@ -8,9 +8,9 @@
 
 
 ## 📦 Recipes (6)
-* [wander.json](https://github.com/robinovitch61/scoop-bucket/blob/master/bucket/wander.json)
+* [webtoon-dl.json](https://github.com/robinovitch61/scoop-bucket/blob/master/bucket/webtoon-dl.json)
+* [lore.json](https://github.com/robinovitch61/scoop-bucket/blob/master/bucket/lore.json)
 * [jeeves.json](https://github.com/robinovitch61/scoop-bucket/blob/master/bucket/jeeves.json)
+* [wander.json](https://github.com/robinovitch61/scoop-bucket/blob/master/bucket/wander.json)
 * [kl.json](https://github.com/robinovitch61/scoop-bucket/blob/master/bucket/kl.json)
 * [goreleaser-testing.json](https://github.com/robinovitch61/scoop-bucket/blob/master/bucket/goreleaser-testing.json)
-* [lore.json](https://github.com/robinovitch61/scoop-bucket/blob/master/bucket/lore.json)
-* [webtoon-dl.json](https://github.com/robinovitch61/scoop-bucket/blob/master/bucket/webtoon-dl.json)
