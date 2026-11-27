@@ -9,9 +9,9 @@
 
 ## 📦 Recipes (7)
 * [pomatez-tauri-beta.json](https://github.com/inertia42/chamber/blob/master/bucket/pomatez-tauri-beta.json)
-* [neteasemusic.json](https://github.com/inertia42/chamber/blob/master/bucket/neteasemusic.json)
-* [zotero7.json](https://github.com/inertia42/chamber/blob/master/bucket/zotero7.json)
-* [pixpin.json](https://github.com/inertia42/chamber/blob/master/bucket/pixpin.json)
 * [SyncClipboard.json](https://github.com/inertia42/chamber/blob/master/bucket/SyncClipboard.json)
-* [deepchat.json](https://github.com/inertia42/chamber/blob/master/bucket/deepchat.json)
 * [Cursor.json](https://github.com/inertia42/chamber/blob/master/bucket/Cursor.json)
+* [neteasemusic.json](https://github.com/inertia42/chamber/blob/master/bucket/neteasemusic.json)
+* [deepchat.json](https://github.com/inertia42/chamber/blob/master/bucket/deepchat.json)
+* [pixpin.json](https://github.com/inertia42/chamber/blob/master/bucket/pixpin.json)
+* [zotero7.json](https://github.com/inertia42/chamber/blob/master/bucket/zotero7.json)

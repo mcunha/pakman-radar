@@ -167,25 +167,33 @@
     {
       "full_name": "lzh0394/bucket",
       "evicted_at": "2026-11-25T23:41:27Z"
+    },
+    {
+      "full_name": "Alukkart/scoop-bucket",
+      "evicted_at": "2026-11-27T02:16:51Z"
+    },
+    {
+      "full_name": "baurfm/scoop-bucket",
+      "evicted_at": "2026-11-27T02:16:52Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-11-26T19:07:04Z",
-    "count": 42,
+    "generated_at": "2026-11-27T02:17:05Z",
+    "count": 44,
     "global_metrics": {
-      "total_runs": 2491,
-      "total_run_time_seconds": 8846.758667469025,
-      "total_repo_updates": 149423,
+      "total_runs": 2492,
+      "total_run_time_seconds": 8851.979607582092,
+      "total_repo_updates": 149482,
       "previous_total_buckets": 226,
       "previous_total_recipes": 3327,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
-      "total_evictions": 92,
+      "total_evictions": 94,
       "total_api_retries": 2,
-      "last_run_discover_time": 0.19519758224487305,
-      "last_run_update_time": 1.9826633930206299,
+      "last_run_discover_time": 3.278135061264038,
+      "last_run_update_time": 1.9181263446807861,
       "ecosystem_reliability": 100.0,
-      "cache_size_mb": 0.8501968383789062,
+      "cache_size_mb": 0.8501911163330078,
       "total_unique_recipes": 2930,
       "auto_update_percentage": 36.01,
       "official_recipes": 481,
