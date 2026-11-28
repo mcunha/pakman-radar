@@ -9,6 +9,6 @@
 
 ## 📦 Recipes (4)
 * [kobe-unstable.json](https://github.com/kunobi-ninja/scoop-kunobi/blob/master/bucket/kobe-unstable.json)
-* [kache-unstable.json](https://github.com/kunobi-ninja/scoop-kunobi/blob/master/bucket/kache-unstable.json)
 * [kobe.json](https://github.com/kunobi-ninja/scoop-kunobi/blob/master/bucket/kobe.json)
+* [kache-unstable.json](https://github.com/kunobi-ninja/scoop-kunobi/blob/master/bucket/kache-unstable.json)
 * [kache.json](https://github.com/kunobi-ninja/scoop-kunobi/blob/master/bucket/kache.json)

@@ -175,23 +175,27 @@
     {
       "full_name": "baurfm/scoop-bucket",
       "evicted_at": "2026-11-27T02:16:52Z"
+    },
+    {
+      "full_name": "agentjp/scoop-bucket",
+      "evicted_at": "2026-11-28T02:46:26Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-11-27T20:01:31Z",
-    "count": 44,
+    "generated_at": "2026-11-28T02:49:20Z",
+    "count": 45,
     "global_metrics": {
-      "total_runs": 2494,
-      "total_run_time_seconds": 8859.29622554779,
-      "total_repo_updates": 149600,
+      "total_runs": 2495,
+      "total_run_time_seconds": 8864.202671051025,
+      "total_repo_updates": 149660,
       "previous_total_buckets": 226,
       "previous_total_recipes": 3327,
       "bucket_velocity": 0,
       "recipe_velocity": 0,
-      "total_evictions": 94,
+      "total_evictions": 95,
       "total_api_retries": 2,
-      "last_run_discover_time": 3.335827112197876,
-      "last_run_update_time": 1.9319725036621094,
+      "last_run_discover_time": 3.2564175128936768,
+      "last_run_update_time": 1.6207284927368164,
       "ecosystem_reliability": 100.0,
       "cache_size_mb": 0.8503198623657227,
       "total_unique_recipes": 2930,

@@ -171,32 +171,36 @@
     {
       "full_name": "baurfm/scoop-bucket",
       "evicted_at": "2026-11-27T02:16:52Z"
+    },
+    {
+      "full_name": "agentjp/scoop-bucket",
+      "evicted_at": "2026-11-28T02:46:26Z"
     }
   ],
   "metadata": {
-    "generated_at": "2026-11-27T20:01:25Z",
-    "count": 43,
+    "generated_at": "2026-11-28T02:49:15Z",
+    "count": 44,
     "global_metrics": {
-      "total_runs": 2494,
-      "total_run_time_seconds": 356315.0244410038,
-      "total_repo_updates": 169174,
-      "previous_total_buckets": 2001,
-      "previous_total_recipes": 145044,
-      "bucket_velocity": 6,
-      "recipe_velocity": 7,
-      "total_evictions": 91,
+      "total_runs": 2495,
+      "total_run_time_seconds": 356507.2852525711,
+      "total_repo_updates": 169271,
+      "previous_total_buckets": 2002,
+      "previous_total_recipes": 145045,
+      "bucket_velocity": 1,
+      "recipe_velocity": 1,
+      "total_evictions": 92,
       "total_api_retries": 2,
-      "last_run_discover_time": 4.445911169052124,
-      "last_run_update_time": 23.107990980148315,
-      "ecosystem_reliability": 88.7,
-      "cache_size_mb": 11.21376895904541,
-      "total_unique_recipes": 33413,
+      "last_run_discover_time": 2.936770439147949,
+      "last_run_update_time": 188.66358089447021,
+      "ecosystem_reliability": 88.8,
+      "cache_size_mb": 11.214323997497559,
+      "total_unique_recipes": 33414,
       "auto_update_percentage": 85.54,
       "official_recipes": 65247,
-      "community_recipes": 79797,
+      "community_recipes": 79798,
       "stale_buckets": 513,
       "shovel_buckets": 25,
-      "scoop_buckets": 1976
+      "scoop_buckets": 1977
     }
   }
 }
